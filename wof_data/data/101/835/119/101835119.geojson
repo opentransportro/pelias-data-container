@@ -1,0 +1,119 @@
+{
+  "id": 101835119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000126,
+    "geom:area_square_m":1075496.261329,
+    "geom:bbox":"25.7534455122,46.5247422568,25.7693703989,46.5362657414",
+    "geom:latitude":46.530954,
+    "geom:longitude":25.761347,
+    "gn:population":5407,
+    "iso:country":"RO",
+    "lbl:latitude":46.531448,
+    "lbl:longitude":25.759603,
+    "mps:latitude":46.531448,
+    "mps:longitude":25.759603,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "C\u00e2r\u021ba"
+    ],
+    "name:eng_x_preferred":[
+        "C\u00e2r\u021ba"
+    ],
+    "name:epo_x_preferred":[
+        "C\u00e2r\u021ba"
+    ],
+    "name:fre_x_preferred":[
+        "C\u00e2r\u021ba"
+    ],
+    "name:hun_x_preferred":[
+        "Karcfalva"
+    ],
+    "name:ita_x_preferred":[
+        "C\u00e2r\u021ba"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30eb\u30c4\u30d5\u30a1\u30eb\u30f4\u30a1\u6751\u307e\u305f\u306f\u30ab\u30eb\u30c4\u6751"
+    ],
+    "name:may_x_preferred":[
+        "C\u00e2r\u021ba"
+    ],
+    "name:por_x_preferred":[
+        "C\u00e2r\u021ba"
+    ],
+    "name:rum_x_preferred":[
+        "C\u00e2r\u021ba"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0438\u0440\u0446\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Karcfalva"
+    ],
+    "name:vie_x_preferred":[
+        "C\u00e2rta"
+    ],
+    "name:vol_x_preferred":[
+        "C\u00e2r\u021ba"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Harghita",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"S\u00e2ndominic",
+    "qs:la_lc":"*RO32085760",
+    "qs:level":"locality",
+    "qs:loc":"C\u00e2r\u0163a",
+    "qs:loc_alt":"Carta",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":681523,
+        "gp:id":869730,
+        "qs:id":1319329,
+        "wd:id":"Q1093083"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"cb058023a8fd76139db7551b67ee7140",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101835119,
+            "region_id":85687733
+        }
+    ],
+    "wof:id":101835119,
+    "wof:lastmodified":1514499890,
+    "wof:name":"C\u00e2r\u0163a",
+    "wof:parent_id":85687733,
+    "wof:placetype":"locality",
+    "wof:population":5407,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.75344551217825,
+    46.52474225676826,
+    25.76937039888287,
+    46.53626574135222
+],
+  "geometry": {"coordinates":[[[25.76834648160104,46.53474057498676],[25.76809126118559,46.53389592280496],[25.76937039888287,46.53370566252971],[25.76804502351376,46.52931909676039],[25.76932405390858,46.52912883946408],[25.76799886140032,46.52474225676826],[25.76671993007506,46.52493249590202],[25.76724993362399,46.52668714045615],[25.76597095446425,46.52687737166895],[25.76623595333655,46.52775469547299],[25.76239890716045,46.52832530889333],[25.76213396773448,46.52744797419399],[25.76085495574341,46.52763814466397],[25.76010101315666,46.52514091563739],[25.75488870303002,46.52558209490633],[25.75600366605721,46.5292760275326],[25.75344551217825,46.52965620867997],[25.75529943259806,46.53579769021377],[25.7565786523993,46.53560758182164],[25.75677738965419,46.53626574135222],[25.76834648160104,46.53474057498676]]],"type":"Polygon"}
+}

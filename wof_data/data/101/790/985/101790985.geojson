@@ -1,0 +1,119 @@
+{
+  "id": 101790985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000073,
+    "geom:area_square_m":628512.858456,
+    "geom:bbox":"23.8249420306,45.7948379727,23.8540921807,45.8050724321",
+    "geom:latitude":45.801171,
+    "geom:longitude":23.839959,
+    "gn:population":1656,
+    "iso:country":"RO",
+    "lbl:latitude":45.801497,
+    "lbl:longitude":23.83996,
+    "mps:latitude":45.801497,
+    "mps:longitude":23.83996,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Tili\u0219ca"
+    ],
+    "name:eng_x_preferred":[
+        "Tili\u0219ca"
+    ],
+    "name:epo_x_preferred":[
+        "Tili\u0219ca"
+    ],
+    "name:fre_x_preferred":[
+        "Tili\u0219ca"
+    ],
+    "name:ger_x_preferred":[
+        "Tili\u0219ca"
+    ],
+    "name:hun_x_preferred":[
+        "Tilicske"
+    ],
+    "name:ita_x_preferred":[
+        "Tili\u0219ca"
+    ],
+    "name:may_x_preferred":[
+        "Tili\u0219ca"
+    ],
+    "name:por_x_preferred":[
+        "Tili\u0219ca"
+    ],
+    "name:rum_x_preferred":[
+        "Tili\u0219ca"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0456\u043b\u0456\u0448\u043a\u0430"
+    ],
+    "name:vie_x_preferred":[
+        "Tilisca"
+    ],
+    "name:vol_x_preferred":[
+        "Tili\u0219ca"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Sibiu",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Tili\u015fca",
+    "qs:la_lc":"*RO45145907",
+    "qs:level":"locality",
+    "qs:loc":"Tili\u015fca",
+    "qs:loc_alt":"Tilisca",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":665101,
+        "gp:id":881794,
+        "qs:id":126831,
+        "qs_pg:id":126831,
+        "wd:id":"Q1077568"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"0d851c4189d2216d0b8401bd8e85284f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101790985,
+            "region_id":85687687
+        }
+    ],
+    "wof:id":101790985,
+    "wof:lastmodified":1514500195,
+    "wof:name":"Tili\u015fca",
+    "wof:parent_id":85687687,
+    "wof:placetype":"locality",
+    "wof:population":1656,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.82494203060287,
+    45.79483797271729,
+    23.85409218067633,
+    45.80507243205352
+],
+  "geometry": {"coordinates":[[[23.8266649977258,45.80507243205352],[23.84060718909575,45.80323815767008],[23.84083516569797,45.80412130481824],[23.84210261543228,45.80395445890599],[23.84141865561298,45.80130502322328],[23.84395341642971,45.80097130494732],[23.84372540981968,45.80008816356064],[23.84752743987951,45.79958748237397],[23.84798358043275,45.80135374510115],[23.85178566541811,45.80085290926189],[23.85155753147666,45.79996978792423],[23.85409218067633,45.79963582818829],[23.85386401712606,45.79875271191179],[23.85006209170876,45.79925361946118],[23.84892171252795,45.79483797271729],[23.84765448817654,45.7950048960268],[23.84811057175847,45.79677116465484],[23.84684330120422,45.79693807915078],[23.84707133780944,45.79782121477621],[23.84326942545511,45.79832187713561],[23.84349741282841,45.79920502095678],[23.83842802026084,45.79987237204404],[23.83865593877442,45.80075552719643],[23.82978409605244,45.80192283251461],[23.83001188682283,45.8028060084003],[23.82494203060287,45.80347272050841],[23.82516975248046,45.80435590771623],[23.8264372466129,45.80418924919508],[23.8266649977258,45.80507243205352]]],"type":"Polygon"}
+}

@@ -1,0 +1,119 @@
+{
+  "id": 101792677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000078,
+    "geom:area_square_m":678504.898618,
+    "geom:bbox":"22.3055836451,45.1944467072,22.3145859014,45.2129336228",
+    "geom:latitude":45.204806,
+    "geom:longitude":22.310321,
+    "gn:population":2613,
+    "iso:country":"RO",
+    "lbl:latitude":45.209489,
+    "lbl:longitude":22.310014,
+    "mps:latitude":45.209489,
+    "mps:longitude":22.310014,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Armeni\u0219"
+    ],
+    "name:eng_x_preferred":[
+        "Armeni\u0219"
+    ],
+    "name:epo_x_preferred":[
+        "Armeni\u0219"
+    ],
+    "name:fre_x_preferred":[
+        "Armeni\u0219"
+    ],
+    "name:ger_x_preferred":[
+        "Armeni\u0219"
+    ],
+    "name:hun_x_preferred":[
+        "\u00d6rm\u00e9nyes k\u00f6zs\u00e9g"
+    ],
+    "name:ita_x_preferred":[
+        "Armeni\u0219"
+    ],
+    "name:may_x_preferred":[
+        "Armeni\u0219"
+    ],
+    "name:por_x_preferred":[
+        "Armeni\u0219"
+    ],
+    "name:rum_x_preferred":[
+        "Armeni\u0219"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0440\u043c\u0435\u043d\u0456\u0448"
+    ],
+    "name:vie_x_preferred":[
+        "Armenis"
+    ],
+    "name:vol_x_preferred":[
+        "Armeni\u0219"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Caras-Severin",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Teregova",
+    "qs:la_lc":"*RO23054270",
+    "qs:level":"locality",
+    "qs:loc":"Armeni\u015f",
+    "qs:loc_alt":"Armenis",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":686137,
+        "gp:id":866388,
+        "qs:id":128099,
+        "qs_pg:id":128099,
+        "wd:id":"Q75541"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"eaf240ac837209486c15094636aaf452",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101792677,
+            "region_id":85687627
+        }
+    ],
+    "wof:id":101792677,
+    "wof:lastmodified":1514499746,
+    "wof:name":"Armeni\u015f",
+    "wof:parent_id":85687627,
+    "wof:placetype":"locality",
+    "wof:population":2613,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.30558364506078,
+    45.19444670721515,
+    22.31458590143967,
+    45.21293362282415
+],
+  "geometry": {"coordinates":[[[22.31392681038238,45.21130503872865],[22.31332836146373,45.20864322321967],[22.31458590143967,45.20849492633346],[22.31398746948696,45.20583310921597],[22.31272998772721,45.20598139784573],[22.31113469188722,45.19888314861498],[22.31239201843857,45.19873488199772],[22.31219262463293,45.19784759866167],[22.31344992575498,45.19769931979778],[22.31305112439679,45.19592475533818],[22.3105365937061,45.19622128706425],[22.31013790332037,45.19444670721515],[22.3088806677199,45.19459494508158],[22.30907998934509,45.19548223830463],[22.30782272832056,45.19563046392415],[22.30862002069097,45.19917963685481],[22.30736267604749,45.19932785847737],[22.30796067476274,45.20198973491767],[22.30921807760734,45.2018415050436],[22.31021500610461,45.20627793010436],[22.30895750624302,45.20642617373312],[22.30915689758643,45.20731345820855],[22.30789937228622,45.20746168958789],[22.30809875257341,45.20834897571882],[22.30558364506078,45.20864539897599],[22.3061817195703,45.21130726730087],[22.30743933457018,45.21115905492019],[22.30783813148105,45.21293362282415],[22.31035342102126,45.21263714205071],[22.31015397956878,45.21174986414962],[22.31392681038238,45.21130503872865]]],"type":"Polygon"}
+}

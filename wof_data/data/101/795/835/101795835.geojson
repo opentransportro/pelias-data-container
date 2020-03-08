@@ -1,0 +1,116 @@
+{
+  "id": 101795835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000159,
+    "geom:area_square_m":1417290.913706,
+    "geom:bbox":"23.6830353981,43.8722525647,23.7224717527,43.8839603966",
+    "geom:latitude":43.8781,
+    "geom:longitude":23.709194,
+    "gn:population":1650,
+    "iso:country":"RO",
+    "lbl:latitude":43.878422,
+    "lbl:longitude":23.709194,
+    "mps:latitude":43.878422,
+    "mps:longitude":23.709194,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041c\u044a\u0447\u0435\u0448\u0443 \u0434\u0435 \u0416\u043e\u0441"
+    ],
+    "name:dut_x_preferred":[
+        "M\u0103ce\u0219u de Jos"
+    ],
+    "name:eng_x_preferred":[
+        "M\u0103ce\u0219u de Jos"
+    ],
+    "name:fre_x_preferred":[
+        "M\u0103ce\u0219u de Jos"
+    ],
+    "name:ita_x_preferred":[
+        "M\u0103ce\u0219u de Jos"
+    ],
+    "name:may_x_preferred":[
+        "M\u0103ce\u0219u de Jos"
+    ],
+    "name:por_x_preferred":[
+        "M\u0103ce\u0219u de Jos"
+    ],
+    "name:rum_x_preferred":[
+        "M\u0103ce\u0219u de Jos"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0435\u0447\u0435\u0448\u0443-\u0434\u0435-\u0416\u043e\u0441"
+    ],
+    "name:unk_x_variant":[
+        "M\u0103ce\u015fiu-de-Jos"
+    ],
+    "name:vie_x_preferred":[
+        "Macesu de Jos"
+    ],
+    "name:vol_x_preferred":[
+        "M\u0103ce\u0219u de Jos"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Dolj",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"M\u0103ce\u015fu de Jos",
+    "qs:la_lc":"*RO28072980",
+    "qs:level":"locality",
+    "qs:loc":"M\u0103ce\u015fu de Jos",
+    "qs:loc_alt":"Macesu de Jos",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":674237,
+        "gp:id":875089,
+        "qs:id":275262,
+        "qs_pg:id":275262,
+        "wd:id":"Q2468482"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"1ad645ae3ac093c891ac83e5170e5379",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101795835,
+            "region_id":85687581
+        }
+    ],
+    "wof:id":101795835,
+    "wof:lastmodified":1514500035,
+    "wof:name":"M\u0103ce\u015fu de Jos",
+    "wof:parent_id":85687581,
+    "wof:placetype":"locality",
+    "wof:population":1650,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.68303539814218,
+    43.87225256473664,
+    23.72247175267188,
+    43.88396039663758
+],
+  "geometry": {"coordinates":[[[23.70739248511069,43.8818616969686],[23.71352128734833,43.88103961649222],[23.71373498881479,43.88192458120403],[23.7186379903593,43.88126664352745],[23.71842421696726,43.88038169055073],[23.71964993378879,43.88021717273858],[23.71900861190272,43.87756231492926],[23.72145991897224,43.8772332533207],[23.72124612646462,43.87634830402499],[23.72247175267188,43.87618375436114],[23.72161659778561,43.87264395610822],[23.71793991616426,43.87313752630342],[23.71772620312322,43.87225256473664],[23.71650064809398,43.87241705614468],[23.71671434316096,43.87330202064481],[23.7118119888458,43.87395985272212],[23.71202562071016,43.87484482767303],[23.70344613502238,43.87599549495059],[23.70365964973479,43.87688048914305],[23.69998257995866,43.87737342310191],[23.70019604942138,43.87825842480726],[23.69284163391495,43.87924391796599],[23.69262827235042,43.87835889868393],[23.68772527616682,43.8790155917755],[23.68793856579168,43.879900622771],[23.68303539814218,43.88055709506],[23.68324862450447,43.88144213648803],[23.69918378923637,43.87930771335203],[23.69939725810207,43.88019271543021],[23.70184876452339,43.87986411880121],[23.70206227804994,43.88074911373951],[23.70451379553208,43.88042045312255],[23.70536808046944,43.88396039663758],[23.70781971691298,43.88363165444025],[23.70739248511069,43.8818616969686]]],"type":"Polygon"}
+}

@@ -1,0 +1,101 @@
+{
+  "id": 85901753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":3573621.133564,
+    "geom:bbox":"26.834914,46.553196,26.834914,46.553196",
+    "geom:latitude":46.553196,
+    "geom:longitude":26.834914,
+    "iso:country":"RO",
+    "lbl:latitude":46.553196,
+    "lbl:longitude":26.834914,
+    "mps:latitude":46.553194,
+    "mps:longitude":26.834106,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:rum_x_preferred":[
+        "Cujbic"
+    ],
+    "name:unk_x_variant":[
+        "Cujbic"
+    ],
+    "qs:gn_adm0_cc":"RO",
+    "qs:gn_id":0,
+    "qs:gn_local":680237,
+    "qs:gn_nam_loc":"crihan",
+    "qs:gn_namadm1":"00",
+    "qs:id":0,
+    "qs:local_max":17,
+    "qs:local_sum":17,
+    "qs:localhoods":1,
+    "qs:name":"Cujbic",
+    "qs:name_adm0":"Rom\u00e2nia",
+    "qs:name_adm1":"Bacau",
+    "qs:name_local":"Crihan",
+    "qs:photo_max":11,
+    "qs:photo_sum":17,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":2,
+    "qs:woe_adm0":23424933,
+    "qs:woe_adm1":2346618,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":870664,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        101758429,
+        85633745,
+        85687715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":870849
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"8e9d4fb30027f04be5e8a1c1914eafd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101758429,
+            "neighbourhood_id":85901753,
+            "region_id":85687715
+        }
+    ],
+    "wof:id":85901753,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1531932559,
+    "wof:name":"Cujbic",
+    "wof:parent_id":101758429,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.834914,
+    46.553196,
+    26.834914,
+    46.553196
+],
+  "geometry": {"coordinates":[26.834914,46.553196],"type":"Point"}
+}

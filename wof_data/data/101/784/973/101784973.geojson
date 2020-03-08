@@ -1,0 +1,123 @@
+{
+  "id": 101784973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000074,
+    "geom:area_square_m":618318.037206,
+    "geom:bbox":"24.5348741539,47.3876018825,24.5473576021,47.4006290726",
+    "geom:latitude":47.395277,
+    "geom:longitude":24.542277,
+    "gn:population":2611,
+    "iso:country":"RO",
+    "lbl:latitude":47.395802,
+    "lbl:longitude":24.541662,
+    "mps:latitude":47.395802,
+    "mps:longitude":24.541662,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Parva"
+    ],
+    "name:bul_x_preferred":[
+        "\u041f\u0430\u0440\u0432\u0430"
+    ],
+    "name:dut_x_preferred":[
+        "Parva"
+    ],
+    "name:eng_x_preferred":[
+        "Parva"
+    ],
+    "name:epo_x_preferred":[
+        "Parva"
+    ],
+    "name:fre_x_preferred":[
+        "Parva"
+    ],
+    "name:hun_x_preferred":[
+        "P\u00e1rva"
+    ],
+    "name:ita_x_preferred":[
+        "Parva"
+    ],
+    "name:may_x_preferred":[
+        "Parva"
+    ],
+    "name:por_x_preferred":[
+        "Parva"
+    ],
+    "name:rum_x_preferred":[
+        "Parva"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0430\u0440\u0432\u0430"
+    ],
+    "name:vol_x_preferred":[
+        "Parva"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Bistrita-Nasaud",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Parva",
+    "qs:la_lc":"*RO16034155",
+    "qs:level":"locality",
+    "qs:loc":"Parva",
+    "qs:loc_alt":"Parva",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a2c09c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":671311,
+        "gp:id":877229,
+        "qs:id":1027595,
+        "qs_pg:id":1027595,
+        "wd:id":"Q936447"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"a0232161b47ddf952b9596a677dc4199",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101784973,
+            "region_id":85687753
+        }
+    ],
+    "wof:id":101784973,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514500065,
+    "wof:name":"Parva",
+    "wof:parent_id":85687753,
+    "wof:placetype":"locality",
+    "wof:population":2611,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.53487415393977,
+    47.38760188252377,
+    24.54735760213561,
+    47.40062907261824
+],
+  "geometry": {"coordinates":[[[24.5457550611905,47.40027698587181],[24.54550398206288,47.39939677596419],[24.54680744503389,47.39922071270939],[24.54605421013792,47.39658008594358],[24.54735760213561,47.39640401750216],[24.54685545811111,47.39464360039358],[24.54555210810008,47.39481966192125],[24.54530107344692,47.39393944805641],[24.54399773644434,47.39411549057013],[24.54324476091426,47.39147483119291],[24.54585130099173,47.39112275134585],[24.54560028898482,47.39024253599405],[24.54690352606161,47.39006647619283],[24.54640149279709,47.38830604869429],[24.54509829769432,47.38848210158318],[24.54484731840932,47.38760188252377],[24.5435441363116,47.38777791640172],[24.54404606381507,47.38953836019601],[24.54274283176341,47.3897143854299],[24.54299379088565,47.39059460892912],[24.54169052986481,47.39077062206229],[24.5419414789036,47.39165084778159],[24.53933489094032,47.39200283428909],[24.53958580890213,47.39288306568352],[24.53828248195884,47.39305903905682],[24.53878430861164,47.39481950505046],[24.53487415393977,47.39534735255324],[24.53512502063694,47.39622759406188],[24.53642843450319,47.39605165699805],[24.5369302426044,47.39781212940233],[24.5382336904849,47.39763616986988],[24.53848463189229,47.39851640076478],[24.53978809278954,47.39834042221787],[24.54029005032515,47.40010087339169],[24.54289703216358,47.39974885579636],[24.54314806929455,47.40062907261824],[24.5457550611905,47.40027698587181]]],"type":"Polygon"}
+}

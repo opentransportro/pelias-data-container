@@ -1,0 +1,111 @@
+{
+  "id": 85901835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":16170093.331983,
+    "geom:bbox":"21.314007,46.152097,21.314007,46.152097",
+    "geom:latitude":46.152097,
+    "geom:longitude":21.314007,
+    "gn:id":"",
+    "iso:country":"RO",
+    "lbl:latitude":46.152097,
+    "lbl:longitude":21.314007,
+    "mps:latitude":46.137275,
+    "mps:longitude":21.312918,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:rum_x_colloquial":[
+        "Murasel",
+        "Muresel"
+    ],
+    "name:rum_x_preferred":[
+        "Mure\u0219el"
+    ],
+    "name:rum_x_variant":[
+        "Mur\u0103\u0219el"
+    ],
+    "name:unk_x_variant":[
+        "Mure\u0219el"
+    ],
+    "qs:gn_adm0_cc":"RO",
+    "qs:gn_id":0,
+    "qs:gn_local":686254,
+    "qs:gn_nam_loc":"Arad, Arad, RO",
+    "qs:gn_namadm1":"02",
+    "qs:local_max":710,
+    "qs:local_sum":1140,
+    "qs:localhoods":4,
+    "qs:name":"Mure\u0219el",
+    "qs:name_adm0":"Rom\u00e2nia",
+    "qs:name_adm1":"Arad",
+    "qs:name_local":"Arad",
+    "qs:photo_max":21,
+    "qs:photo_sum":57,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":13,
+    "qs:woe_adm0":23424933,
+    "qs:woe_adm1":2346616,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":866307,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        101751999,
+        85633745,
+        85687691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":876276,
+        "qs:id":1092373,
+        "qs_pg:id":1092373
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"b6970fe0a6ed36ac4f497ef9cf4688d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101751999,
+            "neighbourhood_id":85901835,
+            "region_id":85687691
+        }
+    ],
+    "wof:id":85901835,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1531932577,
+    "wof:name":"Mure\u0219el",
+    "wof:parent_id":101751999,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.314007,
+    46.152097,
+    21.314007,
+    46.152097
+],
+  "geometry": {"coordinates":[21.314007,46.152097],"type":"Point"}
+}

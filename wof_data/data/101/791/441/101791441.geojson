@@ -1,0 +1,95 @@
+{
+  "id": 101791441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000137,
+    "geom:area_square_m":1207465.606286,
+    "geom:bbox":"27.4136077367,44.7251254357,27.4273334992,44.7386861096",
+    "geom:latitude":44.731638,
+    "geom:longitude":27.420397,
+    "gn:population":1315,
+    "iso:country":"RO",
+    "lbl:latitude":44.73164,
+    "lbl:longitude":27.420267,
+    "mps:latitude":44.73164,
+    "mps:longitude":27.420267,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Iazu"
+    ],
+    "name:eng_x_preferred":[
+        "Iazu"
+    ],
+    "name:ita_x_preferred":[
+        "Iazu"
+    ],
+    "name:rum_x_preferred":[
+        "Iazu"
+    ],
+    "name:ukr_x_preferred":[
+        "\u042f\u0437\u0443 "
+    ],
+    "name:unk_x_variant":[
+        "Iazul"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Ialomita",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Sc\u00e2nteia",
+    "qs:la_lc":"*RO34094429",
+    "qs:level":"locality",
+    "qs:loc":"Iazu",
+    "qs:loc_alt":"Iazu",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":675797,
+        "gp:id":873926,
+        "qs:id":5,
+        "wd:id":"Q12173412"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"8dfcb393f622480c277948bb5de045ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101791441,
+            "region_id":85687621
+        }
+    ],
+    "wof:id":101791441,
+    "wof:lastmodified":1514499976,
+    "wof:name":"Iazu",
+    "wof:parent_id":85687621,
+    "wof:placetype":"locality",
+    "wof:population":1315,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.41360773666474,
+    44.72512543567086,
+    27.42733349921207,
+    44.73868610955509
+],
+  "geometry": {"coordinates":[[[27.42545282305468,44.73805913230132],[27.42434191767171,44.73456460095116],[27.42557586168539,44.7343555945987],[27.42529814593223,44.73348196141029],[27.4265320639787,44.73327294431283],[27.42597663094881,44.7315256805374],[27.42721050523835,44.73131665647372],[27.4260997042536,44.72782212421248],[27.42733349921207,44.72761310073889],[27.42677813125601,44.72586583225205],[27.42307682859575,44.72649283644427],[27.42279921500534,44.72561918839114],[27.41909789218892,44.7262460505633],[27.41882034331024,44.72537238952964],[27.41511900035687,44.72599910968205],[27.41484151619056,44.72512543567086],[27.41360773666474,44.7253343095702],[27.41527270508351,44.73057635153032],[27.41403881064178,44.73078523355935],[27.41598166549193,44.73690090051315],[27.41474763830718,44.73710979445104],[27.41502521659623,44.73798345833342],[27.41749329839331,44.7375656483797],[27.41777092363145,44.73843930305827],[27.42147303843393,44.73781246785995],[27.42175072842082,44.73868610955509],[27.42545282305468,44.73805913230132]]],"type":"Polygon"}
+}

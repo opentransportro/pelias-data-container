@@ -1,0 +1,92 @@
+{
+  "id": 101835023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000082,
+    "geom:area_square_m":701020.752206,
+    "geom:bbox":"26.604814547,46.4117535565,26.6322746944,46.4191731007",
+    "geom:latitude":46.414593,
+    "geom:longitude":26.621059,
+    "gn:population":1991,
+    "iso:country":"RO",
+    "lbl:latitude":46.414903,
+    "lbl:longitude":26.626572,
+    "mps:latitude":46.414903,
+    "mps:longitude":26.626572,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Dragomir"
+    ],
+    "name:eng_x_preferred":[
+        "Dragomir"
+    ],
+    "name:fre_x_preferred":[
+        "Dragomir"
+    ],
+    "name:rum_x_preferred":[
+        "Dragomir"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0440\u0430\u0433\u043e\u043c\u0456\u0440"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Bacau",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Berzun\u0163i",
+    "qs:la_lc":"*RO14021418",
+    "qs:level":"locality",
+    "qs:loc":"Dragomir",
+    "qs:loc_alt":"Dragomir",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":678927,
+        "gp:id":871631,
+        "qs:id":496805,
+        "wd:id":"Q12102286"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"e5a62cb553a3eec9a661a428383eb323",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101835023,
+            "region_id":85687715
+        }
+    ],
+    "wof:id":101835023,
+    "wof:lastmodified":1514499913,
+    "wof:name":"Dragomir",
+    "wof:parent_id":85687715,
+    "wof:placetype":"locality",
+    "wof:population":1991,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.60481454702654,
+    46.41175355645817,
+    26.63227469436282,
+    46.41917310071858
+],
+  "geometry": {"coordinates":[[[26.63227469436282,46.41630249887186],[26.63155209534239,46.41182278080902],[26.61866498019032,46.41385094649104],[26.61838673003172,46.41297611781681],[26.61329159787891,46.41377735894002],[26.6130134373866,46.41290251354445],[26.6117396524026,46.41310278231043],[26.61146152315763,46.41222793160392],[26.60891396643956,46.41262841627673],[26.60863588791347,46.41175355645817],[26.60481454702654,46.41235415892515],[26.60537059900503,46.41410389986072],[26.60919205673787,46.41350327458679],[26.60947015880902,46.41437813138873],[26.61074398039841,46.41417788899128],[26.61102211371832,46.41505274048279],[26.61356977014725,46.4146522028268],[26.61440435761233,46.41727672543436],[26.61949980134403,46.41647542345692],[26.61922151584571,46.41560059931101],[26.62304295022943,46.41499947584316],[26.62359964984665,46.41674909979753],[26.62487348310827,46.41654868752818],[26.6257086793396,46.41917310071858],[26.62698256244721,46.41897266194684],[26.62642571422634,46.41722306227496],[26.63227469436282,46.41630249887186]]],"type":"Polygon"}
+}

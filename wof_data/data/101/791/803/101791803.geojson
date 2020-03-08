@@ -1,0 +1,95 @@
+{
+  "id": 101791803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00007,
+    "geom:area_square_m":608687.818889,
+    "geom:bbox":"26.1946088407,45.1087846477,26.2222743242,45.1178464065",
+    "geom:latitude":45.113337,
+    "geom:longitude":26.206902,
+    "gn:population":1119,
+    "iso:country":"RO",
+    "lbl:latitude":45.114574,
+    "lbl:longitude":26.20554,
+    "mps:latitude":45.114574,
+    "mps:longitude":26.20554,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Valea Dulce"
+    ],
+    "name:eng_x_preferred":[
+        "Valea Dulce"
+    ],
+    "name:fre_x_preferred":[
+        "Valea Dulce"
+    ],
+    "name:ita_x_preferred":[
+        "Valea Dulce"
+    ],
+    "name:rum_x_preferred":[
+        "Valea Dulce"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0430\u043b\u044f-\u0414\u0443\u043b\u0447\u0435"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Prahova",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Podenii Noi",
+    "qs:la_lc":"*RO42134443",
+    "qs:level":"locality",
+    "qs:loc":"Valea Dulce",
+    "qs:loc_alt":"Valea Dulce",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":663775,
+        "gp:id":882797,
+        "qs:id":413421,
+        "wd:id":"Q12087447"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"2def272332d936568ae7f6497ea5b386",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101791803,
+            "region_id":85687661
+        }
+    ],
+    "wof:id":101791803,
+    "wof:lastmodified":1514500232,
+    "wof:name":"Valea Dulce",
+    "wof:parent_id":85687661,
+    "wof:placetype":"locality",
+    "wof:population":1119,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.19460884074829,
+    45.10878464768138,
+    26.22227432418237,
+    45.11784640645908
+],
+  "geometry": {"coordinates":[[[26.22201279151022,45.10878464768138],[26.21578495230801,45.10975903643384],[26.21604639285317,45.11063610473877],[26.20608129711718,45.11219438979231],[26.205820004001,45.11131729292282],[26.19460884074829,45.11306920520065],[26.19486996796945,45.11394633418701],[26.19611570238465,45.11375173259279],[26.19637685883771,45.11462885651633],[26.20011407062628,45.11404495268647],[26.20037529318279,45.11492206440948],[26.20162103329045,45.11472739678311],[26.20188228508238,45.11560450344115],[26.20312803582885,45.11540981752188],[26.20365060868943,45.1171640192112],[26.20489638850825,45.11696931142848],[26.20515770957991,45.11784640645908],[26.20889505755019,45.11726218405545],[26.20811096084032,45.11463092660745],[26.21060237655547,45.11424139280984],[26.21034099573359,45.11336431114142],[26.21407800551594,45.11277991073672],[26.2138165802109,45.11190283828421],[26.21879907699724,45.11112344592038],[26.21853758878996,45.11024638625707],[26.22227432418237,45.10966169812576],[26.22201279151022,45.10878464768138]]],"type":"Polygon"}
+}

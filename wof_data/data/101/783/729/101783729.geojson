@@ -1,0 +1,127 @@
+{
+  "id": 101783729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000252,
+    "geom:area_square_m":2094080.855786,
+    "geom:bbox":"22.8598270944,47.841930411,22.8859534187,47.859252448",
+    "geom:latitude":47.85104,
+    "geom:longitude":22.872242,
+    "gn:population":5237,
+    "iso:country":"RO",
+    "lbl:latitude":47.851201,
+    "lbl:longitude":22.872044,
+    "mps:latitude":47.851201,
+    "mps:longitude":22.872044,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Lazuri"
+    ],
+    "name:eng_x_preferred":[
+        "Lazuri"
+    ],
+    "name:epo_x_preferred":[
+        "Lazuri"
+    ],
+    "name:fre_x_preferred":[
+        "Lazuri"
+    ],
+    "name:hun_x_preferred":[
+        "L\u00e1z\u00e1ri"
+    ],
+    "name:ita_x_preferred":[
+        "Lazuri"
+    ],
+    "name:may_x_preferred":[
+        "Lazuri"
+    ],
+    "name:por_x_preferred":[
+        "Lazuri"
+    ],
+    "name:rum_x_colloquial":[
+        "Laezar",
+        "Lazar"
+    ],
+    "name:rum_x_preferred":[
+        "Lazuri"
+    ],
+    "name:rum_x_variant":[
+        "L\u0103zar"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430\u0437\u0443\u0440\u0456"
+    ],
+    "name:unk_x_variant":[
+        "L\u0103zar"
+    ],
+    "name:vol_x_preferred":[
+        "Lazuri"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Satu Mare",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Lazuri",
+    "qs:la_lc":"*RO44137960",
+    "qs:level":"locality",
+    "qs:loc":"Lazuri",
+    "qs:loc_alt":"Lazuri",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a159aa-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":674947,
+        "gp:id":874540,
+        "qs:id":127510,
+        "qs_pg:id":127510,
+        "wd:id":"Q1076447"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"4ce48109a69d146bdd097f15889f001c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101783729,
+            "region_id":85687757
+        }
+    ],
+    "wof:id":101783729,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514499991,
+    "wof:name":"Lazuri",
+    "wof:parent_id":85687757,
+    "wof:placetype":"locality",
+    "wof:population":5237,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.85982709443766,
+    47.841930411031,
+    22.8859534186754,
+    47.85925244798995
+],
+  "geometry": {"coordinates":[[[22.871058478245,47.85878411559412],[22.87083302842512,47.85789984947689],[22.8747911886004,47.85743138396464],[22.8745656830157,47.85654712616684],[22.87984304019346,47.85592229634835],[22.87939188366107,47.85415380259604],[22.88071116092181,47.8539975618109],[22.880260000372,47.8522290701373],[22.88157922654744,47.85207281976625],[22.88135363929382,47.851188575489],[22.88399202597185,47.85087603350735],[22.88376640487797,47.84999179443162],[22.8850855653813,47.84983550282192],[22.88463430924713,47.84806702778957],[22.8859534186754,47.84791072659709],[22.88550215854269,47.84614225364146],[22.87758765521085,47.84707978595281],[22.87691123354091,47.84442701253676],[22.87823027,47.84427080607566],[22.87777932813282,47.84250229149927],[22.87514133546676,47.84281467611913],[22.87491592320617,47.841930411031],[22.86963993795905,47.84255497789889],[22.87031594190682,47.84520780746078],[22.86503957743116,47.84583215853314],[22.86594070481277,47.84936929993512],[22.86330230372209,47.84968140544686],[22.86352756660244,47.85056569443236],[22.86220833323335,47.85072172656305],[22.86265884498869,47.85249030765016],[22.86133956053936,47.85264633018551],[22.86201533694896,47.85529920337308],[22.86069597951251,47.85545521942953],[22.86114650296679,47.85722380259352],[22.85982709443766,47.85737980905321],[22.86005234915672,47.85826410219397],[22.86401061859516,47.8577960259712],[22.86423594896058,47.85868030872132],[22.86687480261827,47.85836817251572],[22.86710018672773,47.85925244798995],[22.871058478245,47.85878411559412]]],"type":"Polygon"}
+}

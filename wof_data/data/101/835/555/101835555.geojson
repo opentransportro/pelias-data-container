@@ -1,0 +1,97 @@
+{
+  "id": 101835555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000116,
+    "geom:area_square_m":1023338.372556,
+    "geom:bbox":"24.6272070696,44.4700800196,24.6519729852,44.4804394603",
+    "geom:latitude":44.474452,
+    "geom:longitude":24.637954,
+    "gn:population":6022,
+    "iso:country":"RO",
+    "lbl:latitude":44.474584,
+    "lbl:longitude":24.638798,
+    "mps:latitude":44.474584,
+    "mps:longitude":24.638798,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rum_x_colloquial":[
+        "Potcoava Cirstesti"
+    ],
+    "name:rum_x_preferred":[
+        "Potcoava"
+    ],
+    "name:rum_x_variant":[
+        "Potcoava C\u00eerste\u0219ti"
+    ],
+    "name:unk_x_variant":[
+        "Potcoava C\u00eerste\u015fti"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Olt",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:id":0,
+    "qs:la":"Scornice\u015fti",
+    "qs:la_lc":"*RO41128711",
+    "qs:level":"locality",
+    "qs:loc":"Potcoava",
+    "qs:loc_alt":"Potcoava",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a3500c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":669772,
+        "gp:id":878436,
+        "qs:id":1279213,
+        "qs_pg:id":1279213,
+        "wd:id":"Q16898464"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"f6ebd55877926dbe9988fa67cf42274a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101835555,
+            "region_id":85687607
+        }
+    ],
+    "wof:id":101835555,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1505338236,
+    "wof:name":"Potcoava",
+    "wof:parent_id":85687607,
+    "wof:placetype":"locality",
+    "wof:population":6022,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.62720706955952,
+    44.47008001955152,
+    24.6519729852086,
+    44.48043946028912
+],
+  "geometry": {"coordinates":[[[24.6519729852086,44.47362512332063],[24.65116296024701,44.47008001955152],[24.63819817068349,44.47192434905378],[24.63796628040177,44.47104227538739],[24.63673028190959,44.47121800249261],[24.63696215392116,44.47210007933762],[24.63325406257661,44.47262718232821],[24.63302224537739,44.47174509594953],[24.63055018681456,44.47209641837026],[24.63078196746983,44.47297851110335],[24.62720706955952,44.47348645490058],[24.62979152497616,44.48043946028912],[24.63140035130232,44.48021087232701],[24.63116851278437,44.47932878719001],[24.63364087742536,44.47897744321637],[24.63340901187178,44.47809536308864],[24.6420619445646,44.47686522010525],[24.6418299606085,44.47598316088352],[24.64306604819171,44.47580737077271],[24.64283405548736,44.47492531338276],[24.64530617356866,44.47457369558936],[24.64507415384628,44.4736916432114],[24.65001823475075,44.47298824462575],[24.65025032755119,44.47387028428079],[24.6519729852086,44.47362512332063]]],"type":"Polygon"}
+}

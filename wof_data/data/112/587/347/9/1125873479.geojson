@@ -1,0 +1,89 @@
+{
+  "id": 1125873479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.78333,46.78333,26.78333,46.78333",
+    "geom:latitude":46.78333,
+    "geom:longitude":26.78333,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":3713,
+    "gn:population":3713,
+    "iso:country":"RO",
+    "lbl:latitude":46.78333,
+    "lbl:longitude":26.78333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Vasile Gheorghe Mor\u0163un"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":685858,
+    "qs_pg:gn_pop":3713,
+    "qs_pg:name":"Bahna",
+    "qs_pg:name_adm0":"Rom\u00e2nia",
+    "qs_pg:name_adm1":"Neamt",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":128079,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424933,
+    "qs_pg:woe_id":866605,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424933,
+    "woe:name_adm0":"Rom\u00e2nia",
+    "woe:name_adm1":"Neamt",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":685858,
+        "gp:id":866605,
+        "qs_pg:id":128079
+    },
+    "wof:country":"RO",
+    "wof:created":1497294416,
+    "wof:geomhash":"d9b7209809f55ecc296531c37297a4b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125873479,
+            "region_id":85687747
+        }
+    ],
+    "wof:id":1125873479,
+    "wof:lastmodified":1509397546,
+    "wof:name":"Bahna",
+    "wof:parent_id":85687747,
+    "wof:placetype":"locality",
+    "wof:population":3713,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.78333,
+    46.78333,
+    26.78333,
+    46.78333
+],
+  "geometry": {"coordinates":[26.78333,46.78333],"type":"Point"}
+}

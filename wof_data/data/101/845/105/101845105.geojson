@@ -1,0 +1,95 @@
+{
+  "id": 101845105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000048,
+    "geom:area_square_m":419112.088995,
+    "geom:bbox":"23.2533778629,44.8270890763,23.2737556238,44.8343310653",
+    "geom:latitude":44.830819,
+    "geom:longitude":23.265026,
+    "gn:population":1231,
+    "iso:country":"RO",
+    "lbl:latitude":44.83059,
+    "lbl:longitude":23.267727,
+    "mps:latitude":44.83059,
+    "mps:longitude":23.267727,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Pe\u0219teana de Jos"
+    ],
+    "name:eng_x_preferred":[
+        "Pe\u0219teana de Jos"
+    ],
+    "name:fre_x_preferred":[
+        "Pe\u0219teana de Jos"
+    ],
+    "name:rum_x_preferred":[
+        "Pe\u0219teana de Jos"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0435\u0448\u0442\u044f\u043d\u0430-\u0434\u0435-\u0416\u043e\u0441"
+    ],
+    "name:unk_x_variant":[
+        "Pe\u015fteana"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Gorj",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"F\u0103rc\u0103\u015fe\u015fti",
+    "qs:la_lc":"*RO31080285",
+    "qs:level":"locality",
+    "qs:loc":"Pe\u015fteana de Jos",
+    "qs:loc_alt":"Pesteana de Jos",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":671073,
+        "gp:id":877400,
+        "qs:id":1,
+        "wd:id":"Q12140430"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"28caca4c2532f08ece16bf6daceef310",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101845105,
+            "region_id":85687619
+        }
+    ],
+    "wof:id":101845105,
+    "wof:lastmodified":1514500070,
+    "wof:name":"Pe\u015fteana de Jos",
+    "wof:parent_id":85687619,
+    "wof:placetype":"locality",
+    "wof:population":1231,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.25337786291016,
+    44.82708907631161,
+    23.2737556238352,
+    44.83433106533181
+],
+  "geometry": {"coordinates":[[[23.27043961655471,44.83208178142337],[23.27022706576355,44.83119648412764],[23.27272117656514,44.83087729890235],[23.27250859684136,44.82999200625693],[23.2737556238352,44.82983239432099],[23.27354303405622,44.82894710340116],[23.26980199063127,44.82942588593795],[23.26958946628918,44.82854058504387],[23.26709544331845,44.82885969339412],[23.26667049657186,44.82708907631161],[23.265423513305,44.82724860239182],[23.26563596339861,44.82813391445615],[23.26438895490708,44.828293428628],[23.26481384378337,44.83006405500612],[23.25608434228553,44.83118027982323],[23.2558720255775,44.83029494677601],[23.25337786291016,44.83061372881218],[23.25359014186171,44.831499067702],[23.25483724524724,44.83133968117937],[23.25504955188461,44.83222501595003],[23.25754377737064,44.83190619256101],[23.25775613057431,44.83279152028996],[23.26648585190463,44.83167515072233],[23.26712336083739,44.83433106533181],[23.26837049510971,44.83417151586008],[23.26815796443822,44.83328621511356],[23.26940507347825,44.8331266537333],[23.26919253274622,44.83224135471215],[23.27043961655471,44.83208178142337]]],"type":"Polygon"}
+}

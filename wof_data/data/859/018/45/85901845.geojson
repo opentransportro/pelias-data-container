@@ -1,0 +1,102 @@
+{
+  "id": 85901845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":2297850.570492,
+    "geom:bbox":"28.023376,45.411949,28.023376,45.411949",
+    "geom:latitude":45.411949,
+    "geom:longitude":28.023376,
+    "iso:country":"RO",
+    "lbl:latitude":45.411949,
+    "lbl:longitude":28.023376,
+    "mps:latitude":45.410851,
+    "mps:longitude":28.02243,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:rum_x_colloquial":[
+        "Ostrovu Azaclaeu",
+        "Ostrovu Azaclau"
+    ],
+    "name:rum_x_preferred":[
+        "Ostrovu Azacl\u0103u"
+    ],
+    "name:unk_x_variant":[
+        "Ostrovu Azacl\u0103u"
+    ],
+    "qs:gn_id":0,
+    "qs:gn_local":0,
+    "qs:id":0,
+    "qs:local_max":536,
+    "qs:local_sum":537,
+    "qs:localhoods":2,
+    "qs:name":"Ostrovu Azacl\u0103u",
+    "qs:name_adm0":"Rom\u00e2nia",
+    "qs:name_adm1":"Galati",
+    "qs:name_local":"Gala\u021bi",
+    "qs:photo_max":1,
+    "qs:photo_sum":1,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":1,
+    "qs:woe_adm0":23424933,
+    "qs:woe_adm1":2346632,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":872551,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        101752007,
+        85633745,
+        85687709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":876998
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"b95d2fe39daa96391c83b4ab3c7def46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101752007,
+            "neighbourhood_id":85901845,
+            "region_id":85687709
+        }
+    ],
+    "wof:id":85901845,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1531932579,
+    "wof:name":"Ostrovu Azacl\u0103u",
+    "wof:parent_id":101752007,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.023376,
+    45.411949,
+    28.023376,
+    45.411949
+],
+  "geometry": {"coordinates":[28.023376,45.411949],"type":"Point"}
+}

@@ -1,0 +1,120 @@
+{
+  "id": 101787361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000174,
+    "geom:area_square_m":1466088.462116,
+    "geom:bbox":"21.9867852226,47.1295323083,22.0060629953,47.1528925156",
+    "geom:latitude":47.141946,
+    "geom:longitude":21.995324,
+    "gn:population":3819,
+    "iso:country":"RO",
+    "lbl:latitude":47.142428,
+    "lbl:longitude":21.995178,
+    "mps:latitude":47.142428,
+    "mps:longitude":21.995178,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Cetariu"
+    ],
+    "name:eng_x_preferred":[
+        "Cetariu"
+    ],
+    "name:epo_x_preferred":[
+        "Cetariu"
+    ],
+    "name:fre_x_preferred":[
+        "Cetariu"
+    ],
+    "name:hun_x_preferred":[
+        "Hegyk\u00f6zcsat\u00e1r"
+    ],
+    "name:ita_x_preferred":[
+        "Cetariu"
+    ],
+    "name:may_x_preferred":[
+        "Cetariu"
+    ],
+    "name:por_x_preferred":[
+        "Cetariu"
+    ],
+    "name:rum_x_preferred":[
+        "Cetariu"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0435\u0442\u0430\u0440\u0456\u0443"
+    ],
+    "name:vie_x_preferred":[
+        "Cetariu"
+    ],
+    "name:vol_x_preferred":[
+        "Cetariu"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Bihor",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Cetariu",
+    "qs:la_lc":"*RO15028415",
+    "qs:level":"locality",
+    "qs:loc":"Cetariu",
+    "qs:loc_alt":"Cetariu",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"039e9850-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":682270,
+        "gp:id":869169,
+        "qs:id":1278147,
+        "qs_pg:id":1278147,
+        "wd:id":"Q1188611"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"e12fd1311dfd8b5760dd960e6fbfb732",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101787361,
+            "region_id":85687737
+        }
+    ],
+    "wof:id":101787361,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514499839,
+    "wof:name":"Cetariu",
+    "wof:parent_id":85687737,
+    "wof:placetype":"locality",
+    "wof:population":3819,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.98678522257137,
+    47.12953230832721,
+    22.00606299531711,
+    47.1528925155929
+],
+  "geometry": {"coordinates":[[[22.00606299531711,47.15260173823265],[22.0056510616854,47.15082834710466],[22.00434726705845,47.15097373790184],[22.00372949792092,47.14831363526946],[22.00242576079626,47.14845900186981],[22.00180813639275,47.14579888182288],[22.00311180946852,47.14565352377605],[22.00290593124544,47.14476681797555],[22.00420957642285,47.14462144713963],[22.00400368581592,47.14373474320553],[22.0000927946727,47.14417080024083],[21.99844650467577,47.13707706490919],[21.99714303194617,47.13722236317705],[21.99673159169828,47.13544891380104],[21.99542815510353,47.13559419073323],[21.99522246974959,47.13470746172015],[21.99391904795033,47.13485272016669],[21.99268525183152,47.12953230832721],[21.99138195150806,47.1296775340515],[21.99158754048534,47.13056427466591],[21.99028421228797,47.13070948760128],[21.9906953744167,47.13248297157219],[21.98678522257137,47.13291853364035],[21.98699075304364,47.13380528268982],[21.98829416486939,47.13366010812416],[21.99076148464474,47.14430098583182],[21.98815414218689,47.1445913876567],[21.98877104544903,47.14725160204097],[21.99398596039424,47.14667070164813],[21.99460320047888,47.14933087299835],[21.99981826689191,47.14874968814627],[22.00043584385571,47.15140981644009],[22.00304346587694,47.15111911305695],[22.00345531409221,47.1528925155929],[22.00606299531711,47.15260173823265]]],"type":"Polygon"}
+}

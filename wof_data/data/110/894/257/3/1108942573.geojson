@@ -1,0 +1,64 @@
+{
+  "id": 1108942573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.1610405066,44.4722899897,26.1610405066,44.4722899897",
+    "geom:latitude":44.47229,
+    "geom:longitude":26.161041,
+    "iso:country":"RO",
+    "lbl:latitude":44.47229,
+    "lbl:longitude":26.161041,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_metro":30,
+    "name:rus_x_preferred":[
+        "Ion Creang\u0103"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        101751949,
+        85633745,
+        85687595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"RO",
+    "wof:created":1491363177,
+    "wof:geomhash":"7e5fc222d4460760201fd8fdfa05dc58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101751949,
+            "neighbourhood_id":1108942573,
+            "region_id":85687595
+        }
+    ],
+    "wof:id":1108942573,
+    "wof:lastmodified":1497292369,
+    "wof:name":"Ion Creanga",
+    "wof:parent_id":101751949,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.16104050656658,
+    44.47228998965171,
+    26.16104050656658,
+    44.47228998965171
+],
+  "geometry": {"coordinates":[26.16104050656658,44.47228998965171],"type":"Point"}
+}

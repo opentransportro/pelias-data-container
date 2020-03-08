@@ -1,0 +1,113 @@
+{
+  "id": 101845129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000102,
+    "geom:area_square_m":898140.362184,
+    "geom:bbox":"21.8856989159,44.6478213466,21.9011958848,44.6669113893",
+    "geom:latitude":44.655591,
+    "geom:longitude":21.893723,
+    "gn:population":1316,
+    "iso:country":"RO",
+    "lbl:latitude":44.651314,
+    "lbl:longitude":21.891668,
+    "mps:latitude":44.651314,
+    "mps:longitude":21.891668,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Liubcova"
+    ],
+    "name:eng_x_preferred":[
+        "Dolina-Liubcova"
+    ],
+    "name:eng_x_variant":[
+        "Donja Ljubkova",
+        "Liubcova de Jos",
+        "Liubcova"
+    ],
+    "name:epo_x_preferred":[
+        "Liubcova"
+    ],
+    "name:fre_x_preferred":[
+        "Liubcova"
+    ],
+    "name:hun_x_preferred":[
+        "Als\u00f3lupk\u00f3"
+    ],
+    "name:rum_x_preferred":[
+        "Liubcova"
+    ],
+    "name:srp_x_preferred":[
+        "\u0409\u0443\u043f\u043a\u043e\u0432\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0456\u0443\u0431\u043a\u043e\u0432\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Donja Ljubkova"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Caras-Severin",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Berzasca",
+    "qs:la_lc":"*RO23051449",
+    "qs:level":"locality",
+    "qs:loc":"Liubcova",
+    "qs:loc_alt":"Liubcova",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a17354-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":674692,
+        "gp:id":874730,
+        "qs:id":6,
+        "wd:id":"Q678309"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"f192b845d7092987bcfcb63c09041470",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101845129,
+            "region_id":85687627
+        }
+    ],
+    "wof:id":101845129,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514499996,
+    "wof:name":"Liubcova",
+    "wof:parent_id":85687627,
+    "wof:placetype":"locality",
+    "wof:population":1316,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.88569891590402,
+    44.64782134661954,
+    21.90119588478177,
+    44.66691138925137
+],
+  "geometry": {"coordinates":[[[21.90051891670657,44.6666251583614],[21.89994950592813,44.66395936922385],[21.90119588478177,44.66381623934632],[21.90081627897439,44.66203904640219],[21.89956993812001,44.66218217104216],[21.89919040181047,44.66040496852173],[21.89794409328385,44.66054807306631],[21.89775435593731,44.65965946756069],[21.89650806074047,44.65980255462927],[21.89593895292307,44.65713672375142],[21.89469270904874,44.65727978810952],[21.89374444838995,44.65283670186852],[21.89499059729491,44.65269365059532],[21.89461131012291,44.65091641373982],[21.89834960890317,44.65048718648768],[21.89778056624999,44.64782134661954],[21.88781211197818,44.6489655927254],[21.88800163308309,44.64985422802852],[21.8867555318314,44.64999719455909],[21.88694504180768,44.65088583139305],[21.88569891590402,44.65102878568268],[21.88626743602907,44.65369469752471],[21.89000596769159,44.65326576655065],[21.89057472953687,44.65593164509647],[21.88932850099428,44.65607464479211],[21.88970767689636,44.65785189696703],[21.89220020430287,44.65756587225343],[21.89238984204803,44.65845449148196],[21.89363611625078,44.65831145422186],[21.89458451801056,44.66275452101473],[21.89583088154103,44.66261145580989],[21.89621033534519,44.66438866970134],[21.89745673120905,44.66424558440144],[21.89802602797437,44.66691138925137],[21.90051891670657,44.6666251583614]]],"type":"Polygon"}
+}

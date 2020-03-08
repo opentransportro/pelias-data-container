@@ -1,0 +1,110 @@
+{
+  "id": 1125798955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.75,46.2,26.75,46.2",
+    "geom:latitude":46.2,
+    "geom:longitude":26.75,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3713,
+    "gn:population":3713,
+    "iso:country":"RO",
+    "lbl:latitude":46.2,
+    "lbl:longitude":26.75,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Ca\u0219in"
+    ],
+    "name:eng_x_preferred":[
+        "Ca\u0219in"
+    ],
+    "name:fre_x_preferred":[
+        "Ca\u0219in"
+    ],
+    "name:hun_x_preferred":[
+        "K\u00e1szon"
+    ],
+    "name:rum_x_preferred":[
+        "Ca\u0219in"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0448\u0438\u043d "
+    ],
+    "name:unk_x_variant":[
+        "Ca\u015finul"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":682604,
+    "qs_pg:gn_pop":3713,
+    "qs_pg:name":"Ca\u0219in",
+    "qs_pg:name_adm0":"Rom\u00e2nia",
+    "qs_pg:name_adm1":"Bacau",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":3,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":180449,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424933,
+    "qs_pg:woe_id":868931,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424933,
+    "woe:name_adm0":"Rom\u00e2nia",
+    "woe:name_adm1":"Bacau",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":682604,
+        "gp:id":868931,
+        "qs_pg:id":180449,
+        "wd:id":"Q15633485"
+    },
+    "wof:country":"RO",
+    "wof:created":1497291175,
+    "wof:geomhash":"ea43b7e4d6601c615be3f972966109bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125798955,
+            "region_id":85687715
+        }
+    ],
+    "wof:id":1125798955,
+    "wof:lastmodified":1514499834,
+    "wof:name":"Ca\u0219in",
+    "wof:parent_id":85687715,
+    "wof:placetype":"locality",
+    "wof:population":3713,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.75,
+    46.2,
+    26.75,
+    46.2
+],
+  "geometry": {"coordinates":[26.75,46.2],"type":"Point"}
+}

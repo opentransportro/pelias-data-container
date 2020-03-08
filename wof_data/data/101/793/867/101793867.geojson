@@ -1,0 +1,99 @@
+{
+  "id": 101793867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000076,
+    "geom:area_square_m":668569.312099,
+    "geom:bbox":"22.3592866392,44.9006778717,22.3725288351,44.9132552599",
+    "geom:latitude":44.90641,
+    "geom:longitude":22.364746,
+    "gn:population":4336,
+    "iso:country":"RO",
+    "lbl:latitude":44.90532,
+    "lbl:longitude":22.364646,
+    "mps:latitude":44.90532,
+    "mps:longitude":22.364646,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mehadija"
+    ],
+    "name:hun_x_preferred":[
+        "Meh\u00e1dia"
+    ],
+    "name:ota_x_preferred":[
+        "\u0645\u0647\u0627\u062f\u06cc\u0647"
+    ],
+    "name:rum_x_preferred":[
+        "Mehadia"
+    ],
+    "name:unk_x_variant":[
+        "Mehadija"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Caras-Severin",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Mehadia",
+    "qs:la_lc":"*RO23053274",
+    "qs:level":"locality",
+    "qs:loc":"Mehadia",
+    "qs:loc_alt":"Mehadia",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a1db28-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":673619,
+        "gp:id":875549,
+        "qs:id":43151,
+        "qs_pg:id":43151,
+        "wd:id":"Q1092694"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"aab067d3a844d468285d2bbbd56ab40c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101793867,
+            "region_id":85687627
+        }
+    ],
+    "wof:id":101793867,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1505337976,
+    "wof:name":"Mehadia",
+    "wof:parent_id":85687627,
+    "wof:placetype":"locality",
+    "wof:population":4336,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.35928663920839,
+    44.90067787171648,
+    22.37252883513344,
+    44.91325525985621
+],
+  "geometry": {"coordinates":[[[22.37252883513344,44.91014121539104],[22.37233014100508,44.90925385679611],[22.36982858808796,44.9095515737414],[22.36962994048594,44.90866420855281],[22.36837917420695,44.90881304192527],[22.36718757701817,44.90348881096372],[22.36843822855002,44.90333999402378],[22.36784248420855,44.90067787171648],[22.36284007177562,44.90127301718792],[22.36303856847098,44.90216040335565],[22.35928663920839,44.90260661416579],[22.36047744869762,44.90793095705237],[22.36297897033353,44.9076334652388],[22.363773161648,44.91118298299301],[22.36127148698114,44.91148049670835],[22.36166855572117,44.91325525985621],[22.36417030691297,44.91295773518868],[22.3639717301462,44.91207035964766],[22.36522257766632,44.91192157768955],[22.36502399003803,44.91103420377334],[22.37252883513344,44.91014121539104]]],"type":"Polygon"}
+}

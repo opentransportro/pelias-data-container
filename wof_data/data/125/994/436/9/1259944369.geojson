@@ -1,0 +1,74 @@
+{
+  "id": 1259944369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.83844,45.79745,22.83844,45.79745",
+    "geom:latitude":45.79745,
+    "geom:longitude":22.83844,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"90431.0",
+    "gn:asciiname":"Valea Nandrului",
+    "gn:cc2":"RO",
+    "gn:country_code":"RO",
+    "gn:dem":285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":663558,
+    "gn:latitude":45.79745,
+    "gn:longitude":22.83844,
+    "gn:modification_date":"2013-04-20",
+    "gn:name":"Valea Nandrului",
+    "gn:population":169,
+    "gn:timezone":"Europe/Bucharest",
+    "iso:country":"RO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Valea Nadrului",
+        "Valea Nandrului"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":663558
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"b66b0e95cca46a0002a8513a6d8460ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1259944369,
+            "region_id":85687671
+        }
+    ],
+    "wof:id":1259944369,
+    "wof:lastmodified":1537683292,
+    "wof:name":"Valea Nandrului",
+    "wof:parent_id":85687671,
+    "wof:placetype":"locality",
+    "wof:population":169,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.83844,
+    45.79745,
+    22.83844,
+    45.79745
+],
+  "geometry": {"coordinates":[22.83844,45.79745],"type":"Point"}
+}

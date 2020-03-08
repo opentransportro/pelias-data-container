@@ -1,0 +1,85 @@
+{
+  "id": 1108942583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.0972396627,44.4849056923,26.0972396627,44.4849056923",
+    "geom:latitude":44.484906,
+    "geom:longitude":26.09724,
+    "iso:country":"RO",
+    "lbl:latitude":44.484906,
+    "lbl:longitude":26.09724,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Avia\u021biei"
+    ],
+    "name:fre_x_preferred":[
+        "Avia\u0163iei"
+    ],
+    "name:ger_x_preferred":[
+        "Bukarest/Avia\u021biei"
+    ],
+    "name:ita_x_preferred":[
+        "Avia\u021biei"
+    ],
+    "name:lat_x_preferred":[
+        "Avia\u0163iei"
+    ],
+    "name:rum_x_preferred":[
+        "Avia\u021biei"
+    ],
+    "name:rus_x_preferred":[
+        "Avia\u021biei"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        101751949,
+        85633745,
+        85687595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q167036"
+    },
+    "wof:country":"RO",
+    "wof:created":1491363183,
+    "wof:geomhash":"606cbcb70150dd35eba600e86997cbb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101751949,
+            "neighbourhood_id":1108942583,
+            "region_id":85687595
+        }
+    ],
+    "wof:id":1108942583,
+    "wof:lastmodified":1514499747,
+    "wof:name":"Aviatiei",
+    "wof:parent_id":101751949,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.09723966269749,
+    44.48490569233554,
+    26.09723966269749,
+    44.48490569233554
+],
+  "geometry": {"coordinates":[26.09723966269749,44.48490569233554],"type":"Point"}
+}

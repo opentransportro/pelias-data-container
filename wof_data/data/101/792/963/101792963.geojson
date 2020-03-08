@@ -1,0 +1,95 @@
+{
+  "id": 101792963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000112,
+    "geom:area_square_m":977907.744645,
+    "geom:bbox":"25.7480451003,44.9466084743,25.7667641313,44.9678827634",
+    "geom:latitude":44.959441,
+    "geom:longitude":25.75688,
+    "gn:population":3354,
+    "iso:country":"RO",
+    "lbl:latitude":44.964821,
+    "lbl:longitude":25.757802,
+    "mps:latitude":44.964821,
+    "mps:longitude":25.757802,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "M\u0103rginenii de Jos"
+    ],
+    "name:eng_x_preferred":[
+        "M\u0103rginenii de Jos"
+    ],
+    "name:fre_x_preferred":[
+        "M\u0103rginenii de Jos"
+    ],
+    "name:ita_x_preferred":[
+        "M\u0103rginenii de Jos"
+    ],
+    "name:rum_x_preferred":[
+        "M\u0103rginenii de Jos"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0435\u0440\u0434\u0436\u0438\u043d\u0435\u043d\u0456\u0439-\u0434\u0435-\u0416\u043e\u0441"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Prahova",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Filipe\u015ftii de T\u00e2rg",
+    "qs:la_lc":"*RO42133214",
+    "qs:level":"locality",
+    "qs:loc":"M\u0103rginenii de Jos",
+    "qs:loc_alt":"Marginenii de Jos",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":673786,
+        "gp:id":875421,
+        "qs:id":411520,
+        "wd:id":"Q12122679"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"14370c4ea0dde88a6b99bdbe1f1d4200",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101792963,
+            "region_id":85687661
+        }
+    ],
+    "wof:id":101792963,
+    "wof:lastmodified":1514500039,
+    "wof:name":"M\u0103rginenii de Jos",
+    "wof:parent_id":85687661,
+    "wof:placetype":"locality",
+    "wof:population":3354,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.74804510029026,
+    44.94660847431635,
+    25.76676413128092,
+    44.96788276341812
+],
+  "geometry": {"coordinates":[[[25.76676413128092,44.96712519221643],[25.76651092357616,44.96624668102265],[25.76526720612645,44.96643609242778],[25.76501402729389,44.96555757632029],[25.76128288497557,44.96612571188149],[25.75875222393006,44.95734036715828],[25.75999576141282,44.95715103795908],[25.75847775571725,44.95187978225226],[25.75972117520786,44.95169045910399],[25.75870930663297,44.94817627345395],[25.75995264496891,44.94798694943671],[25.75969968552295,44.94710840285614],[25.75721303813293,44.94748702926586],[25.75696012593579,44.94660847431635],[25.75571680935508,44.94679776200303],[25.75596970314757,44.94767632041129],[25.75472636063557,44.94786559685008],[25.75674973954159,44.95489403956412],[25.74804510029026,44.95621875648891],[25.74829794074583,44.95709732951161],[25.74954150163603,44.95690812490653],[25.74979437094532,44.95778669302166],[25.75228150697296,44.95740823276532],[25.75253442355216,44.95828679251366],[25.75750867891554,44.95752968164845],[25.75877378676563,44.96192238944508],[25.75255548833303,44.96286882774348],[25.75306142041364,44.9646259353101],[25.75057397463928,44.96500442148886],[25.75133284056778,44.96764009272351],[25.75630792304639,44.9668830199999],[25.75656097293711,44.96776156033837],[25.76153600855048,44.96700423837518],[25.76178914257639,44.96788276341812],[25.76676413128092,44.96712519221643]]],"type":"Polygon"}
+}

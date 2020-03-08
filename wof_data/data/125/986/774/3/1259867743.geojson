@@ -1,0 +1,74 @@
+{
+  "id": 1259867743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.5335,45.32464,26.5335,45.32464",
+    "geom:latitude":45.32464,
+    "geom:longitude":26.5335,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"46554.0",
+    "gn:asciiname":"Colteni",
+    "gn:cc2":"RO",
+    "gn:country_code":"RO",
+    "gn:dem":395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":681053,
+    "gn:latitude":45.32464,
+    "gn:longitude":26.5335,
+    "gn:modification_date":"2013-04-21",
+    "gn:name":"Col\u021beni",
+    "gn:population":69,
+    "gn:timezone":"Europe/Bucharest",
+    "iso:country":"RO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Coltieni",
+        "Col\u0163eni"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":681053
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"bbdca8b05ce023fbf6e05d79702b62bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1259867743,
+            "region_id":85687667
+        }
+    ],
+    "wof:id":1259867743,
+    "wof:lastmodified":1537683593,
+    "wof:name":"Colteni",
+    "wof:parent_id":85687667,
+    "wof:placetype":"locality",
+    "wof:population":69,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.5335,
+    45.32464,
+    26.5335,
+    45.32464
+],
+  "geometry": {"coordinates":[26.5335,45.32464],"type":"Point"}
+}

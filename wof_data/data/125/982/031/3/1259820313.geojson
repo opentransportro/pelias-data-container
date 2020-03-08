@@ -1,0 +1,74 @@
+{
+  "id": 1259820313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.88833,44.6866,23.88833,44.6866",
+    "geom:latitude":44.6866,
+    "geom:longitude":23.88833,
+    "gn:admin1_code":"39",
+    "gn:admin2_code":"174511.0",
+    "gn:asciiname":"Lacustenii de Jos",
+    "gn:cc2":"RO",
+    "gn:country_code":"RO",
+    "gn:dem":219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":675090,
+    "gn:latitude":44.6866,
+    "gn:longitude":23.88833,
+    "gn:modification_date":"2013-04-21",
+    "gn:name":"L\u0103custenii de Jos",
+    "gn:population":270,
+    "gn:timezone":"Europe/Bucharest",
+    "iso:country":"RO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Risipi\u0163i",
+        "L\u0103custenii de Jos"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":675090
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"f257f6868be36d95afe6e881f7abcd35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1259820313,
+            "region_id":85687643
+        }
+    ],
+    "wof:id":1259820313,
+    "wof:lastmodified":1537683488,
+    "wof:name":"Lacustenii de Jos",
+    "wof:parent_id":85687643,
+    "wof:placetype":"locality",
+    "wof:population":270,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.88833,
+    44.6866,
+    23.88833,
+    44.6866
+],
+  "geometry": {"coordinates":[23.88833,44.6866],"type":"Point"}
+}

@@ -1,0 +1,105 @@
+{
+  "id": 85901921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":7658548.281148,
+    "geom:bbox":"28.607954,44.212899,28.607954,44.212899",
+    "geom:latitude":44.212899,
+    "geom:longitude":28.607954,
+    "gn:latitude":44.2,
+    "gn:longitude":28.61667,
+    "iso:country":"RO",
+    "lbl:latitude":44.212899,
+    "lbl:longitude":28.607954,
+    "mps:latitude":44.207001,
+    "mps:longitude":28.607908,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "name:rum_x_preferred":[
+        "Tomis Nord"
+    ],
+    "name:unk_x_variant":[
+        "Tomis Nord"
+    ],
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":0,
+    "qs:gn_namadm1":"00",
+    "qs:gn_name":"Tomis Nord",
+    "qs:local_max":1553,
+    "qs:local_sum":2350,
+    "qs:localhoods":5,
+    "qs:name":"Tomis Nord",
+    "qs:name_adm0":"Rom\u00e2nia",
+    "qs:name_adm1":"Constanta",
+    "qs:name_local":"Constan\u021ba",
+    "qs:photo_max":89,
+    "qs:photo_sum":108,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":12,
+    "qs:woe_adm0":23424933,
+    "qs:woe_adm1":2346628,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":870151,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        101753939,
+        85633745,
+        85687633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":664810,
+        "gp:id":882011,
+        "qs:id":908997,
+        "qs_pg:id":908997
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"66795863bca85432ea65f6b1bdf00438",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101753939,
+            "neighbourhood_id":85901921,
+            "region_id":85687633
+        }
+    ],
+    "wof:id":85901921,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1531932599,
+    "wof:name":"Tomis Nord",
+    "wof:parent_id":101753939,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.607954,
+    44.212899,
+    28.607954,
+    44.212899
+],
+  "geometry": {"coordinates":[28.607954,44.212899],"type":"Point"}
+}

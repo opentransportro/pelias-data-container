@@ -1,0 +1,98 @@
+{
+  "id": 101791903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000157,
+    "geom:area_square_m":1377046.086922,
+    "geom:bbox":"26.6911925785,44.9492811165,26.7139929018,44.9600642111",
+    "geom:latitude":44.953743,
+    "geom:longitude":26.702739,
+    "gn:population":1146,
+    "iso:country":"RO",
+    "lbl:latitude":44.954093,
+    "lbl:longitude":26.702522,
+    "mps:latitude":44.954093,
+    "mps:longitude":26.702522,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Limpezi\u0219"
+    ],
+    "name:eng_x_preferred":[
+        "Limpezi\u0219"
+    ],
+    "name:fre_x_preferred":[
+        "Limpezi\u0219"
+    ],
+    "name:ita_x_preferred":[
+        "Limpezi\u0219"
+    ],
+    "name:rum_x_preferred":[
+        "Limpezi\u0219"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0456\u043c\u043f\u0435\u0437\u0456\u0448"
+    ],
+    "name:unk_x_variant":[
+        "Limpezi\u015ful"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Buzau",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Movila Banului",
+    "qs:la_lc":"*RO21047774",
+    "qs:level":"locality",
+    "qs:loc":"Limpezi\u015f",
+    "qs:loc_alt":"Limpezis",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":674779,
+        "gp:id":874668,
+        "qs:id":180580,
+        "wd:id":"Q12119683"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"6ecac4f6c8aa7185c68f80ac6e4526c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101791903,
+            "region_id":85687667
+        }
+    ],
+    "wof:id":101791903,
+    "wof:lastmodified":1514499995,
+    "wof:name":"Limpezi\u015f",
+    "wof:parent_id":85687667,
+    "wof:placetype":"locality",
+    "wof:population":1146,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.69119257853674,
+    44.94928111653411,
+    26.71399290175765,
+    44.96006421113589
+],
+  "geometry": {"coordinates":[[[26.70584318918355,44.95926197009874],[26.70557510142424,44.9583862649107],[26.70681598304094,44.9581856717034],[26.70627980428105,44.95643426396174],[26.71000229238439,44.95583241843258],[26.7102704307535,44.95670811211335],[26.71399290175765,44.956106123849],[26.71211578340785,44.94997631212021],[26.71087509484971,44.95017696391579],[26.71060699738371,44.94930126662814],[26.70440352611689,44.95030428774407],[26.70413553049724,44.94942857061824],[26.69917268302811,44.95023070938839],[26.69890477109385,44.94935497608549],[26.69394186911614,44.95015686600902],[26.69367404086927,44.94928111653411],[26.69119257853674,44.94968196635182],[26.69253164830775,44.95406073467467],[26.69377247429048,44.9538602988215],[26.6945761029375,44.95648753016064],[26.69705784008465,44.95608659260904],[26.69732577469426,44.95696232596424],[26.69856664951476,44.95676183157178],[26.69937057402859,44.9593890113232],[26.70061149541448,44.95918849132454],[26.7008795104847,44.96006421113589],[26.70584318918355,44.95926197009874]]],"type":"Polygon"}
+}

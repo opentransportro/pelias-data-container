@@ -1,0 +1,111 @@
+{
+  "id": 1125828255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.08333,47.66667,23.08333,47.66667",
+    "geom:latitude":47.66667,
+    "geom:longitude":23.08333,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2019,
+    "gn:population":2019,
+    "iso:country":"RO",
+    "lbl:latitude":47.66667,
+    "lbl:longitude":23.08333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Homorodu de Jos"
+    ],
+    "name:eng_x_preferred":[
+        "Homorodu de Jos"
+    ],
+    "name:epo_x_preferred":[
+        "Homorodu de Jos"
+    ],
+    "name:fre_x_preferred":[
+        "Homorodu de Jos"
+    ],
+    "name:hun_x_preferred":[
+        "Als\u00f3homor\u00f3d"
+    ],
+    "name:rum_x_preferred":[
+        "Homorodu de Jos"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u043e\u043c\u043e\u0440\u043e\u0434\u0443-\u0434\u0435-\u0416\u043e\u0441"
+    ],
+    "name:unk_x_variant":[
+        "Als\u00f3homor\u00f3d"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":676050,
+    "qs_pg:gn_pop":2019,
+    "qs_pg:name":"Homorodu de Jos",
+    "qs_pg:name_adm0":"Rom\u00e2nia",
+    "qs_pg:name_adm1":"Satu Mare",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1278651,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424933,
+    "qs_pg:woe_id":873747,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424933,
+    "woe:name_adm0":"Rom\u00e2nia",
+    "woe:name_adm1":"Satu Mare",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":676050,
+        "gp:id":873747,
+        "qs_pg:id":1278651,
+        "wd:id":"Q664596"
+    },
+    "wof:country":"RO",
+    "wof:created":1497292374,
+    "wof:geomhash":"0f85d4c331284c13a60aaacd48695ef9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125828255,
+            "region_id":85687757
+        }
+    ],
+    "wof:id":1125828255,
+    "wof:lastmodified":1514499969,
+    "wof:name":"Homorodu de Jos",
+    "wof:parent_id":85687757,
+    "wof:placetype":"locality",
+    "wof:population":2019,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.08333,
+    47.66667,
+    23.08333,
+    47.66667
+],
+  "geometry": {"coordinates":[23.08333,47.66667],"type":"Point"}
+}

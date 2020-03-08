@@ -1,0 +1,118 @@
+{
+  "id": 1125818575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.68333,46.65,23.68333,46.65",
+    "geom:latitude":46.65,
+    "geom:longitude":23.68333,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":371,
+    "iso:country":"RO",
+    "lbl:latitude":46.65,
+    "lbl:longitude":23.68333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "M\u0103rtine\u0219ti"
+    ],
+    "name:eng_x_preferred":[
+        "M\u0103rtine\u0219ti"
+    ],
+    "name:epo_x_preferred":[
+        "M\u0103rtine\u0219ti"
+    ],
+    "name:fre_x_preferred":[
+        "M\u0103rtine\u0219ti"
+    ],
+    "name:hun_x_preferred":[
+        "Pusztaszentm\u00e1rton"
+    ],
+    "name:ita_x_preferred":[
+        "M\u0103rtine\u0219ti"
+    ],
+    "name:rum_x_preferred":[
+        "M\u0103rtine\u0219ti"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0435\u0440\u0442\u0456\u043d\u0435\u0448\u0442\u044c"
+    ],
+    "name:unk_x_variant":[
+        "S\u00eenm\u0103rtinu De\u015fert"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":673736,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"M\u0103rtine\u0219ti",
+    "qs_pg:name_adm0":"Rom\u00e2nia",
+    "qs_pg:name_adm1":"Cluj",
+    "qs_pg:photos":50,
+    "qs_pg:photos_1k":10,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":50,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1167575,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424933,
+    "qs_pg:woe_id":875457,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424933,
+    "woe:name_adm0":"Rom\u00e2nia",
+    "woe:name_adm1":"Cluj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":673736,
+        "gp:id":875457,
+        "qs_pg:id":1167575,
+        "wd:id":"Q725224"
+    },
+    "wof:country":"RO",
+    "wof:created":1497291950,
+    "wof:geomhash":"5447e952bac7c9ab28f51bf635396c67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125818575,
+            "region_id":85687727
+        }
+    ],
+    "wof:id":1125818575,
+    "wof:lastmodified":1514500041,
+    "wof:name":"M\u0103rtine\u0219ti",
+    "wof:parent_id":85687727,
+    "wof:placetype":"locality",
+    "wof:population":371,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.68333,
+    46.65,
+    23.68333,
+    46.65
+],
+  "geometry": {"coordinates":[23.68333,46.65],"type":"Point"}
+}

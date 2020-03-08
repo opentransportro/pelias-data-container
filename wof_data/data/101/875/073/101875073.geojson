@@ -1,0 +1,91 @@
+{
+  "id": 101875073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000029,
+    "geom:area_square_m":245183.656281,
+    "geom:bbox":"26.422701056,47.4555503578,26.4336317232,47.45940726",
+    "geom:latitude":47.457386,
+    "geom:longitude":26.428567,
+    "gn:population":1685,
+    "iso:country":"RO",
+    "lbl:latitude":47.457557,
+    "lbl:longitude":26.42901,
+    "mps:latitude":47.457557,
+    "mps:longitude":26.42901,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Basarabi"
+    ],
+    "name:eng_x_preferred":[
+        "Basarabi"
+    ],
+    "name:ita_x_preferred":[
+        "Basarabi"
+    ],
+    "name:rum_x_preferred":[
+        "Basarabi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u0441\u0430\u0440\u0430\u0431\u0456 "
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Suceava",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Basarabi",
+    "qs:loc_alt":"Basarabi",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":685311,
+        "gp:id":866982,
+        "qs:id":5,
+        "wd:id":"Q12081132"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"5b409305601d2724a692f16c9d78b613",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101875073,
+            "region_id":85687773
+        }
+    ],
+    "wof:id":101875073,
+    "wof:lastmodified":1514499760,
+    "wof:name":"Basarabi",
+    "wof:parent_id":85687773,
+    "wof:placetype":"locality",
+    "wof:population":1685,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.42270105601614,
+    47.45555035776823,
+    26.43363172320892,
+    47.45940726004147
+],
+  "geometry": {"coordinates":[[[26.4331213428938,47.45555035776823],[26.42688252576653,47.45650453032022],[26.42659881073865,47.45562983925487],[26.42270105601614,47.45622566199728],[26.42355205318046,47.45884976579038],[26.42744999264266,47.45825390807363],[26.42773374449257,47.45912859476186],[26.43163166467815,47.45853258647412],[26.43191549038488,47.45940726004147],[26.43361415032047,47.45914746093428],[26.43362616238717,47.4589041169339],[26.43363172320892,47.45866054010921],[26.43363082888185,47.45841690145783],[26.43362348003381,47.45817337202081],[26.4336096818239,47.4579301227625],[26.43358944393882,47.45768732445057],[26.43356278058615,47.45744514753613],[26.43352971048428,47.45720376203403],[26.43349025684934,47.45696333740351],[26.43344444737886,47.45672404242931],[26.43339231423236,47.45648604510306],[26.43333389400873,47.45624951250544],[26.43326922772058,47.45601461068885],[26.43319836076542,47.4557815045608],[26.4331213428938,47.45555035776823]]],"type":"Polygon"}
+}

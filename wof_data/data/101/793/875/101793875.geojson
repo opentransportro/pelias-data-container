@@ -1,0 +1,117 @@
+{
+  "id": 101793875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00006,
+    "geom:area_square_m":528863.986259,
+    "geom:bbox":"22.3064333391,44.9449299659,22.3206631519,44.95602567",
+    "geom:latitude":44.950377,
+    "geom:longitude":22.313965,
+    "gn:population":2566,
+    "iso:country":"RO",
+    "lbl:latitude":44.950343,
+    "lbl:longitude":22.313965,
+    "mps:latitude":44.950343,
+    "mps:longitude":22.313965,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Iablani\u021ba"
+    ],
+    "name:eng_x_preferred":[
+        "Iablani\u021ba"
+    ],
+    "name:epo_x_preferred":[
+        "Iablani\u021ba"
+    ],
+    "name:fre_x_preferred":[
+        "Iablani\u021ba"
+    ],
+    "name:hun_x_preferred":[
+        "B\u00e9lajabl\u00e1nc"
+    ],
+    "name:ita_x_preferred":[
+        "Iablani\u021ba"
+    ],
+    "name:may_x_preferred":[
+        "Iablani\u021ba"
+    ],
+    "name:por_x_preferred":[
+        "Iablani\u021ba"
+    ],
+    "name:rum_x_preferred":[
+        "Iablani\u021ba"
+    ],
+    "name:ukr_x_preferred":[
+        "\u042f\u0431\u043b\u0430\u043d\u0456\u0446\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Bela Jablanica"
+    ],
+    "name:vie_x_preferred":[
+        "Iablanita"
+    ],
+    "name:vol_x_preferred":[
+        "Iablani\u021ba"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Caras-Severin",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:id":0,
+    "qs:la":"Iablani\u0163a",
+    "qs:la_lc":"*RO23053023",
+    "qs:level":"locality",
+    "qs:loc":"Iablani\u0163a",
+    "qs:loc_alt":"Iablanita",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":675872,
+        "gp:id":873877,
+        "qs:id":967696,
+        "wd:id":"Q75513"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"5cd175520db1b8e32a2fe220eeac6e16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101793875,
+            "region_id":85687627
+        }
+    ],
+    "wof:id":101793875,
+    "wof:lastmodified":1514499974,
+    "wof:name":"Iablani\u0163a",
+    "wof:parent_id":85687627,
+    "wof:placetype":"locality",
+    "wof:population":2566,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.30643333909518,
+    44.944929965911,
+    22.32066315189206,
+    44.9560256700475
+],
+  "geometry": {"coordinates":[[[22.31078285757388,44.95572938846971],[22.31038692870891,44.95395445712472],[22.31539443884367,44.95336173672501],[22.31519641007748,44.95247428031513],[22.31644825355187,44.95232606563764],[22.31625021386355,44.95143861085154],[22.31750203220872,44.95129038398255],[22.31730398159903,44.95040293082036],[22.31855577481605,44.95025469176022],[22.31835771328656,44.94936724022187],[22.31960948137623,44.94921898897127],[22.31941140892837,44.94833153905665],[22.32066315189206,44.9481832756162],[22.32026699341679,44.94640837792639],[22.31776357821951,44.946704878959],[22.317367529438,44.944929965911],[22.31611585125063,44.94507818858318],[22.31631385234562,44.9459656483923],[22.31381043977626,44.94626205443546],[22.3140084107805,44.94714951859788],[22.31275667639801,44.94729770196784],[22.31295463647996,44.94818516775331],[22.31170287697449,44.94833333893138],[22.31190082613307,44.94922080633995],[22.3106490415035,44.94936896532602],[22.31124288095327,44.95203136909811],[22.3074873187806,44.95247578108905],[22.30768522423102,44.95336325498874],[22.30643333909518,44.95351136520156],[22.30663123361535,44.95439884072414],[22.3078831379305,44.95425072778181],[22.30827899007676,44.9560256700475],[22.31078285757388,44.95572938846971]]],"type":"Polygon"}
+}

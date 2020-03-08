@@ -1,0 +1,76 @@
+{
+  "id": 1125836345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.53333,46.3,23.53333,46.3",
+    "geom:latitude":46.3,
+    "geom:longitude":23.53333,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":734,
+    "gn:population":734,
+    "iso:country":"RO",
+    "lbl:latitude":46.3,
+    "lbl:longitude":23.53333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":683617,
+    "qs_pg:gn_pop":734,
+    "qs_pg:name":"Brusturei",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":552284,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":683617,
+        "qs_pg:id":552284
+    },
+    "wof:country":"RO",
+    "wof:created":1497292731,
+    "wof:geomhash":"729991b9aa652cdfa5bf79798296c362",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125836345,
+            "region_id":85687697
+        }
+    ],
+    "wof:id":1125836345,
+    "wof:lastmodified":1509395002,
+    "wof:name":"Brusturei",
+    "wof:parent_id":85687697,
+    "wof:placetype":"locality",
+    "wof:population":734,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.53333,
+    46.3,
+    23.53333,
+    46.3
+],
+  "geometry": {"coordinates":[23.53333,46.3],"type":"Point"}
+}

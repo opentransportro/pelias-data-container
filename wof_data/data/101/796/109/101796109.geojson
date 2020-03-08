@@ -1,0 +1,98 @@
+{
+  "id": 101796109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0001,
+    "geom:area_square_m":888336.650907,
+    "geom:bbox":"24.248412528,43.8597507649,24.2642119635,43.8695831831",
+    "geom:latitude":43.864285,
+    "geom:longitude":24.256424,
+    "gn:population":1026,
+    "iso:country":"RO",
+    "lbl:latitude":43.864311,
+    "lbl:longitude":24.256424,
+    "mps:latitude":43.864311,
+    "mps:longitude":24.256424,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "St\u0103varu"
+    ],
+    "name:eng_x_preferred":[
+        "St\u0103varu"
+    ],
+    "name:fre_x_preferred":[
+        "St\u0103varu"
+    ],
+    "name:ita_x_preferred":[
+        "St\u0103varu"
+    ],
+    "name:rum_x_preferred":[
+        "St\u0103varu"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0442\u0435\u0432\u0430\u0440\u0443"
+    ],
+    "name:unk_x_variant":[
+        "St\u0103varul"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Olt",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Urzica",
+    "qs:la_lc":"*RO41129629",
+    "qs:level":"locality",
+    "qs:loc":"St\u0103varu",
+    "qs:loc_alt":"Stavaru",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":666257,
+        "gp:id":880956,
+        "qs:id":412927,
+        "wd:id":"Q12157623"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"4c978de4175403dce3b609305044861f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101796109,
+            "region_id":85687607
+        }
+    ],
+    "wof:id":101796109,
+    "wof:lastmodified":1514500167,
+    "wof:name":"St\u0103varu",
+    "wof:parent_id":85687607,
+    "wof:placetype":"locality",
+    "wof:population":1026,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.24841252798024,
+    43.8597507649464,
+    24.26421196346195,
+    43.86958318307995
+],
+  "geometry": {"coordinates":[[[24.25363848127824,43.86835785295142],[24.26098370160923,43.86733231877452],[24.26076162013214,43.86644874042429],[24.26320993949128,43.866106785829],[24.26298783133257,43.86522321223498],[24.26421196346195,43.86505221624071],[24.26287939697295,43.8597507649464],[24.24941476643124,43.86163072285274],[24.24963664190852,43.862514334872],[24.24841252798024,43.86268515621754],[24.24863439462138,43.8635687699466],[24.24985852640469,43.8633979455596],[24.25052423401144,43.86604876963077],[24.24930004865922,43.86621960314324],[24.24974386311857,43.86798681861535],[24.25096808418635,43.86781597901899],[24.25141197044888,43.86958318307995],[24.25386046463865,43.86924144823047],[24.25363848127824,43.86835785295142]]],"type":"Polygon"}
+}

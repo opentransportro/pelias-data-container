@@ -1,0 +1,116 @@
+{
+  "id": 101782527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000191,
+    "geom:area_square_m":1585513.362558,
+    "geom:bbox":"23.9111071045,47.8415593002,23.9353866143,47.8614238508",
+    "geom:latitude":47.849288,
+    "geom:longitude":23.925742,
+    "gn:population":1771,
+    "iso:country":"RO",
+    "lbl:latitude":47.847957,
+    "lbl:longitude":23.92795,
+    "mps:latitude":47.847957,
+    "mps:longitude":23.92795,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Berbe\u0219ti"
+    ],
+    "name:eng_x_preferred":[
+        "Berbe\u0219ti"
+    ],
+    "name:epo_x_preferred":[
+        "Berbe\u0219ti"
+    ],
+    "name:fre_x_preferred":[
+        "Berbe\u0219ti"
+    ],
+    "name:ger_x_preferred":[
+        "Berbe\u0219ti"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05e8\u05d1\u05e9\u05d8"
+    ],
+    "name:hun_x_preferred":[
+        "B\u00e1rdfalva"
+    ],
+    "name:ita_x_preferred":[
+        "Berbe\u0219ti"
+    ],
+    "name:rum_x_preferred":[
+        "Berbe\u0219ti"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u0440\u0431\u0435\u0448\u0442\u044c"
+    ],
+    "name:unk_x_variant":[
+        "Herbe\u015fti"
+    ],
+    "name:yid_x_preferred":[
+        "\u05d1\u05e2\u05e8\u05d1\u05e2\u05e9\u05d8"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Maramures",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Giule\u015fti",
+    "qs:la_lc":"*RO37108151",
+    "qs:level":"locality",
+    "qs:loc":"Berbe\u015fti",
+    "qs:loc_alt":"Berbesti",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":685088,
+        "gp:id":867144,
+        "qs:id":180427,
+        "qs_pg:id":128015,
+        "wd:id":"Q781602"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"f4e15a333a59ad2649ca1eb8f94f1848",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101782527,
+            "region_id":85687761
+        }
+    ],
+    "wof:id":101782527,
+    "wof:lastmodified":1514499764,
+    "wof:name":"Berbe\u015fti",
+    "wof:parent_id":85687761,
+    "wof:placetype":"locality",
+    "wof:population":1771,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.91110710449868,
+    47.84155930016982,
+    23.93538661430648,
+    47.8614238507563
+],
+  "geometry": {"coordinates":[[[23.93304756173887,47.85457716284918],[23.93231592968829,47.85193241585358],[23.93363238661982,47.85176349714146],[23.93290078614984,47.8491187498725],[23.93421717033499,47.84894982550128],[23.93348560144472,47.84630507795691],[23.9348019128937,47.84613614792698],[23.93407037558313,47.84349140010551],[23.93538661430648,47.8433224644175],[23.93489893310385,47.84155930016982],[23.93226653427359,47.84189714233401],[23.93251032627956,47.84277873176342],[23.92461281146677,47.84379190036486],[23.92485648445592,47.84467350882414],[23.9169585570873,47.84568613045428],[23.91671501384729,47.84480450182298],[23.91408235181865,47.84514190960488],[23.91432585180434,47.84602354495786],[23.91300948738598,47.84619222857663],[23.91325297644494,47.84707386613974],[23.91193658254673,47.84724253736306],[23.9124235495093,47.8490058157596],[23.91110710449868,47.84917447794726],[23.91159407100383,47.85093775846457],[23.91685997699068,47.85026298828706],[23.91710356282982,47.85114461337628],[23.92368587673798,47.85030077931623],[23.92417329685929,47.85206399241622],[23.92548977933023,47.85189517160768],[23.92573352709087,47.85277677306703],[23.92705002333355,47.85260793313762],[23.92948830667842,47.8614238507563],[23.93212170828912,47.86108605632103],[23.93138998091035,47.85844131332135],[23.93270660500173,47.85827240256344],[23.93173103205055,47.85474607590146],[23.93304756173887,47.85457716284918]]],"type":"Polygon"}
+}

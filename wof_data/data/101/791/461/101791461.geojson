@@ -1,0 +1,99 @@
+{
+  "id": 101791461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000069,
+    "geom:area_square_m":598659.551094,
+    "geom:bbox":"22.439146253,45.466388365,22.4549157201,45.4801400404",
+    "geom:latitude":45.475829,
+    "geom:longitude":22.449281,
+    "gn:population":1040,
+    "iso:country":"RO",
+    "lbl:latitude":45.476725,
+    "lbl:longitude":22.4494,
+    "mps:latitude":45.476725,
+    "mps:longitude":22.4494,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "M\u0103ru"
+    ],
+    "name:eng_x_preferred":[
+        "M\u0103ru"
+    ],
+    "name:fre_x_preferred":[
+        "M\u0103ru"
+    ],
+    "name:hun_x_preferred":[
+        "Almafa"
+    ],
+    "name:rum_x_preferred":[
+        "M\u0103ru"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0435\u0440\u0443"
+    ],
+    "name:unk_x_variant":[
+        "M\u0103rul"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Caras-Severin",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:id":0,
+    "qs:la":"Z\u0103voi",
+    "qs:la_lc":"*RO23054617",
+    "qs:level":"locality",
+    "qs:loc":"M\u0103ru",
+    "qs:loc_alt":"Maru",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":673726,
+        "gp:id":875466,
+        "qs:id":884569,
+        "wd:id":"Q623203"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"f4096a4a3ef96effe7fdaa205db9ac3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101791461,
+            "region_id":85687627
+        }
+    ],
+    "wof:id":101791461,
+    "wof:lastmodified":1514500041,
+    "wof:name":"M\u0103ru",
+    "wof:parent_id":85687627,
+    "wof:placetype":"locality",
+    "wof:population":1040,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.4391462530138,
+    45.46638836495561,
+    22.45491572010917,
+    45.48014004044052
+],
+  "geometry": {"coordinates":[[[22.45259239377339,45.47998997816131],[22.45238908512954,45.47910321733548],[22.45491572010917,45.47880305315948],[22.45206974780314,45.46638836495561],[22.45080670808147,45.46653841531139],[22.45222934736552,45.47274580592818],[22.4509661641373,45.47289586084173],[22.45116941290587,45.47378262934609],[22.44485330583808,45.47453269181722],[22.44505646504808,45.47541947324527],[22.44252993966541,45.47571939831454],[22.4427330681753,45.47660618425294],[22.44020647879972,45.4769060546252],[22.4404095766057,45.4777928450734],[22.4391462530138,45.47794276044772],[22.43934933973884,45.4788295526028],[22.44187601999141,45.47852970117185],[22.4416728940123,45.47764291462238],[22.44546280911459,45.47719303281235],[22.44607238933821,45.47985336394021],[22.45112575835174,45.47925327680929],[22.45132904736971,45.48014004044052],[22.45259239377339,45.47998997816131]]],"type":"Polygon"}
+}

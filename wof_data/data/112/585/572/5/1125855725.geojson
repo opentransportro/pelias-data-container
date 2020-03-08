@@ -1,0 +1,98 @@
+{
+  "id": 1125855725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.68333,46.01667,22.68333,46.01667",
+    "geom:latitude":46.01667,
+    "geom:longitude":22.68333,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":1071,
+    "gn:population":1071,
+    "iso:country":"RO",
+    "lbl:latitude":46.01667,
+    "lbl:longitude":22.68333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Vor\u021ba"
+    ],
+    "name:eng_x_preferred":[
+        "Vor\u021ba"
+    ],
+    "name:fre_x_preferred":[
+        "Vor\u021ba"
+    ],
+    "name:hun_x_preferred":[
+        "Vorca"
+    ],
+    "name:ita_x_preferred":[
+        "Vor\u021ba"
+    ],
+    "name:rum_x_preferred":[
+        "Vor\u021ba"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u043e\u0440\u0446\u0430"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":662457,
+    "qs_pg:gn_pop":1071,
+    "qs_pg:name":"Vor\u0163a",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":126610,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":662457,
+        "qs_pg:id":126610,
+        "wd:id":"Q5065980"
+    },
+    "wof:country":"RO",
+    "wof:created":1497293609,
+    "wof:geomhash":"df407358ffe2458330949b683ddb74e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125855725,
+            "region_id":85687671
+        }
+    ],
+    "wof:id":1125855725,
+    "wof:lastmodified":1514500249,
+    "wof:name":"Vor\u0163a",
+    "wof:parent_id":85687671,
+    "wof:placetype":"locality",
+    "wof:population":1071,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.68333,
+    46.01667,
+    22.68333,
+    46.01667
+],
+  "geometry": {"coordinates":[22.68333,46.01667],"type":"Point"}
+}

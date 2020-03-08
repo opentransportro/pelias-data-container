@@ -1,0 +1,116 @@
+{
+  "id": 1125775057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.85,46.91667,24.85,46.91667",
+    "geom:latitude":46.91667,
+    "geom:longitude":24.85,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":2216,
+    "gn:population":2216,
+    "iso:country":"RO",
+    "lbl:latitude":46.91667,
+    "lbl:longitude":24.85,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Ru\u0219ii-Mun\u021bi"
+    ],
+    "name:eng_x_preferred":[
+        "Ru\u0219ii-Mun\u021bi"
+    ],
+    "name:epo_x_preferred":[
+        "Ru\u0219ii Mun\u021bi"
+    ],
+    "name:fre_x_preferred":[
+        "Rusii-Mun\u021bi"
+    ],
+    "name:hun_x_preferred":[
+        "Marosoroszfalu"
+    ],
+    "name:ita_x_preferred":[
+        "Ru\u0219ii-Mun\u021bi"
+    ],
+    "name:may_x_preferred":[
+        "Ru\u0219ii-Mun\u021bi"
+    ],
+    "name:por_x_preferred":[
+        "Ru\u0219ii-Mun\u021bi"
+    ],
+    "name:rum_x_preferred":[
+        "Ru\u0219ii-Mun\u021bi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0443\u0448\u0456\u0439-\u041c\u0443\u043d\u0446\u044c"
+    ],
+    "name:unk_x_variant":[
+        "Marosoroszfal\u00f9"
+    ],
+    "name:vie_x_preferred":[
+        "Rusii Munti"
+    ],
+    "name:vol_x_preferred":[
+        "Ru\u0219ii-Mun\u021bi"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":668382,
+    "qs_pg:gn_pop":2216,
+    "qs_pg:name":"Ru\u015fii Mun\u0163i",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1027475,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":668382,
+        "qs_pg:id":1027475,
+        "wd:id":"Q1087806"
+    },
+    "wof:country":"RO",
+    "wof:created":1497290223,
+    "wof:geomhash":"06ca7d3f6861f119bee44b1193705d30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125775057,
+            "region_id":85687719
+        }
+    ],
+    "wof:id":1125775057,
+    "wof:lastmodified":1514500121,
+    "wof:name":"Ru\u015fii Mun\u0163i",
+    "wof:parent_id":85687719,
+    "wof:placetype":"locality",
+    "wof:population":2216,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.85,
+    46.91667,
+    24.85,
+    46.91667
+],
+  "geometry": {"coordinates":[24.85,46.91667],"type":"Point"}
+}

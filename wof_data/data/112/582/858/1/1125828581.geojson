@@ -1,0 +1,102 @@
+{
+  "id": 1125828581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.65,44.58333,24.65,44.58333",
+    "geom:latitude":44.58333,
+    "geom:longitude":24.65,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3581,
+    "gn:population":3581,
+    "iso:country":"RO",
+    "lbl:latitude":44.58333,
+    "lbl:longitude":24.65,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Opta\u0219i"
+    ],
+    "name:eng_x_preferred":[
+        "Opta\u0219i"
+    ],
+    "name:fre_x_preferred":[
+        "Opta\u0219i"
+    ],
+    "name:ita_x_preferred":[
+        "Opta\u0219i"
+    ],
+    "name:rum_x_preferred":[
+        "Opta\u0219i"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":671771,
+    "qs_pg:gn_pop":3581,
+    "qs_pg:name":"Opta\u0219i",
+    "qs_pg:name_adm0":"Rom\u00e2nia",
+    "qs_pg:name_adm1":"Olt",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1279042,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424933,
+    "qs_pg:woe_id":876888,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424933,
+    "woe:name_adm0":"Rom\u00e2nia",
+    "woe:name_adm1":"Olt",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":671771,
+        "gp:id":876888,
+        "qs_pg:id":1279042,
+        "wd:id":"Q12737214"
+    },
+    "wof:country":"RO",
+    "wof:created":1497292388,
+    "wof:geomhash":"410a18d34a10b18b8c29add27dcf55f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125828581,
+            "region_id":85687607
+        }
+    ],
+    "wof:id":1125828581,
+    "wof:lastmodified":1514500056,
+    "wof:name":"Opta\u0219i",
+    "wof:parent_id":85687607,
+    "wof:placetype":"locality",
+    "wof:population":3581,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.65,
+    44.58333,
+    24.65,
+    44.58333
+],
+  "geometry": {"coordinates":[24.65,44.58333],"type":"Point"}
+}

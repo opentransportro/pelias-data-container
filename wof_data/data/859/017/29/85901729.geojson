@@ -1,0 +1,103 @@
+{
+  "id": 85901729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1013906.033404,
+    "geom:bbox":"25.359192,47.363014,25.359192,47.363014",
+    "geom:latitude":47.363014,
+    "geom:longitude":25.359192,
+    "iso:country":"RO",
+    "lbl:latitude":47.363014,
+    "lbl:longitude":25.359192,
+    "mps:latitude":47.367454,
+    "mps:longitude":25.359487,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:ron_x_preferred":[
+        "R\u00e2ul Valea Cire\u0219ului"
+    ],
+    "name:rum_x_preferred":[
+        "Colbu"
+    ],
+    "name:unk_x_variant":[
+        "Colbu"
+    ],
+    "qs:gn_adm0_cc":"RO",
+    "qs:gn_id":0,
+    "qs:gn_local":663100,
+    "qs:gn_nam_loc":"Vatra Dornei, Suceava, RO",
+    "qs:gn_namadm1":"34",
+    "qs:id":0,
+    "qs:local_max":619,
+    "qs:local_sum":620,
+    "qs:localhoods":2,
+    "qs:name":"Colbu",
+    "qs:name_adm0":"Rom\u00e2nia",
+    "qs:name_adm1":"Suceava",
+    "qs:name_local":"Vatra Dornei",
+    "qs:photo_max":1,
+    "qs:photo_sum":1,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":1,
+    "qs:woe_adm0":23424933,
+    "qs:woe_adm1":2346647,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":883388,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":870018
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"1adeaa0c6ce1bb030220bf65b8c8ccd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":-1,
+            "neighbourhood_id":85901729,
+            "region_id":85687773
+        }
+    ],
+    "wof:id":85901729,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1531932554,
+    "wof:name":"Colbu",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.359192,
+    47.363014,
+    25.359192,
+    47.363014
+],
+  "geometry": {"coordinates":[25.359192,47.363014],"type":"Point"}
+}

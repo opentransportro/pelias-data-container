@@ -1,0 +1,110 @@
+{
+  "id": 101834495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000113,
+    "geom:area_square_m":983414.501222,
+    "geom:bbox":"25.4333060076,45.178017256,25.448795819,45.1936284095",
+    "geom:latitude":45.18675,
+    "geom:longitude":25.440513,
+    "gn:population":3298,
+    "iso:country":"RO",
+    "lbl:latitude":45.187586,
+    "lbl:longitude":25.439105,
+    "mps:latitude":45.187586,
+    "mps:longitude":25.439105,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Pietro\u0219i\u021ba"
+    ],
+    "name:eng_x_preferred":[
+        "Pietro\u0219i\u021ba"
+    ],
+    "name:fre_x_preferred":[
+        "Pietro\u0219i\u021ba"
+    ],
+    "name:ita_x_preferred":[
+        "Pietro\u0219i\u021ba"
+    ],
+    "name:may_x_preferred":[
+        "Pietro\u0219i\u021ba"
+    ],
+    "name:por_x_preferred":[
+        "Pietro\u0219i\u021ba"
+    ],
+    "name:rum_x_preferred":[
+        "Pietro\u0219i\u021ba"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f'\u0454\u0442\u0440\u043e\u0448\u0438\u0446\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Pietro\u015fi\u0163a"
+    ],
+    "name:vie_x_preferred":[
+        "Pietrosita"
+    ],
+    "name:vol_x_preferred":[
+        "Pietro\u0219i\u021ba"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*D\u00e2mbovita",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Buciumeni",
+    "qs:la_lc":"*RO27066438",
+    "qs:level":"locality",
+    "qs:loc":"Pietro\u015fita",
+    "qs:loc_alt":"Pietrosita",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":670815,
+        "gp:id":877595,
+        "qs:id":1279127,
+        "wd:id":"Q2606462"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"0fd846c46d48156127803d15adca1586",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101834495,
+            "region_id":85687637
+        }
+    ],
+    "wof:id":101834495,
+    "wof:lastmodified":1514500077,
+    "wof:name":"Pietro\u015fita",
+    "wof:parent_id":85687637,
+    "wof:placetype":"locality",
+    "wof:population":3298,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.433306007618,
+    45.1780172560176,
+    25.44879581895935,
+    45.19362840946775
+],
+  "geometry": {"coordinates":[[[25.44524383077112,45.19314909697903],[25.44504721921777,45.19245686862507],[25.44879581895935,45.19189969041469],[25.44854605699123,45.1910204434443],[25.44479751332341,45.19157761139661],[25.44404845781992,45.18893983126134],[25.44279898436668,45.18912551405651],[25.44205007818641,45.18648771099254],[25.44329949557306,45.18630203845191],[25.44280023921021,45.18454350287078],[25.44654833436323,45.18398641696768],[25.44554972173205,45.18046936992062],[25.44430043889628,45.18065506634707],[25.44355164423359,45.1780172560176],[25.44230240996251,45.17820292739509],[25.44255197914561,45.17908220233079],[25.44130271871575,45.17926786232908],[25.4415522795727,45.18014713927334],[25.44030299298265,45.1803327878921],[25.44055254551273,45.18121206684521],[25.43930323276084,45.18139770408345],[25.4395527769625,45.18227698504541],[25.433306007618,45.18320496635499],[25.43380494022171,45.18496355821861],[25.43505434641941,45.18477798472088],[25.43655150487405,45.19005370603844],[25.43530198653332,45.19023930003516],[25.43580108481973,45.19199786938253],[25.43705064054689,45.19181226855187],[25.437566229911,45.19362840946775],[25.44524383077112,45.19314909697903]]],"type":"Polygon"}
+}

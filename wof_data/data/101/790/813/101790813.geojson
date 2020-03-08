@@ -1,0 +1,142 @@
+{
+  "id": 101790813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000166,
+    "geom:area_square_m":1446865.245417,
+    "geom:bbox":"28.5206005578,45.0311896049,28.5428191716,45.0442350849",
+    "geom:latitude":45.036832,
+    "geom:longitude":28.532734,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":3817,
+    "gn:population":3817,
+    "iso:country":"RO",
+    "lbl:latitude":45.037162,
+    "lbl:longitude":28.534418,
+    "mps:latitude":45.037162,
+    "mps:longitude":28.534418,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0410\u043b\u0438\u0431\u0435\u0439\u043a\u044c\u043e\u0439"
+    ],
+    "name:dut_x_preferred":[
+        "Izvoarele"
+    ],
+    "name:eng_x_preferred":[
+        "Izvoarele"
+    ],
+    "name:fre_x_preferred":[
+        "Izvoarele"
+    ],
+    "name:hun_x_preferred":[
+        "Izvoarele"
+    ],
+    "name:ita_x_preferred":[
+        "Izvoarele"
+    ],
+    "name:por_x_preferred":[
+        "Izvoarele"
+    ],
+    "name:rum_x_colloquial":[
+        "Filimon Sirbu"
+    ],
+    "name:rum_x_preferred":[
+        "Izvoarele"
+    ],
+    "name:rum_x_variant":[
+        "Filimon S\u00eerbu"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406\u0437\u0432\u043e\u0430\u0440\u0435\u043b\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Filimon S\u00eerbu"
+    ],
+    "name:vie_x_preferred":[
+        "Izvoarele"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Tulcea",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Izvoarele",
+    "qs:la_lc":"*RO49160564",
+    "qs:level":"locality",
+    "qs:loc":"Izvoarele",
+    "qs:loc_alt":"Izvoarele",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":675384,
+    "qs_pg:gn_pop":3817,
+    "qs_pg:name":"Izvoarele",
+    "qs_pg:name_adm0":"Rom\u00e2nia",
+    "qs_pg:name_adm1":"Tulcea",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":411214,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424933,
+    "qs_pg:woe_id":874221,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a12fa2-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":675384,
+        "gp:id":874221,
+        "qs:id":411214,
+        "qs_pg:id":411214,
+        "wd:id":"Q1091573"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"62ccf19e0214c5ef322b85a6e1bdeba2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101790813,
+            "region_id":85687679
+        }
+    ],
+    "wof:id":101790813,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1534379452,
+    "wof:name":"Izvoarele",
+    "wof:parent_id":85687679,
+    "wof:placetype":"locality",
+    "wof:population":3817,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125967303
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.52060055778719,
+    45.03118960494623,
+    28.54281917158238,
+    45.04423508487241
+],
+  "geometry": {"coordinates":[[[28.5340690931771,45.04423508487241],[28.54025452172493,45.04312324629865],[28.53876507565997,45.03877489858581],[28.54123900820161,45.03833010189726],[28.54094112013007,45.03746043507817],[28.54217805547927,45.03723801899173],[28.54158228047942,45.03549868807602],[28.54281917158238,45.03527626554865],[28.54222340992476,45.03353693556943],[28.53974968981743,45.0339817499455],[28.53945186272949,45.03311207419824],[28.53821500720767,45.03333445556723],[28.53791721003728,45.03246477399586],[28.53668036344499,45.03268713680581],[28.53638259619061,45.03181744941065],[28.53390891207687,45.03226212339393],[28.5336111924608,45.03139242613804],[28.52990065353066,45.03205931609853],[28.52960299927599,45.03118960494623],[28.52341868057601,45.03230077762026],[28.52371624620127,45.03317050895396],[28.52247933837214,45.03339270396179],[28.52277689845431,45.03426243754791],[28.52153996410988,45.03448462206973],[28.52183751864823,45.03535435790843],[28.52060055778719,45.03557653194372],[28.5208981067799,45.03644627003484],[28.52213508537147,45.03622409196373],[28.5224326642807,45.03709382423602],[28.523669651815,45.03687162760662],[28.52396726064251,45.03774135405956],[28.52520425711828,45.03751913887095],[28.52550189586464,45.03838885950387],[28.52673890128182,45.03816662575622],[28.52703656994879,45.03903634056837],[28.52951058987071,45.03859182143111],[28.53070152830833,45.0420706305398],[28.53193859600657,45.04184833303515],[28.53253417385582,45.04358771880743],[28.53377126822448,45.04336539870201],[28.5340690931771,45.04423508487241]]],"type":"Polygon"}
+}

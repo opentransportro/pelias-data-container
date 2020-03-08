@@ -1,0 +1,69 @@
+{
+  "id": 1259939189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.88919,45.97569,23.88919,45.97569",
+    "geom:latitude":45.97569,
+    "geom:longitude":23.88919,
+    "gn:admin1_code":"33",
+    "gn:admin2_code":"145220.0",
+    "gn:asciiname":"Presaca",
+    "gn:country_code":"RO",
+    "gn:dem":361,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":669671,
+    "gn:latitude":45.97569,
+    "gn:longitude":23.88919,
+    "gn:modification_date":"2013-04-21",
+    "gn:name":"Presaca",
+    "gn:population":574,
+    "gn:timezone":"Europe/Bucharest",
+    "iso:country":"RO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":669671
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"8f5b727c240b4b14da0ddd23d28086f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1259939189,
+            "region_id":85687687
+        }
+    ],
+    "wof:id":1259939189,
+    "wof:lastmodified":1536699386,
+    "wof:name":"Presaca",
+    "wof:parent_id":85687687,
+    "wof:placetype":"locality",
+    "wof:population":574,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.88919,
+    45.97569,
+    23.88919,
+    45.97569
+],
+  "geometry": {"coordinates":[23.88919,45.97569],"type":"Point"}
+}

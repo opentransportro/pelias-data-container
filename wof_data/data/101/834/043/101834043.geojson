@@ -1,0 +1,103 @@
+{
+  "id": 101834043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000153,
+    "geom:area_square_m":1308276.145202,
+    "geom:bbox":"21.3694346953,46.2080614046,21.3916192614,46.2203156143",
+    "geom:latitude":46.214112,
+    "geom:longitude":21.381593,
+    "iso:country":"RO",
+    "lbl:latitude":46.213836,
+    "lbl:longitude":21.381593,
+    "mps:latitude":46.213836,
+    "mps:longitude":21.381593,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "S\u00e2nleani"
+    ],
+    "name:eng_x_preferred":[
+        "S\u00e2nleani"
+    ],
+    "name:epo_x_preferred":[
+        "S\u00e2nleani"
+    ],
+    "name:fre_x_preferred":[
+        "S\u00e2nleani"
+    ],
+    "name:ger_x_preferred":[
+        "S\u00e2nleani"
+    ],
+    "name:hun_x_preferred":[
+        "Szentle\u00e1nyfalva"
+    ],
+    "name:nds_x_preferred":[
+        "S\u00e2nleani"
+    ],
+    "name:rum_x_preferred":[
+        "S\u00e2nleani"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0438\u043d\u043b\u044f\u043d\u044c"
+    ],
+    "name:unk_x_variant":[
+        "S\u00eenleani"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Arad",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Livada",
+    "qs:la_lc":"*RO12009333",
+    "qs:level":"locality",
+    "qs:loc":"S\u00e2nleani",
+    "qs:loc_alt":"Sanleani",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":667011,
+        "gp:id":880414,
+        "qs:id":1279492,
+        "wd:id":"Q755590"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"e8be5029d3c10ab1af0d7f975c30acce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101834043,
+            "region_id":85687691
+        }
+    ],
+    "wof:id":101834043,
+    "wof:lastmodified":1514500177,
+    "wof:name":"S\u00e2nleani",
+    "wof:parent_id":85687691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.36943469526489,
+    46.20806140460752,
+    21.39161926143208,
+    46.22031561430396
+],
+  "geometry": {"coordinates":[[[21.38879020331581,46.22020809525122],[21.38872185439976,46.21988865540385],[21.38743913231406,46.22002624576874],[21.38667886568555,46.21647176275508],[21.3905267677215,46.21605897713818],[21.3903366597857,46.21517036185332],[21.39161926143208,46.21503273854364],[21.39028858990639,46.20881242277682],[21.38900613199445,46.20895002766287],[21.38881608912664,46.20806140460752],[21.38368628049079,46.20861165996882],[21.38406621010637,46.21038892615496],[21.37637107349474,46.21121387976791],[21.37618122782595,46.21032523138319],[21.37361617610378,46.21060008772724],[21.37418561426568,46.21326604574142],[21.37033780756576,46.21367823865376],[21.37071735038654,46.21545555491542],[21.36943469526489,46.21559292707138],[21.37000400878389,46.218258902076],[21.37385214131081,46.21784671584868],[21.37404199035808,46.2187353643597],[21.37532470992949,46.21859793558252],[21.37513484033957,46.21770928970034],[21.38411356809553,46.21674687632446],[21.38468363262427,46.21941275582935],[21.37955272001147,46.21996283011026],[21.37962814644192,46.22031561430396],[21.38879020331581,46.22020809525122]]],"type":"Polygon"}
+}

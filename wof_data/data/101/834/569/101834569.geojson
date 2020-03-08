@@ -1,0 +1,98 @@
+{
+  "id": 101834569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000094,
+    "geom:area_square_m":822395.506155,
+    "geom:bbox":"26.1968370262,44.9357273281,26.2155818713,44.9469069579",
+    "geom:latitude":44.940893,
+    "geom:longitude":26.208082,
+    "gn:population":1114,
+    "iso:country":"RO",
+    "lbl:latitude":44.942216,
+    "lbl:longitude":26.209786,
+    "mps:latitude":44.942216,
+    "mps:longitude":26.209786,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Albe\u0219ti-Muru"
+    ],
+    "name:eng_x_preferred":[
+        "Albe\u0219ti-Muru"
+    ],
+    "name:fre_x_preferred":[
+        "Albe\u0219ti-Muru"
+    ],
+    "name:ita_x_preferred":[
+        "Albe\u0219ti-Muru"
+    ],
+    "name:rum_x_preferred":[
+        "Albe\u0219ti-Muru"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043b\u0431\u0435\u0448\u0442\u044c-\u041c\u0443\u0440\u0443"
+    ],
+    "name:unk_x_variant":[
+        "Albe\u015fti-de Mur"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Prahova",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Albe\u015fti-Paleologu",
+    "qs:la_lc":"*RO42131933",
+    "qs:level":"locality",
+    "qs:loc":"Albe\u015fti-Muru",
+    "qs:loc_alt":"Albesti-Muru",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":686543,
+        "gp:id":866104,
+        "qs:id":4,
+        "wd:id":"Q12127975"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"681cd5768f7a9bfb84b2af5a0fcc554f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101834569,
+            "region_id":85687661
+        }
+    ],
+    "wof:id":101834569,
+    "wof:lastmodified":1514499734,
+    "wof:name":"Albe\u015fti-Muru",
+    "wof:parent_id":85687661,
+    "wof:placetype":"locality",
+    "wof:population":1114,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.19683702621768,
+    44.93572732805217,
+    26.21558187133286,
+    44.94690695793571
+],
+  "geometry": {"coordinates":[[[26.20847604931464,44.93628475380802],[26.2016133629067,44.93572732805217],[26.19683702621768,44.93647564013929],[26.19735670491292,44.93823017296802],[26.19859860675155,44.93803563371222],[26.19885848044726,44.93891289432605],[26.20382608373046,44.93813457638009],[26.20408604127823,44.93901182129292],[26.20532794107743,44.93881720157509],[26.20740813347066,44.94583507840906],[26.20616608737288,44.9460297265374],[26.20642614135818,44.94690695793571],[26.21263638601272,44.94593355279324],[26.2128965421669,44.94681076492691],[26.21538062249823,44.94642129304589],[26.21433991591101,44.94291246392243],[26.21558187133286,44.94271772018556],[26.21506154579998,44.94096330371389],[26.2138196269471,44.94115804034465],[26.21329938086319,44.93940361075636],[26.21205749084959,44.93959832560984],[26.21179740216905,44.93872110500934],[26.2105555227111,44.93891580163847],[26.21003541406645,44.93716134882663],[26.20879356344784,44.93735602368065],[26.20847604931464,44.93628475380802]]],"type":"Polygon"}
+}

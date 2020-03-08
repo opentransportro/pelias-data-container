@@ -1,0 +1,61 @@
+{
+  "id": 1108942645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.0545710602,44.4455747015,26.0545710602,44.4455747015",
+    "geom:latitude":44.445575,
+    "geom:longitude":26.054571,
+    "iso:country":"RO",
+    "lbl:latitude":44.445575,
+    "lbl:longitude":26.054571,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_metro":30,
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        101751949,
+        85633745,
+        85687595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"RO",
+    "wof:created":1491363233,
+    "wof:geomhash":"8463a3b5ef371f707f0ea3d1ce47b686",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101751949,
+            "neighbourhood_id":1108942645,
+            "region_id":85687595
+        }
+    ],
+    "wof:id":1108942645,
+    "wof:lastmodified":1492123644,
+    "wof:name":"Regie",
+    "wof:parent_id":101751949,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.05457106021972,
+    44.44557470146486,
+    26.05457106021972,
+    44.44557470146486
+],
+  "geometry": {"coordinates":[26.05457106021972,44.44557470146486],"type":"Point"}
+}

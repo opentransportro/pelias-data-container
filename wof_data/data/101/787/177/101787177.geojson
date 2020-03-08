@@ -1,0 +1,98 @@
+{
+  "id": 101787177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000113,
+    "geom:area_square_m":957607.473815,
+    "geom:bbox":"26.4943018774,46.4947509623,26.5240389717,46.5018345856",
+    "geom:latitude":46.498223,
+    "geom:longitude":26.508864,
+    "gn:population":1276,
+    "iso:country":"RO",
+    "lbl:latitude":46.498824,
+    "lbl:longitude":26.510103,
+    "mps:latitude":46.498824,
+    "mps:longitude":26.510103,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Valea Arinilor"
+    ],
+    "name:eng_x_preferred":[
+        "Valea Arinilor"
+    ],
+    "name:fre_x_preferred":[
+        "Valea Arinilor"
+    ],
+    "name:ita_x_preferred":[
+        "Valea Arinilor"
+    ],
+    "name:rum_x_preferred":[
+        "Valea Arinilor"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0430\u043b\u044f-\u0410\u0440\u0456\u043d\u0456\u043b\u043e\u0440"
+    ],
+    "name:unk_x_variant":[
+        "Valea-Aninilor"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Bacau",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"M\u0103gire\u015fti",
+    "qs:la_lc":"*RO14023387",
+    "qs:level":"locality",
+    "qs:loc":"Valea Arinilor",
+    "qs:loc_alt":"Valea Arinilor",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":663924,
+        "gp:id":882664,
+        "qs:id":413395,
+        "wd:id":"Q12087405"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"49afb5ccbdb6d6bb92e359ad63839d89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101787177,
+            "region_id":85687715
+        }
+    ],
+    "wof:id":101787177,
+    "wof:lastmodified":1514500231,
+    "wof:name":"Valea Arinilor",
+    "wof:parent_id":85687715,
+    "wof:placetype":"locality",
+    "wof:population":1276,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.4943018774299,
+    46.49475096234164,
+    26.52403897174435,
+    46.50183458559371
+],
+  "geometry": {"coordinates":[[[26.49796192712097,46.50163564066315],[26.49768496237454,46.50076050321866],[26.50406575948563,46.49976557068692],[26.50434282216048,46.50064068918869],[26.50561897550386,46.50044165353069],[26.50589606951701,46.50131676674994],[26.50844838970312,46.50091864249259],[26.50872553464052,46.50179374663855],[26.51255400948668,46.50119643547663],[26.51227680579944,46.5003213427027],[26.51355292738083,46.50012221253206],[26.51327571587109,46.49924712205501],[26.52093214810918,46.49805204627069],[26.52120947709614,46.49892711399673],[26.52248553874858,46.49872787799018],[26.52276289907741,46.49960294042796],[26.52403897174435,46.49940368550949],[26.52292952270665,46.49590344195741],[26.52037752542452,46.49630190633303],[26.52010023172522,46.49542683412153],[26.5188242398184,46.49562603984015],[26.51854697745529,46.49475096234164],[26.50706284135134,46.49654309935909],[26.50678576694298,46.49566798625182],[26.49785331906384,46.49706099740411],[26.49813025640123,46.49793613703031],[26.4943018774299,46.49853292637141],[26.49513258366011,46.50115837038277],[26.4964087772932,46.50095944436134],[26.49668572245241,46.50183458559371],[26.49796192712097,46.50163564066315]]],"type":"Polygon"}
+}

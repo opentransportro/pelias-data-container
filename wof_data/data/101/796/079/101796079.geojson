@@ -1,0 +1,120 @@
+{
+  "id": 101796079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000091,
+    "geom:area_square_m":808389.839084,
+    "geom:bbox":"22.9277950038,44.2754890792,22.9436467301,44.2875256231",
+    "geom:latitude":44.281734,
+    "geom:longitude":22.936399,
+    "gn:population":3322,
+    "iso:country":"RO",
+    "lbl:latitude":44.281093,
+    "lbl:longitude":22.9376,
+    "mps:latitude":44.281093,
+    "mps:longitude":22.9376,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041f\u0443\u043d\u0433\u0445\u0438\u043d\u0430"
+    ],
+    "name:dut_x_preferred":[
+        "Punghina"
+    ],
+    "name:eng_x_preferred":[
+        "Punghina"
+    ],
+    "name:fre_x_preferred":[
+        "Punghina"
+    ],
+    "name:ita_x_preferred":[
+        "Punghina"
+    ],
+    "name:may_x_preferred":[
+        "Punghina"
+    ],
+    "name:por_x_preferred":[
+        "Punghina"
+    ],
+    "name:rum_x_preferred":[
+        "Punghina"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0443\u043d\u0433\u0438\u043d\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0443\u043d\u0433\u0456\u043d\u0430"
+    ],
+    "name:vie_x_preferred":[
+        "Punghina"
+    ],
+    "name:vol_x_preferred":[
+        "Punghina"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Mehedinti",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Punghina",
+    "qs:la_lc":"*RO38113395",
+    "qs:level":"locality",
+    "qs:loc":"Punghina",
+    "qs:loc_alt":"Punghina",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a36eb6-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":669491,
+        "gp:id":878651,
+        "qs:id":1279243,
+        "qs_pg:id":1279243,
+        "wd:id":"Q2465407"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"862f7946d8c1eb0ddd20da11a3b2e931",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101796079,
+            "region_id":85687599
+        }
+    ],
+    "wof:id":101796079,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514500101,
+    "wof:name":"Punghina",
+    "wof:parent_id":85687599,
+    "wof:placetype":"locality",
+    "wof:population":3322,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.92779500380061,
+    44.27548907920618,
+    22.94364673005418,
+    44.28752562309649
+],
+  "geometry": {"coordinates":[[[22.9339625448859,44.2872149940693],[22.93335066270026,44.28455538859231],[22.93953061955568,44.2837786010208],[22.93993871737291,44.28555164446067],[22.94364673005418,44.28508537878054],[22.94323852139991,44.28331235218815],[22.94200256014216,44.28346778315637],[22.9413903654854,44.28080822590266],[22.94262627133133,44.28065280335812],[22.94221814655521,44.27887976484351],[22.94345400944047,44.278724333225],[22.94324994116459,44.27783781498681],[22.9420140967465,44.27799324379743],[22.94181005532363,44.27710672155922],[22.94057422335106,44.27726213287383],[22.94016620259254,44.27548907920618],[22.93893040153159,44.27564447021808],[22.9391343892529,44.27653100045484],[22.93666273213853,44.27684174402651],[22.9368666913079,44.27772827868432],[22.93563083525379,44.27788363124301],[22.9358347843372,44.27877016751518],[22.93336301723349,44.27908083417663],[22.93356693775877,44.27996737486922],[22.93109510963984,44.28027798838298],[22.93129900160363,44.28116453349548],[22.93006306004509,44.28131982102235],[22.93026694191667,44.28220636774904],[22.92779500380061,44.28251690434121],[22.92820271878662,44.28429000544219],[22.92943872780268,44.28413473888133],[22.92984651325872,44.28590782960833],[22.93108255320715,44.28575254274483],[22.93149040914216,44.28752562309649],[22.9339625448859,44.2872149940693]]],"type":"Polygon"}
+}

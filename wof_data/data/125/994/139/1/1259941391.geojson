@@ -1,0 +1,66 @@
+{
+  "id": 1259941391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.41667,47.0,26.41667,47.0",
+    "geom:latitude":47.0,
+    "geom:longitude":26.41667,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"122285.0",
+    "gn:asciiname":"Satu Nou",
+    "gn:country_code":"RO",
+    "gn:dem":407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":667813,
+    "gn:latitude":47.0,
+    "gn:longitude":26.41667,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Satu Nou",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bucharest",
+    "iso:country":"RO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":667813
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"5b22310042155ccf0a7b234e614f80ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1259941391,
+            "region_id":85687747
+        }
+    ],
+    "wof:id":1259941391,
+    "wof:lastmodified":1536696110,
+    "wof:name":"Satu Nou",
+    "wof:parent_id":85687747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.41667,
+    47.0,
+    26.41667,
+    47.0
+],
+  "geometry": {"coordinates":[26.41667,47.0],"type":"Point"}
+}

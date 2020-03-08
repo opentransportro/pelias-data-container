@@ -1,0 +1,89 @@
+{
+  "id": 101845045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000108,
+    "geom:area_square_m":958170.5658,
+    "geom:bbox":"23.9837905475,43.9702706727,24.0056586291,43.9787317358",
+    "geom:latitude":43.975128,
+    "geom:longitude":23.995565,
+    "gn:population":1389,
+    "iso:country":"RO",
+    "lbl:latitude":43.975338,
+    "lbl:longitude":23.995566,
+    "mps:latitude":43.975338,
+    "mps:longitude":23.995566,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Brabe\u021bi"
+    ],
+    "name:eng_x_preferred":[
+        "Brabe\u021bi"
+    ],
+    "name:rum_x_preferred":[
+        "Brabe\u021bi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0440\u0430\u0431\u0435\u0446\u044c "
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Dolj",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Dane\u0163i",
+    "qs:la_lc":"*RO28071956",
+    "qs:level":"locality",
+    "qs:loc":"Brabe\u0163i",
+    "qs:loc_alt":"Brabeti",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":683982,
+        "gp:id":874783,
+        "qs:id":9,
+        "wd:id":"Q12084517"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"d334bfdde29e928c9d5d2ea8e3ed481c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101845045,
+            "region_id":85687581
+        }
+    ],
+    "wof:id":101845045,
+    "wof:lastmodified":1514499788,
+    "wof:name":"Brabe\u0163i",
+    "wof:parent_id":85687581,
+    "wof:placetype":"locality",
+    "wof:population":1389,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.98379054749165,
+    43.97027067271506,
+    24.00565862914738,
+    43.97873173578853
+],
+  "geometry": {"coordinates":[[[23.99080032264987,43.97873173578853],[23.99816308453819,43.97772468148105],[23.9983817960113,43.97860884389581],[24.00451734525598,43.97776921707225],[24.00429854377916,43.97688506966256],[24.00552561645782,43.97671710367553],[24.00530680590003,43.97583295796386],[24.00407975122016,43.97600092094956],[24.00342342704573,43.97334846698766],[24.00465042773328,43.97318051300647],[24.00443165284497,43.97229636207976],[24.00565862914738,43.97212839655987],[24.00543984517992,43.9712442473305],[23.99316997468145,43.97292321822613],[23.99251421613991,43.97027067271506],[23.99006027340204,43.97060627442045],[23.99071592395597,43.97325883792229],[23.98948888901793,43.97342662595941],[23.98970743901828,43.97431081418677],[23.98602624190812,43.97481410004582],[23.98580774590937,43.97392990282458],[23.98458068544352,43.97409763269741],[23.9850176503428,43.97586603183299],[23.98379054749165,43.97603375315873],[23.98422751200707,43.97780215308211],[23.99036314246962,43.97696337105481],[23.99080032264987,43.97873173578853]]],"type":"Polygon"}
+}

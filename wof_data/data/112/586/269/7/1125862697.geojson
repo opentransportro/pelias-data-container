@@ -1,0 +1,98 @@
+{
+  "id": 1125862697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.26667,45.06667,27.26667,45.06667",
+    "geom:latitude":45.06667,
+    "geom:longitude":27.26667,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":1635,
+    "gn:population":1635,
+    "iso:country":"RO",
+    "lbl:latitude":45.06667,
+    "lbl:longitude":27.26667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Surdila-Greci"
+    ],
+    "name:eng_x_preferred":[
+        "Surdila-Greci"
+    ],
+    "name:fre_x_preferred":[
+        "Surdila-Greci"
+    ],
+    "name:ita_x_preferred":[
+        "Surdila-Greci"
+    ],
+    "name:rum_x_preferred":[
+        "Surdila-Greci"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0443\u0440\u0434\u0456\u043b\u0430-\u0413\u0440\u0435\u0447"
+    ],
+    "name:unk_x_variant":[
+        "Greci"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":665736,
+    "qs_pg:gn_pop":1635,
+    "qs_pg:name":"Surdila-Greci",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":126884,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":665736,
+        "qs_pg:id":126884,
+        "wd:id":"Q12158799"
+    },
+    "wof:country":"RO",
+    "wof:created":1497293898,
+    "wof:geomhash":"fe8f0a3a3b31bef8bb6a5931bffdb7e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125862697,
+            "region_id":85687663
+        }
+    ],
+    "wof:id":1125862697,
+    "wof:lastmodified":1514500174,
+    "wof:name":"Surdila-Greci",
+    "wof:parent_id":85687663,
+    "wof:placetype":"locality",
+    "wof:population":1635,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.26667,
+    45.06667,
+    27.26667,
+    45.06667
+],
+  "geometry": {"coordinates":[27.26667,45.06667],"type":"Point"}
+}

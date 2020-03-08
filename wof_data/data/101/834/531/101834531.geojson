@@ -1,0 +1,77 @@
+{
+  "id": 101834531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000066,
+    "geom:area_square_m":572464.350338,
+    "geom:bbox":"24.9985651546,45.1804202018,25.0135721387,45.1909523179",
+    "geom:latitude":45.186763,
+    "geom:longitude":25.004678,
+    "gn:population":2067,
+    "iso:country":"RO",
+    "lbl:latitude":45.188231,
+    "lbl:longitude":25.001665,
+    "mps:latitude":45.188231,
+    "mps:longitude":25.001665,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Arges",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Valea Mare Prav\u0103\u0163",
+    "qs:la_lc":"*RO13013524",
+    "qs:level":"locality",
+    "qs:loc":"L\u0103z\u0103re\u015fti",
+    "qs:loc_alt":"Lazaresti",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":674967,
+        "gp:id":869491,
+        "qs:id":7,
+        "wd:id":"Q12117500"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"007cadfdbae0cd114061aa3f4c0b8dbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101834531,
+            "region_id":85687645
+        }
+    ],
+    "wof:id":101834531,
+    "wof:lastmodified":1505338228,
+    "wof:name":"L\u0103z\u0103re\u015fti",
+    "wof:parent_id":85687645,
+    "wof:placetype":"locality",
+    "wof:population":2067,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.99856515457662,
+    45.18042020179882,
+    25.01357213872262,
+    45.19095231792807
+],
+  "geometry": {"coordinates":[[[25.01192858312328,45.18861152101073],[25.0113137537453,45.18638134995206],[25.01256432178093,45.18620081336547],[25.01232159676357,45.18532033437708],[25.01357213872262,45.18513978628982],[25.01332940499992,45.18425930926719],[25.01207888183205,45.18443985402746],[25.01183617698598,45.18355937231593],[25.009335146382,45.18392041069984],[25.00982049099343,45.18568138606821],[25.00731935609105,45.1860423784475],[25.00756200593617,45.18692287074293],[25.00381019258481,45.18746425807734],[25.00186972713476,45.18042020179882],[25.00061925846717,45.18060060798655],[25.00086176258208,45.18148112310746],[24.99961126784638,45.18166151779224],[25.00033878427752,45.18430306496634],[24.99908822588588,45.18448345479635],[24.99981577663266,45.18712499970286],[24.99856515457662,45.18730538467759],[24.9995698154454,45.19095231792807],[25.01192858312328,45.18861152101073]]],"type":"Polygon"}
+}

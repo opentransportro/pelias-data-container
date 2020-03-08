@@ -1,0 +1,101 @@
+{
+  "id": 1125863233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.0,44.78333,24.0,44.78333",
+    "geom:latitude":44.78333,
+    "geom:longitude":24.0,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":4561,
+    "gn:population":4561,
+    "iso:country":"RO",
+    "lbl:latitude":44.78333,
+    "lbl:longitude":24.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "F\u00e2rt\u0103\u021be\u0219ti"
+    ],
+    "name:eng_x_preferred":[
+        "F\u00e2rt\u0103\u021be\u0219ti"
+    ],
+    "name:fre_x_preferred":[
+        "F\u00e2rt\u0103\u021be\u0219ti"
+    ],
+    "name:ita_x_preferred":[
+        "F\u00e2rt\u0103\u021be\u0219ti"
+    ],
+    "name:por_x_preferred":[
+        "F\u00e2rt\u0103\u021be\u0219ti"
+    ],
+    "name:rum_x_preferred":[
+        "F\u00e2rt\u0103\u021be\u0219ti"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0424\u0438\u0440\u0442\u0435\u0446\u0435\u0448\u0442\u044c"
+    ],
+    "name:unk_x_variant":[
+        "F\u00eert\u0103\u0163e\u015fti"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":678421,
+    "qs_pg:gn_pop":4561,
+    "qs_pg:name":"F\u0103rt\u0103\u0163e\u015fti",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":127667,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":678421,
+        "qs_pg:id":127667,
+        "wd:id":"Q2297655"
+    },
+    "wof:country":"RO",
+    "wof:created":1497293923,
+    "wof:geomhash":"47964ae5db15630dd8585ac99ecacaa7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125863233,
+            "region_id":85687643
+        }
+    ],
+    "wof:id":1125863233,
+    "wof:lastmodified":1514499934,
+    "wof:name":"F\u0103rt\u0103\u0163e\u015fti",
+    "wof:parent_id":85687643,
+    "wof:placetype":"locality",
+    "wof:population":4561,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.0,
+    44.78333,
+    24.0,
+    44.78333
+],
+  "geometry": {"coordinates":[24.0,44.78333],"type":"Point"}
+}

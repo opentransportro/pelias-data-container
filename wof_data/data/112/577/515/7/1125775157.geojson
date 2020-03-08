@@ -1,0 +1,104 @@
+{
+  "id": 1125775157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.81667,43.8,24.81667,43.8",
+    "geom:latitude":43.8,
+    "geom:longitude":24.81667,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":3166,
+    "gn:population":3166,
+    "iso:country":"RO",
+    "lbl:latitude":43.8,
+    "lbl:longitude":24.81667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Li\u021ba"
+    ],
+    "name:eng_x_preferred":[
+        "Li\u021ba"
+    ],
+    "name:fre_x_preferred":[
+        "Li\u021ba"
+    ],
+    "name:ita_x_preferred":[
+        "Li\u021ba"
+    ],
+    "name:may_x_preferred":[
+        "Li\u021ba"
+    ],
+    "name:por_x_preferred":[
+        "Li\u021ba"
+    ],
+    "name:rum_x_preferred":[
+        "Li\u021ba"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0456\u0446\u0430"
+    ],
+    "name:vol_x_preferred":[
+        "Li\u021ba"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":674706,
+    "qs_pg:gn_pop":3166,
+    "qs_pg:name":"Li\u0163a",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1027763,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":674706,
+        "qs_pg:id":1027763,
+        "wd:id":"Q2549875"
+    },
+    "wof:country":"RO",
+    "wof:created":1497290226,
+    "wof:geomhash":"084212a189c0568990eec07fe893a877",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125775157,
+            "region_id":85687585
+        }
+    ],
+    "wof:id":1125775157,
+    "wof:lastmodified":1514499997,
+    "wof:name":"Li\u0163a",
+    "wof:parent_id":85687585,
+    "wof:placetype":"locality",
+    "wof:population":3166,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.81667,
+    43.8,
+    24.81667,
+    43.8
+],
+  "geometry": {"coordinates":[24.81667,43.8],"type":"Point"}
+}

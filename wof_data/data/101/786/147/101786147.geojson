@@ -1,0 +1,116 @@
+{
+  "id": 101786147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000095,
+    "geom:area_square_m":797829.607851,
+    "geom:bbox":"22.2567955853,47.3943799418,22.2760506339,47.4107787611",
+    "geom:latitude":47.401537,
+    "geom:longitude":22.265306,
+    "gn:population":1926,
+    "iso:country":"RO",
+    "lbl:latitude":47.401006,
+    "lbl:longitude":22.268369,
+    "mps:latitude":47.401006,
+    "mps:longitude":22.268369,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Budusl\u0103u"
+    ],
+    "name:eng_x_preferred":[
+        "Budusl\u0103u"
+    ],
+    "name:fre_x_preferred":[
+        "Budusl\u0103u"
+    ],
+    "name:hun_x_preferred":[
+        "\u00c9rbogyoszl\u00f3"
+    ],
+    "name:ita_x_preferred":[
+        "Budusl\u0103u"
+    ],
+    "name:rum_x_colloquial":[
+        "Buduslaeu",
+        "Buduslau",
+        "Buduslaul"
+    ],
+    "name:rum_x_preferred":[
+        "Budusl\u0103u"
+    ],
+    "name:rum_x_variant":[
+        "Budu\u0219l\u0103ul"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0443\u0434\u0443\u0441\u043b\u0435\u0443"
+    ],
+    "name:unk_x_variant":[
+        "Budu\u015fl\u0103ul"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Bihor",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Budusl\u0103u",
+    "qs:la_lc":"*RO15027908",
+    "qs:level":"locality",
+    "qs:loc":"Buduslau",
+    "qs:loc_alt":"Buduslau",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"039e2d70-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":683398,
+        "gp:id":868350,
+        "qs:id":127899,
+        "qs_pg:id":127899,
+        "wd:id":"Q15966806"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"f46c63bebbd98b0d39ff6cb7e0219a46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101786147,
+            "region_id":85687737
+        }
+    ],
+    "wof:id":101786147,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514499810,
+    "wof:name":"Buduslau",
+    "wof:parent_id":85687737,
+    "wof:placetype":"locality",
+    "wof:population":1926,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.2567955853354,
+    47.39437994177081,
+    22.27605063390718,
+    47.41077876107772
+],
+  "geometry": {"coordinates":[[[22.26136014231207,47.41048161414705],[22.26008854696215,47.40516581919081],[22.26139804122931,47.40501723976081],[22.26097420714717,47.40324530599418],[22.2622836515074,47.40309671671992],[22.26164790522228,47.40043881738694],[22.26557600357251,47.39999298170341],[22.26663595044056,47.40442276491331],[22.26794541077646,47.40427410692001],[22.26773338129897,47.40338815521068],[22.27428047335076,47.40264464424644],[22.27343201705315,47.39910088614488],[22.27605063390718,47.39880339527633],[22.27583849991913,47.39791745912629],[22.26929201463173,47.39866105378945],[22.26886799000124,47.39688914912841],[22.26755871568668,47.39703781506029],[22.26692281292708,47.39437994177081],[22.26561359648014,47.39452858318873],[22.26582553324715,47.39541454488545],[22.26451628846627,47.39556317352856],[22.26472821295027,47.39644913716074],[22.26341893983442,47.39659775302863],[22.26384277350053,47.39836968316587],[22.25729609064604,47.3991125561887],[22.2575079136015,47.39999853442771],[22.25881728529271,47.39984998831187],[22.25987664684834,47.40427984987247],[22.25856716735944,47.40442841065567],[22.25877904591113,47.40531438290787],[22.25746953807595,47.40546293091165],[22.25810516464816,47.40812085048373],[22.2567955853354,47.40826939157495],[22.25721933959272,47.41004133883604],[22.25852896203929,47.40989279187733],[22.25874087463944,47.41077876107772],[22.26136014231207,47.41048161414705]]],"type":"Polygon"}
+}

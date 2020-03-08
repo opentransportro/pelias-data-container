@@ -1,0 +1,135 @@
+{
+  "id": 101790787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000189,
+    "geom:area_square_m":1656478.878555,
+    "geom:bbox":"29.5795843121,44.8866507319,29.6094029327,44.9008012934",
+    "geom:latitude":44.894407,
+    "geom:longitude":29.594618,
+    "gn:population":979,
+    "iso:country":"RO",
+    "lbl:latitude":44.896006,
+    "lbl:longitude":29.594844,
+    "mps:latitude":44.896006,
+    "mps:longitude":29.594844,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Sf\u00e2ntu Gheorghe"
+    ],
+    "name:eng_x_preferred":[
+        "Kadirlez"
+    ],
+    "name:eng_x_variant":[
+        "Kedrilles",
+        "Saint George",
+        "St George",
+        "St. George",
+        "Sf\u00e2ntu Gheorghe"
+    ],
+    "name:fre_x_preferred":[
+        "Sf\u00e2ntu Gheorghe"
+    ],
+    "name:ger_x_preferred":[
+        "Sf\u00e2ntu Gheorghe"
+    ],
+    "name:hrv_x_preferred":[
+        "Sf\u00e2ntu Gheorghe"
+    ],
+    "name:hun_x_preferred":[
+        "Sf\u00e2ntu Gheorghe"
+    ],
+    "name:ita_x_preferred":[
+        "Sf\u00e2ntu Gheorghe"
+    ],
+    "name:may_x_preferred":[
+        "Sf\u00e2ntu Gheorghe"
+    ],
+    "name:por_x_preferred":[
+        "Sf\u00e2ntu Gheorghe"
+    ],
+    "name:rum_x_colloquial":[
+        "Sfantu-Gheorghe",
+        "Sfintu Gheorghe"
+    ],
+    "name:rum_x_preferred":[
+        "Sf\u00eentu Gheorghe"
+    ],
+    "name:rum_x_variant":[
+        "Sf\u00e2ntu-Gheorghe",
+        "Sf\u00e2ntu Gheorghe"
+    ],
+    "name:unk_x_variant":[
+        "Kedrilles"
+    ],
+    "name:vie_x_preferred":[
+        "Sf\u00e2ntu Gheorghe"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Tulcea",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Sf\u00e2ntu Gheorghe",
+    "qs:la_lc":"*RO49161231",
+    "qs:level":"locality",
+    "qs:loc":"Sf\u00e2ntu Gheorghe",
+    "qs:loc_alt":"Sfantu Gheorghe",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a4453e-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":667305,
+        "gp:id":880213,
+        "qs:id":127004,
+        "qs_pg:id":127004,
+        "wd:id":"Q1187750"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"b5705dd13f921de4c8475e35bf969b7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101790787,
+            "region_id":85687679
+        }
+    ],
+    "wof:id":101790787,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514500143,
+    "wof:name":"Sf\u00e2ntu Gheorghe",
+    "wof:parent_id":85687679,
+    "wof:placetype":"locality",
+    "wof:population":979,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.57958431207294,
+    44.88665073191765,
+    29.60940293265082,
+    44.90080129343238
+],
+  "geometry": {"coordinates":[[[29.59285124043117,44.90080129343238],[29.59777323772909,44.89986209381067],[29.59808664183015,44.9007281638539],[29.59931713549656,44.90049332372894],[29.59900371409503,44.89962725792003],[29.60023418127685,44.89939240763556],[29.59992075532591,44.89852634413126],[29.60115119602455,44.89829148368796],[29.59989755051606,44.89482722730952],[29.60235826598978,44.89435749711981],[29.60173145054171,44.89262537428709],[29.60665263294692,44.89168577508246],[29.60602573015274,44.8899536784034],[29.60725596821578,44.88971875109434],[29.60694251865101,44.88885270409327],[29.60940293265082,44.88838281477416],[29.60877600261279,44.88665073191765],[29.59770416160433,44.88876470434604],[29.59801746464615,44.88963078484454],[29.59309633859442,44.89056997092121],[29.59340958520494,44.89143606642034],[29.58602751704075,44.89284443916893],[29.58634067261067,44.89371055812944],[29.5814190411229,44.89464920236026],[29.58173214022986,44.89551533631607],[29.58050169211936,44.89574996561964],[29.58081478666043,44.89661610187852],[29.57958431207294,44.89685072101827],[29.58021050475872,44.89858299621483],[29.58390200481512,44.89787907022799],[29.58452835227683,44.8996113123294],[29.58945036229204,44.89867250896936],[29.58976362434657,44.89953861020007],[29.59099412120406,44.89930386914148],[29.59130741330438,44.90016996421093],[29.59253791828303,44.89993520452475],[29.59285124043117,44.90080129343238]]],"type":"Polygon"}
+}

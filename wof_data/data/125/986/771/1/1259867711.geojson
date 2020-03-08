@@ -1,0 +1,74 @@
+{
+  "id": 1259867711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.60038,45.22586,26.60038,45.22586",
+    "geom:latitude":45.22586,
+    "geom:longitude":26.60038,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"49643",
+    "gn:asciiname":"Barbuncesti",
+    "gn:cc2":"RO",
+    "gn:country_code":"RO",
+    "gn:dem":275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":685364,
+    "gn:latitude":45.22586,
+    "gn:longitude":26.60038,
+    "gn:modification_date":"2013-04-21",
+    "gn:name":"B\u0103rbunce\u0219ti",
+    "gn:population":175,
+    "gn:timezone":"Europe/Bucharest",
+    "iso:country":"RO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u0103buce\u015fti",
+        "B\u0103rbunce\u015fti"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":685364
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"0a938a9fffc42d36925b587dcc0ec2f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1259867711,
+            "region_id":85687667
+        }
+    ],
+    "wof:id":1259867711,
+    "wof:lastmodified":1537683662,
+    "wof:name":"Barbuncesti",
+    "wof:parent_id":85687667,
+    "wof:placetype":"locality",
+    "wof:population":175,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.60038,
+    45.22586,
+    26.60038,
+    45.22586
+],
+  "geometry": {"coordinates":[26.60038,45.22586],"type":"Point"}
+}

@@ -1,0 +1,98 @@
+{
+  "id": 101790697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000188,
+    "geom:area_square_m":1636384.241516,
+    "geom:bbox":"27.7417680383,45.2127739684,27.7651062625,45.227387197",
+    "geom:latitude":45.219863,
+    "geom:longitude":27.753562,
+    "gn:population":1121,
+    "iso:country":"RO",
+    "lbl:latitude":45.218539,
+    "lbl:longitude":27.751793,
+    "mps:latitude":45.218539,
+    "mps:longitude":27.751793,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Scor\u021baru Vechi"
+    ],
+    "name:eng_x_preferred":[
+        "Scor\u021baru Vechi"
+    ],
+    "name:fre_x_preferred":[
+        "Scor\u021baru Vechi"
+    ],
+    "name:ita_x_preferred":[
+        "Scor\u021baru Vechi"
+    ],
+    "name:rum_x_preferred":[
+        "Scor\u021baru Vechi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043a\u043e\u0440\u0446\u0430\u0440\u0443-\u0412\u0435\u043a\u0456"
+    ],
+    "name:unk_x_variant":[
+        "Scor\u0163arul Vechi"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Braila",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Tudor Vladimirescu",
+    "qs:la_lc":"*RO18044257",
+    "qs:level":"locality",
+    "qs:loc":"Scor\u0163aru Vechi",
+    "qs:loc_alt":"Scortaru Vechi",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":667588,
+        "gp:id":880012,
+        "qs:id":916512,
+        "wd:id":"Q12153368"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"658a1d58fd0c863978e32983f32484e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101790697,
+            "region_id":85687663
+        }
+    ],
+    "wof:id":101790697,
+    "wof:lastmodified":1514500137,
+    "wof:name":"Scor\u0163aru Vechi",
+    "wof:parent_id":85687663,
+    "wof:placetype":"locality",
+    "wof:population":1121,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.74176803831421,
+    45.21277396837667,
+    27.7651062625165,
+    45.22738719700237
+],
+  "geometry": {"coordinates":[[[27.7651062625165,45.22632078564709],[27.76367081702512,45.22196022759272],[27.76242740110484,45.22217351961939],[27.76070536546899,45.21694077103723],[27.75946204960985,45.21715402500922],[27.75860124572426,45.21453761631102],[27.75735797562157,45.2147508439412],[27.75707108273434,45.21387870044424],[27.75458455311747,45.21430510399654],[27.75429770824479,45.2134329510161],[27.75305444873277,45.21364612693856],[27.75276763377519,45.21277396837667],[27.7465512987194,45.21383960896026],[27.74741150755654,45.21645613810716],[27.74243806874233,45.21730843392299],[27.74301145555364,45.21905280948482],[27.74176803831421,45.21926585464468],[27.74234143617286,45.22101023128818],[27.74358488962361,45.22079717832975],[27.74473189956291,45.2242858958686],[27.74970591774371,45.22343347525202],[27.74999277220638,45.22430563483533],[27.751236273519,45.22409248918416],[27.75094940094954,45.22322033350173],[27.75592324840187,45.2223676201229],[27.75707109932125,45.22585617033621],[27.75831461225971,45.22564293978672],[27.75888864489468,45.22738719700237],[27.7651062625165,45.22632078564709]]],"type":"Polygon"}
+}

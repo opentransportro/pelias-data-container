@@ -1,0 +1,112 @@
+{
+  "id": 1125809823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.91667,47.18333,24.91667,47.18333",
+    "geom:latitude":47.18333,
+    "geom:longitude":24.91667,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":615,
+    "iso:country":"RO",
+    "lbl:latitude":47.18333,
+    "lbl:longitude":24.91667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Colibi\u021ba"
+    ],
+    "name:eng_x_preferred":[
+        "Colibi\u021ba"
+    ],
+    "name:fre_x_preferred":[
+        "Colibi\u021ba"
+    ],
+    "name:hun_x_preferred":[
+        "Kolibica"
+    ],
+    "name:ita_x_preferred":[
+        "Colibi\u021ba"
+    ],
+    "name:rum_x_preferred":[
+        "Colibi\u021ba"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u043b\u0456\u0431\u0456\u0446\u0430"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":681102,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Colibi\u021ba",
+    "qs_pg:name_adm0":"Rom\u00e2nia",
+    "qs_pg:name_adm1":"Bistrita-Nasaud",
+    "qs_pg:photos":332,
+    "qs_pg:photos_1k":67,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":332,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1083398,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424933,
+    "qs_pg:woe_id":870036,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424933,
+    "woe:name_adm0":"Rom\u00e2nia",
+    "woe:name_adm1":"Bistrita-Nasaud",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":681102,
+        "gp:id":870036,
+        "qs_pg:id":1083398,
+        "wd:id":"Q1115240"
+    },
+    "wof:country":"RO",
+    "wof:created":1497291610,
+    "wof:geomhash":"f3a144d3f1458b625c4a7848933eb3e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125809823,
+            "region_id":85687753
+        }
+    ],
+    "wof:id":1125809823,
+    "wof:lastmodified":1514499860,
+    "wof:name":"Colibi\u021ba",
+    "wof:parent_id":85687753,
+    "wof:placetype":"locality",
+    "wof:population":615,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.91667,
+    47.18333,
+    24.91667,
+    47.18333
+],
+  "geometry": {"coordinates":[24.91667,47.18333],"type":"Point"}
+}

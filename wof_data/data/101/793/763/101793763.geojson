@@ -1,0 +1,129 @@
+{
+  "id": 101793763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0003,
+    "geom:area_square_m":2654589.871701,
+    "geom:bbox":"27.3161720595,44.3183802654,27.3391897314,44.3447293209",
+    "geom:latitude":44.329313,
+    "geom:longitude":27.326053,
+    "gn:population":2467,
+    "iso:country":"RO",
+    "lbl:latitude":44.328009,
+    "lbl:longitude":27.32492,
+    "mps:latitude":44.328009,
+    "mps:longitude":27.32492,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0429\u0435\u0444\u0430\u043d \u0412\u043e\u0434\u044a"
+    ],
+    "name:dut_x_preferred":[
+        "\u0218tefan Vod\u0103"
+    ],
+    "name:eng_x_preferred":[
+        "\u0218tefan Vod\u0103"
+    ],
+    "name:fre_x_preferred":[
+        "\u0218tefan Vod\u0103"
+    ],
+    "name:ita_x_preferred":[
+        "\u0218tefan Vod\u0103"
+    ],
+    "name:may_x_preferred":[
+        "\u0218tefan Vod\u0103"
+    ],
+    "name:por_x_preferred":[
+        "\u0218tefan Vod\u0103"
+    ],
+    "name:rum_x_colloquial":[
+        "Faelcoianu",
+        "Falcoianu",
+        "General Faelcoianu",
+        "General Falcoianu",
+        "Stefan Voda"
+    ],
+    "name:rum_x_preferred":[
+        "\u015etefan Vod\u0103"
+    ],
+    "name:rum_x_variant":[
+        "F\u0103lcoianu",
+        "General F\u0103lcoianu",
+        "\u0218tefan Vod\u0103"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0442\u0435\u0444\u0430\u043d-\u0412\u043e\u0434\u0435"
+    ],
+    "name:unk_x_variant":[
+        "General F\u0103lcoianu"
+    ],
+    "name:vol_x_preferred":[
+        "\u0218tefan Vod\u0103"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Calarasi",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"\u015etefan Vod\u0103",
+    "qs:la_lc":"*RO22094580",
+    "qs:level":"locality",
+    "qs:loc":"\u015etefan Vod\u0103",
+    "qs:loc_alt":"Stefan Voda",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a4ac22-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":666214,
+        "gp:id":880967,
+        "qs:id":1027394,
+        "qs_pg:id":1027394,
+        "wd:id":"Q2537563"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"e876878664ccad162e4b9c8cf15da74c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101793763,
+            "region_id":85687615
+        }
+    ],
+    "wof:id":101793763,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514500273,
+    "wof:name":"\u015etefan Vod\u0103",
+    "wof:parent_id":85687615,
+    "wof:placetype":"locality",
+    "wof:population":2467,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.31617205954331,
+    44.31838026543431,
+    27.33918973144421,
+    44.34472932087851
+],
+  "geometry": {"coordinates":[[[27.32476622264909,44.34452172420708],[27.32449316634012,44.34364742512275],[27.32571914622378,44.34343981774418],[27.3254460834965,44.34256552072395],[27.3291239228592,44.3419426232071],[27.3283046436643,44.33931975567435],[27.32953052168438,44.33911210547171],[27.32843823465055,44.33561494051355],[27.32966403470652,44.33540729074844],[27.32939097316637,44.33453299909678],[27.33061674776377,44.33432533862731],[27.32979757716555,44.33170246491034],[27.33470038599933,44.33087172342618],[27.33388110523538,44.32824887941968],[27.33878357679919,44.32741795184529],[27.33796418592101,44.32479513754907],[27.33918973144421,44.3245873807611],[27.33864349131591,44.32283883706674],[27.33741798076773,44.32304658642579],[27.33714489481923,44.32217230838648],[27.33101731015876,44.32321082039584],[27.33074432273247,44.3223365221375],[27.3282932681563,44.32275181861297],[27.32692867209704,44.31838026543431],[27.31712483526132,44.32004072628399],[27.31739759240941,44.3209150699073],[27.31617205954331,44.32112256635736],[27.32217513415759,44.34035779039158],[27.32094920837818,44.34056535407478],[27.32204118268953,44.34406259661637],[27.32326717849537,44.34385501808015],[27.32354021729674,44.34472932087851],[27.32476622264909,44.34452172420708]]],"type":"Polygon"}
+}

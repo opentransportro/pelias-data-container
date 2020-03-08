@@ -1,0 +1,120 @@
+{
+  "id": 101784959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000099,
+    "geom:area_square_m":827757.455941,
+    "geom:bbox":"24.3154067081,47.3347353865,24.3330834435,47.3546340462",
+    "geom:latitude":47.344584,
+    "geom:longitude":24.325296,
+    "gn:population":1665,
+    "iso:country":"RO",
+    "lbl:latitude":47.343447,
+    "lbl:longitude":24.32543,
+    "mps:latitude":47.343447,
+    "mps:longitude":24.32543,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Runcu Salvei"
+    ],
+    "name:dut_x_preferred":[
+        "Runcu Salvei"
+    ],
+    "name:eng_x_preferred":[
+        "Runcul Salvei"
+    ],
+    "name:epo_x_preferred":[
+        "Runcu Salvei"
+    ],
+    "name:fre_x_preferred":[
+        "Runcu Salvei"
+    ],
+    "name:hun_x_preferred":[
+        "Runk"
+    ],
+    "name:ita_x_preferred":[
+        "Runcu Salvei"
+    ],
+    "name:may_x_preferred":[
+        "Runcu Salvei"
+    ],
+    "name:por_x_preferred":[
+        "Runcu Salvei"
+    ],
+    "name:rum_x_preferred":[
+        "Runcu Salvei"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0443\u043d\u043a\u0443-\u0421\u0430\u043b\u0432\u0435\u0439"
+    ],
+    "name:unk_x_variant":[
+        "Runcul Salvei"
+    ],
+    "name:vol_x_preferred":[
+        "Runcu Salvei"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Bistrita-Nasaud",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Runcu Salviei",
+    "qs:la_lc":"*RO16179944",
+    "qs:level":"locality",
+    "qs:loc":"Runcu Salvei",
+    "qs:loc_alt":"Runcu Salvei",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a3d324-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":668443,
+        "gp:id":879385,
+        "qs:id":1279343,
+        "wd:id":"Q647107"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"987af59a01056034a69f288813f176d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101784959,
+            "region_id":85687753
+        }
+    ],
+    "wof:id":101784959,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514500121,
+    "wof:name":"Runcu Salvei",
+    "wof:parent_id":85687753,
+    "wof:placetype":"locality",
+    "wof:population":1665,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.31540670811012,
+    47.33473538646632,
+    24.3330834434874,
+    47.35463404615518
+],
+  "geometry": {"coordinates":[[[24.33097194602379,47.34865534477393],[24.33047791924855,47.34689369294205],[24.3330834434874,47.34654676654282],[24.33258937564068,47.34478512346908],[24.33128665944446,47.34495858764114],[24.33054570114899,47.34231610372007],[24.32794037119049,47.34266296498242],[24.32744653662007,47.34090128935998],[24.32614390186126,47.34107468985519],[24.32490960808974,47.33667046256392],[24.32621213788218,47.33649707907341],[24.32571845344933,47.33473538646632],[24.32311346998284,47.33508212429268],[24.32385388677011,47.33772468178552],[24.32255132029854,47.33789803756838],[24.32329177059609,47.3405405943459],[24.32198913329722,47.34071394477479],[24.32248277844741,47.34247565003028],[24.32118009131023,47.34264899170427],[24.32142690897075,47.34352984591339],[24.32012419299036,47.34370317543141],[24.32037100037394,47.3445840318285],[24.31906825554887,47.34475734918999],[24.31931505265374,47.34563820777487],[24.31540670811012,47.34615807671668],[24.31590020846659,47.34791981064893],[24.31980867903172,47.34739992130829],[24.32030234830501,47.34916162999303],[24.32160519814494,47.34898829562928],[24.32086464730952,47.34634574098573],[24.32477296071897,47.34582567515673],[24.32526677656477,47.34758735905825],[24.32656957401002,47.34741396586492],[24.32731044124972,47.35005647241576],[24.32600758079411,47.3502298758151],[24.32724246911391,47.35463404615518],[24.3285454346032,47.35446062574277],[24.32755741845659,47.35093730550682],[24.32886029206594,47.35076388314678],[24.32836630637451,47.34900222255658],[24.33097194602379,47.34865534477393]]],"type":"Polygon"}
+}

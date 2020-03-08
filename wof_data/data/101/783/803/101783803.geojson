@@ -1,0 +1,83 @@
+{
+  "id": 101783803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000097,
+    "geom:area_square_m":817882.810569,
+    "geom:bbox":"27.5432059289,47.0631804271,27.5543069436,47.082326499",
+    "geom:latitude":47.073219,
+    "geom:longitude":27.549417,
+    "gn:population":1165,
+    "iso:country":"RO",
+    "lbl:latitude":47.074696,
+    "lbl:longitude":27.549796,
+    "mps:latitude":47.074696,
+    "mps:longitude":27.549796,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Baba Nicula"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Iasi",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Ciurea",
+    "qs:la_lc":"*RO35096254",
+    "qs:level":"locality",
+    "qs:loc":"Dumbrava",
+    "qs:loc_alt":"Dumbrava",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":678739,
+        "gp:id":871758,
+        "qs:id":43089,
+        "qs_pg:id":43089,
+        "wd:id":"Q12102849"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"2bbb981101fa2deb28f6bd4af6f5189d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101783803,
+            "region_id":85687769
+        }
+    ],
+    "wof:id":101783803,
+    "wof:lastmodified":1505337917,
+    "wof:name":"Dumbrava",
+    "wof:parent_id":85687769,
+    "wof:placetype":"locality",
+    "wof:population":1165,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.54320592887632,
+    47.06318042711456,
+    27.55430694357864,
+    47.08232649896001
+],
+  "geometry": {"coordinates":[[[27.55164576513658,47.08211465135599],[27.55134620417249,47.08124329380013],[27.55263272145879,47.08103143506406],[27.55233315348642,47.08016007998157],[27.55361964160028,47.07994821011363],[27.55302050445027,47.07820550328108],[27.55430694357864,47.07799362636916],[27.5492160090098,47.06318042711456],[27.54792990662662,47.06339223457394],[27.54822925115661,47.06426361623073],[27.54565697875387,47.06468719367587],[27.5459562964715,47.06555858188688],[27.54467012645017,47.06577035187172],[27.54526876066046,47.06751313162152],[27.54655497029421,47.06730135346919],[27.54745307700853,47.06991549874277],[27.54616680795033,47.07012728914771],[27.54706497042844,47.0727414321554],[27.54320592887632,47.07337674883183],[27.54350528253093,47.07424813886144],[27.54607802587265,47.07382460145863],[27.54877314153822,47.08166696561545],[27.55005967753203,47.08145513731745],[27.55035921867699,47.08232649896001],[27.55164576513658,47.08211465135599]]],"type":"Polygon"}
+}

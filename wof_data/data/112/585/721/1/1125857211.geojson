@@ -1,0 +1,98 @@
+{
+  "id": 1125857211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.25,47.31667,22.25,47.31667",
+    "geom:latitude":47.31667,
+    "geom:longitude":22.25,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":2962,
+    "gn:population":2962,
+    "iso:country":"RO",
+    "lbl:latitude":47.31667,
+    "lbl:longitude":22.25,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Abr\u0103mu\u021b"
+    ],
+    "name:eng_x_preferred":[
+        "Abr\u0103mu\u021b"
+    ],
+    "name:fre_x_preferred":[
+        "Abr\u0103mu\u021b"
+    ],
+    "name:hun_x_preferred":[
+        "Vedres\u00e1br\u00e1ny"
+    ],
+    "name:ita_x_preferred":[
+        "Abr\u0103mu\u021b"
+    ],
+    "name:rum_x_preferred":[
+        "Abr\u0103mu\u021b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0431\u0440\u0435\u043c\u0443\u0446"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":686715,
+    "qs_pg:gn_pop":2962,
+    "qs_pg:name":"Abr\u0103mu\u0163",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":275398,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":686715,
+        "qs_pg:id":275398,
+        "wd:id":"Q12724494"
+    },
+    "wof:country":"RO",
+    "wof:created":1497293669,
+    "wof:geomhash":"a4876092fa2eacb0f1d53a08068f43d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125857211,
+            "region_id":85687737
+        }
+    ],
+    "wof:id":1125857211,
+    "wof:lastmodified":1514499728,
+    "wof:name":"Abr\u0103mu\u0163",
+    "wof:parent_id":85687737,
+    "wof:placetype":"locality",
+    "wof:population":2962,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.25,
+    47.31667,
+    22.25,
+    47.31667
+],
+  "geometry": {"coordinates":[22.25,47.31667],"type":"Point"}
+}

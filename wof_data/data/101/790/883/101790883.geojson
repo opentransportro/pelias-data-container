@@ -1,0 +1,101 @@
+{
+  "id": 101790883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000074,
+    "geom:area_square_m":638531.386721,
+    "geom:bbox":"25.3782637973,45.541126477,25.3923475544,45.5580156373",
+    "geom:latitude":45.550778,
+    "geom:longitude":25.38413,
+    "gn:population":1393,
+    "iso:country":"RO",
+    "lbl:latitude":45.552197,
+    "lbl:longitude":25.384237,
+    "mps:latitude":45.552197,
+    "mps:longitude":25.384237,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Tohanu Nou"
+    ],
+    "name:eng_x_preferred":[
+        "Tohanu Nou"
+    ],
+    "name:epo_x_preferred":[
+        "Tohanu Nou"
+    ],
+    "name:hun_x_preferred":[
+        "\u00dajtoh\u00e1n"
+    ],
+    "name:rum_x_preferred":[
+        "Tohanu Nou"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u043e\u0445\u0430\u043d\u0443-\u041d\u043e\u0443"
+    ],
+    "name:unk_x_variant":[
+        "Neu-Tohan"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Brasov",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Z\u0103rne\u015fti",
+    "qs:la_lc":"*RO19040492",
+    "qs:level":"locality",
+    "qs:loc":"Tohanu Nou",
+    "qs:loc_alt":"Tohanu Nou",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":664845,
+        "gp:id":881984,
+        "qs:id":1096421,
+        "qs_pg:id":1096421,
+        "wd:id":"Q268804"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"f207dac88bb19f1d3bf6de0241bfce7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101790883,
+            "region_id":85687683
+        }
+    ],
+    "wof:id":101790883,
+    "wof:lastmodified":1514500202,
+    "wof:name":"Tohanu Nou",
+    "wof:parent_id":85687683,
+    "wof:placetype":"locality",
+    "wof:population":1393,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.37826379733752,
+    45.54112647704176,
+    25.39234755439162,
+    45.5580156372522
+],
+  "geometry": {"coordinates":[[[25.3845486399531,45.55783047784121],[25.38404587204582,45.55607218559163],[25.38781921821555,45.5555166385447],[25.38706497393662,45.55287922074763],[25.38958038587418,45.55250880215493],[25.38907753280836,45.55075053045141],[25.39033518932524,45.55056530567725],[25.38983234025227,45.54880703530171],[25.39234755439162,45.54843655480033],[25.39209610758144,45.54755742441654],[25.38580811028561,45.54848349661683],[25.38605946200386,45.54936264422309],[25.38228651532097,45.54991811894445],[25.38178393650861,45.54815980168109],[25.38052631045059,45.54834492321271],[25.37977257805233,45.54570742656779],[25.38103014705268,45.54552231536371],[25.38027645209809,45.54288481653958],[25.38153395644923,45.54269970075234],[25.38128272678017,45.54182053514057],[25.38002524144383,45.54200564748561],[25.37977404128753,45.54112647704176],[25.37851656736842,45.54131157103592],[25.37952135491918,45.54482825824033],[25.37826379733752,45.54501335109177],[25.38077631100117,45.55380500626416],[25.38203405879665,45.55361987898601],[25.38278807477735,45.55625733811428],[25.38153026990341,45.55644247572337],[25.38178161054856,45.55732162943104],[25.38303943444998,45.55713648837798],[25.38329080463012,45.5580156372522],[25.3845486399531,45.55783047784121]]],"type":"Polygon"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1125862499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.43333,47.71667,24.43333,47.71667",
+    "geom:latitude":47.71667,
+    "geom:longitude":24.43333,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":16321,
+    "gn:population":16938,
+    "iso:country":"RO",
+    "lbl:latitude":47.71667,
+    "lbl:longitude":24.43333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Fels\u00f6vis\u00f3"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":662699,
+    "qs_pg:gn_pop":16321,
+    "qs_pg:name":"Vi\u015feu de Sus",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":126630,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":662699,
+        "qs_pg:id":126630
+    },
+    "wof:country":"RO",
+    "wof:created":1497293888,
+    "wof:geomhash":"00dd3fec205ff0876a5604f9f04140a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125862499,
+            "region_id":85687761
+        }
+    ],
+    "wof:id":1125862499,
+    "wof:lastmodified":1509396721,
+    "wof:name":"Vi\u015feu de Sus",
+    "wof:parent_id":85687761,
+    "wof:placetype":"locality",
+    "wof:population":16938,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.43333,
+    47.71667,
+    24.43333,
+    47.71667
+],
+  "geometry": {"coordinates":[24.43333,47.71667],"type":"Point"}
+}

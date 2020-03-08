@@ -1,0 +1,93 @@
+{
+  "id": 101791905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000172,
+    "geom:area_square_m":1506783.349668,
+    "geom:bbox":"27.0649505199,44.9645790952,27.092232246,44.9775343071",
+    "geom:latitude":44.970779,
+    "geom:longitude":27.079064,
+    "gn:population":2922,
+    "iso:country":"RO",
+    "lbl:latitude":44.970713,
+    "lbl:longitude":27.078133,
+    "mps:latitude":44.970713,
+    "mps:longitude":27.078133,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Luciul"
+    ],
+    "name:rum_x_preferred":[
+        "Luciu"
+    ],
+    "name:unk_x_variant":[
+        "Luciul"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Buzau",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Luciu",
+    "qs:la_lc":"*RO21047300",
+    "qs:level":"locality",
+    "qs:loc":"Luciu",
+    "qs:loc_alt":"Luciu",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a17fac-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":674556,
+        "gp:id":874831,
+        "qs:id":1027752,
+        "qs_pg:id":1027752,
+        "wd:id":"Q3293603"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"609029f81e8163c391f1dea810563afd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101791905,
+            "region_id":85687667
+        }
+    ],
+    "wof:id":101791905,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1505337963,
+    "wof:name":"Luciu",
+    "wof:parent_id":85687667,
+    "wof:placetype":"locality",
+    "wof:population":2922,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.06495051988935,
+    44.96457909524122,
+    27.0922322460392,
+    44.97753430707183
+],
+  "geometry": {"coordinates":[[[27.0802367705266,44.97712424076076],[27.07968842678707,44.97537519260698],[27.08092857352989,44.9751701449938],[27.08065440048495,44.97429562224676],[27.08189452101527,44.97409056375056],[27.08162034115884,44.97321604313515],[27.08658066966359,44.97239567791689],[27.08630642875346,44.97152117064002],[27.08878650806975,44.97111090780083],[27.08851224227499,44.97023640639196],[27.0922322460392,44.96962091372035],[27.09168363981087,44.96787192850735],[27.0904436828398,44.96807709987365],[27.08934667798962,44.96457909524122],[27.07322743783914,44.96724479874268],[27.07350143713438,44.9681193508552],[27.07102139602591,44.96852924731223],[27.07129537042289,44.96940380528747],[27.07005531960402,44.96960873532305],[27.07115125750357,44.97310696612925],[27.06495051988935,44.97413147168498],[27.06577232028633,44.97675518395397],[27.07569383709074,44.97511571004998],[27.07596793779339,44.97599024773575],[27.07720810891868,44.97578524397818],[27.07775638031177,44.97753430707183],[27.0802367705266,44.97712424076076]]],"type":"Polygon"}
+}

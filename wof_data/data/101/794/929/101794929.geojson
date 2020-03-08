@@ -1,0 +1,110 @@
+{
+  "id": 101794929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000143,
+    "geom:area_square_m":1267498.500254,
+    "geom:bbox":"25.8698576048,44.2513049112,25.8971082282,44.2647064373",
+    "geom:latitude":44.257067,
+    "geom:longitude":25.881573,
+    "gn:population":2334,
+    "iso:country":"RO",
+    "lbl:latitude":44.256499,
+    "lbl:longitude":25.881366,
+    "mps:latitude":44.256499,
+    "mps:longitude":25.881366,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Iepure\u0219ti"
+    ],
+    "name:eng_x_preferred":[
+        "Iepure\u0219ti"
+    ],
+    "name:fre_x_preferred":[
+        "Iepure\u0219ti"
+    ],
+    "name:ita_x_preferred":[
+        "Iepure\u0219ti"
+    ],
+    "name:may_x_preferred":[
+        "Iepure\u0219ti"
+    ],
+    "name:por_x_preferred":[
+        "Iepure\u0219ti"
+    ],
+    "name:rum_x_preferred":[
+        "Iepure\u0219ti"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0404\u043f\u0443\u0440\u0435\u0448\u0442\u044c"
+    ],
+    "name:unk_x_variant":[
+        "Epure\u015fti"
+    ],
+    "name:vie_x_preferred":[
+        "Iepuresti"
+    ],
+    "name:vol_x_preferred":[
+        "Iepure\u0219ti"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Giurgiu",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Iepure\u015fti",
+    "qs:la_lc":"*RO30103693",
+    "qs:level":"locality",
+    "qs:loc":"Iepure\u015fti",
+    "qs:loc_alt":"Iepuresti",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":678555,
+        "gp:id":871912,
+        "qs:id":1083597,
+        "wd:id":"Q3786792"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"31e225fa27e2f0a014f40ce6f3a940c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101794929,
+            "region_id":85687591
+        }
+    ],
+    "wof:id":101794929,
+    "wof:lastmodified":1514499979,
+    "wof:name":"Iepure\u015fti",
+    "wof:parent_id":85687591,
+    "wof:placetype":"locality",
+    "wof:population":2334,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.86985760478615,
+    44.25130491122457,
+    25.89710822820456,
+    44.26470643732978
+],
+  "geometry": {"coordinates":[[[25.87772758965525,44.26394501127777],[25.87747771587811,44.2630662334056],[25.87870608269725,44.26287584404997],[25.87845620129298,44.26199706810405],[25.88091287739286,44.26161625271385],[25.88066297055627,44.26073748210752],[25.88434787647765,44.26016616050413],[25.88409792640869,44.25928739865066],[25.88532619596106,44.25909693252868],[25.88507623827149,44.25821817260214],[25.88876094966542,44.25764669747787],[25.88851094875389,44.25676794630573],[25.89710822820456,44.25543402077818],[25.89685811288712,44.25455529202321],[25.89562996984051,44.2547458928932],[25.89537988250777,44.25386715923406],[25.88923914659512,44.25481992903451],[25.88823925505403,44.25130491122457],[25.87472977611634,44.25339957872319],[25.87497953793968,44.25427837294353],[25.87375134186595,44.25446871367961],[25.87525001967145,44.2597414682599],[25.87402170946871,44.25993181496403],[25.87452131453767,44.26168939475951],[25.8732929614157,44.26187973378546],[25.87354276140866,44.26275852486623],[25.86985760478615,44.26332946516732],[25.87010736152695,44.26420826499668],[25.87256417553357,44.26382764580876],[25.87281397807294,44.26470643732978],[25.87772758965525,44.26394501127777]]],"type":"Polygon"}
+}

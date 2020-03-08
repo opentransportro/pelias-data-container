@@ -1,0 +1,104 @@
+{
+  "id": 85901801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":3260071.686215,
+    "geom:bbox":"24.696477,46.772471,24.696477,46.772471",
+    "geom:latitude":46.772471,
+    "geom:longitude":24.696477,
+    "iso:country":"RO",
+    "lbl:latitude":46.772471,
+    "lbl:longitude":24.696477,
+    "mps:latitude":46.765938,
+    "mps:longitude":24.700601,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:rum_x_colloquial":[
+        "Ierbus"
+    ],
+    "name:rum_x_preferred":[
+        "Ierbu\u0219"
+    ],
+    "name:unk_x_variant":[
+        "Ierbu\u0219"
+    ],
+    "qs:gn_adm0_cc":"RO",
+    "qs:gn_id":0,
+    "qs:gn_local":668997,
+    "qs:gn_nam_loc":"Reghin, Mures, RO",
+    "qs:gn_namadm1":"27",
+    "qs:id":0,
+    "qs:local_max":68,
+    "qs:local_sum":106,
+    "qs:localhoods":2,
+    "qs:name":"Ierbu\u0219",
+    "qs:name_adm0":"Rom\u00e2nia",
+    "qs:name_adm1":"Mures",
+    "qs:name_local":"Reghin",
+    "qs:photo_max":61,
+    "qs:photo_sum":68,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":4,
+    "qs:woe_adm0":23424933,
+    "qs:woe_adm1":2346640,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":878998,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        101833451,
+        85633745,
+        85687719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":873971
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"3ee6efc6419ba4f05fa6435808e2ec86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101833451,
+            "neighbourhood_id":85901801,
+            "region_id":85687719
+        }
+    ],
+    "wof:id":85901801,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1531932569,
+    "wof:name":"Ierbu\u0219",
+    "wof:parent_id":101833451,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.696477,
+    46.772471,
+    24.696477,
+    46.772471
+],
+  "geometry": {"coordinates":[24.696477,46.772471],"type":"Point"}
+}

@@ -1,0 +1,119 @@
+{
+  "id": 101790973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00012,
+    "geom:area_square_m":1037568.121219,
+    "geom:bbox":"24.6130296511,45.7737380334,24.6322443822,45.7881880247",
+    "geom:latitude":45.780704,
+    "geom:longitude":24.621354,
+    "gn:population":2733,
+    "iso:country":"RO",
+    "lbl:latitude":45.780194,
+    "lbl:longitude":24.621353,
+    "mps:latitude":45.780194,
+    "mps:longitude":24.621353,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cze_x_preferred":[
+        "Arpa\u0219u de Jos"
+    ],
+    "name:dut_x_preferred":[
+        "Arpa\u0219u de Jos"
+    ],
+    "name:eng_x_preferred":[
+        "Arpa\u0219u de Jos"
+    ],
+    "name:epo_x_preferred":[
+        "Arpa\u0219u de Jos"
+    ],
+    "name:fre_x_preferred":[
+        "Arpa\u0219u de Jos"
+    ],
+    "name:hun_x_preferred":[
+        "Als\u00f3\u00e1rp\u00e1s"
+    ],
+    "name:ita_x_preferred":[
+        "Arpa\u0219u de Jos"
+    ],
+    "name:may_x_preferred":[
+        "Arpa\u0219u de Jos"
+    ],
+    "name:por_x_preferred":[
+        "Arpa\u0219u de Jos"
+    ],
+    "name:rum_x_preferred":[
+        "Arpa\u0219u de Jos"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0440\u043f\u0430\u0448\u0443-\u0434\u0435-\u0416\u043e\u0441"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0440\u043f\u0430\u0448\u0443-\u0434\u0435-\u0416\u043e\u0441"
+    ],
+    "name:unk_x_variant":[
+        "Arpa\u015f"
+    ],
+    "name:vol_x_preferred":[
+        "Arpa\u0219u de Jos"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Sibiu",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Arpa\u015fu de Jos",
+    "qs:la_lc":"*RO45143959",
+    "qs:level":"locality",
+    "qs:loc":"Arpa\u015fu de Jos",
+    "qs:loc_alt":"Arpasu de Jos",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":686126,
+        "gp:id":866396,
+        "qs:id":180412,
+        "wd:id":"Q680107"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"5de21aa2d8d837d0d3cd357df4c37958",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101790973,
+            "region_id":85687687
+        }
+    ],
+    "wof:id":101790973,
+    "wof:lastmodified":1514499746,
+    "wof:name":"Arpa\u015fu de Jos",
+    "wof:parent_id":85687687,
+    "wof:placetype":"locality",
+    "wof:population":2733,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.61302965111423,
+    45.77373803337207,
+    24.63224438222591,
+    45.78818802472892
+],
+  "geometry": {"coordinates":[[[24.62103861955808,45.7880118693011],[24.62079799980285,45.78713077164565],[24.62206306287084,45.78695460448637],[24.62134120609113,45.78431131364169],[24.62893108075787,45.7832540544282],[24.62844966050949,45.78149189369918],[24.63224438222591,45.78096308096178],[24.63200362904865,45.78008200856596],[24.62947386074325,45.78043455881237],[24.6292331565233,45.77955347850428],[24.62796828077251,45.77972972777155],[24.62772760609448,45.77884864285824],[24.626462742417,45.77902487378674],[24.62550022261024,45.77550050791757],[24.61917618241665,45.77638137097347],[24.61845469002708,45.77373803337207],[24.61592513907686,45.77409025354757],[24.61664651498825,45.77673361096532],[24.61411681822221,45.77708579082378],[24.61435725826328,45.77796691397083],[24.61562212972859,45.77779082825612],[24.61682457878806,45.78219640800421],[24.61302965111423,45.78272466958504],[24.61327011302382,45.7836057915485],[24.61453511567152,45.78342971608743],[24.61477560712194,45.78431083345015],[24.61730562925203,45.78395863081494],[24.61802728086252,45.78660195529318],[24.61676221519889,45.7867780740396],[24.61700276655802,45.78765918290617],[24.61953292939421,45.78730692376894],[24.61977352972588,45.78818802472892],[24.62103861955808,45.7880118693011]]],"type":"Polygon"}
+}

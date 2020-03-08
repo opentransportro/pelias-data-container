@@ -1,0 +1,101 @@
+{
+  "id": 101836621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000096,
+    "geom:area_square_m":848284.649855,
+    "geom:bbox":"24.0298653075,44.4500178823,24.0561532036,44.4650465257",
+    "geom:latitude":44.456911,
+    "geom:longitude":24.042036,
+    "gn:population":1108,
+    "iso:country":"RO",
+    "lbl:latitude":44.455737,
+    "lbl:longitude":24.041837,
+    "mps:latitude":44.455737,
+    "mps:longitude":24.041837,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Gura C\u0103luiu"
+    ],
+    "name:eng_x_preferred":[
+        "Gura C\u0103luiu"
+    ],
+    "name:fre_x_preferred":[
+        "Gura C\u0103luiu"
+    ],
+    "name:ita_x_preferred":[
+        "Gura C\u0103luiu"
+    ],
+    "name:rum_x_preferred":[
+        "Gura C\u0103luiu"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0443\u0440\u0430-\u041a\u0435\u043b\u0443\u044e"
+    ],
+    "name:unk_x_variant":[
+        "Gura C\u0103luiul"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Olt",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"C\u0103lui",
+    "qs:la_lc":"*RO41130295",
+    "qs:level":"locality",
+    "qs:loc":"Gura C\u0103luiu",
+    "qs:loc_alt":"Gura Caluiu",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":676553,
+        "gp:id":873371,
+        "qs:id":43140,
+        "qs_pg:id":43140,
+        "wd:id":"Q12098474"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"e81e8b4d7b94e6f15217ee26f879c324",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101836621,
+            "region_id":85687607
+        }
+    ],
+    "wof:id":101836621,
+    "wof:lastmodified":1514499958,
+    "wof:name":"Gura C\u0103luiu",
+    "wof:parent_id":85687607,
+    "wof:placetype":"locality",
+    "wof:population":1108,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.02986530745756,
+    44.45001788229229,
+    24.05615320362875,
+    44.46504652569422
+],
+  "geometry": {"coordinates":[[[24.05615320362875,44.45515602576017],[24.05462939754511,44.45079430167618],[24.05384363885355,44.45090151244409],[24.05362107756542,44.45001788229229],[24.05238409886107,44.45018663467914],[24.05260664176694,44.45107026788588],[24.05136963810457,44.45123900865377],[24.05159217177538,44.4521226436255],[24.05035514315432,44.45229137277403],[24.05057766758841,44.45317500951114],[24.03696971663317,44.45503009519496],[24.03719204795436,44.45591376422931],[24.03471775283924,44.45625086785623],[24.03494005651959,44.45713454170624],[24.03246569834204,44.45747159273049],[24.03268797437767,44.4583552713957],[24.03145076704163,44.45852377794358],[24.03167303382241,44.45940745837254],[24.03043580152359,44.45957595329418],[24.03110260151249,44.46222699601088],[24.02986530745756,44.46239548540825],[24.03053213450659,44.46504652569422],[24.03424416253733,44.46454098600219],[24.03379949164542,44.46277364540919],[24.03503678438392,44.46260510892523],[24.03481444425393,44.46172143974968],[24.03605171202503,44.46155289163949],[24.03538469129961,44.45890188554284],[24.03785909676327,44.45856476360359],[24.03763673801905,44.45768109843362],[24.05615320362875,44.45515602576017]]],"type":"Polygon"}
+}

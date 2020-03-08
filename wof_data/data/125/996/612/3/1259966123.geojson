@@ -1,0 +1,69 @@
+{
+  "id": 1259966123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.0417,46.81942,23.0417,46.81942",
+    "geom:latitude":46.81942,
+    "geom:longitude":23.0417,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"59434.0",
+    "gn:asciiname":"Horlacea",
+    "gn:country_code":"RO",
+    "gn:dem":611,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":676001,
+    "gn:latitude":46.81942,
+    "gn:longitude":23.0417,
+    "gn:modification_date":"2013-04-21",
+    "gn:name":"Horlacea",
+    "gn:population":173,
+    "gn:timezone":"Europe/Bucharest",
+    "iso:country":"RO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":676001
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"92569590b9154cbb9a5fad83e9e360d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1259966123,
+            "region_id":85687727
+        }
+    ],
+    "wof:id":1259966123,
+    "wof:lastmodified":1536660247,
+    "wof:name":"Horlacea",
+    "wof:parent_id":85687727,
+    "wof:placetype":"locality",
+    "wof:population":173,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.0417,
+    46.81942,
+    23.0417,
+    46.81942
+],
+  "geometry": {"coordinates":[23.0417,46.81942],"type":"Point"}
+}

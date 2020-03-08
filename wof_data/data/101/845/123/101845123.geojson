@@ -1,0 +1,104 @@
+{
+  "id": 101845123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000033,
+    "geom:area_square_m":289412.52834,
+    "geom:bbox":"27.8737466875,44.4817332918,27.8826203333,44.4871664722",
+    "geom:latitude":44.484521,
+    "geom:longitude":27.878375,
+    "gn:population":5285,
+    "iso:country":"RO",
+    "lbl:latitude":44.484617,
+    "lbl:longitude":27.878734,
+    "mps:latitude":44.484617,
+    "mps:longitude":27.878734,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Bordu\u0219ani"
+    ],
+    "name:eng_x_preferred":[
+        "Bordu\u0219ani"
+    ],
+    "name:fre_x_preferred":[
+        "Bordu\u0219ani"
+    ],
+    "name:hun_x_preferred":[
+        "Bordu\u0219ani"
+    ],
+    "name:ita_x_preferred":[
+        "Bordu\u0219ani"
+    ],
+    "name:rum_x_preferred":[
+        "Bordu\u0219ani"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u0440\u0434\u0443\u0448\u0430\u043d\u044c "
+    ],
+    "name:unk_x_variant":[
+        "Bordu\u015fanii"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Ialomita",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Bordu\u015fani",
+    "qs:la_lc":"*RO34092989",
+    "qs:level":"locality",
+    "qs:loc":"Bordu\u015fani",
+    "qs:loc_alt":"Bordusani",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":684203,
+        "gp:id":867765,
+        "qs:id":127957,
+        "qs_pg:id":127957,
+        "wd:id":"Q12083983"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"049feca07533819d1f804dcbfeb8dc60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101845123,
+            "region_id":85687621
+        }
+    ],
+    "wof:id":101845123,
+    "wof:lastmodified":1514499782,
+    "wof:name":"Bordu\u015fani",
+    "wof:parent_id":85687621,
+    "wof:placetype":"locality",
+    "wof:population":5285,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.87374668754364,
+    44.48173329176183,
+    27.88262033332427,
+    44.48716647222608
+],
+  "geometry": {"coordinates":[[[27.88224173952284,44.48630943178023],[27.8813930881301,44.48369231908066],[27.88262033332427,44.4834780344483],[27.88205458826195,44.48173329176183],[27.87469120284248,44.48301873719549],[27.87497396481581,44.48389113244076],[27.87374668754364,44.48410532672386],[27.87459498999038,44.48672251370192],[27.87704964110583,44.48629408767448],[27.87733246651408,44.48716647222608],[27.88224173952284,44.48630943178023]]],"type":"Polygon"}
+}

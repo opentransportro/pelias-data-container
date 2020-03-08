@@ -1,0 +1,69 @@
+{
+  "id": 1259845737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.86823,45.42475,27.86823,45.42475",
+    "geom:latitude":45.42475,
+    "geom:longitude":27.86823,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"75711.0",
+    "gn:asciiname":"Traian",
+    "gn:country_code":"RO",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":664679,
+    "gn:latitude":45.42475,
+    "gn:longitude":27.86823,
+    "gn:modification_date":"2013-04-21",
+    "gn:name":"Traian",
+    "gn:population":433,
+    "gn:timezone":"Europe/Bucharest",
+    "iso:country":"RO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":664679
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"42011eedf55bde76d9fa15135ef923d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1259845737,
+            "region_id":85687709
+        }
+    ],
+    "wof:id":1259845737,
+    "wof:lastmodified":1536832618,
+    "wof:name":"Traian",
+    "wof:parent_id":85687709,
+    "wof:placetype":"locality",
+    "wof:population":433,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.86823,
+    45.42475,
+    27.86823,
+    45.42475
+],
+  "geometry": {"coordinates":[27.86823,45.42475],"type":"Point"}
+}

@@ -1,0 +1,95 @@
+{
+  "id": 101792739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000059,
+    "geom:area_square_m":518916.479937,
+    "geom:bbox":"25.9701800993,44.6879712832,25.9830976516,44.7014156376",
+    "geom:latitude":44.695396,
+    "geom:longitude":25.97532,
+    "gn:population":1302,
+    "iso:country":"RO",
+    "lbl:latitude":44.696089,
+    "lbl:longitude":25.974684,
+    "mps:latitude":44.696089,
+    "mps:longitude":25.974684,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Cioc\u0103nari"
+    ],
+    "name:eng_x_preferred":[
+        "Cioc\u0103nari"
+    ],
+    "name:fre_x_preferred":[
+        "Cioc\u0103nari"
+    ],
+    "name:ita_x_preferred":[
+        "Cioc\u0103nari"
+    ],
+    "name:rum_x_preferred":[
+        "Cioc\u0103nari"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u043e\u043a\u0435\u043d\u0430\u0440\u0456 "
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*D\u00e2mbovita",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Nicule\u015fti",
+    "qs:la_lc":"*RO27104387",
+    "qs:level":"locality",
+    "qs:loc":"Cioc\u0103nari",
+    "qs:loc_alt":"Ciocanari",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":681753,
+        "gp:id":869555,
+        "qs:id":1278199,
+        "wd:id":"Q12170407"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"85f2e135ca63ea7478902252e1d2f3d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101792739,
+            "region_id":85687637
+        }
+    ],
+    "wof:id":101792739,
+    "wof:lastmodified":1514499847,
+    "wof:name":"Cioc\u0103nari",
+    "wof:parent_id":85687637,
+    "wof:placetype":"locality",
+    "wof:population":1302,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.97018009925614,
+    44.68797128319727,
+    25.98309765162452,
+    44.70141563764514
+],
+  "geometry": {"coordinates":[[[25.97665635590835,44.6982059756524],[25.98036835394976,44.69763056242107],[25.98062298760897,44.6985086698121],[25.98309765162452,44.69812498094052],[25.98284298168676,44.69724688050758],[25.98160567158101,44.69743872877342],[25.98135103023674,44.69656062337754],[25.98011373074473,44.69675245354637],[25.97985911799253,44.69587434318805],[25.97738453271273,44.69625795271406],[25.97611180709856,44.69186734388825],[25.97734901281422,44.69167556382297],[25.97683995944089,44.68991931686355],[25.97807712136654,44.68972752913635],[25.97756807351823,44.68797128319727],[25.97509381467984,44.68835483012697],[25.97560278999526,44.69011108997438],[25.97436561302959,44.6903028484686],[25.97487459386235,44.69205910933658],[25.97363737310559,44.69225086016741],[25.97389186105647,44.69312899185354],[25.97018009925614,44.69370416707119],[25.97145242363888,44.69809485540998],[25.97268977579279,44.69790312757158],[25.97370789594078,44.70141563764514],[25.97494531314419,44.7012238812772],[25.97469074928762,44.70034575946084],[25.97592814082367,44.70015399195142],[25.97567356927584,44.69927587212976],[25.9769109351455,44.69908409347886],[25.97665635590835,44.6982059756524]]],"type":"Polygon"}
+}

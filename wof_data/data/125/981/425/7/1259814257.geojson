@@ -1,0 +1,71 @@
+{
+  "id": 1259814257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.8,44.01667,25.8,44.01667",
+    "geom:latitude":44.01667,
+    "geom:longitude":25.8,
+    "gn:admin1_code":"42",
+    "gn:admin2_code":"103899",
+    "gn:asciiname":"Buciumeni",
+    "gn:country_code":"RO",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":683570,
+    "gn:latitude":44.01667,
+    "gn:longitude":25.8,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Buciumeni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bucharest",
+    "iso:country":"RO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Trupu Buciumeni",
+        "Trupul Buciumeni",
+        "Buciumeni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":683570
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"b25ad85242b630a4530c42b0531a4dcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1259814257,
+            "region_id":85687591
+        }
+    ],
+    "wof:id":1259814257,
+    "wof:lastmodified":1537683634,
+    "wof:name":"Buciumeni",
+    "wof:parent_id":85687591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.8,
+    44.01667,
+    25.8,
+    44.01667
+],
+  "geometry": {"coordinates":[25.8,44.01667],"type":"Point"}
+}

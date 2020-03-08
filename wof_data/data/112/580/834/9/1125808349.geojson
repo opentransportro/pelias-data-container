@@ -1,0 +1,126 @@
+{
+  "id": 1125808349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.2,46.55,24.2,46.55",
+    "geom:latitude":46.55,
+    "geom:longitude":24.2,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":997,
+    "gn:population":997,
+    "iso:country":"RO",
+    "lbl:latitude":46.55,
+    "lbl:longitude":24.2,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Papiu Ilarian"
+    ],
+    "name:eng_x_preferred":[
+        "Papiu Ilarian"
+    ],
+    "name:epo_x_preferred":[
+        "Papiu Ilarian"
+    ],
+    "name:fre_x_preferred":[
+        "Papiu Ilarian"
+    ],
+    "name:ger_x_preferred":[
+        "Papiu Ilarian"
+    ],
+    "name:hun_x_preferred":[
+        "Mez\u0151bodon"
+    ],
+    "name:ita_x_preferred":[
+        "Papiu Ilarian"
+    ],
+    "name:por_x_preferred":[
+        "Papiu Ilarian"
+    ],
+    "name:rum_x_preferred":[
+        "Papiu Ilarian"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0430\u043f\u0456\u0443-\u0406\u043b\u0430\u0440\u0456\u0430\u043d"
+    ],
+    "name:unk_x_variant":[
+        "Budiu de C\u00eempie"
+    ],
+    "name:vie_x_preferred":[
+        "Papiu Ilarian"
+    ],
+    "name:vol_x_preferred":[
+        "Papiu Ilarian"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":671363,
+    "qs_pg:gn_pop":997,
+    "qs_pg:name":"Papiu Ilarian",
+    "qs_pg:name_adm0":"Rom\u00e2nia",
+    "qs_pg:name_adm1":"Mures",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":497658,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424933,
+    "qs_pg:woe_id":15002161,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424933,
+    "woe:name_adm0":"Rom\u00e2nia",
+    "woe:name_adm1":"Mures",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":671363,
+        "gp:id":15002161,
+        "qs_pg:id":497658,
+        "wd:id":"Q1092596"
+    },
+    "wof:country":"RO",
+    "wof:created":1497291554,
+    "wof:geomhash":"cbebae5ad99038dc1e230d9844e4e3cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125808349,
+            "region_id":85687719
+        }
+    ],
+    "wof:id":1125808349,
+    "wof:lastmodified":1514500064,
+    "wof:name":"Papiu Ilarian",
+    "wof:parent_id":85687719,
+    "wof:placetype":"locality",
+    "wof:population":997,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.2,
+    46.55,
+    24.2,
+    46.55
+],
+  "geometry": {"coordinates":[24.2,46.55],"type":"Point"}
+}

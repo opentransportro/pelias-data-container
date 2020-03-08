@@ -1,0 +1,134 @@
+{
+  "id": 101790043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000117,
+    "geom:area_square_m":997557.678565,
+    "geom:bbox":"24.9118691523,46.2343312592,24.9378603526,46.2480905267",
+    "geom:latitude":46.241702,
+    "geom:longitude":24.925199,
+    "gn:population":3702,
+    "iso:country":"RO",
+    "lbl:latitude":46.243534,
+    "lbl:longitude":24.92392,
+    "mps:latitude":46.243534,
+    "mps:longitude":24.92392,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "V\u00e2n\u0103tori"
+    ],
+    "name:eng_x_preferred":[
+        "V\u00e2n\u0103tori"
+    ],
+    "name:epo_x_preferred":[
+        "V\u00e2n\u0103tori"
+    ],
+    "name:fre_x_preferred":[
+        "V\u00e2n\u0103tori"
+    ],
+    "name:hun_x_preferred":[
+        "H\u00e9jjasfalva"
+    ],
+    "name:ita_x_preferred":[
+        "V\u00e2n\u0103tori"
+    ],
+    "name:may_x_preferred":[
+        "V\u00e2n\u0103tori"
+    ],
+    "name:por_x_preferred":[
+        "V\u00e2n\u0103tori"
+    ],
+    "name:rum_x_colloquial":[
+        "Hasfalau",
+        "Vanaetor",
+        "Vanaetori",
+        "Vanator",
+        "Vanatori",
+        "Vinaetori",
+        "Vinatori"
+    ],
+    "name:rum_x_preferred":[
+        "V\u00een\u0103tori"
+    ],
+    "name:rum_x_variant":[
+        "Ha\u0219fal\u0103u",
+        "V\u00e2n\u0103tor",
+        "V\u00e2n\u0103tori"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0438\u043d\u0435\u0442\u043e\u0440\u0456 "
+    ],
+    "name:unk_x_variant":[
+        "Ha\u015ffal\u0103u"
+    ],
+    "name:vol_x_preferred":[
+        "V\u00e2n\u0103tori"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Mures",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"V\u00e2n\u0103tori",
+    "qs:la_lc":"*RO39120254",
+    "qs:level":"locality",
+    "qs:loc":"V\u00e2n\u0103tori",
+    "qs:loc_alt":"Vanatori",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a5fd20-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":662840,
+        "gp:id":883587,
+        "qs:id":255928,
+        "qs_pg:id":255928,
+        "wd:id":"Q1057402"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"a1ac235bbb65491ec890064c9683642f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101790043,
+            "region_id":85687719
+        }
+    ],
+    "wof:id":101790043,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514500252,
+    "wof:name":"V\u00e2n\u0103tori",
+    "wof:parent_id":85687719,
+    "wof:placetype":"locality",
+    "wof:population":3702,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.91186915230895,
+    46.23433125921241,
+    24.93786035260763,
+    46.24809052669281
+],
+  "geometry": {"coordinates":[[[24.92763309449697,46.245430560974],[24.9271352217566,46.24367070877867],[24.92840996296007,46.24349065322065],[24.92816102266056,46.24261072856677],[24.93325983163811,46.24189036844183],[24.9330108228325,46.24101045614697],[24.93683478965573,46.24047003717232],[24.93658573212025,46.23959013381898],[24.93786035260763,46.23940996726969],[24.9373622297029,46.23765016345061],[24.93226385978448,46.23837071135921],[24.93201489322246,46.23749079379587],[24.93074030131436,46.23767088946687],[24.93024243939055,46.23591104355165],[24.92896787933148,46.23609111723135],[24.92847009915829,46.23433125921241],[24.92719557094767,46.23451131090206],[24.9281910944739,46.23803103534357],[24.92564185693777,46.2383911205992],[24.92589072468201,46.23927105525343],[24.92461607463974,46.23945107856508],[24.92486493317369,46.24033101532035],[24.91466729852038,46.24177068351639],[24.91441859813034,46.24089071943007],[24.91186915230895,46.24125047807746],[24.91286385899753,46.24477035385411],[24.92051257893331,46.24369081404791],[24.92175679290307,46.24809052669281],[24.9243065025621,46.24773052465309],[24.92405759910764,46.246850591591],[24.92660723851765,46.24649053575325],[24.92635830607816,46.24561060821156],[24.92763309449697,46.245430560974]]],"type":"Polygon"}
+}

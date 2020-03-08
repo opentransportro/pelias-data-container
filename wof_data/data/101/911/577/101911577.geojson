@@ -1,0 +1,107 @@
+{
+  "id": 101911577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000065,
+    "geom:area_square_m":568749.125828,
+    "geom:bbox":"22.0915157312,45.2190074947,22.108038128,45.2345097156",
+    "geom:latitude":45.225913,
+    "geom:longitude":22.098217,
+    "gn:population":126,
+    "iso:country":"RO",
+    "lbl:latitude":45.231598,
+    "lbl:longitude":22.09465,
+    "mps:latitude":45.231598,
+    "mps:longitude":22.09465,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "G\u0103r\u00e2na"
+    ],
+    "name:eng_x_preferred":[
+        "G\u0103r\u00e2na"
+    ],
+    "name:epo_x_preferred":[
+        "G\u0103r\u00e2na"
+    ],
+    "name:fre_x_preferred":[
+        "G\u0103r\u00e2na"
+    ],
+    "name:ger_x_preferred":[
+        "Wolfsberg"
+    ],
+    "name:hun_x_preferred":[
+        "Wolfsberg"
+    ],
+    "name:rum_x_preferred":[
+        "G\u0103r\u00e2na"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0435\u0440\u0438\u043d\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Volfsberg"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Caras-Severin",
+    "qs:a1r":"4",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:id":0,
+    "qs:la":"Brebu Nou",
+    "qs:la_lc":"*RO23051662",
+    "qs:level":"locality",
+    "qs:loc":"G\u0103r\u00eena",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet near local_admin match geoplanet",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":677585,
+        "gp:id":872634,
+        "qs:id":508731,
+        "qs_pg:id":508731,
+        "wd:id":"Q771300"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"e472e403adad44a771b228e892ae9d1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101911577,
+            "region_id":85687627
+        }
+    ],
+    "wof:id":101911577,
+    "wof:lastmodified":1514499964,
+    "wof:name":"G\u0103r\u00eena",
+    "wof:parent_id":85687627,
+    "wof:placetype":"locality",
+    "wof:population":126,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.09151573117589,
+    45.21900749468688,
+    22.10803812803243,
+    45.2345097156022
+],
+  "geometry": {"coordinates":[[[22.10803812803243,45.21989522353272],[22.10784190630716,45.21900749468688],[22.097775990657,45.22017367096919],[22.09856030419184,45.22372466653701],[22.09730196016602,45.22387038182626],[22.09749803963228,45.22475813073351],[22.09623967020497,45.22490383371172],[22.0964357384251,45.22579158424935],[22.09517734359446,45.22593727491619],[22.09537340056778,45.22682502708415],[22.0941149803333,45.22697070543904],[22.09431102605731,45.22785845923732],[22.09305258041803,45.22800412527977],[22.09344465758346,45.22977963506088],[22.09218616706914,45.22992529149644],[22.09277428604065,45.23258855621862],[22.09151573117589,45.23273420575299],[22.09190781263612,45.2345097156022],[22.09442499431771,45.23421839068669],[22.09422891053242,45.23333064171317],[22.0967460295081,45.23303926212839],[22.09576553916816,45.22860052819169],[22.09828243968741,45.22830911559862],[22.09808632734416,45.22742137099704],[22.09934474922767,45.22727564487946],[22.09914862563886,45.22638790190859],[22.10040702211654,45.22624216348015],[22.10021088728337,45.22535442214036],[22.10146925835664,45.22520867140139],[22.10088084479094,45.22254544904393],[22.10339745234262,45.22225391875992],[22.10320129200721,45.22136618123574],[22.10697610039983,45.22092878130911],[22.10677988990932,45.22004105083209],[22.10803812803243,45.21989522353272]]],"type":"Polygon"}
+}

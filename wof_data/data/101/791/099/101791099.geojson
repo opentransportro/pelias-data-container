@@ -1,0 +1,104 @@
+{
+  "id": 101791099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000057,
+    "geom:area_square_m":488841.467145,
+    "geom:bbox":"23.5579327364,45.8818672113,23.5681663069,45.893193064",
+    "geom:latitude":45.887545,
+    "geom:longitude":23.563786,
+    "gn:population":1094,
+    "iso:country":"RO",
+    "lbl:latitude":45.888281,
+    "lbl:longitude":23.56429,
+    "mps:latitude":45.888281,
+    "mps:longitude":23.56429,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Sebe\u0219el"
+    ],
+    "name:eng_x_preferred":[
+        "Sebe\u0219el"
+    ],
+    "name:epo_x_preferred":[
+        "Sebe\u0219el"
+    ],
+    "name:fre_x_preferred":[
+        "Sebe\u0219el"
+    ],
+    "name:hun_x_preferred":[
+        "Sebeshely"
+    ],
+    "name:ita_x_preferred":[
+        "Sebe\u0219el"
+    ],
+    "name:rum_x_preferred":[
+        "Sebe\u0219el"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0435\u0431\u0435\u0448\u0435\u043b"
+    ],
+    "name:unk_x_variant":[
+        "Sebi\u015fel"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Alba",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"S\u0103sciori",
+    "qs:la_lc":"*RO11007099",
+    "qs:level":"locality",
+    "qs:loc":"Sebe\u015fel",
+    "qs:loc_alt":"Sebesel",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":667520,
+        "gp:id":880052,
+        "qs:id":1279433,
+        "wd:id":"Q757197"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"adff94bc537c850489d750c994a3dc24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101791099,
+            "region_id":85687697
+        }
+    ],
+    "wof:id":101791099,
+    "wof:lastmodified":1514500140,
+    "wof:name":"Sebe\u015fel",
+    "wof:parent_id":85687697,
+    "wof:placetype":"locality",
+    "wof:population":1094,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.55793273636829,
+    45.88186721129324,
+    23.56816630693243,
+    45.89319306397562
+],
+  "geometry": {"coordinates":[[[23.56592446754843,45.89286591894842],[23.56547635812683,45.89109835011845],[23.56674648267335,45.89093476106984],[23.56652242240949,45.89005097796183],[23.56779252031527,45.88988737686202],[23.56689629495628,45.88635224491276],[23.56816630693243,45.88618864102],[23.56771821157815,45.88442107409958],[23.56644823912455,45.8845846718213],[23.56622422541886,45.88370088349643],[23.56368429941705,45.8840280273638],[23.56346033470396,45.88314423168293],[23.5609204207409,45.88347130884063],[23.56069650501905,45.88258750580559],[23.55942655749413,45.88275101859773],[23.55920267100043,45.88186721129324],[23.55793273636829,45.88203070586684],[23.55838047930132,45.88379832545706],[23.55965045345562,45.88363482471647],[23.55987435888494,45.8845186296499],[23.56114434593218,45.88435511069014],[23.56181617832476,45.8870065091246],[23.56054613198819,45.88717003733689],[23.5618899339118,45.89247282070312],[23.56316009884824,45.89230927398205],[23.56338411875964,45.89319306397562],[23.56592446754843,45.89286591894842]]],"type":"Polygon"}
+}

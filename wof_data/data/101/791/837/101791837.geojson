@@ -1,0 +1,111 @@
+{
+  "id": 101791837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00025,
+    "geom:area_square_m":2195353.411181,
+    "geom:bbox":"27.6061796093,44.7961126654,27.623200854,44.81510619",
+    "geom:latitude":44.805528,
+    "geom:longitude":27.615035,
+    "gn:population":3942,
+    "iso:country":"RO",
+    "lbl:latitude":44.805186,
+    "lbl:longitude":27.615197,
+    "mps:latitude":44.805186,
+    "mps:longitude":27.615197,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Victoria "
+    ],
+    "name:eng_x_preferred":[
+        "Victoria"
+    ],
+    "name:fre_x_preferred":[
+        "Victoria"
+    ],
+    "name:ger_x_preferred":[
+        "Victoria"
+    ],
+    "name:ita_x_preferred":[
+        "Victoria"
+    ],
+    "name:por_x_preferred":[
+        "Victoria"
+    ],
+    "name:rum_x_preferred":[
+        "Victoria"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0456\u043a\u0442\u043e\u0440\u0456\u044f"
+    ],
+    "name:vol_x_preferred":[
+        "Victoria"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Braila",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Victoria",
+    "qs:la_lc":"*RO18044435",
+    "qs:level":"locality",
+    "qs:loc":"Victoria",
+    "qs:loc_alt":"Victoria",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a5ec2c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":662988,
+        "gp:id":883472,
+        "qs:id":126665,
+        "qs_pg:id":126665,
+        "wd:id":"Q2536119"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"6d1a80c2ef6f848dd0c1075554eab452",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101791837,
+            "region_id":85687663
+        }
+    ],
+    "wof:id":101791837,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514500240,
+    "wof:name":"Victoria",
+    "wof:parent_id":85687663,
+    "wof:placetype":"locality",
+    "wof:population":3942,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.60617960931694,
+    44.7961126653683,
+    27.62320085395697,
+    44.8151061899506
+],
+  "geometry": {"coordinates":[[[27.62320085395697,44.81489479445855],[27.62179355258661,44.81053015259266],[27.62302851957895,44.81031876170653],[27.62162141706904,44.80595409712674],[27.62285628676887,44.80574271084492],[27.62060537897236,44.7987591910782],[27.62184009801939,44.79854782087597],[27.62127745057251,44.79680193184441],[27.61880807536153,44.79722464242184],[27.61852680448135,44.7963516877453],[27.61482273290335,44.79698563319113],[27.61454152690408,44.7961126653683],[27.60836799757863,44.79716893146406],[27.60808689204902,44.79629594285234],[27.60685217913471,44.79650714866858],[27.60741436610243,44.79825313186427],[27.60617960931694,44.7984643307982],[27.60927226416578,44.80806716085124],[27.60803730329422,44.80827838731108],[27.60972468583373,44.81351623226863],[27.60848960983861,44.81372746714305],[27.60877086273035,44.81460043927439],[27.61124104204816,44.81417794734426],[27.61152234206628,44.8150509101535],[27.61646267245123,44.81420573661222],[27.61674405521262,44.81507868244569],[27.62168432415018,44.81423326109768],[27.62196578965194,44.8151061899506],[27.62320085395697,44.81489479445855]]],"type":"Polygon"}
+}

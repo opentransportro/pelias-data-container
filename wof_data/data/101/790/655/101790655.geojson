@@ -1,0 +1,98 @@
+{
+  "id": 101790655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000221,
+    "geom:area_square_m":1925788.205172,
+    "geom:bbox":"27.7935484419,45.0666221343,27.8139667268,45.0842606454",
+    "geom:latitude":45.075086,
+    "geom:longitude":27.803986,
+    "gn:population":1340,
+    "iso:country":"RO",
+    "lbl:latitude":45.074655,
+    "lbl:longitude":27.80316,
+    "mps:latitude":45.074655,
+    "mps:longitude":27.80316,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Valea C\u00e2nepii"
+    ],
+    "name:eng_x_preferred":[
+        "Valea C\u00e2nepii"
+    ],
+    "name:fre_x_preferred":[
+        "Valea C\u00e2nepii"
+    ],
+    "name:ita_x_preferred":[
+        "Valea C\u00e2nepii"
+    ],
+    "name:rum_x_preferred":[
+        "Valea C\u00e2nepii"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0430\u043b\u044f-\u041a\u0438\u043d\u0435\u043f\u0456\u0439"
+    ],
+    "name:unk_x_variant":[
+        "Valea-C\u00e2nepei"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Braila",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Unirea",
+    "qs:la_lc":"*RO18044355",
+    "qs:level":"locality",
+    "qs:loc":"Valea C\u00e2nepii",
+    "qs:loc_alt":"Valea Canepii",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":663837,
+        "gp:id":882745,
+        "qs:id":5,
+        "wd:id":"Q12087460"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"ca3c80189a7f3047f340a38d6431b85f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101790655,
+            "region_id":85687663
+        }
+    ],
+    "wof:id":101790655,
+    "wof:lastmodified":1514500231,
+    "wof:name":"Valea C\u00e2nepii",
+    "wof:parent_id":85687663,
+    "wof:placetype":"locality",
+    "wof:population":1340,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.79354844189226,
+    45.06662213426193,
+    27.81396672682729,
+    45.08426064537713
+],
+  "geometry": {"coordinates":[[[27.8113927989383,45.08383310052568],[27.81024619046173,45.08034478038468],[27.81396672682729,45.07970340042772],[27.81167364396163,45.07272677249512],[27.81043361740694,45.07294054923346],[27.8087144075912,45.06770798387731],[27.80995432637025,45.06749423051156],[27.80966781463997,45.06662213426193],[27.80346822564866,45.06769073573076],[27.80375464757196,45.06856285145267],[27.80003473842328,45.06920384894738],[27.79974837039015,45.06833172154489],[27.79354844189226,45.06939973944282],[27.79755740739068,45.0816096418452],[27.80499880556374,45.08032764952316],[27.80585849324831,45.08294394399326],[27.80709875046705,45.08273021584364],[27.80738535455578,45.08360230672349],[27.80862562125151,45.08338856008459],[27.80891225509276,45.08426064537713],[27.8113927989383,45.08383310052568]]],"type":"Polygon"}
+}

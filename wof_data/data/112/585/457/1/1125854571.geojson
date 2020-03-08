@@ -1,0 +1,126 @@
+{
+  "id": 1125854571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.88333,46.68333,24.88333,46.68333",
+    "geom:latitude":46.68333,
+    "geom:longitude":24.88333,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1720,
+    "gn:population":1720,
+    "iso:country":"RO",
+    "lbl:latitude":46.68333,
+    "lbl:longitude":24.88333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Chiheru de Jos"
+    ],
+    "name:eng_x_preferred":[
+        "Chiheru de Jos"
+    ],
+    "name:epo_x_preferred":[
+        "Chiheru de Jos"
+    ],
+    "name:fre_x_preferred":[
+        "Chiheru de Jos"
+    ],
+    "name:hun_x_preferred":[
+        "Als\u00f3k\u00f6h\u00e9r"
+    ],
+    "name:ita_x_preferred":[
+        "Chiheru de Jos"
+    ],
+    "name:may_x_preferred":[
+        "Chiheru de Jos"
+    ],
+    "name:por_x_preferred":[
+        "Chiheru de Jos"
+    ],
+    "name:rum_x_preferred":[
+        "Chiheru de Jos"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0456\u0445\u0435\u0440\u0443-\u0434\u0435-\u0416\u043e\u0441"
+    ],
+    "name:unk_x_variant":[
+        "Als\u00f2k\u00f6h\u00e8r"
+    ],
+    "name:vie_x_preferred":[
+        "Chiheru de Jos"
+    ],
+    "name:vol_x_preferred":[
+        "Chiheru de Jos"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":682132,
+    "qs_pg:gn_pop":1720,
+    "qs_pg:name":"Chiheru de Jos",
+    "qs_pg:name_adm0":"Rom\u00e2nia",
+    "qs_pg:name_adm1":"Mures",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1278165,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424933,
+    "qs_pg:woe_id":869276,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424933,
+    "woe:name_adm0":"Rom\u00e2nia",
+    "woe:name_adm1":"Mures",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":682132,
+        "gp:id":869276,
+        "qs_pg:id":1278165,
+        "wd:id":"Q678196"
+    },
+    "wof:country":"RO",
+    "wof:created":1497293558,
+    "wof:geomhash":"97fba12b6e0c11d5d313a9419c66f12e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125854571,
+            "region_id":85687719
+        }
+    ],
+    "wof:id":1125854571,
+    "wof:lastmodified":1514499842,
+    "wof:name":"Chiheru de Jos",
+    "wof:parent_id":85687719,
+    "wof:placetype":"locality",
+    "wof:population":1720,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.88333,
+    46.68333,
+    24.88333,
+    46.68333
+],
+  "geometry": {"coordinates":[24.88333,46.68333],"type":"Point"}
+}

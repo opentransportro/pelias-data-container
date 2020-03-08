@@ -1,0 +1,94 @@
+{
+  "id": 101834519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000105,
+    "geom:area_square_m":917606.437558,
+    "geom:bbox":"25.6548610503,44.8091643569,25.671230333,44.8215738534",
+    "geom:latitude":44.815911,
+    "geom:longitude":25.662514,
+    "iso:country":"RO",
+    "lbl:latitude":44.815242,
+    "lbl:longitude":25.661956,
+    "mps:latitude":44.815242,
+    "mps:longitude":25.661956,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "B\u0103leni-Rom\u00e2ni"
+    ],
+    "name:eng_x_preferred":[
+        "B\u0103leni-Rom\u00e2ni"
+    ],
+    "name:fre_x_preferred":[
+        "B\u0103leni-Rom\u00e2ni"
+    ],
+    "name:ita_x_preferred":[
+        "B\u0103leni-Rom\u00e2ni"
+    ],
+    "name:rum_x_preferred":[
+        "B\u0103leni-Rom\u00e2ni"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u043b\u0435\u043d\u044c-\u0420\u043e\u043c\u0438\u043d\u044c"
+    ],
+    "name:unk_x_variant":[
+        "B\u0103lenii-Rom\u00e2ni"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*D\u00e2mbovita",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"B\u0103leni",
+    "qs:la_lc":"*RO27066198",
+    "qs:level":"locality",
+    "qs:loc":"B\u0103leni-Rom\u00e2ni",
+    "qs:loc_alt":"Baleni-Romani",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":685632,
+        "gp:id":866759,
+        "qs:id":8,
+        "wd:id":"Q12081743"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"418ed6b237b7dd833c7ba77c602114cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101834519,
+            "region_id":85687637
+        }
+    ],
+    "wof:id":101834519,
+    "wof:lastmodified":1514499823,
+    "wof:name":"B\u0103leni-Rom\u00e2ni",
+    "wof:parent_id":85687637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.65486105029117,
+    44.80916435694132,
+    25.67123033299077,
+    44.82157385341634
+],
+  "geometry": {"coordinates":[[[25.65486105029117,44.81448336948927],[25.65647566518521,44.82157385341634],[25.65759350020141,44.82140447158139],[25.65734308582046,44.82052552510277],[25.6585839334378,44.82033747261914],[25.65833351104936,44.81945852812134],[25.6620559543482,44.81889429288964],[25.66230643169871,44.8197732271114],[25.66726965865155,44.8190206943068],[25.66752021959866,44.81989961337871],[25.66876102606955,44.81971144006201],[25.66851044680357,44.81883252441668],[25.67099200080213,44.81845614061166],[25.66998964040801,44.8149404909945],[25.67123033299077,44.81475229078887],[25.67097975037871,44.81387337819763],[25.66601700870189,44.81462607727121],[25.66501507445059,44.81111035763331],[25.66625569776528,44.81092221857909],[25.66575475590622,44.80916435694132],[25.66451416921473,44.80935248914466],[25.66476461667571,44.81023142411141],[25.6635240042425,44.81041954506742],[25.66377444370511,44.81129848201442],[25.65881184642672,44.81205083280463],[25.65906222294643,44.81292978200571],[25.65534014204229,44.81349390129492],[25.65559047392446,44.81437285932435],[25.65486105029117,44.81448336948927]]],"type":"Polygon"}
+}

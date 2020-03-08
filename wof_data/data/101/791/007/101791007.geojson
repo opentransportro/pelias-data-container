@@ -1,0 +1,133 @@
+{
+  "id": 101791007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0001,
+    "geom:area_square_m":857974.922741,
+    "geom:bbox":"24.4431992374,45.883908684,24.4598478721,45.9010154497",
+    "geom:latitude":45.894328,
+    "geom:longitude":24.452548,
+    "gn:population":2612,
+    "iso:country":"RO",
+    "lbl:latitude":45.895834,
+    "lbl:longitude":24.453368,
+    "mps:latitude":45.895834,
+    "mps:longitude":24.453368,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Nocrich"
+    ],
+    "name:eng_x_preferred":[
+        "Petre Luciu"
+    ],
+    "name:eng_x_variant":[
+        "Gara Petre Luciu",
+        "Nocrich"
+    ],
+    "name:epo_x_preferred":[
+        "Nocrich"
+    ],
+    "name:fre_x_preferred":[
+        "Nocrich"
+    ],
+    "name:ger_x_preferred":[
+        "Nocrich"
+    ],
+    "name:hun_x_preferred":[
+        "\u00dajegyh\u00e1z"
+    ],
+    "name:ita_x_preferred":[
+        "Nocrich"
+    ],
+    "name:lat_x_preferred":[
+        "Nocrich"
+    ],
+    "name:por_x_preferred":[
+        "Nocrich"
+    ],
+    "name:rum_x_preferred":[
+        "Nocrich"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u043a\u0440\u0438\u0445"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u043e\u043a\u0440\u0456\u0445"
+    ],
+    "name:unk_x_variant":[
+        "Petre Luciu"
+    ],
+    "name:vie_x_preferred":[
+        "Nocrich"
+    ],
+    "name:vol_x_preferred":[
+        "Nocrich"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Sibiu",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Nocrich",
+    "qs:la_lc":"*RO45145140",
+    "qs:level":"locality",
+    "qs:loc":"Nocrich",
+    "qs:loc_alt":"Nocrich",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a26a84-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":672176,
+        "gp:id":876586,
+        "qs:id":127378,
+        "qs_pg:id":127378,
+        "wd:id":"Q1096317"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"a4631ce21df708f9084b9a304bd925bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101791007,
+            "region_id":85687687
+        }
+    ],
+    "wof:id":101791007,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514500047,
+    "wof:name":"Nocrich",
+    "wof:parent_id":85687687,
+    "wof:placetype":"locality",
+    "wof:population":2612,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.44319923736811,
+    45.88390868395345,
+    24.45984787207561,
+    45.9010154496641
+],
+  "geometry": {"coordinates":[[[24.45984787207561,45.90084116691145],[24.45913158184635,45.89819681032048],[24.45786355125273,45.89837108323002],[24.45690871689078,45.89484524343516],[24.45944461426961,45.8944967087798],[24.45896717927178,45.89273379433888],[24.45516343960844,45.89325655402047],[24.45277745544581,45.88444180677686],[24.45024198362842,45.88479017225859],[24.45000347967175,45.88390868395345],[24.44873575236977,45.88408284079992],[24.44945123575928,45.88672731171704],[24.45071902172509,45.88655314503774],[24.45191179306528,45.89096055463801],[24.45064390931174,45.89113473770794],[24.45112104917928,45.89289769916638],[24.44985311900348,45.89307187371332],[24.45033026000897,45.89483483662161],[24.44652630829802,45.89535728944747],[24.44676483520664,45.89623877882178],[24.44549681713619,45.89641290287898],[24.44573533454326,45.89729439425491],[24.44319923736811,45.89764260367866],[24.4434377257046,45.89852410033393],[24.44470579750981,45.89834999988551],[24.44494431547787,45.89923149198722],[24.45001660795407,45.89853492625645],[24.45025521425856,45.89941640396808],[24.45532746814388,45.89871958380382],[24.45556616278378,45.89960104712026],[24.45683422755712,45.89942680109374],[24.45707295183536,45.90030825985252],[24.45834102886715,45.90013399546331],[24.45857978278531,45.9010154496641],[24.45984787207561,45.90084116691145]]],"type":"Polygon"}
+}

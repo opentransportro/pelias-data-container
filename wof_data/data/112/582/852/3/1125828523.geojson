@@ -1,0 +1,114 @@
+{
+  "id": 1125828523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.16667,44.83333,23.16667,44.83333",
+    "geom:latitude":44.83333,
+    "geom:longitude":23.16667,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":3810,
+    "gn:population":580,
+    "iso:country":"RO",
+    "lbl:latitude":44.83333,
+    "lbl:longitude":23.16667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Negomir"
+    ],
+    "name:eng_x_preferred":[
+        "Negomir"
+    ],
+    "name:fre_x_preferred":[
+        "Negomir"
+    ],
+    "name:ita_x_preferred":[
+        "Negomir"
+    ],
+    "name:por_x_preferred":[
+        "Negomir"
+    ],
+    "name:rum_x_preferred":[
+        "Negomir"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0435\u0433\u043e\u043c\u0456\u0440"
+    ],
+    "name:vie_x_preferred":[
+        "Negomir"
+    ],
+    "name:vol_x_preferred":[
+        "Negomir"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":672414,
+    "qs_pg:gn_pop":3810,
+    "qs_pg:name":"Negomiru",
+    "qs_pg:name_adm0":"Rom\u00e2nia",
+    "qs_pg:name_adm1":"Gorj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1278986,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424933,
+    "qs_pg:woe_id":876421,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424933,
+    "woe:name_adm0":"Rom\u00e2nia",
+    "woe:name_adm1":"Gorj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":672414,
+        "gp:id":876421,
+        "qs_pg:id":1278986,
+        "wd:id":"Q2718321"
+    },
+    "wof:country":"RO",
+    "wof:created":1497292386,
+    "wof:geomhash":"a49abed600c04703a61e60018bb3e77b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125828523,
+            "region_id":85687619
+        }
+    ],
+    "wof:id":1125828523,
+    "wof:lastmodified":1514500044,
+    "wof:name":"Negomiru",
+    "wof:parent_id":85687619,
+    "wof:placetype":"locality",
+    "wof:population":580,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.16667,
+    44.83333,
+    23.16667,
+    44.83333
+],
+  "geometry": {"coordinates":[23.16667,44.83333],"type":"Point"}
+}

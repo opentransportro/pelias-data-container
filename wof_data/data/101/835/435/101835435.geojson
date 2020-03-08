@@ -1,0 +1,95 @@
+{
+  "id": 101835435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00013,
+    "geom:area_square_m":1155776.133685,
+    "geom:bbox":"23.8561669989,43.8635221276,23.8676252672,43.8879094208",
+    "geom:latitude":43.874524,
+    "geom:longitude":23.861861,
+    "gn:population":1293,
+    "iso:country":"RO",
+    "lbl:latitude":43.872732,
+    "lbl:longitude":23.860819,
+    "mps:latitude":43.872732,
+    "mps:longitude":23.860819,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Como\u0219teni"
+    ],
+    "name:eng_x_preferred":[
+        "Como\u0219teni"
+    ],
+    "name:fre_x_preferred":[
+        "Como\u0219teni"
+    ],
+    "name:ita_x_preferred":[
+        "Como\u0219teni"
+    ],
+    "name:rum_x_preferred":[
+        "Como\u0219teni"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u043c\u043e\u0448\u0442\u0435\u043d\u044c"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Dolj",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"G\u00e2ngiova",
+    "qs:la_lc":"*RO28072579",
+    "qs:level":"locality",
+    "qs:loc":"Como\u015fteni",
+    "qs:loc_alt":"Comosteni",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":680981,
+        "gp:id":870136,
+        "qs:id":410095,
+        "wd:id":"Q3684949"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"2d5e2b2878e9d81bfa912a71c4d20c42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101835435,
+            "region_id":85687581
+        }
+    ],
+    "wof:id":101835435,
+    "wof:lastmodified":1514499861,
+    "wof:name":"Como\u015fteni",
+    "wof:parent_id":85687581,
+    "wof:placetype":"locality",
+    "wof:population":1293,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.85616699892637,
+    43.86352212763006,
+    23.86762526721594,
+    43.88790942075826
+],
+  "geometry": {"coordinates":[[[23.85931055018671,43.88717427596401],[23.86328848459101,43.88790942075826],[23.8622883593801,43.88381436549275],[23.8635138173305,43.88364813241708],[23.86308176299684,43.88187895938518],[23.86675799135094,43.88138019080765],[23.86394979541575,43.86988055551706],[23.86762526721594,43.86938177184913],[23.86740925985674,43.86849718434848],[23.86618412682435,43.86866345712627],[23.86596814619543,43.86777886536697],[23.86474302480906,43.86794512066285],[23.8636633431791,43.86352212763006],[23.86121326091296,43.86385456503956],[23.86186093590231,43.86650838251876],[23.85818560387872,43.86700695640832],[23.85861732349167,43.86877617936204],[23.85616699892637,43.86910850120876],[23.85789394170092,43.876185388659],[23.85911925068888,43.87601921129823],[23.86127889958254,43.88486517454885],[23.86005341108381,43.88503138154175],[23.860485410455,43.88680056459566],[23.85925987974804,43.88696676299259],[23.85931055018671,43.88717427596401]]],"type":"Polygon"}
+}

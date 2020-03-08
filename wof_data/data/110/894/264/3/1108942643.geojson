@@ -1,0 +1,64 @@
+{
+  "id": 1108942643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.1137370446,44.3961040853,26.1137370446,44.3961040853",
+    "geom:latitude":44.396104,
+    "geom:longitude":26.113737,
+    "iso:country":"RO",
+    "lbl:latitude":44.396104,
+    "lbl:longitude":26.113737,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_metro":30,
+    "name:rus_x_preferred":[
+        "Olteni\u021bei"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        101751949,
+        85633745,
+        85687595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"RO",
+    "wof:created":1491363232,
+    "wof:geomhash":"d559843366dd05b19cb2257f67f06ff3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101751949,
+            "neighbourhood_id":1108942643,
+            "region_id":85687595
+        }
+    ],
+    "wof:id":1108942643,
+    "wof:lastmodified":1497292369,
+    "wof:name":"Oltenitei",
+    "wof:parent_id":101751949,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.11373704457905,
+    44.39610408530474,
+    26.11373704457905,
+    44.39610408530474
+],
+  "geometry": {"coordinates":[26.11373704457905,44.39610408530474],"type":"Point"}
+}

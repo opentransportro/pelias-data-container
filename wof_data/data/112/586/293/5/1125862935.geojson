@@ -1,0 +1,116 @@
+{
+  "id": 1125862935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.31667,46.86667,24.31667,46.86667",
+    "geom:latitude":46.86667,
+    "geom:longitude":24.31667,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":1270,
+    "gn:population":1270,
+    "iso:country":"RO",
+    "lbl:latitude":46.86667,
+    "lbl:longitude":24.31667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:alb_x_preferred":[
+        "Mice\u0219tii de C\u00e2mpie"
+    ],
+    "name:dut_x_preferred":[
+        "Mice\u0219tii de C\u00e2mpie"
+    ],
+    "name:eng_x_preferred":[
+        "Mice\u0219tii de C\u00e2mpie"
+    ],
+    "name:epo_x_preferred":[
+        "Mice\u0219tii de C\u00e2mpie"
+    ],
+    "name:fre_x_preferred":[
+        "Mice\u0219tii de C\u00e2mpie"
+    ],
+    "name:hun_x_preferred":[
+        "Mez\u0151kecsed"
+    ],
+    "name:ita_x_preferred":[
+        "Mice\u0219tii de C\u00e2mpie"
+    ],
+    "name:may_x_preferred":[
+        "Mice\u0219tii de C\u00e2mpie"
+    ],
+    "name:por_x_preferred":[
+        "Mice\u0219tii de C\u00e2mpie"
+    ],
+    "name:rum_x_preferred":[
+        "Mice\u0219tii de C\u00e2mpie"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0456\u0447\u0435\u0448\u0442\u0456\u0439-\u0434\u0435-\u041a\u0438\u043c\u043f\u0456\u0454"
+    ],
+    "name:unk_x_variant":[
+        "Mice\u015ftii-de-C\u00e2mpie"
+    ],
+    "name:vol_x_preferred":[
+        "Mice\u0219tii de C\u00e2mpie"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":673477,
+    "qs_pg:gn_pop":1270,
+    "qs_pg:name":"Mice\u015ftii de C\u00e2mpie",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":127432,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":673477,
+        "qs_pg:id":127432,
+        "wd:id":"Q589519"
+    },
+    "wof:country":"RO",
+    "wof:created":1497293910,
+    "wof:geomhash":"eed29252905a009c6e34ff648a292a0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125862935,
+            "region_id":85687753
+        }
+    ],
+    "wof:id":1125862935,
+    "wof:lastmodified":1514500017,
+    "wof:name":"Mice\u015ftii de C\u00e2mpie",
+    "wof:parent_id":85687753,
+    "wof:placetype":"locality",
+    "wof:population":1270,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.31667,
+    46.86667,
+    24.31667,
+    46.86667
+],
+  "geometry": {"coordinates":[24.31667,46.86667],"type":"Point"}
+}

@@ -1,0 +1,101 @@
+{
+  "id": 101791085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000312,
+    "geom:area_square_m":2673477.571787,
+    "geom:bbox":"21.4546173146,46.1382529989,21.4885472655,46.1532190259",
+    "geom:latitude":46.145309,
+    "geom:longitude":21.469347,
+    "gn:population":1106,
+    "iso:country":"RO",
+    "lbl:latitude":46.145243,
+    "lbl:longitude":21.465631,
+    "mps:latitude":46.145243,
+    "mps:longitude":21.465631,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "M\u00e2ndruloc"
+    ],
+    "name:eng_x_preferred":[
+        "M\u00e2ndruloc"
+    ],
+    "name:epo_x_preferred":[
+        "M\u00e2ndruloc"
+    ],
+    "name:fre_x_preferred":[
+        "M\u00e2ndruloc"
+    ],
+    "name:hun_x_preferred":[
+        "Mondorlak"
+    ],
+    "name:rum_x_preferred":[
+        "M\u00e2ndruloc"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0438\u043d\u0434\u0440\u0443\u043b\u043e\u043a"
+    ],
+    "name:unk_x_variant":[
+        "Sz\u00e9plak"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Arad",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Vladimirescu",
+    "qs:la_lc":"*RO12009397",
+    "qs:level":"locality",
+    "qs:loc":"M\u0103ndruloc",
+    "qs:loc_alt":"Mandruloc",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":673202,
+        "gp:id":875855,
+        "qs:id":6,
+        "wd:id":"Q527528"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"13aca6d65be485e6839f3745830fad69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101791085,
+            "region_id":85687691
+        }
+    ],
+    "wof:id":101791085,
+    "wof:lastmodified":1514500038,
+    "wof:name":"M\u0103ndruloc",
+    "wof:parent_id":85687691,
+    "wof:placetype":"locality",
+    "wof:population":1106,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.4546173145801,
+    46.13825299890158,
+    21.48854726550701,
+    46.15321902589665
+],
+  "geometry": {"coordinates":[[[21.470098790392,46.15294195619651],[21.46952559198894,46.15027649373741],[21.47080650221835,46.15013794380695],[21.47061543195548,46.14924945700369],[21.48598564626053,46.14758569291968],[21.48617696197829,46.14847414796486],[21.48745779502428,46.1483353985916],[21.48726645885426,46.1474469461948],[21.48854726550701,46.14730818412932],[21.48816457679055,46.14553128168495],[21.48688381103898,46.14567003845372],[21.48611861349275,46.14211621117983],[21.48739929745307,46.14197746500349],[21.48720799805187,46.14108900837613],[21.48336598969541,46.14150519294577],[21.48317475980343,46.14061672739342],[21.47292930657807,46.14172585682172],[21.47254719844324,46.13994888043828],[21.47126653098633,46.1400874473008],[21.4710755096088,46.13919895499259],[21.46979485666827,46.13933750387167],[21.46960386389787,46.13844900793777],[21.46320061250174,46.13914150903156],[21.4630097301241,46.13825299890158],[21.45916776951191,46.13866830756137],[21.45974025706914,46.14133385878682],[21.4546173145801,46.14188742060685],[21.45690701684646,46.15254966408213],[21.46587382229876,46.15158054787281],[21.4660648270542,46.15246904329263],[21.4673457959999,46.15233053410202],[21.46753682937867,46.15321902589665],[21.470098790392,46.15294195619651]]],"type":"Polygon"}
+}

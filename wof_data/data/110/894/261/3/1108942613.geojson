@@ -1,0 +1,82 @@
+{
+  "id": 1108942613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.0831348125,44.4219148413,26.0831348125,44.4219148413",
+    "geom:latitude":44.421915,
+    "geom:longitude":26.083135,
+    "iso:country":"RO",
+    "lbl:latitude":44.421915,
+    "lbl:longitude":26.083135,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_metro":30,
+    "name:dut_x_preferred":[
+        "13 Septembrie"
+    ],
+    "name:eng_x_preferred":[
+        "13 Septembrie"
+    ],
+    "name:fre_x_preferred":[
+        "13 Septembrie"
+    ],
+    "name:ger_x_preferred":[
+        "13 Septembrie"
+    ],
+    "name:ita_x_preferred":[
+        "13 Septembrie "
+    ],
+    "name:rum_x_preferred":[
+        "13 Septembrie "
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        101751949,
+        85633745,
+        85687595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q2807579"
+    },
+    "wof:country":"RO",
+    "wof:created":1491363216,
+    "wof:geomhash":"cf087112db864eb699ba20853e4c516f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101751949,
+            "neighbourhood_id":1108942613,
+            "region_id":85687595
+        }
+    ],
+    "wof:id":1108942613,
+    "wof:lastmodified":1514499728,
+    "wof:name":"13 Septembrie",
+    "wof:parent_id":101751949,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.08313481246093,
+    44.42191484132117,
+    26.08313481246093,
+    44.42191484132117
+],
+  "geometry": {"coordinates":[26.08313481246093,44.42191484132117],"type":"Point"}
+}

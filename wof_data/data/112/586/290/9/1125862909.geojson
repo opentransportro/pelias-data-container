@@ -1,0 +1,122 @@
+{
+  "id": 1125862909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.16667,45.73333,23.16667,45.73333",
+    "geom:latitude":45.73333,
+    "geom:longitude":23.16667,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":2428,
+    "gn:population":2428,
+    "iso:country":"RO",
+    "lbl:latitude":45.73333,
+    "lbl:longitude":23.16667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Or\u0103\u0219tioara de Sus"
+    ],
+    "name:dut_x_preferred":[
+        "Or\u0103\u0219tioara de Sus"
+    ],
+    "name:eng_x_preferred":[
+        "Or\u0103\u0219tioara de Sus"
+    ],
+    "name:epo_x_preferred":[
+        "Or\u0103\u0219tioara de Sus"
+    ],
+    "name:fre_x_preferred":[
+        "Or\u0103\u0219tioara de Sus"
+    ],
+    "name:ger_x_preferred":[
+        "Or\u0103\u0219tioara de Sus"
+    ],
+    "name:hun_x_preferred":[
+        "Fels\u0151v\u00e1rosv\u00edz"
+    ],
+    "name:ita_x_preferred":[
+        "Or\u0103\u0219tioara de Sus"
+    ],
+    "name:may_x_preferred":[
+        "Or\u0103\u0219tioara de Sus"
+    ],
+    "name:por_x_preferred":[
+        "Or\u0103\u0219tioara de Sus"
+    ],
+    "name:rum_x_preferred":[
+        "Or\u0103\u0219tioara de Sus"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0440\u0435\u0448\u0442\u0456\u043e\u0430\u0440\u0430-\u0434\u0435-\u0421\u0443\u0441"
+    ],
+    "name:unk_x_variant":[
+        "Or\u0103stiora de-Sus"
+    ],
+    "name:vie_x_preferred":[
+        "Orastioara de Sus"
+    ],
+    "name:vol_x_preferred":[
+        "Or\u0103\u0219tioara de Sus"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":671753,
+    "qs_pg:gn_pop":2428,
+    "qs_pg:name":"Or\u0103\u015ftioara de Sus",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":127348,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":671753,
+        "qs_pg:id":127348,
+        "wd:id":"Q999643"
+    },
+    "wof:country":"RO",
+    "wof:created":1497293908,
+    "wof:geomhash":"9de915140ada04cd8c9a5166d53794c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125862909,
+            "region_id":85687671
+        }
+    ],
+    "wof:id":1125862909,
+    "wof:lastmodified":1514500061,
+    "wof:name":"Or\u0103\u015ftioara de Sus",
+    "wof:parent_id":85687671,
+    "wof:placetype":"locality",
+    "wof:population":2428,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.16667,
+    45.73333,
+    23.16667,
+    45.73333
+],
+  "geometry": {"coordinates":[23.16667,45.73333],"type":"Point"}
+}

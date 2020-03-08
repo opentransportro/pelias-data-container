@@ -1,0 +1,98 @@
+{
+  "id": 1125856599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.88333,45.56667,22.88333,45.56667",
+    "geom:latitude":45.56667,
+    "geom:longitude":22.88333,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":1990,
+    "gn:population":1990,
+    "iso:country":"RO",
+    "lbl:latitude":45.56667,
+    "lbl:longitude":22.88333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Tote\u0219ti"
+    ],
+    "name:eng_x_preferred":[
+        "Tote\u0219ti"
+    ],
+    "name:fre_x_preferred":[
+        "Tote\u0219ti"
+    ],
+    "name:hun_x_preferred":[
+        "Totesd"
+    ],
+    "name:ita_x_preferred":[
+        "Tote\u0219ti"
+    ],
+    "name:rum_x_preferred":[
+        "Tote\u0219ti"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u043e\u0442\u0435\u0448\u0442\u044c"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":664698,
+    "qs_pg:gn_pop":1990,
+    "qs_pg:name":"Tote\u015fti",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":275196,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":664698,
+        "qs_pg:id":275196,
+        "wd:id":"Q5064990"
+    },
+    "wof:country":"RO",
+    "wof:created":1497293648,
+    "wof:geomhash":"45bca5c288b29b0452027fc512790af3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125856599,
+            "region_id":85687671
+        }
+    ],
+    "wof:id":1125856599,
+    "wof:lastmodified":1514500205,
+    "wof:name":"Tote\u015fti",
+    "wof:parent_id":85687671,
+    "wof:placetype":"locality",
+    "wof:population":1990,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.88333,
+    45.56667,
+    22.88333,
+    45.56667
+],
+  "geometry": {"coordinates":[22.88333,45.56667],"type":"Point"}
+}

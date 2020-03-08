@@ -1,0 +1,96 @@
+{
+  "id": 101795051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000037,
+    "geom:area_square_m":329330.952421,
+    "geom:bbox":"23.964182851,44.4370142239,23.9823853811,44.4417244873",
+    "geom:latitude":44.439912,
+    "geom:longitude":23.975125,
+    "gn:population":1080,
+    "iso:country":"RO",
+    "lbl:latitude":44.439144,
+    "lbl:longitude":23.979055,
+    "mps:latitude":44.439144,
+    "mps:longitude":23.979055,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Grop\u0219ani"
+    ],
+    "name:eng_x_preferred":[
+        "Grop\u0219ani"
+    ],
+    "name:fre_x_preferred":[
+        "Grop\u0219ani"
+    ],
+    "name:ita_x_preferred":[
+        "Grop\u0219ani"
+    ],
+    "name:rum_x_preferred":[
+        "Grop\u0219ani"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0440\u043e\u043f\u0448\u0430\u043d\u044c"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Olt",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:id":0,
+    "qs:la":"Vulpeni",
+    "qs:la_lc":"*RO41130124",
+    "qs:level":"locality",
+    "qs:loc":"Grop\u015fani",
+    "qs:loc_alt":"Gropsani",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":676671,
+        "gp:id":873282,
+        "qs:id":410920,
+        "wd:id":"Q12097974"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"43c1b500207a0100b730f2e54205286c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101795051,
+            "region_id":85687607
+        }
+    ],
+    "wof:id":101795051,
+    "wof:lastmodified":1514499955,
+    "wof:name":"Grop\u015fani",
+    "wof:parent_id":85687607,
+    "wof:placetype":"locality",
+    "wof:population":1080,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.96418285103658,
+    44.43701422388392,
+    23.98238538107432,
+    44.44172448728972
+],
+  "geometry": {"coordinates":[[[23.96418285103658,44.44024713146041],[23.96440394314493,44.44113099954689],[23.96687792652182,44.44079558661991],[23.96709906450531,44.44167944735318],[23.97328400054914,44.44084064302245],[23.97350523958585,44.44172448728972],[23.98092705745262,44.44071741956577],[23.98114841592906,44.44160124432102],[23.98238538107432,44.44143334529707],[23.98127858773643,44.43701422388392],[23.97756794850517,44.43751783134951],[23.97778923381418,44.43840166731377],[23.97655232260644,44.43856951015795],[23.97677359862297,44.43945334787736],[23.97058885257928,44.44029235715897],[23.97036766851181,44.43940850425309],[23.96913071808507,44.43957625904625],[23.9689095614994,44.43869240182136],[23.96767262292883,44.43886013890244],[23.96789376112389,44.43974399916351],[23.96418285103658,44.44024713146041]]],"type":"Polygon"}
+}

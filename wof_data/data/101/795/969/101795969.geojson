@@ -1,0 +1,95 @@
+{
+  "id": 101795969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000089,
+    "geom:area_square_m":788424.7086,
+    "geom:bbox":"23.1601264394,44.2962297853,23.1755898839,44.3061335341",
+    "geom:latitude":44.301152,
+    "geom:longitude":23.167359,
+    "gn:population":1583,
+    "iso:country":"RO",
+    "lbl:latitude":44.301562,
+    "lbl:longitude":23.166188,
+    "mps:latitude":44.301562,
+    "mps:longitude":23.166188,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Verbi\u021ba"
+    ],
+    "name:eng_x_preferred":[
+        "Verbi\u021ba"
+    ],
+    "name:fre_x_preferred":[
+        "Verbi\u021ba"
+    ],
+    "name:ita_x_preferred":[
+        "Verbi\u021ba"
+    ],
+    "name:rum_x_preferred":[
+        "Verbi\u021ba"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u0440\u0431\u0456\u0446\u0430 "
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Dolj",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Verbi\u0163a",
+    "qs:la_lc":"*RO28074705",
+    "qs:level":"locality",
+    "qs:loc":"Verbi\u0163a",
+    "qs:loc_alt":"Verbita",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":663058,
+        "gp:id":883415,
+        "qs:id":413613,
+        "wd:id":"Q12088674"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"85c314e0c08528d6d8b0732a6a1c7811",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101795969,
+            "region_id":85687581
+        }
+    ],
+    "wof:id":101795969,
+    "wof:lastmodified":1514500238,
+    "wof:name":"Verbi\u0163a",
+    "wof:parent_id":85687581,
+    "wof:placetype":"locality",
+    "wof:population":1583,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.16012643940746,
+    44.29622978527544,
+    23.17558988392841,
+    44.30613353410729
+],
+  "geometry": {"coordinates":[[[23.16735413918002,44.30597541828411],[23.16714639867718,44.30508945770544],[23.17456185678162,44.30414047154608],[23.17435401415389,44.30325452690136],[23.17558988392841,44.30309631400769],[23.17475852505459,44.29955253473713],[23.17105111861957,44.30002709507431],[23.17084335556768,44.29914113865249],[23.16960755959917,44.29929929320986],[23.16939982352267,44.29841333271872],[23.16816403986309,44.29857146973723],[23.16795633076106,44.29768550517741],[23.16672055941109,44.29784362465739],[23.16651287728183,44.29695765602935],[23.16527711824205,44.29711575797137],[23.16506946308374,44.29622978527544],[23.16012643940746,44.29686203480321],[23.16116443171541,44.30129194327543],[23.16240028902951,44.30113388864061],[23.16323091021485,44.30467778219275],[23.16446683517722,44.30451970145083],[23.16467453025291,44.30540566895428],[23.16591046753041,44.3052475706719],[23.16611818958756,44.30613353410729],[23.16735413918002,44.30597541828411]]],"type":"Polygon"}
+}

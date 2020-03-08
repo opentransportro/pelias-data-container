@@ -1,0 +1,72 @@
+{
+  "id": 1259922641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.11722,46.76045,28.11722,46.76045",
+    "geom:latitude":46.76045,
+    "geom:longitude":28.11722,
+    "gn:admin1_code":"38",
+    "gn:admin2_code":"163618",
+    "gn:asciiname":"Soparleni",
+    "gn:country_code":"RO",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11002924,
+    "gn:latitude":46.76045,
+    "gn:longitude":28.11722,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"\u0218op\u00e2rleni",
+    "gn:population":27,
+    "gn:timezone":"Europe/Bucharest",
+    "iso:country":"RO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0218op\u00eerleni"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11002924
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"079a7c08d157f86f80cae2b028aad7a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1259922641,
+            "region_id":85687743
+        }
+    ],
+    "wof:id":1259922641,
+    "wof:lastmodified":1537683682,
+    "wof:name":"Soparleni",
+    "wof:parent_id":85687743,
+    "wof:placetype":"locality",
+    "wof:population":27,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.11722,
+    46.76045,
+    28.11722,
+    46.76045
+],
+  "geometry": {"coordinates":[28.11722,46.76045],"type":"Point"}
+}

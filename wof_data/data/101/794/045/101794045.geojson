@@ -1,0 +1,95 @@
+{
+  "id": 101794045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000045,
+    "geom:area_square_m":399174.250571,
+    "geom:bbox":"25.7990130405,44.6347514366,25.8113578158,44.6446765502",
+    "geom:latitude":44.640146,
+    "geom:longitude":25.805389,
+    "gn:population":1007,
+    "iso:country":"RO",
+    "lbl:latitude":44.640458,
+    "lbl:longitude":25.804969,
+    "mps:latitude":44.640458,
+    "mps:longitude":25.804969,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Vizure\u0219ti"
+    ],
+    "name:eng_x_preferred":[
+        "Vizure\u0219ti"
+    ],
+    "name:fre_x_preferred":[
+        "Vizure\u0219ti"
+    ],
+    "name:ita_x_preferred":[
+        "Vizure\u0219ti"
+    ],
+    "name:rum_x_preferred":[
+        "Vizure\u0219ti"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0456\u0437\u0443\u0440\u0435\u0448\u0442\u044c "
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*D\u00e2mbovita",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Cioc\u0103ne\u015fti",
+    "qs:la_lc":"*RO27101840",
+    "qs:level":"locality",
+    "qs:loc":"Vizure\u015fti",
+    "qs:loc_alt":"Vizuresti",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":662647,
+        "gp:id":883718,
+        "qs:id":413683,
+        "wd:id":"Q12093078"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"2e66ee0745a697cd963c5b0846f6f853",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101794045,
+            "region_id":85687637
+        }
+    ],
+    "wof:id":101794045,
+    "wof:lastmodified":1514500244,
+    "wof:name":"Vizure\u015fti",
+    "wof:parent_id":85687637,
+    "wof:placetype":"locality",
+    "wof:population":1007,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.79901304051413,
+    44.63475143658707,
+    25.81135781581617,
+    44.64467655015847
+],
+  "geometry": {"coordinates":[[[25.80743863575856,44.6444868152409],[25.80718712914495,44.64360815616703],[25.80842376268595,44.64341841007194],[25.80691483090783,44.63814644546306],[25.8081513482129,44.63795670537741],[25.80789987756702,44.63707804291425],[25.81037285363857,44.6366985257776],[25.81012135704862,44.63581986872202],[25.81135781581617,44.63563009167194],[25.81110631141524,44.63475143658707],[25.80739696722856,44.63532071358878],[25.80764841723925,44.63619937898471],[25.80517544773329,44.636578830796],[25.80542687179724,44.63745750159882],[25.80295383633336,44.63783690183021],[25.80320523444692,44.63871557803935],[25.80196868744645,44.63890525967065],[25.80272288927796,44.64154128981181],[25.79901304051413,44.64211027794289],[25.7992644073442,44.64298896203354],[25.80050104916035,44.64279931050208],[25.80075244444521,44.64367798969158],[25.80446237976469,44.64310893709791],[25.80471383978249,44.64398760451212],[25.80595048817702,44.64379788764717],[25.80620197665274,44.64467655015847],[25.80743863575856,44.6444868152409]]],"type":"Polygon"}
+}

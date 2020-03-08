@@ -1,0 +1,115 @@
+{
+  "id": 101790917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00018,
+    "geom:area_square_m":1556362.654892,
+    "geom:bbox":"24.8130030369,45.7536230239,24.8357086076,45.7680941809",
+    "geom:latitude":45.760849,
+    "geom:longitude":24.824056,
+    "gn:population":1465,
+    "iso:country":"RO",
+    "lbl:latitude":45.76099,
+    "lbl:longitude":24.823884,
+    "mps:latitude":45.76099,
+    "mps:longitude":24.823884,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "S\u00e2mb\u0103ta de Sus"
+    ],
+    "name:eng_x_preferred":[
+        "S\u00e2mb\u0103ta de Sus"
+    ],
+    "name:fre_x_preferred":[
+        "S\u00e2mb\u0103ta de Sus"
+    ],
+    "name:hun_x_preferred":[
+        "Fels\u0151szombatfalva"
+    ],
+    "name:ita_x_preferred":[
+        "S\u00e2mb\u0103ta de Sus"
+    ],
+    "name:rum_x_colloquial":[
+        "Sambaeta-de-Sus",
+        "Sambata-de-Sus",
+        "Simbaeta Raesaeriteanae",
+        "Simbaeta de Sus",
+        "Simbata Rasariteana",
+        "Simbata de Sus"
+    ],
+    "name:rum_x_preferred":[
+        "S\u00eemb\u0103ta de Sus"
+    ],
+    "name:rum_x_variant":[
+        "S\u00e2mb\u0103ta-de-Sus",
+        "S\u00eemb\u0103ta R\u0103s\u0103ritean\u0103",
+        "S\u00e2mb\u0103ta de Sus"
+    ],
+    "name:unk_x_variant":[
+        "S\u00e2mb\u0103ta-de-Sus"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Brasov",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"S\u00e2mb\u0103ta de Sus",
+    "qs:la_lc":"*RO19042464",
+    "qs:level":"locality",
+    "qs:loc":"S\u00e2mb\u0103ta de Sus",
+    "qs:loc_alt":"Sambata de Sus",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a45466-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":667141,
+        "gp:id":880329,
+        "qs:id":5,
+        "wd:id":"Q15279376"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"4e80e41f88b8ff13dcb63f2f4881b219",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101790917,
+            "region_id":85687683
+        }
+    ],
+    "wof:id":101790917,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514500176,
+    "wof:name":"S\u00e2mb\u0103ta de Sus",
+    "wof:parent_id":85687683,
+    "wof:placetype":"locality",
+    "wof:population":1465,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.81300303691705,
+    45.75362302393137,
+    24.83570860759227,
+    45.76809418091682
+],
+  "geometry": {"coordinates":[[[24.82657227673309,45.7664993021242],[24.82632845389492,45.76561875039795],[24.82759248304365,45.76544013745411],[24.82734865110251,45.76455958775341],[24.83114063591188,45.76402366887044],[24.83089675616793,45.76314312788952],[24.83216071689282,45.76296446157966],[24.83191682805108,45.76208392262413],[24.83570860759227,45.76154784365201],[24.83522074457949,45.75978678186141],[24.83269297637196,45.76014416946515],[24.8317175281353,45.75662200323234],[24.83298133857414,45.75644333032676],[24.83249363726657,45.75468224597017],[24.83375740159209,45.75450356474641],[24.83351354696993,45.75362302393137],[24.83098604957473,45.75398036467328],[24.83122986551336,45.75486091218193],[24.82491089534756,45.75575401805708],[24.82442346714544,45.7539928882581],[24.82315968952418,45.75417145770513],[24.82340337915997,45.75505202661043],[24.82087576295953,45.75540912715633],[24.8211194241473,45.75628970142975],[24.81985558556681,45.75646823252777],[24.82009923764986,45.75734880882459],[24.81883537229919,45.75752732825373],[24.81907901527609,45.75840790657401],[24.81528731664491,45.75894338480998],[24.81553091181422,45.75982397184157],[24.81300303691705,45.76018088894739],[24.81422097284502,45.76458383773763],[24.81548501077089,45.76440536997319],[24.81572864803377,45.76528595242655],[24.81699269789112,45.76510746630163],[24.81748004185897,45.76686862055766],[24.82127226301043,45.76633305201523],[24.82175976409758,45.76809418091682],[24.82302386167231,45.76791562134451],[24.822780086649,45.76703506090024],[24.82657227673309,45.7664993021242]]],"type":"Polygon"}
+}

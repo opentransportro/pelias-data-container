@@ -1,0 +1,74 @@
+{
+  "id": 1259853929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.45945,46.89084,25.45945,46.89084",
+    "geom:latitude":46.89084,
+    "geom:longitude":25.45945,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"85528.0",
+    "gn:asciiname":"Fundoaia",
+    "gn:cc2":"RO",
+    "gn:country_code":"RO",
+    "gn:dem":743,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":677799,
+    "gn:latitude":46.89084,
+    "gn:longitude":25.45945,
+    "gn:modification_date":"2013-04-21",
+    "gn:name":"Fundoaia",
+    "gn:population":658,
+    "gn:timezone":"Europe/Bucharest",
+    "iso:country":"RO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fundoja",
+        "Fundoaia"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":677799
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"94c7dd12f7f189c4977e1daa3f34dcbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1259853929,
+            "region_id":85687733
+        }
+    ],
+    "wof:id":1259853929,
+    "wof:lastmodified":1537683537,
+    "wof:name":"Fundoaia",
+    "wof:parent_id":85687733,
+    "wof:placetype":"locality",
+    "wof:population":658,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.45945,
+    46.89084,
+    25.45945,
+    46.89084
+],
+  "geometry": {"coordinates":[25.45945,46.89084],"type":"Point"}
+}

@@ -1,0 +1,107 @@
+{
+  "id": 1125826799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.96667,45.3,28.96667,45.3",
+    "geom:latitude":45.3,
+    "geom:longitude":28.96667,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":702,
+    "gn:population":702,
+    "iso:country":"RO",
+    "lbl:latitude":45.3,
+    "lbl:longitude":28.96667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041f\u0430\u0440\u0434\u0438\u043d\u0430"
+    ],
+    "name:dut_x_preferred":[
+        "Pardina"
+    ],
+    "name:eng_x_preferred":[
+        "Pardina"
+    ],
+    "name:fre_x_preferred":[
+        "Pardina"
+    ],
+    "name:hun_x_preferred":[
+        "Pardina"
+    ],
+    "name:ita_x_preferred":[
+        "Pardina"
+    ],
+    "name:por_x_preferred":[
+        "Pardina"
+    ],
+    "name:rum_x_preferred":[
+        "Pardina"
+    ],
+    "name:unk_x_variant":[
+        "Pardine"
+    ],
+    "name:vie_x_preferred":[
+        "Pardina"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":671348,
+    "qs_pg:gn_pop":702,
+    "qs_pg:name":"Pardina",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":551330,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":671348,
+        "qs_pg:id":551330,
+        "wd:id":"Q1041607"
+    },
+    "wof:country":"RO",
+    "wof:created":1497292313,
+    "wof:geomhash":"ce1ac27b4e444634ea4ad3636324e051",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125826799,
+            "region_id":85687679
+        }
+    ],
+    "wof:id":1125826799,
+    "wof:lastmodified":1514500065,
+    "wof:name":"Pardina",
+    "wof:parent_id":85687679,
+    "wof:placetype":"locality",
+    "wof:population":702,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.96667,
+    45.3,
+    28.96667,
+    45.3
+],
+  "geometry": {"coordinates":[28.96667,45.3],"type":"Point"}
+}

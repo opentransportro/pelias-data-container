@@ -1,0 +1,101 @@
+{
+  "id": 101783737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000128,
+    "geom:area_square_m":1057000.766747,
+    "geom:bbox":"23.067821537,47.8951227532,23.0862449979,47.9126166929",
+    "geom:latitude":47.903252,
+    "geom:longitude":23.076095,
+    "gn:population":1234,
+    "iso:country":"RO",
+    "lbl:latitude":47.905873,
+    "lbl:longitude":23.074421,
+    "mps:latitude":47.905873,
+    "mps:longitude":23.074421,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Dr\u0103gu\u0219eni"
+    ],
+    "name:eng_x_preferred":[
+        "Dr\u0103gu\u0219eni"
+    ],
+    "name:epo_x_preferred":[
+        "Dr\u0103gu\u0219eni"
+    ],
+    "name:fre_x_preferred":[
+        "Dr\u0103gu\u0219eni"
+    ],
+    "name:hun_x_preferred":[
+        "T\u00farterebestelep"
+    ],
+    "name:ita_x_preferred":[
+        "Dr\u0103gu\u0219eni"
+    ],
+    "name:rum_x_preferred":[
+        "Dr\u0103gu\u0219eni"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0440\u0435\u0433\u0443\u0448\u0435\u043d\u044c"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Satu Mare",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Turulung",
+    "qs:la_lc":"*RO44139214",
+    "qs:level":"locality",
+    "qs:loc":"Dr\u0103gu\u015feni",
+    "qs:loc_alt":"Draguseni",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":678882,
+        "gp:id":871658,
+        "qs:id":4,
+        "wd:id":"Q754234"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"801ce891812879519d8d0acd097b7c4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101783737,
+            "region_id":85687757
+        }
+    ],
+    "wof:id":101783737,
+    "wof:lastmodified":1514499916,
+    "wof:name":"Dr\u0103gu\u015feni",
+    "wof:parent_id":85687757,
+    "wof:placetype":"locality",
+    "wof:population":1234,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.06782153703705,
+    47.89512275317492,
+    23.08624499791944,
+    47.91261669291549
+],
+  "geometry": {"coordinates":[[[23.07803568255343,47.9124580473889],[23.07780625944361,47.91157431828248],[23.07912649224045,47.9114156600935],[23.07706194242081,47.90346207903337],[23.0783819706441,47.90330343356453],[23.0781526049031,47.90241970021208],[23.07947260380212,47.90226104208313],[23.07924322627696,47.90137731084349],[23.08056319585324,47.90121864005516],[23.08033380654587,47.90033491092834],[23.08165374680038,47.90017622748115],[23.08142434571261,47.89929250046742],[23.08406416015606,47.89897509242553],[23.08383472539492,47.89809137069756],[23.08515459958477,47.89793264610392],[23.08492515304761,47.89704892648911],[23.08624499791944,47.89689018923889],[23.08578609141517,47.89512275317492],[23.08182666587589,47.89559889839859],[23.08205604839509,47.89648262647921],[23.07545674791692,47.89727590111698],[23.07499821192147,47.89550841217903],[23.07235852736392,47.89582559853852],[23.07419256366649,47.90289557960489],[23.07155249906594,47.90321275337055],[23.07178175529953,47.90409650258067],[23.06782153703705,47.90457215399317],[23.06896764129584,47.90899093172749],[23.07292818815165,47.90851523275302],[23.07384551649255,47.91205019783655],[23.07648601921977,47.91173296063613],[23.07671542041879,47.91261669291549],[23.07803568255343,47.9124580473889]]],"type":"Polygon"}
+}

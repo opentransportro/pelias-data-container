@@ -1,0 +1,117 @@
+{
+  "id": 101796103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000214,
+    "geom:area_square_m":1906432.396319,
+    "geom:bbox":"24.2083269819,43.8038211942,24.2337774517,43.8168443112",
+    "geom:latitude":43.810541,
+    "geom:longitude":24.222609,
+    "gn:population":2093,
+    "iso:country":"RO",
+    "lbl:latitude":43.810387,
+    "lbl:longitude":24.226669,
+    "mps:latitude":43.810387,
+    "mps:longitude":24.226669,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "\u0218tefan cel Mare"
+    ],
+    "name:dut_x_preferred":[
+        "\u0218tefan cel Mare "
+    ],
+    "name:eng_x_preferred":[
+        "\u0218tefan cel Mare"
+    ],
+    "name:glg_x_preferred":[
+        "\u0218tefan cel Mare"
+    ],
+    "name:ita_x_preferred":[
+        "\u0218tefan cel Mare"
+    ],
+    "name:por_x_preferred":[
+        "\u0218tefan cel Mare"
+    ],
+    "name:rum_x_colloquial":[
+        "Stefan cel Mare"
+    ],
+    "name:rum_x_preferred":[
+        "\u015etefan cel Mare"
+    ],
+    "name:spa_x_preferred":[
+        "\u0218tefan cel Mare"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0442\u0435\u0444\u0430\u043d-\u0447\u0435\u043b-\u041c\u0430\u0440\u0435"
+    ],
+    "name:vol_x_preferred":[
+        "\u0218tefan cel Mare"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Olt",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"\u015etefan cel Mare",
+    "qs:la_lc":"*RO41129282",
+    "qs:level":"locality",
+    "qs:loc":"\u015etefan cel Mare",
+    "qs:loc_alt":"Stefan cel Mare",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a4abb4-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":666253,
+        "gp:id":880965,
+        "qs:id":126928,
+        "qs_pg:id":126928,
+        "wd:id":"Q2301008"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"d9291a9efab9673b9e7db8497de12eb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101796103,
+            "region_id":85687607
+        }
+    ],
+    "wof:id":101796103,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514500273,
+    "wof:name":"\u015etefan cel Mare",
+    "wof:parent_id":85687607,
+    "wof:placetype":"locality",
+    "wof:population":2093,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.2083269819326,
+    43.80382119422927,
+    24.23377745166016,
+    43.81684431124677
+],
+  "geometry": {"coordinates":[[[24.23377745166016,43.81442561491269],[24.2311221237062,43.80382119422927],[24.22011544618567,43.80535584273457],[24.22033651377785,43.80623957906886],[24.21422137894876,43.80709166993586],[24.21444236643646,43.80797542008838],[24.2083269819326,43.80882716408479],[24.20876880563765,43.81059469068737],[24.20999193102369,43.81042436479356],[24.21065478734306,43.81307563563661],[24.2118779597713,43.81290528617421],[24.21254095033419,43.81555653595859],[24.22232652616668,43.81419314617278],[24.22299002529252,43.81684431124677],[24.231552440857,43.81565052118935],[24.23133114074864,43.81476682205789],[24.23377745166016,43.81442561491269]]],"type":"Polygon"}
+}

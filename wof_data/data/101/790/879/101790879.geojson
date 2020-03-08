@@ -1,0 +1,122 @@
+{
+  "id": 101790879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000203,
+    "geom:area_square_m":1755909.006042,
+    "geom:bbox":"25.6239857892,45.7009423922,25.6431287497,45.7200141611",
+    "geom:latitude":45.710333,
+    "geom:longitude":25.632238,
+    "gn:population":3309,
+    "iso:country":"RO",
+    "lbl:latitude":45.709236,
+    "lbl:longitude":25.633978,
+    "mps:latitude":45.709236,
+    "mps:longitude":25.633978,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "S\u00e2npetru"
+    ],
+    "name:eng_x_preferred":[
+        "Perersberg"
+    ],
+    "name:eng_x_variant":[
+        "Petersberg",
+        "Szentpeter",
+        "S\u00e2npetru"
+    ],
+    "name:fre_x_preferred":[
+        "S\u00e2npetru"
+    ],
+    "name:hun_x_preferred":[
+        "Barcaszentp\u00e9ter"
+    ],
+    "name:ita_x_preferred":[
+        "S\u00e2npetru"
+    ],
+    "name:rum_x_colloquial":[
+        "Sanpetrul",
+        "Sapetru",
+        "Simpetru",
+        "Sinpetru"
+    ],
+    "name:rum_x_preferred":[
+        "S\u00eenpetru"
+    ],
+    "name:rum_x_variant":[
+        "S\u00e2npetrul",
+        "S\u00e2petru",
+        "S\u00eempetru",
+        "S\u00e2npetru"
+    ],
+    "name:unk_x_variant":[
+        "S\u00e2petru"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Brasov",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"S\u00e2npetru",
+    "qs:la_lc":"*RO19041925",
+    "qs:level":"locality",
+    "qs:loc":"S\u00e2npetru",
+    "qs:loc_alt":"Sanpetru",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a468fc-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":666958,
+        "gp:id":880450,
+        "qs:id":314942,
+        "qs_pg:id":314942,
+        "wd:id":"Q15279385"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"e497ebafa97a69b92c987b1c42d4ab2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101790879,
+            "region_id":85687683
+        }
+    ],
+    "wof:id":101790879,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514500179,
+    "wof:name":"S\u00e2npetru",
+    "wof:parent_id":85687683,
+    "wof:placetype":"locality",
+    "wof:population":3309,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.62398578915582,
+    45.70094239216127,
+    25.64312874967266,
+    45.7200141610802
+],
+  "geometry": {"coordinates":[[[25.62578111252418,45.7200141610802],[25.63586735452316,45.71850865966763],[25.6348407795424,45.7149954513759],[25.63610144831495,45.71480721050659],[25.63584481234523,45.71392890841616],[25.63710545422504,45.71374065611815],[25.63684880990445,45.71286235612951],[25.6393700320898,45.71248581373436],[25.63911336031902,45.71160751936236],[25.64037394062603,45.71141922926614],[25.63986059114222,45.70966264331196],[25.64238165199083,45.70928603235495],[25.64186826912641,45.707529454807],[25.64312874967266,45.7073411339473],[25.64287205527359,45.70646284656772],[25.64161159382195,45.70665116391223],[25.64135492926886,45.70577287160364],[25.63757355546721,45.70633772344894],[25.63654723387526,45.70282449790591],[25.6352868367444,45.70301273791779],[25.63503030230504,45.70213442448528],[25.63250952287643,45.70251085266301],[25.63225303736755,45.70163253079158],[25.63099265507157,45.70182071895812],[25.63073619939763,45.70094239216127],[25.62569466877375,45.70169498138011],[25.62723310565951,45.70696500525889],[25.62597258897154,45.70715313628205],[25.62699835199163,45.71066647133955],[25.62951953038731,45.71029016625295],[25.63028908007686,45.71292513164263],[25.62398578915582,45.71386583497406],[25.62526810926067,45.71825750353651],[25.62400733218294,45.71844561693268],[25.62426380933124,45.71932394992319],[25.62552460551888,45.71913583301415],[25.62578111252418,45.7200141610802]]],"type":"Polygon"}
+}

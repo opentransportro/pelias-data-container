@@ -1,0 +1,140 @@
+{
+  "id": 85901793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":17658204.055044,
+    "geom:bbox":"24.874901,44.856725,24.874901,44.856725",
+    "geom:latitude":44.856725,
+    "geom:longitude":24.874901,
+    "gn:latitude":44.88333,
+    "gn:longitude":24.88333,
+    "iso:country":"RO",
+    "lbl:latitude":44.856725,
+    "lbl:longitude":24.874901,
+    "mps:latitude":44.859801,
+    "mps:longitude":24.873175,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Gropeni Halta"
+    ],
+    "name:eng_x_variant":[
+        "Gropeni Halta"
+    ],
+    "name:hbs_x_preferred":[
+        "Op\u0161tina Gropeni"
+    ],
+    "name:ita_x_preferred":[
+        "Gropeni"
+    ],
+    "name:msa_x_preferred":[
+        "Gropeni"
+    ],
+    "name:nld_x_preferred":[
+        "Gropeni"
+    ],
+    "name:por_x_preferred":[
+        "Gropeni"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Gropeni"
+    ],
+    "name:rum_x_preferred":[
+        "Gropeni"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0440\u043e\u043f\u0435\u043d\u044c"
+    ],
+    "name:unk_x_variant":[
+        "Gropeni"
+    ],
+    "name:vie_x_preferred":[
+        "Gropeni"
+    ],
+    "name:vol_x_preferred":[
+        "Gropeni"
+    ],
+    "qs:gn_adm0_cc":"RO",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":670609,
+    "qs:gn_namadm1":"00",
+    "qs:gn_name":"Gropeni",
+    "qs:local_max":956,
+    "qs:local_sum":956,
+    "qs:localhoods":1,
+    "qs:name":"Gropeni",
+    "qs:name_adm0":"Rom\u00e2nia",
+    "qs:name_adm1":"Arges",
+    "qs:name_en":"Gropeni Halta",
+    "qs:name_local":"Pite\u0219ti",
+    "qs:photo_max":784,
+    "qs:photo_sum":956,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":21,
+    "qs:woe_adm0":23424933,
+    "qs:woe_adm1":2346617,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":877765,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        101751971,
+        85633745,
+        85687645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":676677,
+        "gp:id":873279,
+        "qs:id":900078,
+        "qs_pg:id":900078
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"b56c02568c7aa84aea832472929cdfeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101751971,
+            "neighbourhood_id":85901793,
+            "region_id":85687645
+        }
+    ],
+    "wof:id":85901793,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1531932567,
+    "wof:name":"Gropeni",
+    "wof:parent_id":101751971,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.874901,
+    44.856725,
+    24.874901,
+    44.856725
+],
+  "geometry": {"coordinates":[24.874901,44.856725],"type":"Point"}
+}

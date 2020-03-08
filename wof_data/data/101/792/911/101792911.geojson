@@ -1,0 +1,126 @@
+{
+  "id": 101792911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0002,
+    "geom:area_square_m":1736058.901869,
+    "geom:bbox":"21.2220983601,45.4635344459,21.2468629682,45.4791967048",
+    "geom:latitude":45.471212,
+    "geom:longitude":21.23662,
+    "gn:population":2402,
+    "iso:country":"RO",
+    "lbl:latitude":45.471142,
+    "lbl:longitude":21.237464,
+    "mps:latitude":45.471142,
+    "mps:longitude":21.237464,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0412\u043e\u0438\u0442\u0435\u0433"
+    ],
+    "name:dut_x_preferred":[
+        "Voiteg"
+    ],
+    "name:eng_x_preferred":[
+        "Voiteg"
+    ],
+    "name:epo_x_preferred":[
+        "Voiteg"
+    ],
+    "name:fre_x_preferred":[
+        "Voiteg"
+    ],
+    "name:ger_x_preferred":[
+        "Voiteg"
+    ],
+    "name:hun_x_preferred":[
+        "Vejte"
+    ],
+    "name:ita_x_preferred":[
+        "Voiteg"
+    ],
+    "name:por_x_preferred":[
+        "Voiteg"
+    ],
+    "name:rum_x_preferred":[
+        "Voiteg"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u043e\u0439\u0442\u0435\u0433"
+    ],
+    "name:unk_x_variant":[
+        "Vejte"
+    ],
+    "name:vie_x_preferred":[
+        "Voiteg"
+    ],
+    "name:vol_x_preferred":[
+        "Voiteg"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Timis",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Voiteg",
+    "qs:la_lc":"*RO48159339",
+    "qs:level":"locality",
+    "qs:loc":"Voiteg",
+    "qs:loc_alt":"Voiteg",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a61f3a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":662508,
+        "gp:id":883816,
+        "qs:id":126613,
+        "qs_pg:id":126613,
+        "wd:id":"Q1022869"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"7baf779a5b01344aacb02c440fbfd6b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101792911,
+            "region_id":85687655
+        }
+    ],
+    "wof:id":101792911,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514500247,
+    "wof:name":"Voiteg",
+    "wof:parent_id":85687655,
+    "wof:placetype":"locality",
+    "wof:population":2402,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.2220983600505,
+    45.46353444592188,
+    21.24686296823012,
+    45.47919670480974
+],
+  "geometry": {"coordinates":[[[21.24416773175079,45.47633371763692],[21.24380043780315,45.47455489027311],[21.24506619794272,45.47441931182613],[21.24469889527956,45.47264048557133],[21.2459646100998,45.47250489706556],[21.24559729872527,45.47072607191899],[21.24686296823012,45.47059047335517],[21.24612835905839,45.46703282130363],[21.24486276895635,45.46716840970544],[21.24449555055503,45.46538957263829],[21.24322999454415,45.46552514082219],[21.24304641681033,45.46463571825848],[21.23671865192756,45.46531331941731],[21.23635171816812,45.46353444592188],[21.23382065239036,45.46380537026971],[21.23400407570313,45.46469481258919],[21.23147294782552,45.46496568146119],[21.23202314509479,45.46763401768908],[21.23075751320306,45.46776943702901],[21.23130772055777,45.47043777193744],[21.22877632084908,45.47070858042258],[21.22895969906676,45.47159802848194],[21.22389675302657,45.47213947391708],[21.22408005955191,45.47302893113061],[21.22281428918677,45.47316425717378],[21.22336419559497,45.47583263047369],[21.2220983600505,45.47596794898317],[21.22228165779569,45.4768574073031],[21.22481336300933,45.47658675006994],[21.22444669580852,45.47480784258323],[21.22824409246471,45.47440175838938],[21.22842748177715,45.4752912050181],[21.23222488760229,45.47488497694098],[21.23240834423297,45.47577441496554],[21.23367415482869,45.47563897278593],[21.23440813821924,45.47919670480974],[21.23693990148263,45.47892575471644],[21.23657281485487,45.47714690084445],[21.24416773175079,45.47633371763692]]],"type":"Polygon"}
+}

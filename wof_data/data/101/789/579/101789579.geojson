@@ -1,0 +1,102 @@
+{
+  "id": 101789579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000078,
+    "geom:area_square_m":668416.940041,
+    "geom:bbox":"25.2226262574,45.9102599734,25.2403548099,45.9191295442",
+    "geom:latitude":45.914041,
+    "geom:longitude":25.230539,
+    "gn:population":1020,
+    "iso:country":"RO",
+    "lbl:latitude":45.915058,
+    "lbl:longitude":25.227719,
+    "mps:latitude":45.915058,
+    "mps:longitude":25.227719,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Comana"
+    ],
+    "name:eng_x_preferred":[
+        "Com\u0103na de Jos"
+    ],
+    "name:fre_x_preferred":[
+        "Com\u0103na de Jos"
+    ],
+    "name:hun_x_preferred":[
+        "Als\u00f3kom\u00e1na"
+    ],
+    "name:ita_x_preferred":[
+        "Com\u0103na de Jos"
+    ],
+    "name:rum_x_preferred":[
+        "Com\u0103na de Jos"
+    ],
+    "name:swe_x_preferred":[
+        "Com\u0103na de Jos"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u043c\u0435\u043d\u0430-\u0434\u0435-\u0416\u043e\u0441"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Brasov",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:id":0,
+    "qs:la":"Comana",
+    "qs:la_lc":"*RO19040857",
+    "qs:level":"locality",
+    "qs:loc":"Comana de Jos",
+    "qs:loc_alt":"Comana de Jos",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":681030,
+        "gp:id":870099,
+        "qs:id":410086,
+        "wd:id":"Q4845481"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"599ba262fc9f8cd8966a7d6e0a0ce966",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101789579,
+            "region_id":85687683
+        }
+    ],
+    "wof:id":101789579,
+    "wof:lastmodified":1514499861,
+    "wof:name":"Comana de Jos",
+    "wof:parent_id":85687683,
+    "wof:placetype":"locality",
+    "wof:population":1020,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.22262625739921,
+    45.91025997339909,
+    25.24035480989704,
+    45.91912954418018
+],
+  "geometry": {"coordinates":[[[25.22996406193369,45.9183956487737],[25.22946103786489,45.91663702023476],[25.23072741335005,45.9164535156952],[25.230224392867,45.91469488861173],[25.23528966286176,45.91396074771308],[25.23554124535701,45.91484004813617],[25.23807387301855,45.91447288058771],[25.23782225175148,45.91359358706563],[25.24035480989704,45.91322636628757],[25.23959989336117,45.91058849825549],[25.23580121906696,45.91113927581824],[25.23554965955827,45.91025997339909],[25.22668595298103,45.91154457077442],[25.22643453975161,45.91066524285139],[25.22516828461687,45.91084869318433],[25.22592249790569,45.91348668321575],[25.22465617693103,45.91367012885934],[25.22515899994625,45.91542878897428],[25.22262625739921,45.9157956489517],[25.22338045498054,45.91843364961102],[25.22464688826983,45.91825021679546],[25.224898328032,45.91912954418018],[25.22996406193369,45.9183956487737]]],"type":"Polygon"}
+}

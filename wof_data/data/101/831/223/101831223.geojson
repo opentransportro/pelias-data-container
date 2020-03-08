@@ -1,0 +1,104 @@
+{
+  "id": 101831223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000204,
+    "geom:area_square_m":1716633.606705,
+    "geom:bbox":"24.7023079968,47.2149641989,24.7258934567,47.2283200822",
+    "geom:latitude":47.221245,
+    "geom:longitude":24.71504,
+    "gn:population":1496,
+    "iso:country":"RO",
+    "lbl:latitude":47.220013,
+    "lbl:longitude":24.714815,
+    "mps:latitude":47.220013,
+    "mps:longitude":24.714815,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Susenii B\u00e2rg\u0103ului"
+    ],
+    "name:eng_x_preferred":[
+        "Susenii B\u00e2rg\u0103ului"
+    ],
+    "name:epo_x_preferred":[
+        "Susenii B\u00e2rg\u0103ului"
+    ],
+    "name:fre_x_preferred":[
+        "Susenii B\u00e2rg\u0103ului"
+    ],
+    "name:hun_x_preferred":[
+        "Fels\u0151borg\u00f3"
+    ],
+    "name:ita_x_preferred":[
+        "Susenii B\u00e2rg\u0103ului"
+    ],
+    "name:rum_x_preferred":[
+        "Susenii B\u00e2rg\u0103ului"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0443\u0441\u0435\u043d\u0456\u0439-\u0411\u0438\u0440\u0433\u0435\u0443\u043b\u0443\u0439"
+    ],
+    "name:unk_x_variant":[
+        "Susenii B\u00e2rg\u00e2ului"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Bistrita-Nasaud",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Bistri\u0163a B\u00e2rg\u0103ului",
+    "qs:la_lc":"*RO16032633",
+    "qs:level":"locality",
+    "qs:loc":"Susenii B\u00e2rg\u0103ului",
+    "qs:loc_alt":"Susenii Bargaului",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":665681,
+        "gp:id":881378,
+        "qs:id":6,
+        "wd:id":"Q824942"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"6ea54a90765d03104058617f1f3fa57c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101831223,
+            "region_id":85687753
+        }
+    ],
+    "wof:id":101831223,
+    "wof:lastmodified":1514500175,
+    "wof:name":"Susenii B\u00e2rg\u0103ului",
+    "wof:parent_id":85687753,
+    "wof:placetype":"locality",
+    "wof:population":1496,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.70230799676227,
+    47.21496419888985,
+    24.72589345674095,
+    47.22832008221354
+],
+  "geometry": {"coordinates":[[[24.72511389299262,47.22774606649875],[24.72589345674095,47.21666520633403],[24.72568732316529,47.21669348766829],[24.7254345537425,47.21581365690963],[24.72283761937967,47.2161698697131],[24.72258490242439,47.21529003073772],[24.72128644401391,47.21546811043447],[24.7215391402039,47.21634795288691],[24.7176436547083,47.21688210949577],[24.71739102081636,47.21600225661388],[24.71609253043022,47.21618027436926],[24.71634514355549,47.2170601307273],[24.71115101902041,47.21777206079207],[24.71089848896895,47.2168921905328],[24.70959995862722,47.21707013085836],[24.70934746027393,47.21619025586455],[24.70675041716203,47.21654608310791],[24.70649797127487,47.21566619990625],[24.70519945850663,47.21584408682457],[24.704947044314,47.21496419888985],[24.70413325178816,47.21507567183357],[24.70230799676227,47.22355580095285],[24.70332308061802,47.22341679615727],[24.70382799196739,47.22517656893967],[24.7051267364422,47.22499869374724],[24.70563173306783,47.22675845454478],[24.70952804321865,47.22622471518275],[24.70877037767093,47.2235851033704],[24.71656240816554,47.22251726900106],[24.71757314939561,47.22603666547309],[24.71627441453143,47.22621469049534],[24.71652710640865,47.22709453993878],[24.71782586204978,47.22691651143947],[24.71807858564421,47.22779635614518],[24.7206761144862,47.22744024572421],[24.72092889057728,47.22832008221354],[24.72511389299262,47.22774606649875]]],"type":"Polygon"}
+}

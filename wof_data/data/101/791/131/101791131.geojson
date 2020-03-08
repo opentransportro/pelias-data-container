@@ -1,0 +1,98 @@
+{
+  "id": 101791131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000071,
+    "geom:area_square_m":618599.141171,
+    "geom:bbox":"27.297322559,45.4383857243,27.3087275315,45.450613713",
+    "geom:latitude":45.44392,
+    "geom:longitude":27.303455,
+    "gn:population":1016,
+    "iso:country":"RO",
+    "lbl:latitude":45.443775,
+    "lbl:longitude":27.304016,
+    "mps:latitude":45.443775,
+    "mps:longitude":27.304016,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Mih\u0103lceni"
+    ],
+    "name:eng_x_preferred":[
+        "Mih\u0103lceni"
+    ],
+    "name:fre_x_preferred":[
+        "Mih\u0103lceni"
+    ],
+    "name:ita_x_preferred":[
+        "Mih\u0103lceni"
+    ],
+    "name:rum_x_preferred":[
+        "Mih\u0103lceni"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0456\u0445\u0435\u043b\u0447\u0435\u043d\u044c"
+    ],
+    "name:unk_x_variant":[
+        "Mih\u0103ileni"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Vrancea",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Cior\u0103\u015fti",
+    "qs:la_lc":"*RO52175590",
+    "qs:level":"locality",
+    "qs:loc":"Mih\u0103lceni",
+    "qs:loc_alt":"Mihalceni",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":673357,
+        "gp:id":875736,
+        "qs:id":6,
+        "wd:id":"Q12131787"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"63e26568e9c2a763e8581cd6c13e3d96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101791131,
+            "region_id":85687705
+        }
+    ],
+    "wof:id":101791131,
+    "wof:lastmodified":1514500022,
+    "wof:name":"Mih\u0103lceni",
+    "wof:parent_id":85687705,
+    "wof:placetype":"locality",
+    "wof:population":1016,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.29732255896261,
+    45.43838572431321,
+    27.30872753154409,
+    45.45061371295014
+],
+  "geometry": {"coordinates":[[[27.3066678322794,45.45019774210522],[27.30582305778353,45.44757750854922],[27.30707283588623,45.44736951252668],[27.30679124931123,45.44649610193909],[27.30804100055292,45.44628809501449],[27.30747782557938,45.44454127665398],[27.30872753154409,45.44433326266358],[27.30760124797666,45.44083962185385],[27.30635161567699,45.44104762050148],[27.30607009237366,45.44017420241522],[27.30357083929255,45.44059014783073],[27.30328936448569,45.43971672045569],[27.30203974370608,45.43992466722409],[27.30175829897968,45.439051234396],[27.30050868817978,45.43925916259388],[27.30022727353264,45.43838572431321],[27.29897767271376,45.43859363394103],[27.29954047684095,45.44034051655137],[27.29829083075674,45.4405484191098],[27.29857223189805,45.44142186182103],[27.29732255896261,45.44162975347587],[27.29816677711437,45.44425008340153],[27.30066622506325,45.44383426235106],[27.30207367283509,45.44820140818513],[27.30332347625745,45.44799345637864],[27.30416814021913,45.45061371295014],[27.3066678322794,45.45019774210522]]],"type":"Polygon"}
+}

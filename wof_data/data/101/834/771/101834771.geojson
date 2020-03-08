@@ -1,0 +1,98 @@
+{
+  "id": 101834771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000176,
+    "geom:area_square_m":1533025.280997,
+    "geom:bbox":"26.7851027686,45.1764033611,26.8116352218,45.193427004",
+    "geom:latitude":45.185916,
+    "geom:longitude":26.797799,
+    "gn:population":3296,
+    "iso:country":"RO",
+    "lbl:latitude":45.186466,
+    "lbl:longitude":26.795587,
+    "mps:latitude":45.186466,
+    "mps:longitude":26.795587,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "C\u0103p\u0103\u021b\u00e2ne\u0219ti"
+    ],
+    "name:eng_x_preferred":[
+        "C\u0103p\u0103\u021b\u00e2ne\u0219ti"
+    ],
+    "name:fre_x_preferred":[
+        "C\u0103p\u0103\u021b\u00e2ne\u0219ti"
+    ],
+    "name:ita_x_preferred":[
+        "C\u0103p\u0103\u021b\u00e2ne\u0219ti"
+    ],
+    "name:rum_x_preferred":[
+        "C\u0103p\u0103\u021b\u00e2ne\u0219ti"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0435\u043f\u0435\u0446\u0438\u043d\u0435\u0448\u0442\u044c "
+    ],
+    "name:unk_x_variant":[
+        "C\u0103p\u0103\u0163\u00eene\u015fti"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Buzau",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"S\u0103poca",
+    "qs:la_lc":"*RO21049206",
+    "qs:level":"locality",
+    "qs:loc":"C\u0103p\u0103\u0163\u00e2ne\u015fti",
+    "qs:loc_alt":"Capatanesti",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":682820,
+        "gp:id":868772,
+        "qs:id":409763,
+        "wd:id":"Q12109590"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"1e4596d6b4594862167af51f3a231933",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101834771,
+            "region_id":85687667
+        }
+    ],
+    "wof:id":101834771,
+    "wof:lastmodified":1514499897,
+    "wof:name":"C\u0103p\u0103\u0163\u00e2ne\u015fti",
+    "wof:parent_id":85687667,
+    "wof:placetype":"locality",
+    "wof:population":3296,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.78510276860607,
+    45.17640336107371,
+    26.81163522176666,
+    45.19342700397686
+],
+  "geometry": {"coordinates":[[[26.81163522176666,45.18662275498309],[26.8066312529499,45.17640336107371],[26.80169646319865,45.17720350178047],[26.80223912461508,45.17895395215123],[26.80597528664674,45.17834832404515],[26.80678952782455,45.18097395455408],[26.80429865124717,45.18137774353215],[26.80457005073583,45.18225295797475],[26.79709711672399,45.18346399433574],[26.79682582723905,45.18258875768743],[26.79558032824411,45.18279054193169],[26.79530906830263,45.18191530001985],[26.79281808270866,45.18231881700945],[26.79308930597847,45.18319406632037],[26.79059825134783,45.18359753190788],[26.79086944914911,45.18447278705389],[26.78837832548049,45.1848762012367],[26.78864949780882,45.18575146221735],[26.78510276860607,45.18632570994316],[26.78744889538814,45.19238003004267],[26.79179373049868,45.19167651598514],[26.79233630237218,45.19342700397686],[26.79607350171005,45.19282170555073],[26.79525949562105,45.19019600452276],[26.8014877241165,45.18918693527928],[26.80067354383505,45.18656127569392],[26.80441021872548,45.18595569104747],[26.80468165594999,45.18683090136841],[26.80841831296954,45.18622517331278],[26.80868981641805,45.18710037096099],[26.81163522176666,45.18662275498309]]],"type":"Polygon"}
+}

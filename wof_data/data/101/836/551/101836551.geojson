@@ -1,0 +1,126 @@
+{
+  "id": 101836551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000134,
+    "geom:area_square_m":1185111.24253,
+    "geom:bbox":"22.923598632,44.2289221857,22.935921704,44.2456572166",
+    "geom:latitude":44.237445,
+    "geom:longitude":22.930258,
+    "gn:population":4570,
+    "iso:country":"RO",
+    "lbl:latitude":44.23741,
+    "lbl:longitude":22.930757,
+    "mps:latitude":44.23741,
+    "mps:longitude":22.930757,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "V\u00e2n\u0103tori"
+    ],
+    "name:eng_x_preferred":[
+        "V\u00e2n\u0103tori"
+    ],
+    "name:epo_x_preferred":[
+        "V\u00e2n\u0103tori"
+    ],
+    "name:fre_x_preferred":[
+        "V\u00e2n\u0103tori"
+    ],
+    "name:ita_x_preferred":[
+        "V\u00e2n\u0103tori"
+    ],
+    "name:may_x_preferred":[
+        "V\u00e2n\u0103tori"
+    ],
+    "name:por_x_preferred":[
+        "V\u00e2n\u0103tori"
+    ],
+    "name:rum_x_colloquial":[
+        "Vanaetori",
+        "Vanatori",
+        "Vinaetori",
+        "Vinatori"
+    ],
+    "name:rum_x_preferred":[
+        "V\u00een\u0103tori"
+    ],
+    "name:rum_x_variant":[
+        "V\u00e2n\u0103tori"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0438\u043d\u0435\u0442\u043e\u0440\u0456"
+    ],
+    "name:unk_x_variant":[
+        "V\u00een\u0103tori"
+    ],
+    "name:vol_x_preferred":[
+        "V\u00e2n\u0103tori"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Mehedinti",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"V\u00e2n\u0103tori",
+    "qs:la_lc":"*RO38113849",
+    "qs:level":"locality",
+    "qs:loc":"V\u00e2n\u0103tori",
+    "qs:loc_alt":"Vanatori",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a5fdf2-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":662844,
+        "gp:id":883591,
+        "qs:id":413666,
+        "qs_pg:id":413666,
+        "wd:id":"Q965720"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"862fc84a1127479297b7ca0bfec8c44b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101836551,
+            "region_id":85687599
+        }
+    ],
+    "wof:id":101836551,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514500252,
+    "wof:name":"V\u00e2n\u0103tori",
+    "wof:parent_id":85687599,
+    "wof:placetype":"locality",
+    "wof:population":4570,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.92359863200761,
+    44.22892218570036,
+    22.93592170403906,
+    44.245657216626
+],
+  "geometry": {"coordinates":[[[22.92512028506059,44.24321411005133],[22.93457726029465,44.245657216626],[22.93406269035597,44.24341799278392],[22.93529781509375,44.24326267338],[22.9346866406234,44.24060297194399],[22.93592170403906,44.24044764627007],[22.9332739116594,44.22892218570036],[22.93203908786558,44.22907747494651],[22.93224269559482,44.22996405879923],[22.92359863200761,44.23105069221043],[22.92380211908477,44.23193729447382],[22.92503702174309,44.23178210235761],[22.92646179432762,44.23798826520436],[22.92522676262888,44.23814347692269],[22.92583744953259,44.2408032515122],[22.92460235651697,44.24095845695416],[22.92512028506059,44.24321411005133]]],"type":"Polygon"}
+}

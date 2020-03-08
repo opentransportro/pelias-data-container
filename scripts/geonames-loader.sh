@@ -5,4 +5,4 @@ set -e
 
 cd $TOOLS/geonames
 ./bin/pelias-geonames -m
-./bin/pelias-geonames -d fi
+./bin/pelias-geonames -d ro

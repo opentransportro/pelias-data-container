@@ -1,0 +1,116 @@
+{
+  "id": 1125829621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.78333,47.13333,26.78333,47.13333",
+    "geom:latitude":47.13333,
+    "geom:longitude":26.78333,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":4044,
+    "gn:population":4044,
+    "iso:country":"RO",
+    "lbl:latitude":47.13333,
+    "lbl:longitude":26.78333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0645\u0648\u063a\u0648\u0634\u064a\u0634\u062a-\u0633\u064a\u0631\u064a\u062a"
+    ],
+    "name:dut_x_preferred":[
+        "Mogo\u0219e\u0219ti-Siret"
+    ],
+    "name:eng_x_preferred":[
+        "Mogo\u0219e\u0219ti-Siret"
+    ],
+    "name:fre_x_preferred":[
+        "Mogo\u0219e\u0219ti-Siret"
+    ],
+    "name:hun_x_preferred":[
+        "Magosfalva"
+    ],
+    "name:ita_x_preferred":[
+        "Mogo\u0219e\u0219ti-Siret"
+    ],
+    "name:may_x_preferred":[
+        "Mogo\u0219e\u0219ti-Siret"
+    ],
+    "name:por_x_preferred":[
+        "Mogo\u0219e\u0219ti-Siret"
+    ],
+    "name:rum_x_preferred":[
+        "Mogo\u0219e\u0219ti-Siret"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u043e\u0433\u043e\u0448\u0435\u0448\u0442\u044c-\u0421\u0456\u0440\u0435\u0442"
+    ],
+    "name:unk_x_variant":[
+        "Mogo\u015fe\u015fti"
+    ],
+    "name:vie_x_preferred":[
+        "Mogosesti-Siret"
+    ],
+    "name:vol_x_preferred":[
+        "Mogo\u0219e\u0219ti-Siret"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":672938,
+    "qs_pg:gn_pop":4044,
+    "qs_pg:name":"Mogo\u015fe\u015fti-Siret",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1027677,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":672938,
+        "qs_pg:id":1027677,
+        "wd:id":"Q1084772"
+    },
+    "wof:country":"RO",
+    "wof:created":1497292433,
+    "wof:geomhash":"1ae73f5d291a8542f9de332a244f8972",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125829621,
+            "region_id":85687769
+        }
+    ],
+    "wof:id":1125829621,
+    "wof:lastmodified":1514500027,
+    "wof:name":"Mogo\u015fe\u015fti-Siret",
+    "wof:parent_id":85687769,
+    "wof:placetype":"locality",
+    "wof:population":4044,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.78333,
+    47.13333,
+    26.78333,
+    47.13333
+],
+  "geometry": {"coordinates":[26.78333,47.13333],"type":"Point"}
+}

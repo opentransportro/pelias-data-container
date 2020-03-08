@@ -1,0 +1,110 @@
+{
+  "id": 101792523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000048,
+    "geom:area_square_m":419088.720143,
+    "geom:bbox":"23.7515752116,45.0462867794,23.7654755278,45.0578303866",
+    "geom:latitude":45.052973,
+    "geom:longitude":23.757459,
+    "gn:population":3463,
+    "iso:country":"RO",
+    "lbl:latitude":45.055206,
+    "lbl:longitude":23.755036,
+    "mps:latitude":45.055206,
+    "mps:longitude":23.755036,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Ro\u0219ia de Amaradia"
+    ],
+    "name:eng_x_preferred":[
+        "Ro\u0219ia de Amaradia"
+    ],
+    "name:fre_x_preferred":[
+        "Ro\u0219ia de Amaradia"
+    ],
+    "name:ita_x_preferred":[
+        "Ro\u0219ia de Amaradia"
+    ],
+    "name:may_x_preferred":[
+        "Ro\u0219ia de Amaradia"
+    ],
+    "name:por_x_preferred":[
+        "Ro\u0219ia de Amaradia"
+    ],
+    "name:rum_x_preferred":[
+        "Ro\u0219ia de Amaradia"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u043e\u0448\u0456\u044f-\u0434\u0435-\u0410\u043c\u0430\u0440\u0430\u0434\u0456\u044f"
+    ],
+    "name:unk_x_variant":[
+        "Ro\u015fia de Amaradia-de-Sus"
+    ],
+    "name:vie_x_preferred":[
+        "Rosia de Amaradia"
+    ],
+    "name:vol_x_preferred":[
+        "Ro\u0219ia de Amaradia"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Gorj",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Ro\u015fia de Amaradia",
+    "qs:la_lc":"*RO31081497",
+    "qs:level":"locality",
+    "qs:loc":"Ro\u015fia de Amaradia",
+    "qs:loc_alt":"Rosia de Amaradia",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":668645,
+        "gp:id":879236,
+        "qs:id":127144,
+        "wd:id":"Q2718340"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"5def7be6854a92fcb78c96e67cb732f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101792523,
+            "region_id":85687619
+        }
+    ],
+    "wof:id":101792523,
+    "wof:lastmodified":1514500118,
+    "wof:name":"Ro\u015fia de Amaradia",
+    "wof:parent_id":85687619,
+    "wof:placetype":"locality",
+    "wof:population":3463,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.7515752116077,
+    45.04628677942759,
+    23.7654755278316,
+    45.05783038656017
+],
+  "geometry": {"coordinates":[[[23.7654755278316,45.04788900012295],[23.76525371882349,45.04700510150269],[23.76400307756751,45.04717068233566],[23.76378129674356,45.04628677942759],[23.76128003217673,45.04661789039437],[23.76172352721477,45.04838570716805],[23.76047284702815,45.04855124644826],[23.76069458942237,45.04943515602685],[23.75819317115821,45.0497661960809],[23.75863660776969,45.05153402371928],[23.7548843166764,45.05203049057678],[23.75510599192364,45.05291441168447],[23.75260439332106,45.05324532133938],[23.75282603985789,45.05412924730501],[23.7515752116077,45.05429468287571],[23.75246181409619,45.05783038656017],[23.75871626815183,45.05700299904754],[23.75782928630508,45.05346735632583],[23.75908008127618,45.05330184640752],[23.758858339911,45.05241793568212],[23.76010910926021,45.05225241394362],[23.75988735815548,45.05136850502936],[23.76238883895451,45.05103742304391],[23.76194528856979,45.04926961369802],[23.76319598105965,45.04910405650128],[23.76297420074445,45.0482201530204],[23.7654755278316,45.04788900012295]]],"type":"Polygon"}
+}

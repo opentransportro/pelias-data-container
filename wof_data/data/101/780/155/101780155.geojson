@@ -1,0 +1,104 @@
+{
+  "id": 101780155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000095,
+    "geom:area_square_m":787745.379993,
+    "geom:bbox":"23.9470356202,47.9386605729,23.9678541644,47.9531025686",
+    "geom:latitude":47.945932,
+    "geom:longitude":23.956626,
+    "gn:population":1322,
+    "iso:country":"RO",
+    "lbl:latitude":47.948461,
+    "lbl:longitude":23.959071,
+    "mps:latitude":47.948461,
+    "mps:longitude":23.959071,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Tisa"
+    ],
+    "name:eng_x_preferred":[
+        "Tisa"
+    ],
+    "name:epo_x_preferred":[
+        "Tisa"
+    ],
+    "name:ger_x_preferred":[
+        "Tisa"
+    ],
+    "name:hun_x_preferred":[
+        "Tiszaveresmart"
+    ],
+    "name:ita_x_preferred":[
+        "Tisa"
+    ],
+    "name:rum_x_preferred":[
+        "Tisa"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0438\u043a\u0456\u0432"
+    ],
+    "name:unk_x_variant":[
+        "Viri\u015fmort"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Maramures",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Sighetu Marma\u0163iei",
+    "qs:la_lc":"*RO37106559",
+    "qs:level":"locality",
+    "qs:loc":"Tisa",
+    "qs:loc_alt":"Tisa",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":664929,
+        "gp:id":881922,
+        "qs:id":413183,
+        "wd:id":"Q842210"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"8ed485c33abcbce9e6f1992c2d7a8dcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101780155,
+            "region_id":85687761
+        }
+    ],
+    "wof:id":101780155,
+    "wof:lastmodified":1514500201,
+    "wof:name":"Tisa",
+    "wof:parent_id":85687761,
+    "wof:placetype":"locality",
+    "wof:population":1322,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.94703562022283,
+    47.93866057290512,
+    23.96785416443316,
+    47.9531025685655
+],
+  "geometry": {"coordinates":[[[23.96785416443316,47.95052802296658],[23.96760896280045,47.9496465887986],[23.96629011752816,47.94981596433763],[23.96604494841756,47.94893452563338],[23.96472611694458,47.94910388200122],[23.96448098035387,47.94822243876104],[23.96316216268121,47.94839177595827],[23.96291705860926,47.94751032818272],[23.96159825473728,47.94767964621008],[23.96110812241784,47.94591674043755],[23.95978935407049,47.94608603591354],[23.95954432581982,47.94520457791714],[23.95822557127428,47.94537385422461],[23.95773559058324,47.94361092801375],[23.95641687156211,47.9437801817723],[23.95543712649874,47.94025430200657],[23.95411848643869,47.94042352645755],[23.95362872204606,47.93866057290512],[23.94703562022283,47.93950642458736],[23.94752516743023,47.94126941193031],[23.94884384705739,47.94110026640715],[23.94908865854939,47.94198175497371],[23.95040735198489,47.94181259028574],[23.95114191631018,47.94445703894263],[23.95246066699696,47.94428784832996],[23.95319539354142,47.94693227648747],[23.95451420148413,47.94676305994733],[23.95500411656008,47.94852599953526],[23.95632296003538,47.94835676044568],[23.95705797874422,47.95100115104867],[23.95442015350761,47.9513396337274],[23.95491013301307,47.9531025685655],[23.9562290930524,47.95293332835769],[23.95598407617382,47.95205186489562],[23.96785416443316,47.95052802296658]]],"type":"Polygon"}
+}

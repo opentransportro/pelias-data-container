@@ -1,0 +1,114 @@
+{
+  "id": 1125854863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.61667,44.91667,23.61667,44.91667",
+    "geom:latitude":44.91667,
+    "geom:longitude":23.61667,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":2590,
+    "gn:population":579,
+    "iso:country":"RO",
+    "lbl:latitude":44.91667,
+    "lbl:longitude":23.61667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Licurici"
+    ],
+    "name:eng_x_preferred":[
+        "Licurici"
+    ],
+    "name:fre_x_preferred":[
+        "Licurici"
+    ],
+    "name:ita_x_preferred":[
+        "Licurici"
+    ],
+    "name:por_x_preferred":[
+        "Licurici"
+    ],
+    "name:rum_x_preferred":[
+        "Licurici"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0456\u043a\u0443\u0440\u0456\u0447"
+    ],
+    "name:vie_x_preferred":[
+        "Licurici"
+    ],
+    "name:vol_x_preferred":[
+        "Licurici"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":674804,
+    "qs_pg:gn_pop":2590,
+    "qs_pg:name":"Licuriciu",
+    "qs_pg:name_adm0":"Rom\u00e2nia",
+    "qs_pg:name_adm1":"Gorj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1278769,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424933,
+    "qs_pg:woe_id":874649,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424933,
+    "woe:name_adm0":"Rom\u00e2nia",
+    "woe:name_adm1":"Gorj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":674804,
+        "gp:id":874649,
+        "qs_pg:id":1278769,
+        "wd:id":"Q2718354"
+    },
+    "wof:country":"RO",
+    "wof:created":1497293572,
+    "wof:geomhash":"0ad9addf7b56f50313fe85e865630490",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125854863,
+            "region_id":85687619
+        }
+    ],
+    "wof:id":1125854863,
+    "wof:lastmodified":1514499995,
+    "wof:name":"Licuriciu",
+    "wof:parent_id":85687619,
+    "wof:placetype":"locality",
+    "wof:population":579,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.61667,
+    44.91667,
+    23.61667,
+    44.91667
+],
+  "geometry": {"coordinates":[23.61667,44.91667],"type":"Point"}
+}

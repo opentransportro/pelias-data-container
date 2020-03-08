@@ -1,0 +1,69 @@
+{
+  "id": 1259934909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.92277,44.36466,22.92277,44.36466",
+    "geom:latitude":44.36466,
+    "geom:longitude":22.92277,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"111417.0",
+    "gn:asciiname":"Valea Anilor",
+    "gn:country_code":"RO",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":663927,
+    "gn:latitude":44.36466,
+    "gn:longitude":22.92277,
+    "gn:modification_date":"2013-04-20",
+    "gn:name":"Valea Anilor",
+    "gn:population":677,
+    "gn:timezone":"Europe/Bucharest",
+    "iso:country":"RO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":663927
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"6372977c1c3d00e58a9abbe07b01c52c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1259934909,
+            "region_id":85687599
+        }
+    ],
+    "wof:id":1259934909,
+    "wof:lastmodified":1536705546,
+    "wof:name":"Valea Anilor",
+    "wof:parent_id":85687599,
+    "wof:placetype":"locality",
+    "wof:population":677,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.92277,
+    44.36466,
+    22.92277,
+    44.36466
+],
+  "geometry": {"coordinates":[22.92277,44.36466],"type":"Point"}
+}

@@ -1,0 +1,102 @@
+{
+  "id": 1125854979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.9925,44.42722,22.9925,44.42722",
+    "geom:latitude":44.42722,
+    "geom:longitude":22.9925,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1924,
+    "gn:population":1924,
+    "iso:country":"RO",
+    "lbl:latitude":44.42722,
+    "lbl:longitude":22.9925,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "P\u0103dina Mic\u0103"
+    ],
+    "name:eng_x_preferred":[
+        "P\u0103dina Mic\u0103"
+    ],
+    "name:fre_x_preferred":[
+        "P\u0103dina Mic\u0103"
+    ],
+    "name:rum_x_preferred":[
+        "P\u0103dina Mic\u0103"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0435\u0434\u0456\u043d\u0430-\u041c\u0456\u043a\u0435"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":671550,
+    "qs_pg:gn_pop":1924,
+    "qs_pg:name":"Padina Mic\u0103",
+    "qs_pg:name_adm0":"Rom\u00e2nia",
+    "qs_pg:name_adm1":"Mehedinti",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1279061,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424933,
+    "qs_pg:woe_id":877047,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424933,
+    "woe:name_adm0":"Rom\u00e2nia",
+    "woe:name_adm1":"Mehedinti",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":671550,
+        "gp:id":877047,
+        "qs_pg:id":1279061,
+        "wd:id":"Q12139345"
+    },
+    "wof:country":"RO",
+    "wof:created":1497293579,
+    "wof:geomhash":"c0dba9ac1c6acbd5863da3ae56a19dd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125854979,
+            "region_id":85687599
+        }
+    ],
+    "wof:id":1125854979,
+    "wof:lastmodified":1514500064,
+    "wof:name":"Padina Mic\u0103",
+    "wof:parent_id":85687599,
+    "wof:placetype":"locality",
+    "wof:population":1924,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.9925,
+    44.42722,
+    22.9925,
+    44.42722
+],
+  "geometry": {"coordinates":[22.9925,44.42722],"type":"Point"}
+}

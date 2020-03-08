@@ -1,0 +1,119 @@
+{
+  "id": 1125863855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.85,47.13333,26.85,47.13333",
+    "geom:latitude":47.13333,
+    "geom:longitude":26.85,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2951,
+    "gn:population":841,
+    "iso:country":"RO",
+    "lbl:latitude":47.13333,
+    "lbl:longitude":26.85,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0623\u0644\u064a\u0643\u0633\u0627\u0646\u062f\u0631\u0648 \u0625\u064a\u0648\u0627\u0646 \u0643\u0648\u0632\u0627"
+    ],
+    "name:dut_x_preferred":[
+        "Alexandru Ioan Cuza"
+    ],
+    "name:eng_x_preferred":[
+        "Alexandru I. Cuza"
+    ],
+    "name:fre_x_preferred":[
+        "Alexandru Ioan Cuza"
+    ],
+    "name:hun_x_preferred":[
+        "Alexandru Ioan Cuza"
+    ],
+    "name:ita_x_preferred":[
+        "Alexandru Ioan Cuza"
+    ],
+    "name:may_x_preferred":[
+        "Alexandru Ioan Cuza"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0644\u06a9\u0633\u0627\u0646\u062f\u0631\u0648 \u0644\u0648\u0627\u0646 \u06a9\u0648\u0632\u0627\u060c \u0627\u06cc\u0627\u0633\u06cc"
+    ],
+    "name:por_x_preferred":[
+        "Alexandru Ioan Cuza"
+    ],
+    "name:rum_x_preferred":[
+        "Alexandru I. Cuza"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0443-\u0406\u043e\u0430\u043d-\u041a\u0443\u0437\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Cuza-Vod\u0103"
+    ],
+    "name:vie_x_preferred":[
+        "Alexandru Ioan Cuza"
+    ],
+    "name:vol_x_preferred":[
+        "Alexandru Ioan Cuza"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":686495,
+    "qs_pg:gn_pop":2951,
+    "qs_pg:name":"Alexandru Ioan Cuza",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":128137,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":686495,
+        "qs_pg:id":128137,
+        "wd:id":"Q2621245"
+    },
+    "wof:country":"RO",
+    "wof:created":1497293946,
+    "wof:geomhash":"6225cb70f82537f7de08583e1f84a1ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125863855,
+            "region_id":85687769
+        }
+    ],
+    "wof:id":1125863855,
+    "wof:lastmodified":1514499735,
+    "wof:name":"Alexandru Ioan Cuza",
+    "wof:parent_id":85687769,
+    "wof:placetype":"locality",
+    "wof:population":841,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.85,
+    47.13333,
+    26.85,
+    47.13333
+],
+  "geometry": {"coordinates":[26.85,47.13333],"type":"Point"}
+}

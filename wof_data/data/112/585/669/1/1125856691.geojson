@@ -1,0 +1,98 @@
+{
+  "id": 1125856691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.13333,45.7,27.13333,45.7",
+    "geom:latitude":45.7,
+    "geom:longitude":27.13333,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3158,
+    "gn:population":3158,
+    "iso:country":"RO",
+    "lbl:latitude":45.7,
+    "lbl:longitude":27.13333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "C\u00e2mpineanca"
+    ],
+    "name:eng_x_preferred":[
+        "C\u00e2mpineanca"
+    ],
+    "name:fre_x_preferred":[
+        "C\u00e2mpineanca"
+    ],
+    "name:ita_x_preferred":[
+        "C\u00e2mpineanca"
+    ],
+    "name:rum_x_preferred":[
+        "C\u00e2mpineanca"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0438\u043c\u043f\u0456\u043d\u044f\u043d\u043a\u0430"
+    ],
+    "name:unk_x_variant":[
+        "C\u00e2mpineanca"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":666674,
+    "qs_pg:gn_pop":3158,
+    "qs_pg:name":"Slobozia-C\u00e2mpineanca",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":275209,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":666674,
+        "qs_pg:id":275209,
+        "wd:id":"Q13825980"
+    },
+    "wof:country":"RO",
+    "wof:created":1497293651,
+    "wof:geomhash":"cf5c8b7f91c69142dc01cef95fb82a07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125856691,
+            "region_id":85687705
+        }
+    ],
+    "wof:id":1125856691,
+    "wof:lastmodified":1514500157,
+    "wof:name":"Slobozia-C\u00e2mpineanca",
+    "wof:parent_id":85687705,
+    "wof:placetype":"locality",
+    "wof:population":3158,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.13333,
+    45.7,
+    27.13333,
+    45.7
+],
+  "geometry": {"coordinates":[27.13333,45.7],"type":"Point"}
+}

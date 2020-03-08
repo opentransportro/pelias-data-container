@@ -1,0 +1,102 @@
+{
+  "id": 1125841543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.6,47.55,26.6,47.55",
+    "geom:latitude":47.55,
+    "geom:longitude":26.6,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":7992,
+    "gn:population":7992,
+    "iso:country":"RO",
+    "lbl:latitude":47.55,
+    "lbl:longitude":26.6,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Vorona-Teodoru"
+    ],
+    "name:eng_x_preferred":[
+        "Vorona-Teodoru"
+    ],
+    "name:fre_x_preferred":[
+        "Vorona-Teodoru"
+    ],
+    "name:rum_x_preferred":[
+        "Vorona-Teodoru"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u043e\u0440\u043e\u043d\u0430-\u0422\u0435\u043e\u0434\u043e\u0440\u0443"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":662463,
+    "qs_pg:gn_pop":7992,
+    "qs_pg:name":"Vorona Teodoru",
+    "qs_pg:name_adm0":"Rom\u00e2nia",
+    "qs_pg:name_adm1":"Botosani",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":1279866,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424933,
+    "qs_pg:woe_id":883846,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424933,
+    "woe:name_adm0":"Rom\u00e2nia",
+    "woe:name_adm1":"Botosani",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":662463,
+        "gp:id":883846,
+        "qs_pg:id":1279866,
+        "wd:id":"Q12090645"
+    },
+    "wof:country":"RO",
+    "wof:created":1497292957,
+    "wof:geomhash":"4d2c46137f5417aa1f5667ce499c09be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125841543,
+            "region_id":85687777
+        }
+    ],
+    "wof:id":1125841543,
+    "wof:lastmodified":1514500249,
+    "wof:name":"Vorona Teodoru",
+    "wof:parent_id":85687777,
+    "wof:placetype":"locality",
+    "wof:population":7992,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.6,
+    47.55,
+    26.6,
+    47.55
+],
+  "geometry": {"coordinates":[26.6,47.55],"type":"Point"}
+}

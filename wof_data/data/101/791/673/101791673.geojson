@@ -1,0 +1,116 @@
+{
+  "id": 101791673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0002,
+    "geom:area_square_m":1725916.545826,
+    "geom:bbox":"21.0884886551,45.8336742297,21.1118025835,45.8479537814",
+    "geom:latitude":45.840021,
+    "geom:longitude":21.099237,
+    "gn:population":2265,
+    "iso:country":"RO",
+    "lbl:latitude":45.83997,
+    "lbl:longitude":21.097849,
+    "mps:latitude":45.83997,
+    "mps:longitude":21.097849,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Dude\u0219tii Noi"
+    ],
+    "name:eng_x_preferred":[
+        "Dude\u0219tii Noi"
+    ],
+    "name:epo_x_preferred":[
+        "Dude\u0219tii Noi"
+    ],
+    "name:fre_x_preferred":[
+        "Dude\u0219tii Noi"
+    ],
+    "name:ger_x_preferred":[
+        "Dude\u0219tii Noi"
+    ],
+    "name:hun_x_preferred":[
+        "\u00dajbeseny\u0151"
+    ],
+    "name:ita_x_preferred":[
+        "Dude\u0219tii Noi"
+    ],
+    "name:may_x_preferred":[
+        "Dude\u0219tii Noi"
+    ],
+    "name:por_x_preferred":[
+        "Dude\u0219tii Noi"
+    ],
+    "name:rum_x_preferred":[
+        "Dude\u0219tii Noi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0443\u0434\u0435\u0448\u0442\u0456\u0439-\u041d\u043e\u0439"
+    ],
+    "name:unk_x_variant":[
+        "Neu-Beschenowa"
+    ],
+    "name:vol_x_preferred":[
+        "Dude\u0219tii Noi"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Timis",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Dude\u015ftii Noi",
+    "qs:la_lc":"*RO48159384",
+    "qs:level":"locality",
+    "qs:loc":"Dude\u015ftii Noi",
+    "qs:loc_alt":"Dudestii Noi",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":678783,
+        "gp:id":871729,
+        "qs:id":941144,
+        "wd:id":"Q949293"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"47f6c3513ef906b46326dcc76e8c8f60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101791673,
+            "region_id":85687655
+        }
+    ],
+    "wof:id":101791673,
+    "wof:lastmodified":1514499918,
+    "wof:name":"Dude\u015ftii Noi",
+    "wof:parent_id":85687655,
+    "wof:placetype":"locality",
+    "wof:population":2265,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.08848865514074,
+    45.83367422968689,
+    21.11180258349731,
+    45.84795378138301
+],
+  "geometry": {"coordinates":[[[21.10505478252207,45.83375973780113],[21.10378049892182,45.83389377056233],[21.10396378030907,45.83478323268179],[21.10014083493775,45.83518524701242],[21.09995761421953,45.83429577728145],[21.09740899617276,45.83456370545554],[21.09722582368829,45.83367422968689],[21.08957995537207,45.83447763272312],[21.08976300650914,45.83536712370386],[21.08848865514074,45.83550097332915],[21.08958700400433,45.84083791418692],[21.09086147674498,45.84070404935284],[21.0910445823576,45.84159353358882],[21.09231906968341,45.84145965095581],[21.093051650912,45.84501756812188],[21.09177708265344,45.84515146089785],[21.09214337951454,45.84693041877199],[21.09086876513567,45.84706430135475],[21.09105190500907,45.84795378138301],[21.09360116859261,45.84768599587994],[21.09323481568475,45.84590704500459],[21.10725491615023,45.84443318909956],[21.10743831128326,45.84532263710366],[21.10998738742279,45.84505445978868],[21.10980395182645,45.84416501686366],[21.11107846118,45.84403090785014],[21.11052814048821,45.84136258090518],[21.11180258349731,45.84122846424799],[21.11161913863407,45.84033902254265],[21.11034471585236,45.84047313665997],[21.11016129901367,45.83958369144989],[21.10888689080309,45.83971778776544],[21.10870350198678,45.83882833905074],[21.10742910834796,45.83896241756491],[21.10724574755227,45.83807296534638],[21.10597136848509,45.83820702605999],[21.10505478252207,45.83375973780113]]],"type":"Polygon"}
+}

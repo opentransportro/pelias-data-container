@@ -1,0 +1,69 @@
+{
+  "id": 1259916915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.19745,47.26596,23.19745,47.26596",
+    "geom:latitude":47.26596,
+    "geom:longitude":23.19745,
+    "gn:admin1_code":"31",
+    "gn:admin2_code":"139811.0",
+    "gn:asciiname":"Cuceu",
+    "gn:country_code":"RO",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":680048,
+    "gn:latitude":47.26596,
+    "gn:longitude":23.19745,
+    "gn:modification_date":"2013-04-21",
+    "gn:name":"Cuceu",
+    "gn:population":539,
+    "gn:timezone":"Europe/Bucharest",
+    "iso:country":"RO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":680048
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"365757bc9e8e13640cc057e5d5949e8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1259916915,
+            "region_id":85687723
+        }
+    ],
+    "wof:id":1259916915,
+    "wof:lastmodified":1536731214,
+    "wof:name":"Cuceu",
+    "wof:parent_id":85687723,
+    "wof:placetype":"locality",
+    "wof:population":539,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.19745,
+    47.26596,
+    23.19745,
+    47.26596
+],
+  "geometry": {"coordinates":[23.19745,47.26596],"type":"Point"}
+}

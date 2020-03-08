@@ -1,0 +1,104 @@
+{
+  "id": 101789637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000078,
+    "geom:area_square_m":668391.164594,
+    "geom:bbox":"24.1876940704,46.0604702152,24.2011735687,46.0751223258",
+    "geom:latitude":46.067404,
+    "geom:longitude":24.193559,
+    "gn:population":1522,
+    "iso:country":"RO",
+    "lbl:latitude":46.065939,
+    "lbl:longitude":24.192334,
+    "mps:latitude":46.065939,
+    "mps:longitude":24.192334,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Ag\u00e2rbiciu"
+    ],
+    "name:eng_x_preferred":[
+        "Ag\u00e2rbiciu"
+    ],
+    "name:epo_x_preferred":[
+        "Ag\u00e2rbiciu "
+    ],
+    "name:fre_x_preferred":[
+        "Ag\u00e2rbiciu"
+    ],
+    "name:ger_x_preferred":[
+        "Ag\u00e2rbiciu "
+    ],
+    "name:hun_x_preferred":[
+        "Sz\u00e1szegerbegy"
+    ],
+    "name:rum_x_preferred":[
+        "Ag\u00e2rbiciu"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0433\u0438\u0440\u0431\u0456\u0447\u0443 "
+    ],
+    "name:unk_x_variant":[
+        "Ag\u00e2rbiciul"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Sibiu",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Axente Sever",
+    "qs:la_lc":"*RO45144116",
+    "qs:level":"locality",
+    "qs:loc":"Ag\u00e2rbiciu",
+    "qs:loc_alt":"Agarbiciu",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":686620,
+        "gp:id":866057,
+        "qs:id":2,
+        "wd:id":"Q399617"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"fba8e8893a050f84efb663cd275d869a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101789637,
+            "region_id":85687687
+        }
+    ],
+    "wof:id":101789637,
+    "wof:lastmodified":1514499731,
+    "wof:name":"Ag\u00e2rbiciu",
+    "wof:parent_id":85687687,
+    "wof:placetype":"locality",
+    "wof:population":1522,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.18769407040622,
+    46.0604702151989,
+    24.2011735687401,
+    46.07512232583724
+],
+  "geometry": {"coordinates":[[[24.2011735687401,46.07495105466865],[24.20046639958844,46.0723050027533],[24.19919368926622,46.07247626419513],[24.19872233267301,46.07071221688136],[24.19744965467481,46.07088345668683],[24.19721401114185,46.07000142792282],[24.19594134568138,46.07017264933444],[24.19523453433578,46.06752654585733],[24.19650714043928,46.06735533416804],[24.19485812478297,46.06118107187569],[24.19358565715322,46.06135226088406],[24.19335014318028,46.0604702151989],[24.19207768808485,46.06064138581752],[24.19231318227827,46.06152343474213],[24.19104070015982,46.06169459344994],[24.19127618454843,46.06257664437004],[24.18873115901857,46.06291892281246],[24.18896661381876,46.06380097896698],[24.18769407040622,46.06397209870045],[24.18910688997977,46.06926442895752],[24.19037955210422,46.06909328978981],[24.19061507673814,46.06997533724279],[24.19188775140424,46.06980417968271],[24.1921233058053,46.07068622265274],[24.19339599301247,46.07051504669948],[24.19386717133301,46.07227912242945],[24.19513989086903,46.07210792484193],[24.19537551479152,46.07298995760112],[24.19664824686714,46.07281874161913],[24.19688390056319,46.07370076989372],[24.19815664517796,46.0735295355168],[24.19839232864871,46.0744115593061],[24.19966508580171,46.07424030653362],[24.1999007990496,46.07512232583724],[24.2011735687401,46.07495105466865]]],"type":"Polygon"}
+}

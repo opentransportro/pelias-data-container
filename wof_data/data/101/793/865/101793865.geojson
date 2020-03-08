@@ -1,0 +1,120 @@
+{
+  "id": 101793865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000059,
+    "geom:area_square_m":518892.584135,
+    "geom:bbox":"21.9360795617,44.8916925474,21.9486952288,44.9046779642",
+    "geom:latitude":44.897885,
+    "geom:longitude":21.943289,
+    "gn:population":1929,
+    "iso:country":"RO",
+    "lbl:latitude":44.897511,
+    "lbl:longitude":21.943194,
+    "mps:latitude":44.897511,
+    "mps:longitude":21.943194,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "L\u0103pu\u0219nicu Mare"
+    ],
+    "name:eng_x_preferred":[
+        "L\u0103pu\u0219nicu Mare"
+    ],
+    "name:epo_x_preferred":[
+        "L\u0103pu\u0219nicu Mare"
+    ],
+    "name:fre_x_preferred":[
+        "L\u0103pu\u0219nicu Mare"
+    ],
+    "name:ger_x_preferred":[
+        "L\u0103pu\u0219nicu Mare"
+    ],
+    "name:hun_x_preferred":[
+        "Nagylaposnok"
+    ],
+    "name:ita_x_preferred":[
+        "L\u0103pu\u0219nicu Mare"
+    ],
+    "name:may_x_preferred":[
+        "L\u0103pu\u0219nicu Mare"
+    ],
+    "name:por_x_preferred":[
+        "L\u0103pu\u0219nicu Mare"
+    ],
+    "name:rum_x_preferred":[
+        "L\u0103pu\u0219nicu Mare"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0435\u043f\u0443\u0448\u043d\u0456\u043a\u0443-\u041c\u0430\u0440\u0435"
+    ],
+    "name:unk_x_variant":[
+        "L\u0103pu\u015fnicul-Mare"
+    ],
+    "name:vie_x_preferred":[
+        "Lapusnicu Mare"
+    ],
+    "name:vol_x_preferred":[
+        "L\u0103pu\u0219nicu Mare"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Caras-Severin",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:id":0,
+    "qs:la":"L\u0103pu\u015fnicu Mare",
+    "qs:la_lc":"*RO23053103",
+    "qs:level":"locality",
+    "qs:loc":"L\u0103pu\u015fnicu Mare",
+    "qs:loc_alt":"Lapusnicu Mare",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":675033,
+        "gp:id":874484,
+        "qs:id":262337,
+        "wd:id":"Q75490"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"8ec8385cb5ebd1441a870e04cbf93004",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101793865,
+            "region_id":85687627
+        }
+    ],
+    "wof:id":101793865,
+    "wof:lastmodified":1514500004,
+    "wof:name":"L\u0103pu\u015fnicu Mare",
+    "wof:parent_id":85687627,
+    "wof:placetype":"locality",
+    "wof:population":1929,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.93607956168159,
+    44.89169254739602,
+    21.94869522883999,
+    44.90467796423843
+],
+  "geometry": {"coordinates":[[[21.94869522883999,44.8968786964694],[21.94773607077997,44.89243709648952],[21.94648477254287,44.89258087327426],[21.94629298410297,44.89169254739602],[21.94504169929724,44.8918363066087],[21.94523346854305,44.89272463513396],[21.94273084325812,44.89301211407735],[21.94311432894006,44.89478877847978],[21.94186296926358,44.89493250085582],[21.9420547048922,44.89582083408681],[21.9408033202568,44.89596454418307],[21.94137851748548,44.89862954534863],[21.94012706949047,44.89877324845702],[21.94031879867947,44.89966158267032],[21.93906732572128,44.89980527349724],[21.93945076966509,44.90158194398384],[21.93819925253996,44.90172562517523],[21.938390967293,44.90261396144911],[21.93713942520174,44.90275763035805],[21.93733112873974,44.90364596820064],[21.93607956168159,44.90378962482697],[21.9362712540028,44.90467796423843],[21.93877442076979,44.90439063076496],[21.93858269003613,44.90350229664546],[21.94108579534208,44.90321490874851],[21.94089403418951,44.90232657884502],[21.94464859131,44.90189539297648],[21.94407318298016,44.8992304206235],[21.94532463288721,44.89908667008666],[21.94513282689621,44.89819834646079],[21.94638425183979,44.89805458364407],[21.94619243464268,44.89716626158759],[21.94869522883999,44.8968786964694]]],"type":"Polygon"}
+}

@@ -1,0 +1,117 @@
+{
+  "id": 1125873415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.83333,44.7,23.83333,44.7",
+    "geom:latitude":44.7,
+    "geom:longitude":23.83333,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":2144,
+    "gn:population":2144,
+    "iso:country":"RO",
+    "lbl:latitude":44.7,
+    "lbl:longitude":23.83333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0413\u0445\u0438\u043e\u0440\u043e\u0438\u0443"
+    ],
+    "name:dut_x_preferred":[
+        "Ghioroiu"
+    ],
+    "name:eng_x_preferred":[
+        "Ghioroiu"
+    ],
+    "name:fre_x_preferred":[
+        "Ghioroiu"
+    ],
+    "name:ita_x_preferred":[
+        "Ghioroiu"
+    ],
+    "name:por_x_preferred":[
+        "Ghioroiu"
+    ],
+    "name:rum_x_preferred":[
+        "Ghioroiu"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0456\u043e\u0440\u043e\u044e"
+    ],
+    "name:unk_x_variant":[
+        "Ghioroiul"
+    ],
+    "name:vie_x_preferred":[
+        "Ghioroiu"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":677331,
+    "qs_pg:gn_pop":2144,
+    "qs_pg:name":"Ghioroiu",
+    "qs_pg:name_adm0":"Rom\u00e2nia",
+    "qs_pg:name_adm1":"Valcea",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":127609,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424933,
+    "qs_pg:woe_id":872821,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424933,
+    "woe:name_adm0":"Rom\u00e2nia",
+    "woe:name_adm1":"Valcea",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":677331,
+        "gp:id":872821,
+        "qs_pg:id":127609,
+        "wd:id":"Q2205585"
+    },
+    "wof:country":"RO",
+    "wof:created":1497294414,
+    "wof:geomhash":"1a5daee791118a3af682ce5c247d67e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125873415,
+            "region_id":85687643
+        }
+    ],
+    "wof:id":1125873415,
+    "wof:lastmodified":1514499944,
+    "wof:name":"Ghioroiu",
+    "wof:parent_id":85687643,
+    "wof:placetype":"locality",
+    "wof:population":2144,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.83333,
+    44.7,
+    23.83333,
+    44.7
+],
+  "geometry": {"coordinates":[23.83333,44.7],"type":"Point"}
+}

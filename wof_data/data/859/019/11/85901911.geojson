@@ -1,0 +1,105 @@
+{
+  "id": 85901911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":14771920.888433,
+    "geom:bbox":"28.637717,44.213342,28.637717,44.213342",
+    "geom:latitude":44.213342,
+    "geom:longitude":28.637717,
+    "gn:id":"",
+    "iso:country":"RO",
+    "lbl:latitude":44.213342,
+    "lbl:longitude":28.637717,
+    "mps:latitude":44.217198,
+    "mps:longitude":28.634445,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":1,
+    "name:rum_x_colloquial":[
+        "Tabacarie",
+        "Taebaecaerie"
+    ],
+    "name:rum_x_preferred":[
+        "T\u0103b\u0103c\u0103rie"
+    ],
+    "name:unk_x_variant":[
+        "T\u0103b\u0103c\u0103rie"
+    ],
+    "qs:gn_id":0,
+    "qs:gn_local":0,
+    "qs:local_max":1553,
+    "qs:local_sum":2350,
+    "qs:localhoods":5,
+    "qs:name":"T\u0103b\u0103c\u0103rie",
+    "qs:name_adm0":"Rom\u00e2nia",
+    "qs:name_adm1":"Constanta",
+    "qs:name_local":"Constan\u021ba",
+    "qs:photo_max":33,
+    "qs:photo_sum":365,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":47,
+    "qs:woe_adm0":23424933,
+    "qs:woe_adm1":2346628,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":870151,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        101751965,
+        85633745,
+        85687633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":881397,
+        "qs:id":1092962,
+        "qs_pg:id":1092962
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"b5b1f0fea9f7ecf43277233567087bc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101751965,
+            "neighbourhood_id":85901911,
+            "region_id":85687633
+        }
+    ],
+    "wof:id":85901911,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1531932597,
+    "wof:name":"T\u0103b\u0103c\u0103rie",
+    "wof:parent_id":101751965,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.637717,
+    44.213342,
+    28.637717,
+    44.213342
+],
+  "geometry": {"coordinates":[28.637717,44.213342],"type":"Point"}
+}

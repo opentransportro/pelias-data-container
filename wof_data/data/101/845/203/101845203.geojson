@@ -1,0 +1,101 @@
+{
+  "id": 101845203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00011,
+    "geom:area_square_m":947812.756738,
+    "geom:bbox":"27.194647156,45.6115622559,27.2148607332,45.6196316234",
+    "geom:latitude":45.615835,
+    "geom:longitude":27.204458,
+    "gn:population":2077,
+    "iso:country":"RO",
+    "lbl:latitude":45.616334,
+    "lbl:longitude":27.203639,
+    "mps:latitude":45.616334,
+    "mps:longitude":27.203639,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Slobozia Cior\u0103\u0219ti"
+    ],
+    "name:eng_x_preferred":[
+        "Slobozia Cior\u0103\u0219ti"
+    ],
+    "name:fre_x_preferred":[
+        "Slobozia Cior\u0103\u0219ti"
+    ],
+    "name:ita_x_preferred":[
+        "Slobozia Cior\u0103\u0219ti"
+    ],
+    "name:por_x_preferred":[
+        "Slobozia Cior\u0103\u0219ti"
+    ],
+    "name:rum_x_preferred":[
+        "Slobozia Cior\u0103\u0219ti"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043b\u043e\u0431\u043e\u0437\u0456\u044f-\u0427\u043e\u0440\u0435\u0448\u0442\u044c"
+    ],
+    "name:unk_x_variant":[
+        "Cior\u0103\u015fti"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Vrancea",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Slobozia Cior\u0103\u015fti",
+    "qs:la_lc":"*RO52177726",
+    "qs:level":"locality",
+    "qs:loc":"Slobozia Cior\u0103\u015fti",
+    "qs:loc_alt":"Slobozia Ciorasti",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":666673,
+        "gp:id":880662,
+        "qs:id":126971,
+        "wd:id":"Q2300133"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"19e17206e8824007a79651215c23b88f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101845203,
+            "region_id":85687705
+        }
+    ],
+    "wof:id":101845203,
+    "wof:lastmodified":1514500157,
+    "wof:name":"Slobozia Cior\u0103\u015fti",
+    "wof:parent_id":85687705,
+    "wof:placetype":"locality",
+    "wof:population":2077,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.19464715595831,
+    45.6115622559218,
+    27.21486073315953,
+    45.61963162342573
+],
+  "geometry": {"coordinates":[[[27.20037724199739,45.61963162342573],[27.20790063076106,45.61839036967746],[27.20818202740429,45.61926395681303],[27.21445137796655,45.61822915259899],[27.21360694425266,45.6156084439242],[27.21486073315953,45.61540145020251],[27.21429779871056,45.61365431074165],[27.21179028678341,45.61406826804495],[27.21150887429917,45.61319468823734],[27.20900136565541,45.61360857868954],[27.20872000205583,45.6127349896081],[27.20746625361511,45.61294190880653],[27.20718492030875,45.61206831428746],[27.20342367993021,45.61268897160892],[27.20370495746374,45.61356257763077],[27.19994358507898,45.61418311329487],[27.19909995490406,45.6115622559218],[27.19533867363998,45.61218262392708],[27.19590097050025,45.61392988677335],[27.19464715595831,45.61413665418149],[27.19577181564881,45.6176311759898],[27.19702570457611,45.6174243932511],[27.19758814180176,45.6191716368823],[27.2000959686381,45.61875801167963],[27.20037724199739,45.61963162342573]]],"type":"Polygon"}
+}

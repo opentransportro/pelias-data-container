@@ -1,0 +1,99 @@
+{
+  "id": 101788397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000088,
+    "geom:area_square_m":758187.954764,
+    "geom:bbox":"27.1854121192,46.0223927575,27.2035405278,46.0317467791",
+    "geom:latitude":46.027171,
+    "geom:longitude":27.194313,
+    "gn:population":1169,
+    "iso:country":"RO",
+    "lbl:latitude":46.027322,
+    "lbl:longitude":27.196716,
+    "mps:latitude":46.027322,
+    "mps:longitude":27.196716,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Domne\u0219ti-T\u00e2rg"
+    ],
+    "name:eng_x_preferred":[
+        "Domne\u0219ti-T\u00e2rg"
+    ],
+    "name:fre_x_preferred":[
+        "Domne\u0219ti-T\u00e2rg"
+    ],
+    "name:ita_x_preferred":[
+        "Domne\u0219ti-T\u00e2rg"
+    ],
+    "name:rum_x_preferred":[
+        "Domne\u0219ti-T\u00e2rg"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u043c\u043d\u0435\u0448\u0442\u044c-\u0422\u0438\u0440\u0433"
+    ],
+    "name:unk_x_variant":[
+        "Domne\u0219ti-T\u00eerg"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Vrancea",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:id":0,
+    "qs:la":"Pufe\u015fti",
+    "qs:la_lc":"*RO52177352",
+    "qs:level":"locality",
+    "qs:loc":"Domne\u015fti-T\u00e2rg",
+    "qs:loc_alt":"Domnesti-Targ",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":679111,
+        "gp:id":871491,
+        "qs:id":410465,
+        "wd:id":"Q12101937"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"3c80e15ee69ff413c2190ef1dc8c6ffc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101788397,
+            "region_id":85687705
+        }
+    ],
+    "wof:id":101788397,
+    "wof:lastmodified":1514499911,
+    "wof:name":"Domne\u015fti-T\u00e2rg",
+    "wof:parent_id":85687705,
+    "wof:placetype":"locality",
+    "wof:population":1169,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.18541211923076,
+    46.02239275746018,
+    27.20354052783955,
+    46.03174677914365
+],
+  "geometry": {"coordinates":[[[27.19131816604823,46.02958625885174],[27.19510766000332,46.02896533009107],[27.19539223891326,46.02983863267877],[27.20044485210047,46.02901050324516],[27.20072951877847,46.02988378871413],[27.20199266937607,46.02967671517149],[27.20227736694864,46.0305499951661],[27.20354052783955,46.03034290281983],[27.20211706456428,46.02597650634146],[27.20338012201222,46.02576941848884],[27.20281078234973,46.02402285651857],[27.19270638352202,46.0256790794827],[27.19185291841472,46.02305913144266],[27.19058988646248,46.02326608053448],[27.1903054409031,46.02239275746018],[27.18904241924957,46.02259968775297],[27.18932684585434,46.02347301470667],[27.18806379659094,46.02367993395927],[27.18863264766566,46.02542659085429],[27.18610644734576,46.02584040011527],[27.18667527029203,46.02758706616675],[27.18541211923076,46.02779395617409],[27.18598095196103,46.02954062362437],[27.18850732127015,46.02912681317076],[27.18936077359496,46.03174677914365],[27.1918872220408,46.03133288572207],[27.19131816604823,46.02958625885174]]],"type":"Polygon"}
+}

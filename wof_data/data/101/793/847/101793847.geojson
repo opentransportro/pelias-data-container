@@ -1,0 +1,89 @@
+{
+  "id": 101793847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000048,
+    "geom:area_square_m":419093.040764,
+    "geom:bbox":"22.8864303083,45.0486019721,22.8987501589,45.0554250149",
+    "geom:latitude":45.051889,
+    "geom:longitude":22.893703,
+    "gn:population":1301,
+    "iso:country":"RO",
+    "lbl:latitude":45.051379,
+    "lbl:longitude":22.894636,
+    "mps:latitude":45.051379,
+    "mps:longitude":22.894636,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Sohodol"
+    ],
+    "name:eng_x_preferred":[
+        "Sohodol"
+    ],
+    "name:rum_x_preferred":[
+        "Sohodol"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043e\u0445\u043e\u0434\u043e\u043b "
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Gorj",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Tismana",
+    "qs:la_lc":"*RO31082430",
+    "qs:level":"locality",
+    "qs:loc":"Sohodol",
+    "qs:loc_alt":"Sohodol",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":666543,
+        "gp:id":880750,
+        "qs:id":250095,
+        "wd:id":"Q12154757"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"bc7650d64edcb52694daf692f3f687ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101793847,
+            "region_id":85687619
+        }
+    ],
+    "wof:id":101793847,
+    "wof:lastmodified":1514500160,
+    "wof:name":"Sohodol",
+    "wof:parent_id":85687619,
+    "wof:placetype":"locality",
+    "wof:population":1301,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.88643030830224,
+    45.04860197213679,
+    22.89875015887571,
+    45.05542501494597
+],
+  "geometry": {"coordinates":[[[22.89853716157944,45.05495939179718],[22.89749742622848,45.05052925317858],[22.89875015887571,45.05037402994452],[22.89833428713172,45.04860197213679],[22.89081802716106,45.04953305337415],[22.89102584382289,45.05041910003882],[22.88852033550472,45.05072934681874],[22.88872812253499,45.05161539805431],[22.88747533984741,45.05177050192611],[22.887683116392,45.05265655486966],[22.88643030830224,45.05281164668298],[22.88684584908037,45.05458375483107],[22.88809869547231,45.05442865729231],[22.88789090160026,45.0535426066582],[22.89290214802344,45.05292207874203],[22.89311001849751,45.0538081179231],[22.89436283361511,45.05365294577774],[22.8947786388681,45.05542501494597],[22.89853716157944,45.05495939179718]]],"type":"Polygon"}
+}

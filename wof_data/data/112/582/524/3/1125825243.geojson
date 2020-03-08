@@ -1,0 +1,107 @@
+{
+  "id": 1125825243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.51667,44.5,23.51667,44.5",
+    "geom:latitude":44.5,
+    "geom:longitude":23.51667,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":3840,
+    "gn:population":3840,
+    "iso:country":"RO",
+    "lbl:latitude":44.5,
+    "lbl:longitude":23.51667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Bralo\u0219ti\u021ba"
+    ],
+    "name:eng_x_preferred":[
+        "Bralo\u0219ti\u021ba"
+    ],
+    "name:fre_x_preferred":[
+        "Bralo\u0219ti\u021ba"
+    ],
+    "name:ita_x_preferred":[
+        "Bralo\u0219ti\u021ba"
+    ],
+    "name:may_x_preferred":[
+        "Bralo\u0219ti\u021ba"
+    ],
+    "name:por_x_preferred":[
+        "Bralo\u0219ti\u021ba"
+    ],
+    "name:rum_x_preferred":[
+        "Bralo\u0219ti\u021ba"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0440\u0430\u043b\u043e\u0448\u0442\u0456\u0446\u0430"
+    ],
+    "name:vie_x_preferred":[
+        "Bralostita"
+    ],
+    "name:vol_x_preferred":[
+        "Bralo\u0219ti\u021ba"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":683893,
+    "qs_pg:gn_pop":3840,
+    "qs_pg:name":"Bralo\u015fti\u0163a",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":127935,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":683893,
+        "qs_pg:id":127935,
+        "wd:id":"Q635609"
+    },
+    "wof:country":"RO",
+    "wof:created":1497292246,
+    "wof:geomhash":"5442c144ebc4e70e63d351c161482742",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125825243,
+            "region_id":85687581
+        }
+    ],
+    "wof:id":1125825243,
+    "wof:lastmodified":1514499790,
+    "wof:name":"Bralo\u015fti\u0163a",
+    "wof:parent_id":85687581,
+    "wof:placetype":"locality",
+    "wof:population":3840,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.51667,
+    44.5,
+    23.51667,
+    44.5
+],
+  "geometry": {"coordinates":[23.51667,44.5],"type":"Point"}
+}

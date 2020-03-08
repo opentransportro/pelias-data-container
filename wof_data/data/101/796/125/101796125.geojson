@@ -1,0 +1,98 @@
+{
+  "id": 101796125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000134,
+    "geom:area_square_m":1197725.322546,
+    "geom:bbox":"24.4036565708,43.918593613,24.4256063418,43.9293069091",
+    "geom:latitude":43.924357,
+    "geom:longitude":24.414993,
+    "gn:population":1552,
+    "iso:country":"RO",
+    "lbl:latitude":43.923535,
+    "lbl:longitude":24.417736,
+    "mps:latitude":43.923535,
+    "mps:longitude":24.417736,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Cru\u0219ovu"
+    ],
+    "name:eng_x_preferred":[
+        "Cru\u0219ovu"
+    ],
+    "name:fre_x_preferred":[
+        "Cru\u0219ovu"
+    ],
+    "name:ita_x_preferred":[
+        "Cru\u0219ovu"
+    ],
+    "name:rum_x_preferred":[
+        "Cru\u0219ovu"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0440\u0443\u0448\u043e\u0432\u0443"
+    ],
+    "name:unk_x_variant":[
+        "Cru\u015fovul"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Olt",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Brastav\u0103\u0163u",
+    "qs:la_lc":"*RO41125962",
+    "qs:level":"locality",
+    "qs:loc":"Cru\u015fovu",
+    "qs:loc_alt":"Crusovu",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":680061,
+        "gp:id":870788,
+        "qs:id":410260,
+        "wd:id":"Q12115156"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"5d5dc2c274ff19a2048c40033598b82f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101796125,
+            "region_id":85687607
+        }
+    ],
+    "wof:id":101796125,
+    "wof:lastmodified":1514499883,
+    "wof:name":"Cru\u015fovu",
+    "wof:parent_id":85687607,
+    "wof:placetype":"locality",
+    "wof:population":1552,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.40365657076779,
+    43.91859361300686,
+    24.4256063418448,
+    43.92930690912465
+],
+  "geometry": {"coordinates":[[[24.41190587684997,43.92755999609778],[24.41558108031882,43.9270415615822],[24.41580594460243,43.92792468248803],[24.42070619565339,43.9272332211122],[24.42093114056854,43.92811632834417],[24.42460631365333,43.92759757079472],[24.42438131512898,43.92671447281157],[24.4256063418448,43.92654152770854],[24.42538133460368,43.9256584314619],[24.42415632575626,43.92583137348174],[24.42393134553424,43.92494827280541],[24.42270634800047,43.92512119724125],[24.42203151583482,43.92247187788479],[24.42325645976905,43.92229896269669],[24.42258165634382,43.91964964046826],[24.42380654013215,43.91947672002743],[24.42358160608956,43.91859361300686],[24.41255757694705,43.92014934725051],[24.41278235020872,43.92103248200266],[24.41155740747018,43.92120527194362],[24.41178217200695,43.92208840843023],[24.40933223115161,43.92243395096989],[24.40955696909293,43.92331709227091],[24.40465693734177,43.92400801565344],[24.40488161294252,43.92489116792706],[24.40365657076779,43.92506386559728],[24.40433059878825,43.92771332358717],[24.40555569458104,43.92754061667955],[24.40600512804093,43.92930690912465],[24.41213068751819,43.92844312624686],[24.41190587684997,43.92755999609778]]],"type":"Polygon"}
+}

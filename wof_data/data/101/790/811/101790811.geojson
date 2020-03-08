@@ -1,0 +1,145 @@
+{
+  "id": 101790811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000188,
+    "geom:area_square_m":1646434.142837,
+    "geom:bbox":"29.1513534482,45.0285780783,29.1776009055,45.0474613103",
+    "geom:latitude":45.037031,
+    "geom:longitude":29.163218,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":3761,
+    "gn:population":3761,
+    "iso:country":"RO",
+    "lbl:latitude":45.034899,
+    "lbl:longitude":29.166046,
+    "mps:latitude":45.034899,
+    "mps:longitude":29.166046,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041c\u0443\u0440\u0438\u0433\u0445\u0438\u043e\u043b"
+    ],
+    "name:dut_x_preferred":[
+        "Murighiol"
+    ],
+    "name:eng_x_preferred":[
+        "Morughiol"
+    ],
+    "name:eng_x_variant":[
+        "Muri Geul",
+        "Murughiol",
+        "Murighiol"
+    ],
+    "name:fre_x_preferred":[
+        "Murighiol"
+    ],
+    "name:hun_x_preferred":[
+        "Murighiol"
+    ],
+    "name:ita_x_preferred":[
+        "Murighiol"
+    ],
+    "name:por_x_preferred":[
+        "Murighiol"
+    ],
+    "name:rum_x_preferred":[
+        "Murighiol"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0443\u0440\u0443\u0433\u0438\u043b\u044c"
+    ],
+    "name:unk_x_variant":[
+        "Muri Geul"
+    ],
+    "name:vie_x_preferred":[
+        "Murighiol"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Tulcea",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Murighiol",
+    "qs:la_lc":"*RO49160911",
+    "qs:level":"locality",
+    "qs:loc":"Murighiol",
+    "qs:loc_alt":"Murighiol",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":672602,
+    "qs_pg:gn_pop":3761,
+    "qs_pg:name":"Murighiol",
+    "qs_pg:name_adm0":"Rom\u00e2nia",
+    "qs_pg:name_adm1":"Tulcea",
+    "qs_pg:photos":144,
+    "qs_pg:photos_1k":29,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":144,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":235368,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424933,
+    "qs_pg:woe_id":876292,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a23ec4-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":672602,
+        "gp:id":876292,
+        "qs:id":235368,
+        "qs_pg:id":235368,
+        "wd:id":"Q1066648"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"56c37a8ebce90ccdb6be694a599fd00f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101790811,
+            "region_id":85687679
+        }
+    ],
+    "wof:id":101790811,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1534379451,
+    "wof:name":"Murighiol",
+    "wof:parent_id":85687679,
+    "wof:placetype":"locality",
+    "wof:population":3761,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125978081
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.15135344818037,
+    45.02857807831941,
+    29.17760090554191,
+    45.04746131026502
+],
+  "geometry": {"coordinates":[[[29.15598153071198,45.04416970428753],[29.15968664881086,45.04348055867138],[29.16030217748266,45.0452155709695],[29.16153723381024,45.04498581849043],[29.16122944563949,45.04411831744073],[29.16246447535121,45.04388855465561],[29.16215668220877,45.04302105590364],[29.1633916853059,45.04279128281263],[29.16308388719267,45.04192378635804],[29.16555383109204,45.04146420509556],[29.16524601046598,45.04059671510424],[29.16771588300429,45.04013708429244],[29.1674080398688,45.03926960076438],[29.1698778410489,45.03880992040627],[29.16956997540819,45.03794244334171],[29.1708048448545,45.03771258562517],[29.17049697425136,45.036845110858],[29.17173181708984,45.0366152428391],[29.17080822812329,45.03401281982087],[29.17204300928188,45.03378294983276],[29.17173515390812,45.03291547592067],[29.17543939037307,45.03222579165134],[29.17513149497199,45.03135832836881],[29.17760090554191,45.03089847485478],[29.17729298765266,45.03003101803591],[29.17482361214678,45.03049086321647],[29.17451574189732,45.02962339619421],[29.17081166323328,45.0303130429682],[29.17019606564844,45.02857807831941],[29.16155314364653,45.03018668947499],[29.16216849574522,45.0319217124291],[29.16093372127926,45.0321514644815],[29.16154908857629,45.0338864882911],[29.16031426997074,45.0341162342034],[29.16062195493322,45.03498374747028],[29.15938710972438,45.03521348307788],[29.15969478971573,45.0360809986409],[29.1559901470884,45.03677013113901],[29.15629778702163,45.03763765732589],[29.15382794487039,45.0380970149692],[29.15444319226407,45.03983207839531],[29.15197324368131,45.04029139480934],[29.15258847116132,45.04202646742135],[29.15135344818037,45.0422561122482],[29.15319932699299,45.04746131026502],[29.15690468464089,45.0467722574175],[29.15598153071198,45.04416970428753]],[[29.15598581305642,45.04046992323072],[29.15969069339917,45.03978078417487],[29.16061390702225,45.04238330973772],[29.15690886876541,45.04307248627401],[29.15598581305642,45.04046992323072]]],"type":"Polygon"}
+}

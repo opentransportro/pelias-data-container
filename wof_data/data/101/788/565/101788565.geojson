@@ -1,0 +1,119 @@
+{
+  "id": 101788565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000138,
+    "geom:area_square_m":1177067.474729,
+    "geom:bbox":"24.0166606681,46.4545373019,24.0390342995,46.4690269822",
+    "geom:latitude":46.461968,
+    "geom:longitude":24.02647,
+    "gn:population":2844,
+    "iso:country":"RO",
+    "lbl:latitude":46.462615,
+    "lbl:longitude":24.026639,
+    "mps:latitude":46.462615,
+    "mps:longitude":24.026639,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Che\u021bani"
+    ],
+    "name:eng_x_preferred":[
+        "Che\u021bani"
+    ],
+    "name:epo_x_preferred":[
+        "Che\u021bani"
+    ],
+    "name:fre_x_preferred":[
+        "Che\u021bani"
+    ],
+    "name:hun_x_preferred":[
+        "Maroskece"
+    ],
+    "name:ita_x_preferred":[
+        "Che\u021bani"
+    ],
+    "name:may_x_preferred":[
+        "Che\u021bani"
+    ],
+    "name:por_x_preferred":[
+        "Che\u021bani"
+    ],
+    "name:rum_x_preferred":[
+        "Che\u021bani"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0435\u0446\u0430\u043d\u044c"
+    ],
+    "name:unk_x_variant":[
+        "Chelani"
+    ],
+    "name:vie_x_preferred":[
+        "Chetani"
+    ],
+    "name:vol_x_preferred":[
+        "Che\u021bani"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Mures",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Che\u0163ani",
+    "qs:la_lc":"*RO39116046",
+    "qs:level":"locality",
+    "qs:loc":"Che\u0163ani",
+    "qs:loc_alt":"Chetani",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":682171,
+        "gp:id":869248,
+        "qs:id":127864,
+        "qs_pg:id":127864,
+        "wd:id":"Q1090051"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"f04ed83092b2876773f9e78456b115cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101788565,
+            "region_id":85687719
+        }
+    ],
+    "wof:id":101788565,
+    "wof:lastmodified":1514499841,
+    "wof:name":"Che\u0163ani",
+    "wof:parent_id":85687719,
+    "wof:placetype":"locality",
+    "wof:population":2844,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.01666066814528,
+    46.45453730189456,
+    24.03903429952345,
+    46.4690269822031
+],
+  "geometry": {"coordinates":[[[24.028568118186,46.46885759086501],[24.0283325137512,46.46797539219909],[24.02961490580827,46.46780598881514],[24.02937929123351,46.46692379218172],[24.03066165575933,46.46675437675225],[24.03019041639806,46.46498998633825],[24.03147273319212,46.46482056210806],[24.03123710840703,46.46393836832726],[24.03508395422455,46.46343001363914],[24.03484827890549,46.46254782837991],[24.03613052599053,46.46237834948602],[24.03518784458663,46.45884960930312],[24.03903429952345,46.45834111983891],[24.03879859375473,46.4574589414961],[24.02597702286175,46.45915333890213],[24.02574152910518,46.45827112690836],[24.02445935193396,46.45844047932917],[24.02422388843229,46.45755826288149],[24.02165955252212,46.45789691537811],[24.02142413946967,46.45701469123571],[24.02014198073283,46.45718399131221],[24.01943586248575,46.45453730189456],[24.01815375701824,46.45470657696194],[24.01885981467768,46.45735327610163],[24.01757764130542,46.45752254560387],[24.01828372884461,46.46016924356741],[24.0195659628132,46.45999996434244],[24.02027220144134,46.46264664168478],[24.01898990686948,46.46281593063333],[24.01922531965494,46.46369815723375],[24.01666066814528,46.46403669574653],[24.01713144306763,46.4658011582805],[24.0235432189773,46.46495466491263],[24.02424975986958,46.46760130100319],[24.02553215369858,46.46743194673246],[24.02576770765802,46.46831415309714],[24.02705011436734,46.46814478029319],[24.0272856985963,46.4690269822031],[24.028568118186,46.46885759086501]]],"type":"Polygon"}
+}

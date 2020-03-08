@@ -1,0 +1,109 @@
+{
+  "id": 101791877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000154,
+    "geom:area_square_m":1347066.424919,
+    "geom:bbox":"27.3131052648,45.0779036613,27.3321364997,45.0898437909",
+    "geom:latitude":45.08397,
+    "geom:longitude":27.323104,
+    "gn:population":2726,
+    "iso:country":"RO",
+    "lbl:latitude":45.084816,
+    "lbl:longitude":27.323285,
+    "mps:latitude":45.084816,
+    "mps:longitude":27.323285,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Surdila-G\u0103iseanca"
+    ],
+    "name:eng_x_preferred":[
+        "Surdila-G\u0103iseanca"
+    ],
+    "name:fre_x_preferred":[
+        "Surdila-G\u0103iseanca"
+    ],
+    "name:ita_x_preferred":[
+        "Surdila-G\u0103iseanca"
+    ],
+    "name:rum_x_colloquial":[
+        "Surdila-Gaeiseanca",
+        "Surdila-Gaiseanca"
+    ],
+    "name:rum_x_preferred":[
+        "Surdila-G\u0103iseanca"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0443\u0440\u0434\u0456\u043b\u0430-\u0413\u0435\u0439\u0441\u044f\u043d\u043a\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Surdila-G\u0103iseanca"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Braila",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Surdila-G\u0103iseanca",
+    "qs:la_lc":"*RO18044113",
+    "qs:level":"locality",
+    "qs:loc":"Surdila-Gaiseanca",
+    "qs:loc_alt":"Surdila-Gaiseanca",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a4dbac-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":665738,
+        "gp:id":881335,
+        "qs:id":126886,
+        "qs_pg:id":126886,
+        "wd:id":"Q12158796"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"e1764ef24c094043d5b199ecc2838fdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101791877,
+            "region_id":85687663
+        }
+    ],
+    "wof:id":101791877,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514500174,
+    "wof:name":"Surdila-Gaiseanca",
+    "wof:parent_id":85687663,
+    "wof:placetype":"locality",
+    "wof:population":2726,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.31310526480138,
+    45.07790366133855,
+    27.33213649965984,
+    45.0898437909413
+],
+  "geometry": {"coordinates":[[[27.32747603999326,45.08963575201568],[27.32719702989237,45.08876210903799],[27.32843888756349,45.08855405927886],[27.32815987083734,45.0876804184694],[27.33064352509291,45.08726428265345],[27.33036448363202,45.08639064781113],[27.33160628021778,45.08618256175532],[27.33049015680558,45.08268802127083],[27.33173187267295,45.08247993578061],[27.33089484639288,45.07985902468539],[27.33213649965984,45.07965093596152],[27.33157850335306,45.07790366133855],[27.32785362731806,45.07852786083259],[27.32813256541982,45.07940151035439],[27.323165875656,45.08023358672631],[27.32288700997384,45.07935992201521],[27.32040365161134,45.07977586482821],[27.3201248336195,45.07890219089381],[27.31888316012396,45.07911013655911],[27.31860437171468,45.07823645719861],[27.31612103609842,45.07865229704771],[27.31667855196429,45.08039966932125],[27.31543683552258,45.08060757489119],[27.31599436107098,45.08235494823816],[27.31475260013138,45.08256284676821],[27.3153101353613,45.08431022118884],[27.31406832991917,45.08451811267867],[27.31434709663625,45.08539180124086],[27.31310526480138,45.08559968189434],[27.3136627964372,45.08734706172271],[27.31614652428101,45.08693127060013],[27.31642534354364,45.08780495047864],[27.31766721315716,45.08759702917212],[27.31822492234994,45.08934437644734],[27.32070870918432,45.08892847474817],[27.32098761723245,45.08980213834701],[27.32595516393371,45.08897014416488],[27.32623415592178,45.0898437909413],[27.32747603999326,45.08963575201568]]],"type":"Polygon"}
+}

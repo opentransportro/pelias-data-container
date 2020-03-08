@@ -1,0 +1,107 @@
+{
+  "id": 101845043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00012,
+    "geom:area_square_m":1067961.268109,
+    "geom:bbox":"22.9562011711,43.9267039644,22.9727648148,43.9397405984",
+    "geom:latitude":43.9334,
+    "geom:longitude":22.963873,
+    "gn:population":1540,
+    "iso:country":"RO",
+    "lbl:latitude":43.933492,
+    "lbl:longitude":22.963998,
+    "mps:latitude":43.933492,
+    "mps:longitude":22.963998,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Sm\u00e2rdan"
+    ],
+    "name:eng_x_preferred":[
+        "Sm\u00e2rdan"
+    ],
+    "name:ita_x_preferred":[
+        "Sm\u00e2rdan"
+    ],
+    "name:rum_x_colloquial":[
+        "Smardan",
+        "Smirdan"
+    ],
+    "name:rum_x_preferred":[
+        "Sm\u00eerdan"
+    ],
+    "name:rum_x_variant":[
+        "Sm\u00e2rdan"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043c\u0438\u0440\u0434\u0430\u043d "
+    ],
+    "name:unk_x_variant":[
+        "Sm\u00eerdan"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Dolj",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:id":0,
+    "qs:la":"Ciupercenii Noi",
+    "qs:la_lc":"*RO28071858",
+    "qs:level":"locality",
+    "qs:loc":"Sm\u00e2rdan",
+    "qs:loc_alt":"Smardan",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a4885a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":666629,
+        "gp:id":880691,
+        "qs:id":412849,
+        "wd:id":"Q12153925"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"303fc4c75d15ee59234c7dbcc00c9058",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101845043,
+            "region_id":85687581
+        }
+    ],
+    "wof:id":101845043,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514500158,
+    "wof:name":"Sm\u00e2rdan",
+    "wof:parent_id":85687581,
+    "wof:placetype":"locality",
+    "wof:population":1540,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.95620117109047,
+    43.9267039644389,
+    22.97276481479082,
+    43.93974059844305
+],
+  "geometry": {"coordinates":[[[22.96559581376084,43.93838723222092],[22.96928161283159,43.9379204834712],[22.96907912358063,43.93703375018299],[22.97276481479082,43.93656687848119],[22.97256227928136,43.93568015233745],[22.97133373964635,43.93583578804248],[22.97072623726802,43.93317559399878],[22.96949774623147,43.9333312067613],[22.9688903727955,43.93067099347854],[22.96766193035364,43.93082658330121],[22.96725709240968,43.92905309616447],[22.96602868038855,43.92920866583256],[22.96562391184773,43.92743516829137],[22.96439553024646,43.92759071780637],[22.96419317654164,43.9267039644389],[22.96296480719036,43.92685949658465],[22.96316714272501,43.92774625273455],[22.95948194464478,43.92821276999672],[22.9596842339277,43.9290995332837],[22.9572273692711,43.92941047741795],[22.95742963046911,43.93029724505931],[22.95620117109047,43.93045269802593],[22.95701022578766,43.93399976763158],[22.95823875786743,43.93384430353882],[22.95864337113636,43.93561782552746],[22.95987193365102,43.93546234128132],[22.960478970064,43.9381226068536],[22.96170758119257,43.93796709967029],[22.96211234981934,43.93974059844305],[22.96579825674621,43.93927397265259],[22.96559581376084,43.93838723222092]]],"type":"Polygon"}
+}

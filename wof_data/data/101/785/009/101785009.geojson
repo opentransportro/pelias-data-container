@@ -1,0 +1,98 @@
+{
+  "id": 101785009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000081,
+    "geom:area_square_m":678119.80341,
+    "geom:bbox":"23.2346601476,47.6215397677,23.2560311427,47.6324636742",
+    "geom:latitude":47.626088,
+    "geom:longitude":23.246139,
+    "gn:population":1566,
+    "iso:country":"RO",
+    "lbl:latitude":47.625451,
+    "lbl:longitude":23.246301,
+    "mps:latitude":47.625451,
+    "mps:longitude":23.246301,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Poiana Codrului"
+    ],
+    "name:eng_x_preferred":[
+        "Poiana Codrului"
+    ],
+    "name:epo_x_preferred":[
+        "Poiana Codrului"
+    ],
+    "name:fre_x_preferred":[
+        "Poiana Codrului"
+    ],
+    "name:hun_x_preferred":[
+        "Szelestyehuta"
+    ],
+    "name:rum_x_preferred":[
+        "Poiana Codrului"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u044f\u043d\u0430-\u041a\u043e\u0434\u0440\u0443\u043b\u0443\u0439"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Satu Mare",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Cruci\u015for",
+    "qs:la_lc":"*RO44137504",
+    "qs:level":"locality",
+    "qs:loc":"Poiana Codrului",
+    "qs:loc_alt":"Poiana Codrului",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":670095,
+        "gp:id":878172,
+        "qs:id":1279185,
+        "wd:id":"Q728800"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"cb885a686a0fb321fbe0152705bf3232",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101785009,
+            "region_id":85687757
+        }
+    ],
+    "wof:id":101785009,
+    "wof:lastmodified":1514500088,
+    "wof:name":"Poiana Codrului",
+    "wof:parent_id":85687757,
+    "wof:placetype":"locality",
+    "wof:population":1566,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.23466014755718,
+    47.62153976765569,
+    23.25603114269359,
+    47.63246367415843
+],
+  "geometry": {"coordinates":[[[23.25603114269359,47.63109828952446],[23.2555700281996,47.62933139481999],[23.25425737673299,47.6294920472937],[23.25356584547103,47.62684168752025],[23.25225325129333,47.62700231471166],[23.25202278264084,47.626118856093],[23.25071020262351,47.62627946437436],[23.2504797656344,47.62539600148324],[23.24916719977875,47.6255565908549],[23.24847601408783,47.62290618610376],[23.24716350551665,47.62306675019897],[23.24693315204013,47.62218327659036],[23.24037060603484,47.62298584528173],[23.24014037045509,47.62210235467342],[23.23751534341238,47.62242326571334],[23.23728516104518,47.62153976765569],[23.23466014755718,47.62186060943412],[23.23535059554627,47.62451111943295],[23.23797573841256,47.6241902585694],[23.23820595104712,47.62507375336776],[23.23951853295449,47.62491329616591],[23.2397487772439,47.62579678669647],[23.24237396200215,47.62547581875162],[23.24283456711908,47.62724278382331],[23.24414719153373,47.62708226989668],[23.24437753079997,47.6279657476195],[23.24569016938199,47.62780521478339],[23.24592054031109,47.62868868823568],[23.24854583840857,47.62836756901714],[23.24877626256847,47.62925103501459],[23.25008892208257,47.6290904486313],[23.25031937790908,47.62997391035674],[23.25163205158725,47.62981330506216],[23.25232354438378,47.63246367415843],[23.2549489989334,47.63214239727654],[23.25471844809454,47.63125894836998],[23.25603114269359,47.63109828952446]]],"type":"Polygon"}
+}

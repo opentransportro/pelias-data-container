@@ -1,0 +1,123 @@
+{
+  "id": 101790793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000292,
+    "geom:area_square_m":2554526.711429,
+    "geom:bbox":"28.8394074014,44.9358661984,28.8590972901,44.9572374858",
+    "geom:latitude":44.945202,
+    "geom:longitude":28.849807,
+    "gn:population":7483,
+    "iso:country":"RO",
+    "lbl:latitude":44.944457,
+    "lbl:longitude":28.849995,
+    "mps:latitude":44.944457,
+    "mps:longitude":28.849995,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041d\u043e\u0432\u043e \u0441\u0435\u043b\u043e"
+    ],
+    "name:dut_x_preferred":[
+        "Sarichioi"
+    ],
+    "name:eng_x_preferred":[
+        "Sarikioi"
+    ],
+    "name:fre_x_preferred":[
+        "Sarichioi"
+    ],
+    "name:hun_x_preferred":[
+        "Sarichioi"
+    ],
+    "name:ita_x_preferred":[
+        "Sarichioi"
+    ],
+    "name:may_x_preferred":[
+        "Sarichioi"
+    ],
+    "name:nob_x_preferred":[
+        "Sarichioi"
+    ],
+    "name:por_x_preferred":[
+        "Sarichioi"
+    ],
+    "name:rum_x_preferred":[
+        "Sarichioi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0440\u0438\u043a\u0451\u0439"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u0440\u0456\u043a\u0456\u043e\u0439"
+    ],
+    "name:unk_x_variant":[
+        "Sarikioi"
+    ],
+    "name:vie_x_preferred":[
+        "Sarichioi"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Tulcea",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Sarichioi",
+    "qs:la_lc":"*RO49161179",
+    "qs:level":"locality",
+    "qs:loc":"Sarichioi",
+    "qs:loc_alt":"Sarichioi",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a4022c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":667991,
+        "gp:id":879700,
+        "qs:id":1350799,
+        "wd:id":"Q1065021"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"f00a76e9c2f63dd598ad4e4760298267",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101790793,
+            "region_id":85687679
+        }
+    ],
+    "wof:id":101790793,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514500132,
+    "wof:name":"Sarichioi",
+    "wof:parent_id":85687679,
+    "wof:placetype":"locality",
+    "wof:population":7483,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.83940740144345,
+    44.93586619838999,
+    28.85909729009222,
+    44.95723748582213
+],
+  "geometry": {"coordinates":[[[28.85778706832292,44.9550124061571],[28.85657840038459,44.95153780369247],[28.85781246255772,44.95131170123625],[28.85660392177846,44.94783708588102],[28.85783790481139,44.94761098532547],[28.85753578289774,44.9467423310067],[28.85876973947984,44.94651622007405],[28.85786339507513,44.94391025842083],[28.85909729009222,44.94368414529652],[28.85637876487004,44.93586619838999],[28.84897620945446,44.93722243919302],[28.84867431806651,44.93635374473922],[28.84373917369811,44.93725759957181],[28.84343736485442,44.93638888693448],[28.83973596600907,44.93706661388251],[28.84064127149065,44.93967278310618],[28.83940740144345,44.9398986754162],[28.84091640254888,44.94424227469239],[28.83968243581472,44.94446817297467],[28.84149353846607,44.94968045635397],[28.84272761058912,44.94945453353665],[28.84302952174176,44.95032323694966],[28.84426360254605,44.9500972955708],[28.84456554359474,44.95096599306663],[28.84579963307937,44.95074003312607],[28.84610160402593,44.95160872470416],[28.84733570218987,44.95138274620138],[28.84824174172661,44.95398879769743],[28.84947588370403,44.95376279244914],[28.85068417938334,44.95723748582213],[28.85562093947493,44.95633325463086],[28.85531877677454,44.95546460040021],[28.85778706832292,44.9550124061571]]],"type":"Polygon"}
+}

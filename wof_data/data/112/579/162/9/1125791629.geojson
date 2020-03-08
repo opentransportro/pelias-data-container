@@ -1,0 +1,107 @@
+{
+  "id": 1125791629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.33333,46.7,27.33333,46.7",
+    "geom:latitude":46.7,
+    "geom:longitude":27.33333,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":3453,
+    "gn:population":3453,
+    "iso:country":"RO",
+    "lbl:latitude":46.7,
+    "lbl:longitude":27.33333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Punge\u0219ti"
+    ],
+    "name:eng_x_preferred":[
+        "Punge\u0219ti"
+    ],
+    "name:fre_x_preferred":[
+        "Punge\u0219ti"
+    ],
+    "name:ita_x_preferred":[
+        "Punge\u0219ti"
+    ],
+    "name:may_x_preferred":[
+        "Punge\u0219ti"
+    ],
+    "name:por_x_preferred":[
+        "Punge\u0219ti"
+    ],
+    "name:rum_x_preferred":[
+        "Punge\u0219ti"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0443\u043d\u0434\u0436\u0435\u0448\u0442\u044c"
+    ],
+    "name:unk_x_variant":[
+        "Punge\u015fti-T\u00eerg"
+    ],
+    "name:vie_x_preferred":[
+        "Pungesti"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":669493,
+    "qs_pg:gn_pop":3453,
+    "qs_pg:name":"Punge\u015fti",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":127191,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":669493,
+        "qs_pg:id":127191,
+        "wd:id":"Q2547302"
+    },
+    "wof:country":"RO",
+    "wof:created":1497290886,
+    "wof:geomhash":"d729ee23b5c525973614fb701d1c679d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125791629,
+            "region_id":85687743
+        }
+    ],
+    "wof:id":1125791629,
+    "wof:lastmodified":1514500101,
+    "wof:name":"Punge\u015fti",
+    "wof:parent_id":85687743,
+    "wof:placetype":"locality",
+    "wof:population":3453,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.33333,
+    46.7,
+    27.33333,
+    46.7
+],
+  "geometry": {"coordinates":[27.33333,46.7],"type":"Point"}
+}

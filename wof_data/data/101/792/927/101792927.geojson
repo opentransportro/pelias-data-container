@@ -1,0 +1,80 @@
+{
+  "id": 101792927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000043,
+    "geom:area_square_m":379203.773587,
+    "geom:bbox":"26.0428403027,44.7822102047,26.0567686015,44.7909884442",
+    "geom:latitude":44.785252,
+    "geom:longitude":26.051367,
+    "gn:population":1150,
+    "iso:country":"RO",
+    "lbl:latitude":44.785353,
+    "lbl:longitude":26.054375,
+    "mps:latitude":44.785353,
+    "mps:longitude":26.054375,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Prahova",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:id":0,
+    "qs:la":"Gorgota",
+    "qs:la_lc":"*RO42133508",
+    "qs:level":"locality",
+    "qs:loc":"Crivina",
+    "qs:loc_alt":"Crivina",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":680122,
+        "gp:id":870745,
+        "qs_pg:id":1278270,
+        "wd:id":"Q12115201"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"55f937c625f0d68feb700027995dcae0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101792927,
+            "region_id":85687661
+        }
+    ],
+    "wof:id":101792927,
+    "wof:lastmodified":1505337970,
+    "wof:name":"Crivina",
+    "wof:parent_id":85687661,
+    "wof:placetype":"locality",
+    "wof:population":1150,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.04284030273146,
+    44.78221020466458,
+    26.05676860146201,
+    44.79098844418547
+],
+  "geometry": {"coordinates":[[[26.05676860146201,44.78670615976506],[26.05574271832819,44.78319491405136],[26.05326479882586,44.78358041854187],[26.05300839078478,44.78270259638344],[26.0505304772999,44.78308803531684],[26.05027411618391,44.78221020466458],[26.04284030273146,44.78336614913542],[26.04309655468194,44.78424400079626],[26.04433556075764,44.78405137647962],[26.04459184143928,44.78492922315138],[26.0470698672155,44.78454392359896],[26.04732619482638,44.78542176177962],[26.04980422663351,44.7850363966682],[26.05006060117415,44.78591422635611],[26.05253863900595,44.78552879568434],[26.05330793504987,44.78816225479841],[26.05206886534245,44.78835498796263],[26.05283820168535,44.79098844418547],[26.05407732598661,44.79079570051096],[26.05382085179667,44.78991788676251],[26.05505995030438,44.78972513195163],[26.05454699716341,44.78796950699473],[26.0557860516825,44.78777674455193],[26.05552957273312,44.78689893334314],[26.05676860146201,44.78670615976506]]],"type":"Polygon"}
+}

@@ -1,0 +1,133 @@
+{
+  "id": 101788757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000277,
+    "geom:area_square_m":2364156.317678,
+    "geom:bbox":"25.8305368123,46.2991715362,25.8621164187,46.3207634698",
+    "geom:latitude":46.309487,
+    "geom:longitude":25.843275,
+    "gn:population":6105,
+    "iso:country":"RO",
+    "lbl:latitude":46.307568,
+    "lbl:longitude":25.840882,
+    "mps:latitude":46.307568,
+    "mps:longitude":25.840882,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "S\u00e2ncr\u0103ieni"
+    ],
+    "name:eng_x_preferred":[
+        "Csik Szlkirole"
+    ],
+    "name:epo_x_preferred":[
+        "S\u00e2ncr\u0103ieni"
+    ],
+    "name:fre_x_preferred":[
+        "S\u00e2ncr\u0103ieni"
+    ],
+    "name:hun_x_preferred":[
+        "Cs\u00edkszentkir\u00e1ly"
+    ],
+    "name:ita_x_preferred":[
+        "S\u00e2ncr\u0103ieni"
+    ],
+    "name:may_x_preferred":[
+        "S\u00e2ncr\u0103ieni"
+    ],
+    "name:por_x_preferred":[
+        "S\u00e2ncr\u0103ieni"
+    ],
+    "name:rum_x_colloquial":[
+        "Csikszentkiraly",
+        "Sancraeeni",
+        "Sancraeieni",
+        "Sancraeni",
+        "Sancraiem",
+        "Sancraieni",
+        "Sincraeieni",
+        "Sincraieni"
+    ],
+    "name:rum_x_preferred":[
+        "S\u00eencr\u0103ieni"
+    ],
+    "name:rum_x_variant":[
+        "Csikszentkir\u00e0ly",
+        "S\u00e2ncr\u00e1iem",
+        "S\u00e2ncr\u0103eni",
+        "S\u00e2ncr\u0103ieni"
+    ],
+    "name:unk_x_variant":[
+        "S\u00e2ncr\u00e1iem"
+    ],
+    "name:vol_x_preferred":[
+        "S\u00e2ncr\u0103ieni"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Harghita",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"S\u00e2ncr\u0103ieni",
+    "qs:la_lc":"*RO32085680",
+    "qs:level":"locality",
+    "qs:loc":"S\u00e2ncr\u0103ieni",
+    "qs:loc_alt":"Sancraieni",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a45c0e-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":667069,
+        "gp:id":880374,
+        "qs:id":766620,
+        "qs_pg:id":766620,
+        "wd:id":"Q876046"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"ab78f6aa227a2fe05ee72c9a66fc1db0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101788757,
+            "region_id":85687733
+        }
+    ],
+    "wof:id":101788757,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514500177,
+    "wof:name":"S\u00e2ncr\u0103ieni",
+    "wof:parent_id":85687733,
+    "wof:placetype":"locality",
+    "wof:population":6105,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.83053681226443,
+    46.29917153622011,
+    25.86211641869204,
+    46.32076346977465
+],
+  "geometry": {"coordinates":[[[25.84231529783176,46.32019045885289],[25.84046303602133,46.31404969059867],[25.84173682962967,46.31385868210339],[25.84147224603663,46.31298142744623],[25.84529351918286,46.31240832215764],[25.84555816155665,46.31328556593979],[25.85192688507573,46.31233007008615],[25.85219163662015,46.313207294319],[25.85601283166335,46.31263380458347],[25.8562776531943,46.31351101651467],[25.86009883360407,46.31293737989131],[25.85983395330504,46.31206017884421],[25.86110764420482,46.31186894004213],[25.86084275553685,46.31099174120288],[25.86211641869204,46.31080049091833],[25.86158663583836,46.30904609623349],[25.86031301185483,46.30923733926113],[25.86004815684015,46.30836013615897],[25.85622729471191,46.30893376369715],[25.85596250966881,46.30805654829157],[25.85341526665104,46.30843888384521],[25.85368001252158,46.30931610650453],[25.84858535030827,46.31008061078984],[25.84779138137941,46.30744889504035],[25.84906500039659,46.3072578025122],[25.84853570464486,46.3055033254991],[25.84980927634075,46.30531222511132],[25.84848613516226,46.30092602585916],[25.8497596007964,46.30073492848766],[25.84949498659705,46.29985768800259],[25.84822154054319,46.30004878174947],[25.84795695712825,46.29917153622011],[25.8454100797432,46.29955367114098],[25.84567462399741,46.30043092391855],[25.83930719010084,46.30138601494014],[25.83957164764325,46.30226328441552],[25.83575103083513,46.30283616858583],[25.8354866320476,46.30195888824323],[25.83166600072502,46.30253162555897],[25.83193034075293,46.30340891676627],[25.83320391225453,46.30321801581647],[25.83637710109366,46.3137453562523],[25.83128182580344,46.31450904324504],[25.83181069064801,46.3162636091181],[25.83053681226443,46.3164545003267],[25.83133013474503,46.31908634937474],[25.83769973920153,46.31813168783845],[25.83849345654437,46.32076346977465],[25.84231529783176,46.32019045885289]]],"type":"Polygon"}
+}

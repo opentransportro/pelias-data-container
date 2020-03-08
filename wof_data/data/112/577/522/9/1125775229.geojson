@@ -1,0 +1,113 @@
+{
+  "id": 1125775229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.23333,47.28333,22.23333,47.28333",
+    "geom:latitude":47.28333,
+    "geom:longitude":22.23333,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":3386,
+    "gn:population":3386,
+    "iso:country":"RO",
+    "lbl:latitude":47.28333,
+    "lbl:longitude":22.23333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:alb_x_preferred":[
+        "Chi\u0219laz"
+    ],
+    "name:dut_x_preferred":[
+        "Chi\u0219laz"
+    ],
+    "name:eng_x_preferred":[
+        "Chi\u0219laz"
+    ],
+    "name:epo_x_preferred":[
+        "Chi\u0219laz"
+    ],
+    "name:fre_x_preferred":[
+        "Chi\u0219laz"
+    ],
+    "name:hun_x_preferred":[
+        "V\u00e1mosl\u00e1z"
+    ],
+    "name:ita_x_preferred":[
+        "Chi\u0219laz"
+    ],
+    "name:por_x_preferred":[
+        "Chi\u0219laz"
+    ],
+    "name:rum_x_preferred":[
+        "Chi\u0219laz"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0456\u0448\u043b\u0430\u0437"
+    ],
+    "name:vie_x_preferred":[
+        "Chislaz"
+    ],
+    "name:vol_x_preferred":[
+        "Chi\u0219laz"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":682003,
+    "qs_pg:gn_pop":3386,
+    "qs_pg:name":"Chi\u015flaz",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1028091,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":682003,
+        "qs_pg:id":1028091,
+        "wd:id":"Q1189440"
+    },
+    "wof:country":"RO",
+    "wof:created":1497290230,
+    "wof:geomhash":"1fcd291aaaee43c9c99700df42ee572e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125775229,
+            "region_id":85687737
+        }
+    ],
+    "wof:id":1125775229,
+    "wof:lastmodified":1514499845,
+    "wof:name":"Chi\u015flaz",
+    "wof:parent_id":85687737,
+    "wof:placetype":"locality",
+    "wof:population":3386,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.23333,
+    47.28333,
+    22.23333,
+    47.28333
+],
+  "geometry": {"coordinates":[22.23333,47.28333],"type":"Point"}
+}

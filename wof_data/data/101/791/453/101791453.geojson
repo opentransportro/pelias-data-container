@@ -1,0 +1,118 @@
+{
+  "id": 101791453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00013,
+    "geom:area_square_m":1137622.333401,
+    "geom:bbox":"27.8493610774,44.7324170578,27.8596982445,44.7570219675",
+    "geom:latitude":44.745355,
+    "geom:longitude":27.855147,
+    "gn:population":1629,
+    "iso:country":"RO",
+    "lbl:latitude":44.742646,
+    "lbl:longitude":27.856439,
+    "mps:latitude":44.742646,
+    "mps:longitude":27.856439,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Giurgeni"
+    ],
+    "name:eng_x_preferred":[
+        "Giurgeni"
+    ],
+    "name:fre_x_preferred":[
+        "Giurgeni"
+    ],
+    "name:ger_x_preferred":[
+        "Giurgeni "
+    ],
+    "name:ita_x_preferred":[
+        "Giurgeni"
+    ],
+    "name:may_x_preferred":[
+        "Giurgeni"
+    ],
+    "name:por_x_preferred":[
+        "Giurgeni"
+    ],
+    "name:rum_x_preferred":[
+        "Giurgeni"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0436\u0443\u0440\u0434\u0436\u0435\u043d\u044c "
+    ],
+    "name:vie_x_preferred":[
+        "Giurgeni"
+    ],
+    "name:vol_x_preferred":[
+        "Giurgeni"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Ialomita",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:id":0,
+    "qs:la":"Giurgeni",
+    "qs:la_lc":"*RO34093646",
+    "qs:level":"locality",
+    "qs:loc":"Giurgeni",
+    "qs:loc_alt":"Giurgeni",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a084d0-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":677122,
+        "gp:id":872968,
+        "qs:id":127599,
+        "qs_pg:id":127599,
+        "wd:id":"Q1528079"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"067e872be86c2dd6f704d3b0c627b461",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101791453,
+            "region_id":85687621
+        }
+    ],
+    "wof:id":101791453,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514499947,
+    "wof:name":"Giurgeni",
+    "wof:parent_id":85687621,
+    "wof:placetype":"locality",
+    "wof:population":1629,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.84936107741868,
+    44.73241705781481,
+    27.85969824453366,
+    44.75702196753656
+],
+  "geometry": {"coordinates":[[[27.85325023886276,44.7568078768486],[27.85296559677118,44.75593565292053],[27.85666484716057,44.75529330548056],[27.85638016361412,44.75442109145138],[27.85761321264641,44.75420695051406],[27.85732852303448,44.75333473864845],[27.85856154600617,44.75312058708374],[27.85799216627811,44.75137616597448],[27.85922514550134,44.75116200765086],[27.85837111003059,44.74854537480536],[27.85960402782314,44.74833121359092],[27.85846540584726,44.74484236139995],[27.85969824453366,44.74462820116196],[27.85571428415432,44.73241705781481],[27.85201648553675,44.73305933268148],[27.85258537728077,44.73480382537934],[27.85135272567226,44.7350178957509],[27.85476683959524,44.74548475515627],[27.85353396744807,44.74569885742193],[27.85381853476855,44.74657108849419],[27.85258563657118,44.74678518013269],[27.8540085590401,44.75114632926301],[27.85030954892801,44.75178857520871],[27.85059411521286,44.75266081152279],[27.84936107741868,44.75287486838022],[27.85049938800205,44.75636381206544],[27.85173249657055,44.75614973974132],[27.85201712096733,44.75702196753656],[27.85325023886276,44.7568078768486]]],"type":"Polygon"}
+}

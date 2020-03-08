@@ -1,0 +1,113 @@
+{
+  "id": 101794757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000181,
+    "geom:area_square_m":1596767.959368,
+    "geom:bbox":"23.2463992382,44.398584307,23.2858206148,44.4079521716",
+    "geom:latitude":44.402888,
+    "geom:longitude":23.266195,
+    "gn:population":994,
+    "iso:country":"RO",
+    "lbl:latitude":44.401885,
+    "lbl:longitude":23.269779,
+    "mps:latitude":44.401885,
+    "mps:longitude":23.269779,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Boto\u0219e\u0219ti-Paia"
+    ],
+    "name:eng_x_preferred":[
+        "Boto\u0219e\u0219ti-Paia"
+    ],
+    "name:fre_x_preferred":[
+        "Boto\u0219e\u0219ti-Paia"
+    ],
+    "name:ita_x_preferred":[
+        "Boto\u0219e\u0219ti-Paia"
+    ],
+    "name:may_x_preferred":[
+        "Boto\u0219e\u0219ti-Paia"
+    ],
+    "name:por_x_preferred":[
+        "Boto\u0219e\u0219ti-Paia"
+    ],
+    "name:rum_x_preferred":[
+        "Boto\u0219e\u0219ti-Paia"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u0442\u043e\u0448\u0435\u0448\u0442\u044c-\u041f\u0430\u044f"
+    ],
+    "name:unk_x_variant":[
+        "Boto\u015fe\u015ftii Paia"
+    ],
+    "name:vie_x_preferred":[
+        "Botosesti-Paia"
+    ],
+    "name:vol_x_preferred":[
+        "Boto\u0219e\u0219ti-Paia"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Dolj",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Boto\u015fe\u015fti-Paia",
+    "qs:la_lc":"*RO28070968",
+    "qs:level":"locality",
+    "qs:loc":"Boto\u015fe\u015fti-Paia",
+    "qs:loc_alt":"Botosesti-Paia",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":684031,
+        "gp:id":867892,
+        "qs:id":552319,
+        "qs_pg:id":552319,
+        "wd:id":"Q2538604"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"8fd2b26e5b484cb6ef2863e21a699c54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101794757,
+            "region_id":85687581
+        }
+    ],
+    "wof:id":101794757,
+    "wof:lastmodified":1514499787,
+    "wof:name":"Boto\u015fe\u015fti-Paia",
+    "wof:parent_id":85687581,
+    "wof:placetype":"locality",
+    "wof:population":994,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.24639923822457,
+    44.39858430701742,
+    23.28582061478181,
+    44.40795217162395
+],
+  "geometry": {"coordinates":[[[23.24847551575169,44.40690735925466],[23.2534271606462,44.40627070303236],[23.25363686248642,44.40715637370232],[23.26106425479207,44.40620093081094],[23.26085444187765,44.40531527744821],[23.27323274736796,44.40372172486872],[23.27344274537518,44.40460734936619],[23.27715617144332,44.40412898814481],[23.27736623361596,44.40501460276022],[23.27860404838628,44.40485511671807],[23.27881413771217,44.40574072722688],[23.28252760025583,44.40526217219326],[23.28210731921297,44.40349096729335],[23.28582061478181,44.4030122972415],[23.2847697859678,44.39858430701742],[23.27734369398877,44.39954142809063],[23.27713366517736,44.39865580905689],[23.27589597993875,44.39881527488052],[23.27610599024803,44.3997008968023],[23.27115511317652,44.40033862459569],[23.27094517688079,44.39945299112446],[23.2672320093921,44.39993112390067],[23.26765177959186,44.40170240694533],[23.25898724578246,44.40281757577623],[23.25877748591557,44.40193191466449],[23.25753968905752,44.4020911627855],[23.25691051677364,44.39943416350087],[23.25567276923573,44.39959338826316],[23.25546308090946,44.39870771651937],[23.25298760424175,44.39902611615776],[23.25319725555369,44.39991179366831],[23.25195948941098,44.40007097431101],[23.25237878090314,44.40184233145163],[23.25114097154147,44.40200150315343],[23.25135061172028,44.4028871827835],[23.24639923822457,44.40352373404619],[23.24744719829084,44.40795217162395],[23.24868514353437,44.40779304145764],[23.24847551575169,44.40690735925466]]],"type":"Polygon"}
+}

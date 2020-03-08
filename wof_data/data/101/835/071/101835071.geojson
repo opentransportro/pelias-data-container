@@ -1,0 +1,98 @@
+{
+  "id": 101835071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000047,
+    "geom:area_square_m":398405.095269,
+    "geom:bbox":"26.0516866275,46.5993267611,26.0613136216,46.6135721544",
+    "geom:latitude":46.607369,
+    "geom:longitude":26.056826,
+    "gn:population":1064,
+    "iso:country":"RO",
+    "lbl:latitude":46.611175,
+    "lbl:longitude":26.054893,
+    "mps:latitude":46.611175,
+    "mps:longitude":26.054893,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Bolov\u0103ni\u0219"
+    ],
+    "name:eng_x_preferred":[
+        "Bolov\u0103ni\u0219"
+    ],
+    "name:fre_x_preferred":[
+        "Bolov\u0103ni\u0219"
+    ],
+    "name:hun_x_preferred":[
+        "B\u00e1lv\u00e1nyospataka"
+    ],
+    "name:rum_x_preferred":[
+        "Bolov\u0103ni\u0219"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u043b\u043e\u0432\u0435\u043d\u0456\u0448"
+    ],
+    "name:unk_x_variant":[
+        "B\u0103l\u0103v\u0103ni\u015f"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Bacau",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Lunca de Jos",
+    "qs:la_lc":"*RO32084656",
+    "qs:level":"locality",
+    "qs:loc":"Bolov\u0103ni\u015f",
+    "qs:loc_alt":"Bolovanis",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":684255,
+        "gp:id":867729,
+        "qs:id":409483,
+        "wd:id":"Q852878"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"dd929c209d320a56764b6f3d6d85bb89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101835071,
+            "region_id":85687715
+        }
+    ],
+    "wof:id":101835071,
+    "wof:lastmodified":1514499781,
+    "wof:name":"Bolov\u0103ni\u015f",
+    "wof:parent_id":85687715,
+    "wof:placetype":"locality",
+    "wof:population":1064,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.05168662747496,
+    46.59932676108758,
+    26.06131362157765,
+    46.61357215437869
+],
+  "geometry": {"coordinates":[[[26.05971013194659,46.59932676108758],[26.05842305191527,46.59949687773155],[26.05868127493051,46.60033379628004],[26.05740142790251,46.60052754942478],[26.05794231734399,46.60228035762754],[26.05666242232184,46.60247410299343],[26.05720331820407,46.60422691286078],[26.05592337518351,46.60442065044697],[26.05646427750469,46.60617346197932],[26.05518428648077,46.60636719178552],[26.05545473510301,46.60724359910256],[26.05417471588208,46.60743731742394],[26.05444515620729,46.6083137270096],[26.05316510878833,46.60850743384577],[26.05370598435752,46.61026025611886],[26.0524258889252,46.61045395517334],[26.05296677092502,46.61220677911393],[26.05168662747496,46.61240047038598],[26.05195706593111,46.61327688390764],[26.05579753056469,46.61269575340589],[26.05606803998649,46.61357215437869],[26.05990848855794,46.61299087604368],[26.05963791969072,46.61211448618701],[26.05835779837258,46.61230825711732],[26.05808726083905,46.61143186211899],[26.05680715094434,46.61162561415347],[26.05599566689159,46.60899640942966],[26.05727571734747,46.60880266851018],[26.05700522588444,46.6079262677689],[26.05828524814081,46.60773251536489],[26.05747378341573,46.60510331564046],[26.06131362157765,46.60452200064009],[26.05971013194659,46.59932676108758]]],"type":"Polygon"}
+}

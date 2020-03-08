@@ -1,0 +1,98 @@
+{
+  "id": 101789821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000082,
+    "geom:area_square_m":708322.524288,
+    "geom:bbox":"25.6449396833,45.8037616178,25.6577997263,45.8227687999",
+    "geom:latitude":45.811681,
+    "geom:longitude":25.652956,
+    "gn:population":1373,
+    "iso:country":"RO",
+    "lbl:latitude":45.810551,
+    "lbl:longitude":25.652323,
+    "mps:latitude":45.810551,
+    "mps:longitude":25.652323,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Araci"
+    ],
+    "name:eng_x_preferred":[
+        "Araci"
+    ],
+    "name:epo_x_preferred":[
+        "Araci"
+    ],
+    "name:fre_x_preferred":[
+        "Araci"
+    ],
+    "name:hun_x_preferred":[
+        "\u00c1rapatak"
+    ],
+    "name:rum_x_preferred":[
+        "Araci"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0440\u0430\u0447"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Covasna",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"V\u00e2lcele",
+    "qs:la_lc":"*RO26064942",
+    "qs:level":"locality",
+    "qs:loc":"Araci",
+    "qs:loc_alt":"Araci",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":686256,
+        "gp:id":866306,
+        "qs:id":409162,
+        "wd:id":"Q302194"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"a53faa25f2e1dac795cc903c0e0acb85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101789821,
+            "region_id":85687699
+        }
+    ],
+    "wof:id":101789821,
+    "wof:lastmodified":1514499741,
+    "wof:name":"Araci",
+    "wof:parent_id":85687699,
+    "wof:placetype":"locality",
+    "wof:population":1373,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.6449396832985,
+    45.80376161778071,
+    25.6577997262641,
+    45.82276879993424
+],
+  "geometry": {"coordinates":[[[25.65733586550544,45.81429969113458],[25.65656271111618,45.81166519186161],[25.65529990869516,45.81185372688708],[25.65426926432889,45.80834102730148],[25.65553199001448,45.80815250639273],[25.65527433677352,45.80727433149474],[25.6577997262641,45.80689725182418],[25.65728437549831,45.8051409119073],[25.65602172303255,45.80532945216964],[25.65576408304815,45.80445127656344],[25.65450144192351,45.80463979832768],[25.65424383192942,45.80376161778071],[25.65298120214715,45.80395012104708],[25.6532387929625,45.80482830512221],[25.65197613616471,45.8050167969472],[25.65223371860935,45.80589498313816],[25.6509710347944,45.80608346352113],[25.65148619375009,45.80783983872334],[25.64896072588238,45.80821676868919],[25.64973343028788,45.81085134207245],[25.64594499704577,45.81141665648499],[25.6462025292397,45.81229485537301],[25.6449396832985,45.81248326709351],[25.6454547417365,45.81423966769091],[25.65303193008651,45.81310893044702],[25.65586679125897,45.82276879993424],[25.65712983964897,45.82258025249422],[25.65609875281507,45.81906760656824],[25.65736171658705,45.81887905827608],[25.65607300552495,45.8144882367489],[25.65733586550544,45.81429969113458]]],"type":"Polygon"}
+}

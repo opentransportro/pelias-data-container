@@ -1,0 +1,101 @@
+{
+  "id": 1125857051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.61667,46.01667,27.61667,46.01667",
+    "geom:latitude":46.01667,
+    "geom:longitude":27.61667,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":2506,
+    "gn:population":2506,
+    "iso:country":"RO",
+    "lbl:latitude":46.01667,
+    "lbl:longitude":27.61667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Cer\u021be\u0219ti"
+    ],
+    "name:eng_x_preferred":[
+        "Cer\u021be\u0219ti"
+    ],
+    "name:fre_x_preferred":[
+        "Cer\u021be\u0219ti"
+    ],
+    "name:ita_x_preferred":[
+        "Cer\u021be\u0219ti"
+    ],
+    "name:por_x_preferred":[
+        "Cer\u021be\u0219ti"
+    ],
+    "name:rum_x_preferred":[
+        "Cer\u021be\u0219ti"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0435\u0440\u0446\u0435\u0448\u0442\u044c"
+    ],
+    "name:vol_x_preferred":[
+        "Cer\u021be\u0219ti"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":682284,
+    "qs_pg:gn_pop":2506,
+    "qs_pg:name":"Cer\u0163e\u015fti",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":275336,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":682284,
+        "qs_pg:id":275336,
+        "wd:id":"Q2289266"
+    },
+    "wof:country":"RO",
+    "wof:created":1497293663,
+    "wof:geomhash":"df3a74f9c7c1c32c40e8467f374f3d7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125857051,
+            "region_id":85687709
+        }
+    ],
+    "wof:id":1125857051,
+    "wof:lastmodified":1514499839,
+    "wof:name":"Cer\u0163e\u015fti",
+    "wof:parent_id":85687709,
+    "wof:placetype":"locality",
+    "wof:population":2506,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.61667,
+    46.01667,
+    27.61667,
+    46.01667
+],
+  "geometry": {"coordinates":[27.61667,46.01667],"type":"Point"}
+}

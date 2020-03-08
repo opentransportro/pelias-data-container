@@ -1,0 +1,157 @@
+{
+  "id": 101793945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000223,
+    "geom:area_square_m":1976145.182478,
+    "geom:bbox":"28.2748342161,44.0962801576,28.2988377558,44.11044903",
+    "geom:latitude":44.103972,
+    "geom:longitude":28.285748,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":2998,
+    "gn:population":2998,
+    "iso:country":"RO",
+    "lbl:latitude":44.1035,
+    "lbl:longitude":28.283577,
+    "mps:latitude":44.1035,
+    "mps:longitude":28.283577,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062a\u0634\u064a\u0648\u0643\u064a\u0631\u0644\u064a\u0627"
+    ],
+    "name:dut_x_preferred":[
+        "Cioc\u00e2rlia"
+    ],
+    "name:eng_x_preferred":[
+        "Biulbiu Mic"
+    ],
+    "name:epo_x_preferred":[
+        "Cioc\u00e2rlia"
+    ],
+    "name:fre_x_preferred":[
+        "Cioc\u00e2rlia"
+    ],
+    "name:hun_x_preferred":[
+        "Cioc\u00e2rlia"
+    ],
+    "name:ita_x_preferred":[
+        "Cioc\u00e2rlia"
+    ],
+    "name:may_x_preferred":[
+        "Cioc\u00e2rlia"
+    ],
+    "name:por_x_preferred":[
+        "Cioc\u00e2rlia"
+    ],
+    "name:rum_x_colloquial":[
+        "Ciocirlia de Jos",
+        "Ciocarlia-de-Jos",
+        "Ciocirlia"
+    ],
+    "name:rum_x_preferred":[
+        "Cioc\u00eerlia"
+    ],
+    "name:rum_x_variant":[
+        "Cioc\u00eerlia de Jos",
+        "Cioc\u00e2rlia-de-Jos",
+        "Cioc\u00e2rlia"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u043e\u043a\u0438\u0440\u043b\u0456\u044f"
+    ],
+    "name:unk_x_variant":[
+        "Biulbiu Mic"
+    ],
+    "name:vie_x_preferred":[
+        "Cioc\u00e2rlia"
+    ],
+    "name:vol_x_preferred":[
+        "Cioc\u00e2rlia"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Constanta",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:id":0,
+    "qs:la":"Cioc\u00e2rlia",
+    "qs:la_lc":"*RO25061283",
+    "qs:level":"locality",
+    "qs:loc":"Cioc\u00e2rlia",
+    "qs:loc_alt":"Ciocarlia",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":681721,
+    "qs_pg:gn_pop":2998,
+    "qs_pg:name":"Cioc\u00e2rlia",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":127832,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"039ece4c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":681720,
+        "gp:id":869580,
+        "qs:id":127832,
+        "qs_pg:id":552128,
+        "wd:id":"Q867452"
+    },
+    "wof:concordances_alt":{
+        "gn:id":681721,
+        "qs_pg:id":127832
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"f100b3df85ce3612ad041bb62a8a4607",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101793945,
+            "region_id":85687633
+        }
+    ],
+    "wof:id":101793945,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1534379452,
+    "wof:name":"Cioc\u00e2rlia",
+    "wof:parent_id":85687633,
+    "wof:placetype":"locality",
+    "wof:population":2998,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125863511
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.27483421607906,
+    44.09628015762041,
+    28.29883775582994,
+    44.11044902996957
+],
+  "geometry": {"coordinates":[[[28.28085114041528,44.11044902996957],[28.28937873225931,44.10891711688396],[28.28966490703988,44.10978847857234],[28.29697405150591,44.10847482989436],[28.29668777434841,44.10760349148615],[28.29790591909455,44.10738450393166],[28.29761963641198,44.10651316762971],[28.29883775582994,44.10629416967447],[28.29826519095229,44.10455149950758],[28.2970471056525,44.10477048970188],[28.29590218253918,44.10128511255022],[28.29468415720368,44.10150407294333],[28.29439797231242,44.10063272033938],[28.28952585656066,44.10150840358864],[28.2878093986613,44.09628015762041],[28.28050159126173,44.09759311447601],[28.28021565761912,44.09672171067905],[28.2765616936216,44.09737798469303],[28.27713347007585,44.09912081377018],[28.275915431447,44.09933955096443],[28.27791689250273,44.10543942404058],[28.27548055159735,44.10587690984744],[28.27605243305226,44.10761973028315],[28.27483421607906,44.10783845951431],[28.27540610949313,44.10958128061543],[28.27906083803549,44.10892502680986],[28.27934685323208,44.10979642307149],[28.28056509662485,44.10957763935767],[28.28085114041528,44.11044902996957]]],"type":"Polygon"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1259938325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.91667,47.23333,26.91667,47.23333",
+    "geom:latitude":47.23333,
+    "geom:longitude":26.91667,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"100282.0",
+    "gn:asciiname":"Pietrisu",
+    "gn:country_code":"RO",
+    "gn:dem":226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":670844,
+    "gn:latitude":47.23333,
+    "gn:longitude":26.91667,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Pietri\u015fu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bucharest",
+    "iso:country":"RO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":670844
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"6d6bd40f44979ab600d88e1e4bd953dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1259938325,
+            "region_id":85687769
+        }
+    ],
+    "wof:id":1259938325,
+    "wof:lastmodified":1536700632,
+    "wof:name":"Pietrisu",
+    "wof:parent_id":85687769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.91667,
+    47.23333,
+    26.91667,
+    47.23333
+],
+  "geometry": {"coordinates":[26.91667,47.23333],"type":"Point"}
+}

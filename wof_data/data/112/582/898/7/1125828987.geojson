@@ -1,0 +1,126 @@
+{
+  "id": 1125828987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.97667,45.57139,21.97667,45.57139",
+    "geom:latitude":45.57139,
+    "geom:longitude":21.97667,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":1821,
+    "gn:population":1821,
+    "iso:country":"RO",
+    "lbl:latitude":45.57139,
+    "lbl:longitude":21.97667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "\u0218tiuca"
+    ],
+    "name:eng_x_preferred":[
+        "\u0218tiuca"
+    ],
+    "name:epo_x_preferred":[
+        "\u0218tiuca"
+    ],
+    "name:fre_x_preferred":[
+        "\u0218tiuca"
+    ],
+    "name:ger_x_preferred":[
+        "\u0218tiuca"
+    ],
+    "name:hun_x_preferred":[
+        "Csuk\u00e1s"
+    ],
+    "name:ita_x_preferred":[
+        "\u0218tiuca"
+    ],
+    "name:por_x_preferred":[
+        "\u0218tiuca"
+    ],
+    "name:rum_x_preferred":[
+        "\u0218tiuca"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0429\u0443\u043a\u0430 "
+    ],
+    "name:unk_x_variant":[
+        "Csuk\u00e1s"
+    ],
+    "name:vie_x_preferred":[
+        "Stiuca"
+    ],
+    "name:vol_x_preferred":[
+        "\u0218tiuca"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":666083,
+    "qs_pg:gn_pop":1821,
+    "qs_pg:name":"\u015etiuca",
+    "qs_pg:name_adm0":"Rom\u00e2nia",
+    "qs_pg:name_adm1":"Timis",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1279566,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424933,
+    "qs_pg:woe_id":881091,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424933,
+    "woe:name_adm0":"Rom\u00e2nia",
+    "woe:name_adm1":"Timis",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":666083,
+        "gp:id":881091,
+        "qs_pg:id":1279566,
+        "wd:id":"Q423374"
+    },
+    "wof:country":"RO",
+    "wof:created":1497292406,
+    "wof:geomhash":"14eb78cecad90acb094f9efccf21ad0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125828987,
+            "region_id":85687655
+        }
+    ],
+    "wof:id":1125828987,
+    "wof:lastmodified":1514500275,
+    "wof:name":"\u015etiuca",
+    "wof:parent_id":85687655,
+    "wof:placetype":"locality",
+    "wof:population":1821,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.97667,
+    45.57139,
+    21.97667,
+    45.57139
+],
+  "geometry": {"coordinates":[21.97667,45.57139],"type":"Point"}
+}

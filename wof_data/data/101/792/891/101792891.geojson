@@ -1,0 +1,127 @@
+{
+  "id": 101792891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000074,
+    "geom:area_square_m":648587.558982,
+    "geom:bbox":"24.7950435334,45.0902828337,24.8065248348,45.1087952889",
+    "geom:latitude":45.098757,
+    "geom:longitude":24.799801,
+    "gn:population":4762,
+    "iso:country":"RO",
+    "lbl:latitude":45.099876,
+    "lbl:longitude":24.79941,
+    "mps:latitude":45.099876,
+    "mps:longitude":24.79941,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "M\u0103lureni"
+    ],
+    "name:ara_x_preferred":[
+        "\u0645\u0627\u0644\u0648\u0631\u064a\u0646\u064a"
+    ],
+    "name:dut_x_preferred":[
+        "M\u0103lureni"
+    ],
+    "name:eng_x_preferred":[
+        "M\u0103lureni"
+    ],
+    "name:fre_x_preferred":[
+        "M\u0103lureni"
+    ],
+    "name:ita_x_preferred":[
+        "M\u0103lureni"
+    ],
+    "name:mac_x_preferred":[
+        "\u041c\u0430\u043b\u0443\u0440\u0435\u043d\u0438"
+    ],
+    "name:may_x_preferred":[
+        "M\u0103lureni"
+    ],
+    "name:por_x_preferred":[
+        "M\u0103lureni"
+    ],
+    "name:rum_x_colloquial":[
+        "Maelureni",
+        "Malureni"
+    ],
+    "name:rum_x_preferred":[
+        "M\u0103lureni"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0435\u043b\u0443\u0440\u0435\u043d\u044c"
+    ],
+    "name:vie_x_preferred":[
+        "Malureni"
+    ],
+    "name:vol_x_preferred":[
+        "M\u0103lureni"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Arges",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"M\u0103lureni",
+    "qs:la_lc":"*RO13017049",
+    "qs:level":"locality",
+    "qs:loc":"M\u0103lureni",
+    "qs:loc_alt":"Malureni",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a1b8aa-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":673977,
+        "gp:id":875290,
+        "qs:id":127457,
+        "qs_pg:id":127457,
+        "wd:id":"Q2348328"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"05b09813965cd1081b712bd6714da01c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101792891,
+            "region_id":85687645
+        }
+    ],
+    "wof:id":101792891,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514500038,
+    "wof:name":"M\u0103lureni",
+    "wof:parent_id":85687645,
+    "wof:placetype":"locality",
+    "wof:population":4762,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.79504353337086,
+    45.09028283369992,
+    24.80652483481447,
+    45.10879528890479
+],
+  "geometry": {"coordinates":[[[24.80117847725319,45.10667709587631],[24.80046215886159,45.10403372252892],[24.80171146354758,45.1038557412549],[24.80099517805678,45.10121236565527],[24.80224441927726,45.10103437938704],[24.80152816668618,45.09839100153266],[24.80652483481447,45.09767894759062],[24.80604723252151,45.09591671517251],[24.80229985474449,45.09645075820595],[24.80062895291303,45.09028283369992],[24.79563287443534,45.09099459201917],[24.79611007532964,45.09275688905569],[24.79735914319599,45.09257896515231],[24.79759777726264,45.09346010838556],[24.79884685674233,45.09328216639483],[24.80004026949371,45.09768784606956],[24.79504353337086,45.09839959059849],[24.79552081768855,45.10016187926107],[24.79677004998359,45.09998395880723],[24.79772481259653,45.1035085069434],[24.79647550521901,45.10368644049043],[24.79695290844046,45.10544871305723],[24.79820225336363,45.10527077296291],[24.79915725384143,45.10879528890479],[24.80040666670811,45.10861732089467],[24.799929109093,45.10685507215555],[24.80117847725319,45.10667709587631]]],"type":"Polygon"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1259982695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.3211,46.03125,21.3211,46.03125",
+    "geom:latitude":46.03125,
+    "geom:longitude":21.3211,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"12144.0",
+    "gn:asciiname":"Hunedoara Timisana",
+    "gn:cc2":"RO",
+    "gn:country_code":"RO",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":675916,
+    "gn:latitude":46.03125,
+    "gn:longitude":21.3211,
+    "gn:modification_date":"2013-04-21",
+    "gn:name":"Hunedoara Timi\u0219an\u0103",
+    "gn:population":230,
+    "gn:timezone":"Europe/Bucharest",
+    "iso:country":"RO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Segentau",
+        "N\u00e9mets\u00e1g",
+        "Hunedoara-Timi\u015fan\u0103"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":675916
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"32bd2eb86536d2ffa36a3e55aef03397",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1259982695,
+            "region_id":85687691
+        }
+    ],
+    "wof:id":1259982695,
+    "wof:lastmodified":1537683505,
+    "wof:name":"Hunedoara Timisana",
+    "wof:parent_id":85687691,
+    "wof:placetype":"locality",
+    "wof:population":230,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.3211,
+    46.03125,
+    21.3211,
+    46.03125
+],
+  "geometry": {"coordinates":[21.3211,46.03125],"type":"Point"}
+}

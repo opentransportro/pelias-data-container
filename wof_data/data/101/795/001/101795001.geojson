@@ -1,0 +1,117 @@
+{
+  "id": 101795001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000077,
+    "geom:area_square_m":678661.673006,
+    "geom:bbox":"24.3476581346,44.1709484823,24.3727165486,44.1807911619",
+    "geom:latitude":44.174508,
+    "geom:longitude":24.357183,
+    "gn:population":3821,
+    "iso:country":"RO",
+    "lbl:latitude":44.173494,
+    "lbl:longitude":24.35424,
+    "mps:latitude":44.173494,
+    "mps:longitude":24.35424,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0414\u043e\u0431\u0440\u043e\u0441\u043b\u043e\u0432\u0435\u043d\u0438"
+    ],
+    "name:dut_x_preferred":[
+        "Dobrosloveni"
+    ],
+    "name:eng_x_preferred":[
+        "Ion Gheorghe Duca"
+    ],
+    "name:fre_x_preferred":[
+        "Dobrosloveni"
+    ],
+    "name:ita_x_preferred":[
+        "Dobrosloveni"
+    ],
+    "name:por_x_preferred":[
+        "Dobrosloveni"
+    ],
+    "name:rum_x_preferred":[
+        "Dobrosloveni"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u0431\u0440\u043e\u0441\u043b\u043e\u0432\u0435\u043d\u044c"
+    ],
+    "name:unk_x_variant":[
+        "Ion Gheorghe Duca"
+    ],
+    "name:vie_x_preferred":[
+        "Dobrosloveni"
+    ],
+    "name:vol_x_preferred":[
+        "Dobrosloveni"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Olt",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Dobrosloveni",
+    "qs:la_lc":"*RO41126718",
+    "qs:level":"locality",
+    "qs:loc":"Dobrosloveni",
+    "qs:loc_alt":"Dobrosloveni",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"039fbc62-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":679213,
+        "gp:id":871428,
+        "qs:id":127696,
+        "qs_pg:id":127696,
+        "wd:id":"Q2719578"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"5d97fd7e7561bbe959b1957abff12ffe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101795001,
+            "region_id":85687607
+        }
+    ],
+    "wof:id":101795001,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514499908,
+    "wof:name":"Dobrosloveni",
+    "wof:parent_id":85687607,
+    "wof:placetype":"locality",
+    "wof:population":3821,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.3476581345775,
+    44.17094848233529,
+    24.37271654856079,
+    44.18079116194053
+],
+  "geometry": {"coordinates":[[[24.35762413583768,44.17850831161081],[24.35649637022573,44.17409298484398],[24.36756954139634,44.17254220578258],[24.36779523884121,44.17342524595688],[24.37271654856079,44.17273561949764],[24.37226501824364,44.17096956257598],[24.36611354536308,44.17183152826681],[24.36588788444288,44.17094848233529],[24.35727567113543,44.172154600525],[24.35705014600956,44.17127153161169],[24.35212880812213,44.17196040899228],[24.35235426091066,44.17284349027204],[24.34989351613507,44.17318784769316],[24.35011894196418,44.17407093382519],[24.3476581345775,44.17441523912453],[24.34901066594938,44.17971376508331],[24.35147169040897,44.17936942269188],[24.35056982125877,44.17583710209976],[24.35426109128707,44.17532051628319],[24.35516317750648,44.17885279977463],[24.3539326884204,44.1790250219907],[24.35438375064956,44.18079116194053],[24.35684479457058,44.18044669056076],[24.35639365997923,44.17868056298096],[24.35762413583768,44.17850831161081]]],"type":"Polygon"}
+}

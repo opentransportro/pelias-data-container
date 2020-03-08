@@ -1,0 +1,108 @@
+{
+  "id": 1125829229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.31667,44.65,24.31667,44.65",
+    "geom:latitude":44.65,
+    "geom:longitude":24.31667,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":3439,
+    "gn:population":3439,
+    "iso:country":"RO",
+    "lbl:latitude":44.65,
+    "lbl:longitude":24.31667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0412\u0435\u0440\u0433\u0443\u043b\u0435\u0430\u0441\u0430"
+    ],
+    "name:dut_x_preferred":[
+        "Verguleasa"
+    ],
+    "name:eng_x_preferred":[
+        "Verguleasa"
+    ],
+    "name:fre_x_preferred":[
+        "Verguleasa"
+    ],
+    "name:ita_x_preferred":[
+        "Verguleasa"
+    ],
+    "name:rum_x_preferred":[
+        "Verguleasa"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u0440\u0433\u0443\u043b\u044f\u0441\u0430"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":663042,
+    "qs_pg:gn_pop":3439,
+    "qs_pg:name":"Verguleasa",
+    "qs_pg:name_adm0":"Rom\u00e2nia",
+    "qs_pg:name_adm1":"Olt",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1279827,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424933,
+    "qs_pg:woe_id":883427,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424933,
+    "woe:name_adm0":"Rom\u00e2nia",
+    "woe:name_adm1":"Olt",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":663042,
+        "gp:id":883427,
+        "qs_pg:id":1279827,
+        "wd:id":"Q12088682"
+    },
+    "wof:country":"RO",
+    "wof:created":1497292416,
+    "wof:geomhash":"b6d67b92c532364f37474d5bbd877c40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125829229,
+            "region_id":85687607
+        }
+    ],
+    "wof:id":1125829229,
+    "wof:lastmodified":1514500238,
+    "wof:name":"Verguleasa",
+    "wof:parent_id":85687607,
+    "wof:placetype":"locality",
+    "wof:population":3439,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.31667,
+    44.65,
+    24.31667,
+    44.65
+],
+  "geometry": {"coordinates":[24.31667,44.65],"type":"Point"}
+}

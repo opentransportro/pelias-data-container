@@ -1,0 +1,136 @@
+{
+  "id": 1125848051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.65,46.58333,23.65,46.58333",
+    "geom:latitude":46.58333,
+    "geom:longitude":23.65,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1861,
+    "gn:population":1861,
+    "iso:country":"RO",
+    "lbl:latitude":46.58333,
+    "lbl:longitude":23.65,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Petre\u0219tii de Jos"
+    ],
+    "name:eng_x_preferred":[
+        "Petre\u0219tii de Jos"
+    ],
+    "name:epo_x_preferred":[
+        "Petre\u0219tii de Jos"
+    ],
+    "name:fre_x_preferred":[
+        "Petre\u0219tii de Jos"
+    ],
+    "name:ger_x_preferred":[
+        "Petre\u0219tii de Jos"
+    ],
+    "name:hun_x_preferred":[
+        "Magyarpeterd"
+    ],
+    "name:ita_x_preferred":[
+        "Petre\u0219tii de Jos"
+    ],
+    "name:may_x_preferred":[
+        "Petre\u0219tii de Jos"
+    ],
+    "name:por_x_preferred":[
+        "Petre\u0219tii de Jos"
+    ],
+    "name:rum_x_preferred":[
+        "Petre\u0219tii de Jos"
+    ],
+    "name:spa_x_preferred":[
+        "Petre\u0219tii de Jos"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0435\u0442\u0440\u0435\u0448\u0442\u0456\u0439-\u0434\u0435-\u0416\u043e\u0441"
+    ],
+    "name:unk_x_variant":[
+        "Petridu de Jos"
+    ],
+    "name:vie_x_preferred":[
+        "Petrestii de Jos"
+    ],
+    "name:vol_x_preferred":[
+        "Petre\u0219tii de Jos"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":670985,
+    "qs_pg:gn_pop":1861,
+    "qs_pg:name":"Petre\u0219tii de Jos",
+    "qs_pg:name_adm0":"Rom\u00e2nia",
+    "qs_pg:name_adm1":"Cluj",
+    "qs_pg:photos":30,
+    "qs_pg:photos_1k":6,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":30,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":908874,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424933,
+    "qs_pg:woe_id":877466,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424933,
+    "woe:name_adm0":"Rom\u00e2nia",
+    "woe:name_adm1":"Cluj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":670985,
+        "gp:id":877466,
+        "qs_pg:id":908874,
+        "wd:id":"Q568095"
+    },
+    "wof:country":"RO",
+    "wof:created":1497293256,
+    "wof:geomhash":"82f4eb34c5a883c5e89e5b4aab99f464",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125848051,
+            "region_id":85687727
+        }
+    ],
+    "wof:id":1125848051,
+    "wof:lastmodified":1514500069,
+    "wof:name":"Petre\u0219tii de Jos",
+    "wof:parent_id":85687727,
+    "wof:placetype":"locality",
+    "wof:population":1861,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.65,
+    46.58333,
+    23.65,
+    46.58333
+],
+  "geometry": {"coordinates":[23.65,46.58333],"type":"Point"}
+}

@@ -1,0 +1,114 @@
+{
+  "id": 101791649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000168,
+    "geom:area_square_m":1446619.509411,
+    "geom:bbox":"21.61138218,45.7682169112,21.634398132,45.7813559267",
+    "geom:latitude":45.774892,
+    "geom:longitude":21.621895,
+    "gn:population":2942,
+    "iso:country":"RO",
+    "lbl:latitude":45.77501,
+    "lbl:longitude":21.620936,
+    "mps:latitude":45.77501,
+    "mps:longitude":21.620936,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Topolov\u0103\u021bu Mare"
+    ],
+    "name:eng_x_preferred":[
+        "Topolov\u0103\u021bu Mare"
+    ],
+    "name:epo_x_preferred":[
+        "Topolov\u0103\u021bu Mare"
+    ],
+    "name:fre_x_preferred":[
+        "Topolov\u0103\u021bu Mare"
+    ],
+    "name:hun_x_preferred":[
+        "Nagytopoly"
+    ],
+    "name:ita_x_preferred":[
+        "Topolov\u0103\u021bu Mare"
+    ],
+    "name:por_x_preferred":[
+        "Topolov\u0103\u021bu Mare"
+    ],
+    "name:rum_x_preferred":[
+        "Topolov\u0103\u021bu Mare"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u043e\u043f\u043e\u043b\u043e\u0432\u0435\u0446\u0443-\u041c\u0430\u0440\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Nagy-Topolovecz"
+    ],
+    "name:vie_x_preferred":[
+        "Topolovatu Mare"
+    ],
+    "name:vol_x_preferred":[
+        "Topolov\u0103\u021bu Mare"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Timis",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:id":0,
+    "qs:la":"Topolov\u0103\u0163u Mare",
+    "qs:la_lc":"*RO48158966",
+    "qs:level":"locality",
+    "qs:loc":"Topolov\u0103tu Mare",
+    "qs:loc_alt":"Topolovatu Mare",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":664731,
+        "gp:id":882073,
+        "qs:id":126825,
+        "wd:id":"Q1084841"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"259e35d8a37f2cc93f8d4fcccd11ed5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101791649,
+            "region_id":85687655
+        }
+    ],
+    "wof:id":101791649,
+    "wof:lastmodified":1514500204,
+    "wof:name":"Topolov\u0103tu Mare",
+    "wof:parent_id":85687655,
+    "wof:placetype":"locality",
+    "wof:population":2942,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.6113821800019,
+    45.76821691120779,
+    21.63439813195419,
+    45.78135592671788
+],
+  "geometry": {"coordinates":[[[21.62652249389674,45.7812156509454],[21.62633092807488,45.78032725517187],[21.62760290590126,45.78018696683256],[21.6274113281325,45.77929857269743],[21.62868327999701,45.77915827179174],[21.62830010869237,45.7773814857872],[21.62957201452781,45.77724117496524],[21.62938042099404,45.77635278309566],[21.63065230087051,45.77621245970857],[21.63046069539428,45.77532406947716],[21.62918883558444,45.77546439021461],[21.62880568913693,45.77368760141798],[21.62753386356815,45.77382790164222],[21.62695926500868,45.77116270291401],[21.633318033004,45.77046108939794],[21.63312641608593,45.76957270104538],[21.63439813195419,45.769432335354],[21.63420650310042,45.76854394863943],[21.62911968452659,45.76910530953234],[21.62892814403472,45.76821691120779],[21.62511302845496,45.76863776420134],[21.62530450876534,45.76952617047164],[21.61513044776063,45.77064779693978],[21.61551311171701,45.77242464880192],[21.61424128748473,45.77256478894208],[21.61443261156614,45.77345321600359],[21.61316076138417,45.77359334357539],[21.61354339374992,45.7753701999597],[21.61227149754876,45.77551031760856],[21.61265412222684,45.77728717524457],[21.6113821800019,45.77742728296943],[21.61176479698906,45.77920414185752],[21.61303677935859,45.77906402884071],[21.61322812009581,45.77995245412393],[21.61831607102113,45.77939183930533],[21.61850750016652,45.78028025299074],[21.62105148045714,45.77999984898793],[21.62124295786725,45.78088825636723],[21.62505894435776,45.78046752829516],[21.62525049010736,45.78135592671788],[21.62652249389674,45.7812156509454]]],"type":"Polygon"}
+}

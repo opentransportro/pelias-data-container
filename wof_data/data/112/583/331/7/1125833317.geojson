@@ -1,0 +1,115 @@
+{
+  "id": 1125833317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.53333,47.36667,23.53333,47.36667",
+    "geom:latitude":47.36667,
+    "geom:longitude":23.53333,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":193,
+    "iso:country":"RO",
+    "lbl:latitude":47.36667,
+    "lbl:longitude":23.53333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "R\u0103stoci"
+    ],
+    "name:eng_x_preferred":[
+        "R\u0103stoci"
+    ],
+    "name:epo_x_preferred":[
+        "R\u0103stoci"
+    ],
+    "name:fre_x_preferred":[
+        "R\u0103stoci"
+    ],
+    "name:ger_x_preferred":[
+        "R\u0103stoci"
+    ],
+    "name:hun_x_preferred":[
+        "Hossz\u00far\u00e9v"
+    ],
+    "name:rum_x_preferred":[
+        "R\u0103stoci"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0435\u0441\u0442\u043e\u0447"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":669135,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"R\u0103stoci",
+    "qs_pg:name_adm0":"Rom\u00e2nia",
+    "qs_pg:name_adm1":"Salaj",
+    "qs_pg:photos":506,
+    "qs_pg:photos_1k":103,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":506,
+    "qs_pg:photos_sr":7,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":892256,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424933,
+    "qs_pg:woe_id":878897,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424933,
+    "woe:name_adm0":"Rom\u00e2nia",
+    "woe:name_adm1":"Salaj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":669135,
+        "gp:id":878897,
+        "qs_pg:id":892256,
+        "wd:id":"Q251444"
+    },
+    "wof:country":"RO",
+    "wof:created":1497292597,
+    "wof:geomhash":"19b37553ebf245a72b9ebd5c4ac8ef93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125833317,
+            "region_id":85687723
+        }
+    ],
+    "wof:id":1125833317,
+    "wof:lastmodified":1514500127,
+    "wof:name":"R\u0103stoci",
+    "wof:parent_id":85687723,
+    "wof:placetype":"locality",
+    "wof:population":193,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.53333,
+    47.36667,
+    23.53333,
+    47.36667
+],
+  "geometry": {"coordinates":[23.53333,47.36667],"type":"Point"}
+}

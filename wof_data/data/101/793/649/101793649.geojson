@@ -1,0 +1,93 @@
+{
+  "id": 101793649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00004,
+    "geom:area_square_m":349286.814917,
+    "geom:bbox":"25.7396320875,44.483989247,25.7497632414,44.4946025438",
+    "geom:latitude":44.489528,
+    "geom:longitude":25.744806,
+    "gn:population":1032,
+    "iso:country":"RO",
+    "lbl:latitude":44.489923,
+    "lbl:longitude":25.744038,
+    "mps:latitude":44.489923,
+    "mps:longitude":25.744038,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Icoana"
+    ],
+    "name:eng_x_preferred":[
+        "Icoana"
+    ],
+    "name:rum_x_preferred":[
+        "Icoana"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406\u043a\u043e\u0430\u043d\u0430 "
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Giurgiu",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Ulmi",
+    "qs:la_lc":"*RO30105623",
+    "qs:level":"locality",
+    "qs:loc":"Icoana",
+    "qs:loc_alt":"Icoana",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a108c4-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":675758,
+        "gp:id":873953,
+        "qs:id":411137,
+        "wd:id":"Q12074144"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"fec5745cfbbbf6445b3db6089dc1fcbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101793649,
+            "region_id":85687591
+        }
+    ],
+    "wof:id":101793649,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514499978,
+    "wof:name":"Icoana",
+    "wof:parent_id":85687591,
+    "wof:placetype":"locality",
+    "wof:population":1032,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.73963208749825,
+    44.48398924699654,
+    25.74976324137066,
+    44.49460254378317
+],
+  "geometry": {"coordinates":[[[25.74976324137066,44.49189989150608],[25.74926424991969,44.49014198075685],[25.7455636624901,44.49070883200244],[25.74456601840598,44.4871929520192],[25.74579948279046,44.48700402981439],[25.74555007926529,44.48612505956635],[25.74678351828959,44.4859361261959],[25.7465341069493,44.4850571578919],[25.7477675206149,44.48486821335632],[25.74751810146097,44.48398924699654],[25.74505130283444,44.48436711467679],[25.74530068594663,44.48524608785385],[25.74283382193084,44.48562390405567],[25.74308317920452,44.48650288258455],[25.74061624979817,44.48688064730538],[25.7408655812294,44.4877596311859],[25.73963208749825,44.48794849509193],[25.73988141110868,44.48882748091614],[25.74111492286545,44.48863861360257],[25.741364274707,44.48951759455531],[25.7425977971526,44.48932870925853],[25.74409423071455,44.49460254378317],[25.74532785398799,44.49441362345863],[25.74507840484324,44.49353465810697],[25.74877917653305,44.49296781990336],[25.74852968351604,44.49208886331587],[25.74976324137066,44.49189989150608]]],"type":"Polygon"}
+}

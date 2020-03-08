@@ -1,0 +1,125 @@
+{
+  "id": 1125815829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.86667,47.05,25.86667,47.05",
+    "geom:latitude":47.05,
+    "geom:longitude":25.86667,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":2573,
+    "gn:population":2573,
+    "iso:country":"RO",
+    "lbl:latitude":47.05,
+    "lbl:longitude":25.86667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Grin\u021bie\u0219"
+    ],
+    "name:eng_x_preferred":[
+        "Grin\u021bie\u0219"
+    ],
+    "name:fre_x_preferred":[
+        "Grin\u021bie\u0219"
+    ],
+    "name:hun_x_preferred":[
+        "Gerinces "
+    ],
+    "name:ita_x_preferred":[
+        "Grin\u021bie\u0219"
+    ],
+    "name:may_x_preferred":[
+        "Grin\u021bie\u0219"
+    ],
+    "name:por_x_preferred":[
+        "Grin\u021bie\u0219"
+    ],
+    "name:rum_x_preferred":[
+        "Grin\u021bie\u0219"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0440\u0456\u043d\u0446\u0456\u0454\u0448"
+    ],
+    "name:unk_x_variant":[
+        "Grin\u0163ie\u015ful Mare"
+    ],
+    "name:vie_x_preferred":[
+        "Grinties"
+    ],
+    "name:vol_x_preferred":[
+        "Grin\u021bie\u0219"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":676713,
+    "qs_pg:gn_pop":2573,
+    "qs_pg:name":"Grin\u021bie\u0219",
+    "qs_pg:name_adm0":"Rom\u00e2nia",
+    "qs_pg:name_adm1":"Neamt",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":10,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":185345,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424933,
+    "qs_pg:woe_id":873251,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424933,
+    "woe:name_adm0":"Rom\u00e2nia",
+    "woe:name_adm1":"Neamt",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":676713,
+        "gp:id":873251,
+        "qs_pg:id":185345,
+        "wd:id":"Q1009837"
+    },
+    "wof:country":"RO",
+    "wof:created":1497291839,
+    "wof:geomhash":"1335f7a95873ea19ee47d0cf91800eba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125815829,
+            "region_id":85687747
+        }
+    ],
+    "wof:id":1125815829,
+    "wof:lastmodified":1514499955,
+    "wof:name":"Grin\u021bie\u0219",
+    "wof:parent_id":85687747,
+    "wof:placetype":"locality",
+    "wof:population":2573,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.86667,
+    47.05,
+    25.86667,
+    47.05
+],
+  "geometry": {"coordinates":[25.86667,47.05],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1125863355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.76667,45.63333,21.76667,45.63333",
+    "geom:latitude":45.63333,
+    "geom:longitude":21.76667,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3028,
+    "gn:population":3028,
+    "iso:country":"RO",
+    "lbl:latitude":45.63333,
+    "lbl:longitude":21.76667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":679714,
+    "qs_pg:gn_pop":3028,
+    "qs_pg:name":"Darova Nou\u0103",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":127710,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":679714,
+        "qs_pg:id":127710
+    },
+    "wof:country":"RO",
+    "wof:created":1497293927,
+    "wof:geomhash":"e482d773aa84dc9782d21b1112d8d069",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125863355,
+            "region_id":85687655
+        }
+    ],
+    "wof:id":1125863355,
+    "wof:lastmodified":1509396788,
+    "wof:name":"Darova Nou\u0103",
+    "wof:parent_id":85687655,
+    "wof:placetype":"locality",
+    "wof:population":3028,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.76667,
+    45.63333,
+    21.76667,
+    45.63333
+],
+  "geometry": {"coordinates":[21.76667,45.63333],"type":"Point"}
+}

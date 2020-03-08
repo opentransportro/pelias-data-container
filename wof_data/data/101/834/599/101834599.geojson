@@ -1,0 +1,89 @@
+{
+  "id": 101834599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00016,
+    "geom:area_square_m":1394129.739841,
+    "geom:bbox":"25.873911834,45.0383488057,25.9020559996,45.0534461589",
+    "geom:latitude":45.045831,
+    "geom:longitude":25.886727,
+    "gn:population":1429,
+    "iso:country":"RO",
+    "lbl:latitude":45.046326,
+    "lbl:longitude":25.886514,
+    "mps:latitude":45.046326,
+    "mps:longitude":25.886514,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "D\u00e2mbu"
+    ],
+    "name:rum_x_preferred":[
+        "D\u00e2mbu"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0438\u043c\u0431\u0443 "
+    ],
+    "name:unk_x_variant":[
+        "D\u00e2mbul"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Prahova",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"B\u0103icoi",
+    "qs:la_lc":"*RO42130981",
+    "qs:level":"locality",
+    "qs:loc":"D\u00e2mbu",
+    "qs:loc_alt":"Dambu",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":679382,
+        "gp:id":871311,
+        "qs:id":9,
+        "wd:id":"Q12101080"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"c0055532751b19e4eca118962a99f2d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101834599,
+            "region_id":85687661
+        }
+    ],
+    "wof:id":101834599,
+    "wof:lastmodified":1514499920,
+    "wof:name":"D\u00e2mbu",
+    "wof:parent_id":85687661,
+    "wof:placetype":"locality",
+    "wof:population":1429,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.87391183399893,
+    45.03834880572634,
+    25.90205599956164,
+    45.05344615892182
+],
+  "geometry": {"coordinates":[[[25.90205599956164,45.03907768966195],[25.90164071526794,45.03834880572634],[25.89359467372111,45.03922406289882],[25.87391183399893,45.04544732857107],[25.8741062151837,45.04611540414527],[25.87659651419267,45.04573389327902],[25.87736318544341,45.04836826463509],[25.88109874292877,45.04779585643388],[25.88186567540771,45.05043018318565],[25.88062044182146,45.05062101113219],[25.88113174605775,45.0523772286499],[25.87988646792166,45.05256804885948],[25.88014211742961,45.05344615892182],[25.89010427667188,45.05191915688681],[25.88959269284038,45.05016299124259],[25.89083789149976,45.04997205670685],[25.89058209698601,45.04909397518827],[25.89182726955892,45.04890302942312],[25.8913156753361,45.04714686899285],[25.89256080336736,45.04695591549574],[25.89204921452529,45.04519975620877],[25.8945393738851,45.04481781902751],[25.89402775351982,45.04306166787825],[25.89527278485315,45.04287068419478],[25.89501697207805,45.04199260992266],[25.89626197733253,45.04180161501245],[25.89575034660027,45.04004546907322],[25.90205599956164,45.03907768966195]]],"type":"Polygon"}
+}

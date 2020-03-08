@@ -1,0 +1,123 @@
+{
+  "id": 101791465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000125,
+    "geom:area_square_m":1087526.186639,
+    "geom:bbox":"22.3087898439,45.4861996347,22.3276925248,45.5012834537",
+    "geom:latitude":45.494811,
+    "geom:longitude":22.319101,
+    "gn:population":1865,
+    "iso:country":"RO",
+    "lbl:latitude":45.496266,
+    "lbl:longitude":22.319101,
+    "mps:latitude":45.496266,
+    "mps:longitude":22.319101,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Glimboca"
+    ],
+    "name:eng_x_preferred":[
+        "Novaci"
+    ],
+    "name:epo_x_preferred":[
+        "Glimboca"
+    ],
+    "name:fre_x_preferred":[
+        "Glimboca"
+    ],
+    "name:ger_x_preferred":[
+        "Glimboca"
+    ],
+    "name:hun_x_preferred":[
+        "Nov\u00e1kfalva"
+    ],
+    "name:ita_x_preferred":[
+        "Glimboca"
+    ],
+    "name:por_x_preferred":[
+        "Glimboca"
+    ],
+    "name:rum_x_preferred":[
+        "Glimboca"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043b\u0456\u043c\u0431\u043e\u043a\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Novaci"
+    ],
+    "name:vie_x_preferred":[
+        "Glimboca"
+    ],
+    "name:vol_x_preferred":[
+        "Glimboca"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Caras-Severin",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Glimboca",
+    "qs:la_lc":"*RO23052936",
+    "qs:level":"locality",
+    "qs:loc":"Glimboca",
+    "qs:loc_alt":"Glimboca",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a08994-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":677072,
+        "gp:id":873000,
+        "qs:id":180545,
+        "qs_pg:id":180545,
+        "wd:id":"Q960344"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"a87d3dfa638cf5b257d0bf09cde81aef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101791465,
+            "region_id":85687627
+        }
+    ],
+    "wof:id":101791465,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514499949,
+    "wof:name":"Glimboca",
+    "wof:parent_id":85687627,
+    "wof:placetype":"locality",
+    "wof:population":1865,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.30878984390193,
+    45.48619963474505,
+    22.32769252484655,
+    45.50128345369683
+],
+  "geometry": {"coordinates":[[[22.32237907849606,45.50083796790352],[22.32177515509767,45.4981768306269],[22.32556725729421,45.49773123403349],[22.3253659074424,45.49684419444327],[22.32662990956669,45.49669563484633],[22.32642854852594,45.49580859695038],[22.32769252484655,45.49566002504446],[22.32708843359768,45.49299891318594],[22.32582451627241,45.49314747675362],[22.32542187048904,45.49137339119818],[22.32415798635532,45.4915219341205],[22.32395669584002,45.49063488693673],[22.3226928252347,45.49078341199333],[22.32208906351997,45.48812225559851],[22.32335287514155,45.48797373887624],[22.32295037037602,45.48619963474505],[22.3204228196384,45.48649664199229],[22.32062402846685,45.48738370015576],[22.31936022424202,45.48753218392773],[22.32016506562508,45.49108041684514],[22.3189011766213,45.49122889664],[22.3193036088166,45.49300301214714],[22.31424783416952,45.49359680266627],[22.31404669249855,45.49270973434653],[22.31278275317663,45.49285814147896],[22.31258163964065,45.49197106929932],[22.30878984390193,45.49241619183852],[22.30939303290734,45.49507743010935],[22.31065702995181,45.49492906269109],[22.31126035416958,45.49759028288389],[22.31252440409475,45.49744189204796],[22.31272554877648,45.49832896050236],[22.31525366957578,45.49803212800708],[22.31545486207079,45.49891918982416],[22.31671893294344,45.4987707481643],[22.31712138269609,45.50054486299211],[22.31838548677922,45.50039640068672],[22.31858674403946,45.50128345369683],[22.32237907849606,45.50083796790352]]],"type":"Polygon"}
+}

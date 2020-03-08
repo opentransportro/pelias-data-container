@@ -1,0 +1,120 @@
+{
+  "id": 101786159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000163,
+    "geom:area_square_m":1366315.270558,
+    "geom:bbox":"22.5204893033,47.2909248728,22.5413878888,47.3062801902",
+    "geom:latitude":47.298362,
+    "geom:longitude":22.532959,
+    "gn:population":3512,
+    "iso:country":"RO",
+    "lbl:latitude":47.298037,
+    "lbl:longitude":22.5347,
+    "mps:latitude":47.298037,
+    "mps:longitude":22.5347,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Balc"
+    ],
+    "name:dut_x_preferred":[
+        "Balc"
+    ],
+    "name:eng_x_preferred":[
+        "Balc"
+    ],
+    "name:epo_x_preferred":[
+        "Balc"
+    ],
+    "name:fre_x_preferred":[
+        "Balc"
+    ],
+    "name:hun_x_preferred":[
+        "B\u00e1lyok"
+    ],
+    "name:ita_x_preferred":[
+        "Balc"
+    ],
+    "name:may_x_preferred":[
+        "Balc"
+    ],
+    "name:por_x_preferred":[
+        "Balc"
+    ],
+    "name:rum_x_preferred":[
+        "Balc"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u043b\u043a"
+    ],
+    "name:vol_x_preferred":[
+        "Balc"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Bihor",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Balc",
+    "qs:la_lc":"*RO15027329",
+    "qs:level":"locality",
+    "qs:loc":"Balc",
+    "qs:loc_alt":"Balc",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a734e2-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":685665,
+        "gp:id":866737,
+        "qs:id":967464,
+        "qs_pg:id":967464,
+        "wd:id":"Q1096671"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"a8eb4344bd0273d1b01e68e842fe0bc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101786159,
+            "region_id":85687737
+        }
+    ],
+    "wof:id":101786159,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514499758,
+    "wof:name":"Balc",
+    "wof:parent_id":85687737,
+    "wof:placetype":"locality",
+    "wof:population":3512,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.52048930327288,
+    47.29092487276858,
+    22.54138788882068,
+    47.30628019017763
+],
+  "geometry": {"coordinates":[[[22.53592658953715,47.3061283472174],[22.53571059119207,47.3052429632919],[22.53962964539409,47.30478734940431],[22.53876548951035,47.30124583928023],[22.54007174155504,47.30109394861717],[22.53985570475095,47.30020857150259],[22.54116192851296,47.30005666816845],[22.54072984039533,47.29828591682997],[22.53942365940992,47.29843781418634],[22.53877566205637,47.29578167049362],[22.54138788882068,47.29547787805302],[22.54073984794479,47.2928217430275],[22.53943380215685,47.2929736381119],[22.53921782875233,47.2920882547229],[22.53529971419988,47.29254383706649],[22.53508381435717,47.29165844368617],[22.53377778377978,47.29181027016489],[22.53356191473381,47.29092487276858],[22.53094987568511,47.29122847278074],[22.53138153766201,47.2929992784899],[22.53007546504466,47.29315106098136],[22.53072296445288,47.29580727078991],[22.52288599922872,47.29671769064532],[22.52310172285985,47.29760310977127],[22.52048930327288,47.29790646374664],[22.52092069319667,47.29967731085452],[22.52222694921522,47.29952563572817],[22.5226584195604,47.30129647275737],[22.52788354593798,47.30068959175964],[22.52831522507984,47.30246040079402],[22.53223412591393,47.30200505768448],[22.53309785392781,47.30554662757373],[22.53440422600573,47.30539480326399],[22.53462020295456,47.30628019017763],[22.53592658953715,47.3061283472174]]],"type":"Polygon"}
+}

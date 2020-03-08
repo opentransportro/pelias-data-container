@@ -1,0 +1,96 @@
+{
+  "id": 101836513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000175,
+    "geom:area_square_m":1553438.801275,
+    "geom:bbox":"24.8669958295,44.1771620325,24.9000641997,44.1926331851",
+    "geom:latitude":44.184938,
+    "geom:longitude":24.883301,
+    "gn:population":2249,
+    "iso:country":"RO",
+    "lbl:latitude":44.184168,
+    "lbl:longitude":24.885806,
+    "mps:latitude":44.184168,
+    "mps:longitude":24.885806,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rum_x_colloquial":[
+        "Baltati"
+    ],
+    "name:rum_x_preferred":[
+        "Stejaru"
+    ],
+    "name:rum_x_variant":[
+        "B\u0103l\u021ba\u0163i"
+    ],
+    "name:unk_x_variant":[
+        "B\u0103l\u0163a\u0163i"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Teleorman",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Stejaru",
+    "qs:la_lc":"*RO47154415",
+    "qs:level":"locality",
+    "qs:loc":"Stejaru",
+    "qs:loc_alt":"Stejaru",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a4b230-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":666193,
+        "gp:id":881018,
+        "qs:id":412963,
+        "qs_pg:id":412963,
+        "wd:id":"Q967348"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"b2117c268c8eb851f2e24ff7ec261941",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101836513,
+            "region_id":85687585
+        }
+    ],
+    "wof:id":101836513,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1505338243,
+    "wof:name":"Stejaru",
+    "wof:parent_id":85687585,
+    "wof:placetype":"locality",
+    "wof:population":2249,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.86699582951411,
+    44.17716203245652,
+    24.90006419973952,
+    44.19263318509888
+],
+  "geometry": {"coordinates":[[[24.86699582951411,44.18827159137999],[24.86848679580856,44.19263318509888],[24.8702062810479,44.19238375501925],[24.8699726214748,44.19150207646419],[24.87857883673666,44.19025316571231],[24.87811129443025,44.18848984925927],[24.88917561173884,44.18688311709934],[24.88894169308372,44.18600148561546],[24.89262962164571,44.18546565601127],[24.89239565860851,44.18458403275332],[24.8960834715906,44.18404808185494],[24.89584946417858,44.18316646682382],[24.89707870349673,44.1829877906394],[24.89661068137434,44.18122456283152],[24.89906906756909,44.18086717964786],[24.89883503488977,44.17998557007513],[24.90006419973952,44.1798068598726],[24.89936210508881,44.17716203245652],[24.89567475170691,44.17769809059871],[24.89590871980283,44.17857971073386],[24.8946795703406,44.17875837089946],[24.89491353001392,44.17963999285371],[24.88262147904715,44.18142582664228],[24.88285526853838,44.18230747923519],[24.87425029973065,44.18355671989565],[24.87471765565084,44.18532006573935],[24.8734883110626,44.18549847690804],[24.87372198534769,44.18638015095615],[24.87003385658795,44.18691530678245],[24.8702674864648,44.18779698904672],[24.86699582951411,44.18827159137999]]],"type":"Polygon"}
+}

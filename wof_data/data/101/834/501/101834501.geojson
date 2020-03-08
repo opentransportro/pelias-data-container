@@ -1,0 +1,98 @@
+{
+  "id": 101834501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000092,
+    "geom:area_square_m":806099.847979,
+    "geom:bbox":"25.5044712523,44.7010367844,25.5168577395,44.7146599237",
+    "geom:latitude":44.708252,
+    "geom:longitude":25.511538,
+    "gn:population":3546,
+    "iso:country":"RO",
+    "lbl:latitude":44.708643,
+    "lbl:longitude":25.5106,
+    "mps:latitude":44.708643,
+    "mps:longitude":25.5106,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Produle\u0219ti"
+    ],
+    "name:eng_x_preferred":[
+        "Produle\u0219ti"
+    ],
+    "name:fre_x_preferred":[
+        "Produle\u0219ti"
+    ],
+    "name:ita_x_preferred":[
+        "Produle\u0219ti"
+    ],
+    "name:rum_x_preferred":[
+        "Produle\u0219ti"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0440\u043e\u0434\u0443\u043b\u0435\u0448\u0442\u044c"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*D\u00e2mbovita",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Produle\u015fti",
+    "qs:la_lc":"*RO27068529",
+    "qs:level":"locality",
+    "qs:loc":"Produle\u015fti",
+    "qs:loc_alt":"Produlesti",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":669576,
+        "gp:id":878589,
+        "qs:id":127206,
+        "qs_pg:id":127206,
+        "wd:id":"Q3732803"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"7ec3bbf55fed9c80b59227fecf36b977",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101834501,
+            "region_id":85687637
+        }
+    ],
+    "wof:id":101834501,
+    "wof:lastmodified":1514500098,
+    "wof:name":"Produle\u015fti",
+    "wof:parent_id":85687637,
+    "wof:placetype":"locality",
+    "wof:population":3546,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.50447125225639,
+    44.70103678444673,
+    25.51685773953545,
+    44.71465992373095
+],
+  "geometry": {"coordinates":[[[25.50470607037693,44.71058394907431],[25.51448356555966,44.71465992373095],[25.51487469363019,44.71460111385875],[25.51462730515959,44.7137216699029],[25.51586623342484,44.71353536998714],[25.51561883686185,44.71265592798414],[25.51685773953545,44.71246961679776],[25.51636294040065,44.71071073526474],[25.51512407425798,44.71089703968266],[25.51438200664904,44.70825869649127],[25.51562081800103,44.70807240222541],[25.51512612059565,44.70631350637262],[25.51636488810169,44.70612720422059],[25.51512823127479,44.70172995644566],[25.51388955506462,44.70191624168103],[25.51364227246489,44.70103678444673],[25.51240360719214,44.70122305164733],[25.5126508715345,44.70210251226416],[25.51141218068489,44.70228876819556],[25.5116594369357,44.70316823076325],[25.51042072050814,44.7033544754247],[25.51066796866644,44.70423393994315],[25.5081904773333,44.70460639207238],[25.50843769913649,44.70548586192399],[25.50719892422984,44.70567206939086],[25.50744613793694,44.70655154119294],[25.50620733744915,44.70673773738861],[25.50670175883477,44.70849668346347],[25.50546291449939,44.70868287176859],[25.50571012217665,44.70956234604154],[25.50447125225639,44.70974852307393],[25.50470607037693,44.71058394907431]]],"type":"Polygon"}
+}

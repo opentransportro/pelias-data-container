@@ -1,0 +1,75 @@
+{
+  "id": 1259849141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.48121,45.09103,25.48121,45.09103",
+    "geom:latitude":45.09103,
+    "geom:longitude":25.48121,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"69447.0",
+    "gn:asciiname":"Ulmetu",
+    "gn:cc2":"RO",
+    "gn:country_code":"RO",
+    "gn:dem":445,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":664299,
+    "gn:latitude":45.09103,
+    "gn:longitude":25.48121,
+    "gn:modification_date":"2013-04-21",
+    "gn:name":"Ulmetu",
+    "gn:population":335,
+    "gn:timezone":"Europe/Bucharest",
+    "iso:country":"RO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Strambul",
+        "Str\u00eembu",
+        "Ulmetu"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":664299
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"6e561b532185a3c8a2412ad52830e87a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1259849141,
+            "region_id":85687637
+        }
+    ],
+    "wof:id":1259849141,
+    "wof:lastmodified":1537683304,
+    "wof:name":"Ulmetu",
+    "wof:parent_id":85687637,
+    "wof:placetype":"locality",
+    "wof:population":335,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.48121,
+    45.09103,
+    25.48121,
+    45.09103
+],
+  "geometry": {"coordinates":[25.48121,45.09103],"type":"Point"}
+}

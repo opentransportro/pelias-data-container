@@ -1,0 +1,120 @@
+{
+  "id": 101791463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000076,
+    "geom:area_square_m":658504.033525,
+    "geom:bbox":"22.249568555,45.4748277329,22.2618063676,45.4870999903",
+    "geom:latitude":45.480859,
+    "geom:longitude":22.254794,
+    "gn:population":3136,
+    "iso:country":"RO",
+    "lbl:latitude":45.480994,
+    "lbl:longitude":22.254701,
+    "mps:latitude":45.480994,
+    "mps:longitude":22.254701,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Obreja"
+    ],
+    "name:eng_x_preferred":[
+        "Obreja"
+    ],
+    "name:epo_x_preferred":[
+        "Obreja"
+    ],
+    "name:fre_x_preferred":[
+        "Obreja"
+    ],
+    "name:ger_x_preferred":[
+        "Obreja"
+    ],
+    "name:hun_x_preferred":[
+        "Obr\u00e9zsa"
+    ],
+    "name:ita_x_preferred":[
+        "Obreja"
+    ],
+    "name:por_x_preferred":[
+        "Obreja"
+    ],
+    "name:rum_x_preferred":[
+        "Obreja"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0431\u0440\u0435\u0436\u0430"
+    ],
+    "name:vie_x_preferred":[
+        "Obreja"
+    ],
+    "name:vol_x_preferred":[
+        "Obreja"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Caras-Severin",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Obreja",
+    "qs:la_lc":"*RO23053372",
+    "qs:level":"locality",
+    "qs:loc":"Obreja",
+    "qs:loc_alt":"Obreja",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a27682-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":672050,
+        "gp:id":876681,
+        "qs:id":127374,
+        "qs_pg:id":127374,
+        "wd:id":"Q1084698"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"dca8cafb98c50916e6352e47e6a4691c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101791463,
+            "region_id":85687627
+        }
+    ],
+    "wof:id":101791463,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514500050,
+    "wof:name":"Obreja",
+    "wof:parent_id":85687627,
+    "wof:placetype":"locality",
+    "wof:population":3136,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.2495685550366,
+    45.47482773289289,
+    22.26180636758482,
+    45.48709999031524
+],
+  "geometry": {"coordinates":[[[22.25562459336624,45.48680459652689],[22.25522430280216,45.48503018262204],[22.25775207179277,45.48473473952822],[22.25735173625702,45.48296033236016],[22.25861557226403,45.48281259370685],[22.25821523110278,45.48103818774854],[22.26074280614876,45.48074267623173],[22.26054260887719,45.47985547716036],[22.26180636758482,45.47970770153449],[22.26160615907742,45.47882050414751],[22.25907867489178,45.47911603478462],[22.25887851414052,45.47822883079078],[22.25761478256351,45.47837657071562],[22.25681430246885,45.47482773289289],[22.25302330711156,45.47527082899757],[22.25362347757903,45.47793248384397],[22.24983225039261,45.47837546902514],[22.2508324079613,45.48281158028283],[22.2495685550366,45.48295922564228],[22.24976859214701,45.48384644741952],[22.25103246474202,45.48369879929845],[22.2514326035747,45.4854732340936],[22.2526965094155,45.48532556535912],[22.2530967212914,45.48709999031524],[22.25562459336624,45.48680459652689]]],"type":"Polygon"}
+}

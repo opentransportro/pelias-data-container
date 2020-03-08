@@ -1,0 +1,89 @@
+{
+  "id": 1125854687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.78333,44.91667,25.78333,44.91667",
+    "geom:latitude":44.91667,
+    "geom:longitude":25.78333,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":7919,
+    "gn:population":7919,
+    "iso:country":"RO",
+    "lbl:latitude":44.91667,
+    "lbl:longitude":25.78333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Darmne\u015fti"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":679726,
+    "qs_pg:gn_pop":7919,
+    "qs_pg:name":"D\u0103rm\u0103ne\u0219ti",
+    "qs_pg:name_adm0":"Rom\u00e2nia",
+    "qs_pg:name_adm1":"Dambovita",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":1278359,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424933,
+    "qs_pg:woe_id":871036,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424933,
+    "woe:name_adm0":"Rom\u00e2nia",
+    "woe:name_adm1":"Dambovita",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":679726,
+        "gp:id":871036,
+        "qs_pg:id":1278359
+    },
+    "wof:country":"RO",
+    "wof:created":1497293564,
+    "wof:geomhash":"a68f1f7658a82127b05800ef5fc06329",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125854687,
+            "region_id":85687637
+        }
+    ],
+    "wof:id":1125854687,
+    "wof:lastmodified":1509396145,
+    "wof:name":"D\u0103rm\u0103ne\u0219ti",
+    "wof:parent_id":85687637,
+    "wof:placetype":"locality",
+    "wof:population":7919,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.78333,
+    44.91667,
+    25.78333,
+    44.91667
+],
+  "geometry": {"coordinates":[25.78333,44.91667],"type":"Point"}
+}

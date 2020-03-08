@@ -1,0 +1,92 @@
+{
+  "id": 101845111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000044,
+    "geom:area_square_m":389160.599136,
+    "geom:bbox":"23.4805207197,44.9797062556,23.4923178629,44.9929911583",
+    "geom:latitude":44.986374,
+    "geom:longitude":23.487631,
+    "gn:population":1107,
+    "iso:country":"RO",
+    "lbl:latitude":44.98566,
+    "lbl:longitude":23.488614,
+    "mps:latitude":44.98566,
+    "mps:longitude":23.488614,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Pojogeni"
+    ],
+    "name:eng_x_preferred":[
+        "Pojogeni"
+    ],
+    "name:fre_x_preferred":[
+        "Pojogeni"
+    ],
+    "name:rum_x_preferred":[
+        "Pojogeni"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u0436\u043e\u0434\u0436\u0435\u043d\u044c"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Gorj",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"T\u00e2rgu C\u0103rbune\u015fti",
+    "qs:la_lc":"*RO31078329",
+    "qs:level":"locality",
+    "qs:loc":"Pojogeni",
+    "qs:loc_alt":"Pojogeni",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":669973,
+        "gp:id":878276,
+        "qs:id":1279198,
+        "wd:id":"Q12141591"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"1a4517ce10341130632e95ba7526c896",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101845111,
+            "region_id":85687619
+        }
+    ],
+    "wof:id":101845111,
+    "wof:lastmodified":1514500091,
+    "wof:name":"Pojogeni",
+    "wof:parent_id":85687619,
+    "wof:placetype":"locality",
+    "wof:population":1107,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.48052071971006,
+    44.97970625564392,
+    23.49231786294251,
+    44.99299115833884
+],
+  "geometry": {"coordinates":[[[23.49112022644459,44.98799255305875],[23.49025212269646,44.98445401014118],[23.49150203286592,44.98429172838178],[23.49106799720499,44.98252245560872],[23.49231786294251,44.98236016495525],[23.49166682023724,44.97970625564392],[23.4904170113789,44.9798685373417],[23.49063399763293,44.9807531779785],[23.48938416330833,44.98091544779726],[23.48960113962329,44.98180009020456],[23.48710141353121,44.98212459121942],[23.48753531737725,44.98389388433037],[23.4862854066464,44.9840561185099],[23.48693627317812,44.98671005802606],[23.48568629904588,44.9868722862937],[23.48590325363227,44.98775693335631],[23.48465325402623,44.98791914974242],[23.48487019866661,44.98880379857587],[23.48362017358534,44.98896600308012],[23.48405405199139,44.9907353030755],[23.48155390642955,44.99105967941995],[23.48177082122339,44.99194433356632],[23.48052071971006,44.99210650242139],[23.48073762455226,44.99299115833884],[23.48448796648279,44.99250459821792],[23.48427100472628,44.99161995125331],[23.48552108671515,44.99145773779554],[23.48530411501036,44.99057309260257],[23.48655417152077,44.99041086726237],[23.48612021723989,44.98864157920514],[23.49112022644459,44.98799255305875]]],"type":"Polygon"}
+}

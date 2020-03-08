@@ -1,0 +1,104 @@
+{
+  "id": 101831221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000179,
+    "geom:area_square_m":1502395.678403,
+    "geom:bbox":"24.6825574885,47.2118700903,24.7041332518,47.2287143061",
+    "geom:latitude":47.218828,
+    "geom:longitude":24.692225,
+    "gn:population":1736,
+    "iso:country":"RO",
+    "lbl:latitude":47.218172,
+    "lbl:longitude":24.690322,
+    "mps:latitude":47.218172,
+    "mps:longitude":24.690322,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Mijlocenii B\u00e2rg\u0103ului"
+    ],
+    "name:eng_x_preferred":[
+        "Mijlocenii B\u00e2rg\u0103ului"
+    ],
+    "name:epo_x_preferred":[
+        "Mijlocenii B\u00e2rg\u0103ului"
+    ],
+    "name:fre_x_preferred":[
+        "Mijlocenii B\u00e2rg\u0103ului"
+    ],
+    "name:hun_x_preferred":[
+        "K\u00f6z\u00e9pborg\u00f3"
+    ],
+    "name:ita_x_preferred":[
+        "Mijlocenii B\u00e2rg\u0103ului"
+    ],
+    "name:rum_x_preferred":[
+        "Mijlocenii B\u00e2rg\u0103ului"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0456\u0436\u043b\u043e\u0447\u0435\u043d\u0456\u0439-\u0411\u0438\u0440\u0433\u0435\u0443\u043b\u0443\u0439"
+    ],
+    "name:unk_x_variant":[
+        "Mijlocenii B\u00e2rg\u0103ului"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Bistrita-Nasaud",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Bistri\u0163a B\u00e2rg\u0103ului",
+    "qs:la_lc":"*RO16032633",
+    "qs:level":"locality",
+    "qs:loc":"Mijlocenii B\u00e2rgaului",
+    "qs:loc_alt":"Mijlocenii Bargaului",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":673339,
+        "gp:id":875746,
+        "qs:id":6,
+        "wd:id":"Q610811"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"e9e5c283ee09113cf700bf01f3c36524",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101831221,
+            "region_id":85687753
+        }
+    ],
+    "wof:id":101831221,
+    "wof:lastmodified":1514500022,
+    "wof:name":"Mijlocenii B\u00e2rgaului",
+    "wof:parent_id":85687753,
+    "wof:placetype":"locality",
+    "wof:population":1736,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.68255748850146,
+    47.21187009030695,
+    24.70413325178816,
+    47.228714306114
+],
+  "geometry": {"coordinates":[[[24.70230799676227,47.22355580095285],[24.70413325178816,47.21507567183357],[24.70364854432842,47.21514206684895],[24.70339616182878,47.21426217418161],[24.69820216511607,47.21497347726466],[24.69794987661538,47.2140935694498],[24.69535287190206,47.2144491211298],[24.69510063586006,47.21356920511369],[24.69250364076464,47.21392468790623],[24.69225145717883,47.21304476369079],[24.68965447170876,47.21340017759672],[24.68940234057766,47.21252024518373],[24.68680536473994,47.2128755902047],[24.68655328606201,47.21199564959562],[24.68395631986363,47.21235092573284],[24.68381860374018,47.21187009030695],[24.68255748850146,47.22077199817716],[24.68622504685197,47.22027040838293],[24.68748583269854,47.22467007696048],[24.6887846106635,47.22449239806457],[24.68979351898804,47.2280120964121],[24.69109237210682,47.22783438814213],[24.69134464727415,47.228714306114],[24.6926435131935,47.22853657888106],[24.69163439491405,47.22501691333343],[24.69293316971272,47.22483918449575],[24.69242863453638,47.22307935111752],[24.69762348764317,47.2223683086404],[24.69787583288888,47.22324821207121],[24.70047325308707,47.22289259095231],[24.70072565081415,47.22377248617886],[24.70230799676227,47.22355580095285]],[[24.7020609934716,47.21901734216578],[24.69556787847517,47.21990636423453],[24.69455882086771,47.21638670893822],[24.69845446453672,47.21585338382101],[24.69870677487717,47.21673328911828],[24.70130387228414,47.21637765466107],[24.7020609934716,47.21901734216578]]],"type":"Polygon"}
+}

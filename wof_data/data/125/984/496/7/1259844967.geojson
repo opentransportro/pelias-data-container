@@ -1,0 +1,69 @@
+{
+  "id": 1259844967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.46833,44.68919,23.46833,44.68919",
+    "geom:latitude":44.68919,
+    "geom:longitude":23.46833,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"79237",
+    "gn:asciiname":"Badesti",
+    "gn:country_code":"RO",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":685904,
+    "gn:latitude":44.68919,
+    "gn:longitude":23.46833,
+    "gn:modification_date":"2013-04-21",
+    "gn:name":"B\u0103de\u0219ti",
+    "gn:population":183,
+    "gn:timezone":"Europe/Bucharest",
+    "iso:country":"RO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":685904
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"49647023baede43632b8eb1b0d060fdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1259844967,
+            "region_id":85687619
+        }
+    ],
+    "wof:id":1259844967,
+    "wof:lastmodified":1536833719,
+    "wof:name":"Badesti",
+    "wof:parent_id":85687619,
+    "wof:placetype":"locality",
+    "wof:population":183,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.46833,
+    44.68919,
+    23.46833,
+    44.68919
+],
+  "geometry": {"coordinates":[23.46833,44.68919],"type":"Point"}
+}

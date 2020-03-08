@@ -1,0 +1,89 @@
+{
+  "id": 101792831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000059,
+    "geom:area_square_m":518874.900363,
+    "geom:bbox":"23.8601490428,45.0302254821,23.8713104281,45.0424971551",
+    "geom:latitude":45.036755,
+    "geom:longitude":23.865903,
+    "gn:population":1383,
+    "iso:country":"RO",
+    "lbl:latitude":45.036532,
+    "lbl:longitude":23.865819,
+    "mps:latitude":45.036532,
+    "mps:longitude":23.865819,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Turce\u0219ti"
+    ],
+    "name:eng_x_preferred":[
+        "Turce\u0219ti"
+    ],
+    "name:rum_x_preferred":[
+        "Turce\u0219ti"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0443\u0440\u0447\u0435\u0448\u0442\u044c "
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*V\u00e2lcea",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Matee\u015fti",
+    "qs:la_lc":"*RO51171067",
+    "qs:level":"locality",
+    "qs:loc":"Turce\u015fti",
+    "qs:loc_alt":"Turcesti",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":664471,
+        "gp:id":875499,
+        "qs:id":3,
+        "wd:id":"Q12163005"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"c55d6be39732a63e1f9aa103a5009caa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101792831,
+            "region_id":85687643
+        }
+    ],
+    "wof:id":101792831,
+    "wof:lastmodified":1514500211,
+    "wof:name":"Turce\u015fti",
+    "wof:parent_id":85687643,
+    "wof:placetype":"locality",
+    "wof:population":1383,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.86014904280125,
+    45.03022548211823,
+    23.87131042811183,
+    45.04249715510963
+],
+  "geometry": {"coordinates":[[[23.87086363663832,45.03022548211823],[23.86836359649988,45.03055913697472],[23.86858694975183,45.03144278536632],[23.86733690071139,45.03160959358104],[23.86756024432611,45.0324932437934],[23.86631016966402,45.0326600402218],[23.86653350364037,45.03354369225474],[23.86403329637,45.03387724668136],[23.86425660178168,45.03476090360476],[23.86300646917272,45.03492766160207],[23.86367638433251,45.03757863408913],[23.86242618824309,45.03774538643665],[23.86264949293655,45.038629044505],[23.86014904280125,45.03896251076407],[23.86104220297659,45.04249715510963],[23.86354280456072,45.04216366429529],[23.86331946272571,45.04128001122012],[23.86707025804537,45.0407796727643],[23.86684686870547,45.03989602765114],[23.8680971014777,45.03972922151883],[23.86765031280413,45.03796193368754],[23.86890050101749,45.03779511883818],[23.86867710168468,45.03691147611988],[23.86992726426934,45.03674464948347],[23.86925706522004,45.034093723046],[23.87050716432765,45.03392689076429],[23.87006037355081,45.03215960636777],[23.87131042811183,45.03199276537111],[23.87086363663832,45.03022548211823]]],"type":"Polygon"}
+}

@@ -7,7 +7,7 @@
 
 set -e
 
-ORG=${ORG:-hsldevcom}
+ORG=${ORG:-opentransport}
 DOCKER_TAG=${TRAVIS_COMMIT:-latest}
 DOCKER_IMAGE=$ORG/pelias-data-container-builder
 DOCKER_IMAGE_COMMIT=$DOCKER_IMAGE:$DOCKER_TAG

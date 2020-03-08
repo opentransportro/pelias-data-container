@@ -1,0 +1,92 @@
+{
+  "id": 101790735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000108,
+    "geom:area_square_m":937903.922848,
+    "geom:bbox":"27.1686207096,45.2987915163,27.1813597329,45.3157120207",
+    "geom:latitude":45.307183,
+    "geom:longitude":27.175317,
+    "gn:population":1277,
+    "iso:country":"RO",
+    "lbl:latitude":45.307885,
+    "lbl:longitude":27.175944,
+    "mps:latitude":45.307885,
+    "mps:longitude":27.175944,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "S\u0103lcioara"
+    ],
+    "name:eng_x_preferred":[
+        "S\u0103lcioara"
+    ],
+    "name:ita_x_preferred":[
+        "S\u0103lcioara"
+    ],
+    "name:rum_x_preferred":[
+        "S\u0103lcioara"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0435\u043b\u0447\u043e\u0430\u0440\u0430 "
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Buzau",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Ghergheasa",
+    "qs:la_lc":"*RO21046830",
+    "qs:level":"locality",
+    "qs:loc":"S\u0103lcioara",
+    "qs:loc_alt":"Salcioara",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":668183,
+        "gp:id":879556,
+        "qs:id":7,
+        "wd:id":"Q12151836"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"b6c1662be3112baa2cb2a78bd8c39481",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101790735,
+            "region_id":85687667
+        }
+    ],
+    "wof:id":101790735,
+    "wof:lastmodified":1514500184,
+    "wof:name":"S\u0103lcioara",
+    "wof:parent_id":85687667,
+    "wof:placetype":"locality",
+    "wof:population":1277,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.16862070960769,
+    45.29879151630234,
+    27.18135973287309,
+    45.31571202069375
+],
+  "geometry": {"coordinates":[[[27.18135973287309,45.30537022175247],[27.17968942385096,45.30012662473399],[27.17844249741722,45.30033302472032],[27.17816417120201,45.29945908246629],[27.17691725478301,45.29966546395525],[27.17663895840769,45.29879151630234],[27.17539205200433,45.29899787929395],[27.17594861960077,45.30074578057719],[27.17345470852348,45.30115847761232],[27.17428953623465,45.30378034023892],[27.17304251322088,45.30398667807265],[27.17359908590237,45.30573458604232],[27.17110494158214,45.30614723275642],[27.1713832085116,45.30702119191568],[27.1688889942518,45.30743378738282],[27.17111525061449,45.31442546351599],[27.16862070960769,45.31483806081809],[27.16889900676472,45.31571202069375],[27.1726408608331,45.31509309129819],[27.17208416795978,45.31334519269615],[27.1770730434842,45.31251977790936],[27.17679464094817,45.31164584137144],[27.1780418206867,45.31143945469603],[27.17776341132515,45.31056552034482],[27.18025770915904,45.31015271045618],[27.17914404015596,45.3066569873331],[27.18039110324167,45.30645057550169],[27.18011269644217,45.30557664449697],[27.18135973287309,45.30537022175247]]],"type":"Polygon"}
+}

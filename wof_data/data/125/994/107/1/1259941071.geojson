@@ -1,0 +1,72 @@
+{
+  "id": 1259941071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.55,44.71667,24.55,44.71667",
+    "geom:latitude":44.71667,
+    "geom:longitude":24.55,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"128962",
+    "gn:asciiname":"Alunisu",
+    "gn:country_code":"RO",
+    "gn:dem":312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":686407,
+    "gn:latitude":44.71667,
+    "gn:longitude":24.55,
+    "gn:modification_date":"2015-12-19",
+    "gn:name":"Aluni\u0219u",
+    "gn:population":409,
+    "gn:timezone":"Europe/Bucharest",
+    "iso:country":"RO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aluni\u015fu de Jos"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":686407
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"501d4b73d8f88755ee449201e546df1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1259941071,
+            "region_id":85687607
+        }
+    ],
+    "wof:id":1259941071,
+    "wof:lastmodified":1537683674,
+    "wof:name":"Alunisu",
+    "wof:parent_id":85687607,
+    "wof:placetype":"locality",
+    "wof:population":409,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.55,
+    44.71667,
+    24.55,
+    44.71667
+],
+  "geometry": {"coordinates":[24.55,44.71667],"type":"Point"}
+}

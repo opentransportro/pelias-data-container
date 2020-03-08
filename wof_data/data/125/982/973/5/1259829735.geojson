@@ -1,0 +1,73 @@
+{
+  "id": 1259829735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.9367,45.45739,25.9367,45.45739",
+    "geom:latitude":45.45739,
+    "geom:longitude":25.9367,
+    "gn:admin1_code":"30",
+    "gn:admin2_code":"134096.0",
+    "gn:asciiname":"Cheia",
+    "gn:cc2":"RO",
+    "gn:country_code":"RO",
+    "gn:dem":883,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":682219,
+    "gn:latitude":45.45739,
+    "gn:longitude":25.9367,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Cheia",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bucharest",
+    "iso:country":"RO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Teleajen-Cheia",
+        "Teleajenul",
+        "Teleajen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":682219,
+        "wk:page":"Cheia"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"77cb2e07f4025d248a7ccbf93c53e2e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1259829735,
+            "region_id":85687661
+        }
+    ],
+    "wof:id":1259829735,
+    "wof:lastmodified":1537683613,
+    "wof:name":"Cheia",
+    "wof:parent_id":85687661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.9367,
+    45.45739,
+    25.9367,
+    45.45739
+],
+  "geometry": {"coordinates":[25.9367,45.45739],"type":"Point"}
+}

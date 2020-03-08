@@ -1,0 +1,99 @@
+{
+  "id": 101791493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000263,
+    "geom:area_square_m":2315224.920814,
+    "geom:bbox":"28.7003725114,44.5639912737,28.7247811608,44.58165958",
+    "geom:latitude":44.57184,
+    "geom:longitude":28.712219,
+    "gn:population":2591,
+    "iso:country":"RO",
+    "lbl:latitude":44.5721,
+    "lbl:longitude":28.711231,
+    "mps:latitude":44.5721,
+    "mps:longitude":28.711231,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Istrus"
+    ],
+    "name:eng_x_variant":[
+        "Caranasuf",
+        "Caranasut",
+        "Histria",
+        "Karanasuf"
+    ],
+    "name:rum_x_preferred":[
+        "Istria"
+    ],
+    "name:unk_x_variant":[
+        "Caranasuf"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Constanta",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Istria",
+    "qs:la_lc":"*RO25062020",
+    "qs:level":"locality",
+    "qs:loc":"Istria",
+    "qs:loc_alt":"Istria",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a12642-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":681497,
+        "gp:id":874156,
+        "qs:id":1027781,
+        "qs_pg:id":894024,
+        "wd:id":"Q1079468"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"c89280450c6b3a3df378a549a8ce14c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101791493,
+            "region_id":85687633
+        }
+    ],
+    "wof:id":101791493,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1507750688,
+    "wof:name":"Istria",
+    "wof:parent_id":85687633,
+    "wof:placetype":"locality",
+    "wof:population":2591,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.7003725113716,
+    44.56399127366728,
+    28.72478116082488,
+    44.58165957997448
+],
+  "geometry": {"coordinates":[[[28.72106225322273,44.57723034862693],[28.72076546995845,44.57636088541051],[28.72444511498981,44.5756880204915],[28.72355468170747,44.57307965611261],[28.72478116082488,44.57285535111424],[28.72300051556164,44.5676385973681],[28.71686855245082,44.56875985801867],[28.7153854449088,44.56441241275155],[28.71293277209622,44.56486077620872],[28.71263622128248,44.56399127366728],[28.70773084107395,44.56488781201892],[28.7074343714873,44.56401829159455],[28.70375529744348,44.56469053237436],[28.70405171512709,44.56556006484567],[28.7003725113716,44.5662321882927],[28.70304034451175,44.57405800721926],[28.70426691016399,44.57383394430616],[28.70545299577367,44.57731202276676],[28.70667962201475,44.57708792940849],[28.70786596940417,44.58056596273758],[28.7066392739153,44.58079007216583],[28.70693587353895,44.58165957997448],[28.7106159859818,44.58098719649763],[28.71031933441947,44.5801177007433],[28.71154600394527,44.57989354817744],[28.71124934710946,44.57902405462471],[28.72106225322273,44.57723034862693]]],"type":"Polygon"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 101793947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00025,
+    "geom:area_square_m":2215681.566335,
+    "geom:bbox":"27.3550954765,44.099909735,27.3898262092,44.1139381093",
+    "geom:latitude":44.107012,
+    "geom:longitude":27.370659,
+    "gn:population":5516,
+    "iso:country":"RO",
+    "lbl:latitude":44.106617,
+    "lbl:longitude":27.370396,
+    "mps:latitude":44.106617,
+    "mps:longitude":27.370396,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rum_x_preferred":[
+        "Ostrov"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Constanta",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Ostrov",
+    "qs:la_lc":"*RO25062538",
+    "qs:level":"locality",
+    "qs:loc":"Ostrov",
+    "qs:loc_alt":"Ostrov",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a2a364-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":671636,
+        "gp:id":876990,
+        "qs:id":127336,
+        "qs_pg:id":127336,
+        "wd:id":"Q1188593"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"9e18f14f32e59fbfd685485ed86b807a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101793947,
+            "region_id":85687633
+        }
+    ],
+    "wof:id":101793947,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1505337977,
+    "wof:name":"Ostrov",
+    "wof:parent_id":85687633,
+    "wof:placetype":"locality",
+    "wof:population":5516,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.35509547654726,
+    44.099909734964,
+    27.38982620918358,
+    44.11393810925392
+],
+  "geometry": {"coordinates":[[[27.3598457562191,44.11393810925392],[27.37449833436636,44.11144234635128],[27.37422631871408,44.1105679953227],[27.38155207822882,44.10931936098439],[27.38127996972207,44.1084450304852],[27.38982620918358,44.10698766331387],[27.38955399054288,44.10611335705113],[27.38833314015801,44.10632159171405],[27.38806094982448,44.10544728008705],[27.38561925999812,44.10586369896066],[27.38480285882781,44.10324073189935],[27.38114042067133,44.10386521928666],[27.3808683608558,44.10299088250929],[27.37720590365586,44.10361522964786],[27.37638994591396,44.10099217605739],[27.37761072095429,44.10078408578823],[27.37733873972724,44.099909734964],[27.36146827459459,44.10261374107085],[27.36228357635423,44.10523693270949],[27.35739988080547,44.10606849098292],[27.35875859059831,44.11044051773405],[27.35509547654726,44.11106409114814],[27.35536719952262,44.11193850260213],[27.35658826273192,44.11173065545728],[27.35686001401064,44.11260506155696],[27.35930215142969,44.11218931681418],[27.3598457562191,44.11393810925392]]],"type":"Polygon"}
+}

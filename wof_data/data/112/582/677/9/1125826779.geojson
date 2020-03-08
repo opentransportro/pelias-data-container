@@ -1,0 +1,79 @@
+{
+  "id": 1125826779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.81917,45.885,21.81917,45.885",
+    "geom:latitude":45.885,
+    "geom:longitude":21.81917,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":301,
+    "gn:population":301,
+    "iso:country":"RO",
+    "lbl:latitude":45.885,
+    "lbl:longitude":21.81917,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Sz\u00e9k\u00e1s"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":667504,
+    "qs_pg:gn_pop":301,
+    "qs_pg:name":"Seca\u015f",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":551022,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":667504,
+        "qs_pg:id":551022
+    },
+    "wof:country":"RO",
+    "wof:created":1497292312,
+    "wof:geomhash":"d3d0d8ea564a895d8991b06851085237",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125826779,
+            "region_id":85687655
+        }
+    ],
+    "wof:id":1125826779,
+    "wof:lastmodified":1509394440,
+    "wof:name":"Seca\u015f",
+    "wof:parent_id":85687655,
+    "wof:placetype":"locality",
+    "wof:population":301,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.81917,
+    45.885,
+    21.81917,
+    45.885
+],
+  "geometry": {"coordinates":[21.81917,45.885],"type":"Point"}
+}

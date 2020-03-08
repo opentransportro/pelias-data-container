@@ -1,0 +1,102 @@
+{
+  "id": 101795923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000106,
+    "geom:area_square_m":938168.173871,
+    "geom:bbox":"23.1612882032,44.1121283176,23.1760797405,44.1253241272",
+    "geom:latitude":44.118834,
+    "geom:longitude":23.169208,
+    "gn:population":1020,
+    "iso:country":"RO",
+    "lbl:latitude":44.11858,
+    "lbl:longitude":23.169825,
+    "mps:latitude":44.11858,
+    "mps:longitude":23.169825,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0414\u043e\u0431\u0440\u0438\u0434\u043e\u0440"
+    ],
+    "name:dut_x_preferred":[
+        "Dobridor"
+    ],
+    "name:eng_x_preferred":[
+        "Dobridor"
+    ],
+    "name:fre_x_preferred":[
+        "Dobridor"
+    ],
+    "name:ita_x_preferred":[
+        "Dobridor"
+    ],
+    "name:rum_x_preferred":[
+        "Dobridor"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u0431\u0440\u0456\u0434\u043e\u0440"
+    ],
+    "name:unk_x_variant":[
+        "Dobridoru"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Dolj",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:id":0,
+    "qs:la":"Mo\u0163\u0103\u0163ei",
+    "qs:la_lc":"*RO28073335",
+    "qs:level":"locality",
+    "qs:loc":"Dobridor",
+    "qs:loc_alt":"Dobridor",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":679230,
+        "gp:id":871415,
+        "qs:id":410448,
+        "wd:id":"Q12101580"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"0135eadb3ddbc1c5989bf611f47e3e26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101795923,
+            "region_id":85687581
+        }
+    ],
+    "wof:id":101795923,
+    "wof:lastmodified":1514499908,
+    "wof:name":"Dobridor",
+    "wof:parent_id":85687581,
+    "wof:placetype":"locality",
+    "wof:population":1020,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.16128820320199,
+    44.11212831759161,
+    23.17607974046916,
+    44.1253241271728
+],
+  "geometry": {"coordinates":[[[23.17402926024749,44.12260342583875],[23.17361575598466,44.12083123942688],[23.17607974046916,44.12051497184979],[23.17545943785245,44.117856700137],[23.17422750351034,44.11801483271284],[23.17340062503513,44.11447044197655],[23.17216875776137,44.11462854855506],[23.17175540588062,44.11285634018247],[23.17052356910318,44.11301442644935],[23.17031692414014,44.11212831759161],[23.16908509957551,44.11228638638914],[23.16929172625515,44.11317249808781],[23.1680598773379,44.11333055509795],[23.16826649419505,44.11421666841721],[23.16580274158349,44.11453274423201],[23.16600933033141,44.11541886201292],[23.16231360104166,44.11589287453603],[23.1625201433888,44.11677899961757],[23.16128820320199,44.1169369773724],[23.16170127669562,44.11870922955774],[23.16293325345976,44.11855124612339],[23.16313982118481,44.11943736754762],[23.16437181017034,44.11927936664284],[23.1647850075833,44.12105160015335],[23.16601702707953,44.1208935789366],[23.16705026016757,44.1253241271728],[23.17197864327505,44.12469183916528],[23.17177190655667,44.12380574332394],[23.17300396885611,44.12364763758512],[23.17279722231376,44.12276154336632],[23.17402926024749,44.12260342583875]]],"type":"Polygon"}
+}

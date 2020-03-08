@@ -1,0 +1,133 @@
+{
+  "id": 1125863659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.0,47.96667,24.0,47.96667",
+    "geom:latitude":47.96667,
+    "geom:longitude":24.0,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":4400,
+    "gn:population":4400,
+    "iso:country":"RO",
+    "lbl:latitude":47.96667,
+    "lbl:longitude":24.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Bocicoiu Mare"
+    ],
+    "name:eng_x_preferred":[
+        "Bocicoiu Mare"
+    ],
+    "name:epo_x_preferred":[
+        "Bocicoiu Mare"
+    ],
+    "name:fre_x_preferred":[
+        "Bocicoiu Mare"
+    ],
+    "name:ger_x_preferred":[
+        "Bocicoiu Mare"
+    ],
+    "name:hun_x_preferred":[
+        "Nagybocsk\u00f3"
+    ],
+    "name:ita_x_preferred":[
+        "Bocicoiu Mare"
+    ],
+    "name:may_x_preferred":[
+        "Bocicoiu Mare"
+    ],
+    "name:por_x_preferred":[
+        "Bocicoiu Mare"
+    ],
+    "name:rum_x_preferred":[
+        "Bocicoiu Mare"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u043b\u0438\u043a\u0438\u0439 \u0411\u0438\u0447\u043a\u0456\u0432"
+    ],
+    "name:unk_x_variant":[
+        "Bocicoiul Mare"
+    ],
+    "name:vie_x_preferred":[
+        "Bocicoiu Mare"
+    ],
+    "name:vol_x_preferred":[
+        "Bocicoiu Mare"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":684496,
+    "qs_pg:gn_pop":4400,
+    "qs_pg:name":"Bocicoiu Mare",
+    "qs_pg:name_adm0":"Rom\u00e2nia",
+    "qs_pg:name_adm1":"Maramures",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":2,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":127964,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424933,
+    "qs_pg:woe_id":867552,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424933,
+    "woe:name_adm0":"Rom\u00e2nia",
+    "woe:name_adm1":"Maramures",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688839,
+        102088021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":684496,
+        "gp:id":867552,
+        "qs_pg:id":127964,
+        "wd:id":"Q1093246"
+    },
+    "wof:country":"RO",
+    "wof:created":1497293937,
+    "wof:geomhash":"2569c724ff117b0595736005e86db8a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088021,
+            "locality_id":1125863659,
+            "region_id":85688839
+        }
+    ],
+    "wof:id":1125863659,
+    "wof:lastmodified":1514499777,
+    "wof:name":"Bocicoiu Mare",
+    "wof:parent_id":102088021,
+    "wof:placetype":"locality",
+    "wof:population":4400,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.0,
+    47.96667,
+    24.0,
+    47.96667
+],
+  "geometry": {"coordinates":[24.0,47.96667],"type":"Point"}
+}

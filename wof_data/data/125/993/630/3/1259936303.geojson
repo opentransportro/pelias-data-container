@@ -1,0 +1,74 @@
+{
+  "id": 1259936303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.72044,47.24042,27.72044,47.24042",
+    "geom:latitude":47.24042,
+    "geom:longitude":27.72044,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"97090.0",
+    "gn:asciiname":"Podu Jijiei",
+    "gn:cc2":"RO",
+    "gn:country_code":"RO",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":670295,
+    "gn:latitude":47.24042,
+    "gn:longitude":27.72044,
+    "gn:modification_date":"2013-04-21",
+    "gn:name":"Podu Jijiei",
+    "gn:population":235,
+    "gn:timezone":"Europe/Bucharest",
+    "iso:country":"RO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Podul Jijiei",
+        "Podu Jijiei"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":670295
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"a5c62601b99fb21c547ec31d17679191",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1259936303,
+            "region_id":85687769
+        }
+    ],
+    "wof:id":1259936303,
+    "wof:lastmodified":1537683408,
+    "wof:name":"Podu Jijiei",
+    "wof:parent_id":85687769,
+    "wof:placetype":"locality",
+    "wof:population":235,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.72044,
+    47.24042,
+    27.72044,
+    47.24042
+],
+  "geometry": {"coordinates":[27.72044,47.24042],"type":"Point"}
+}

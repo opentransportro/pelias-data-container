@@ -1,0 +1,95 @@
+{
+  "id": 1125856547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.98,44.17222,22.98,44.17222",
+    "geom:latitude":44.17222,
+    "geom:longitude":22.98,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2147,
+    "gn:population":797,
+    "iso:country":"RO",
+    "lbl:latitude":44.17222,
+    "lbl:longitude":22.98,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Ob\u00e2r\u0219ia de C\u00e2mp"
+    ],
+    "name:eng_x_preferred":[
+        "Ob\u00e2r\u0219ia de C\u00e2mp"
+    ],
+    "name:fre_x_preferred":[
+        "Ob\u00e2r\u0219ia de C\u00e2mp"
+    ],
+    "name:ita_x_preferred":[
+        "Ob\u00e2r\u0219ia de C\u00e2mp"
+    ],
+    "name:rum_x_preferred":[
+        "Ob\u00e2r\u0219ia de C\u00e2mp"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0431\u0438\u0440\u0448\u0456\u044f-\u0434\u0435-\u041a\u0438\u043c\u043f"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":672073,
+    "qs_pg:gn_pop":2147,
+    "qs_pg:name":"Ob\u00e2r\u015fia-C\u00e2mp",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":275246,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":672073,
+        "qs_pg:id":275246,
+        "wd:id":"Q12134899"
+    },
+    "wof:country":"RO",
+    "wof:created":1497293646,
+    "wof:geomhash":"7809d2400510355e95cf01d7ec2224af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125856547,
+            "region_id":85687599
+        }
+    ],
+    "wof:id":1125856547,
+    "wof:lastmodified":1514500050,
+    "wof:name":"Ob\u00e2r\u015fia-C\u00e2mp",
+    "wof:parent_id":85687599,
+    "wof:placetype":"locality",
+    "wof:population":797,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.98,
+    44.17222,
+    22.98,
+    44.17222
+],
+  "geometry": {"coordinates":[22.98,44.17222],"type":"Point"}
+}

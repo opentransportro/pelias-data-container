@@ -1,0 +1,107 @@
+{
+  "id": 101845153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000146,
+    "geom:area_square_m":1257080.29547,
+    "geom:bbox":"21.2979201575,45.6871033427,21.319891816,45.6973636712",
+    "geom:latitude":45.692315,
+    "geom:longitude":21.309076,
+    "gn:population":1105,
+    "iso:country":"RO",
+    "lbl:latitude":45.692985,
+    "lbl:longitude":21.309285,
+    "mps:latitude":45.692985,
+    "mps:longitude":21.309285,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0423\u0440\u0441\u0435\u043d\u0438"
+    ],
+    "name:dut_x_preferred":[
+        "Urseni"
+    ],
+    "name:eng_x_preferred":[
+        "Urseni"
+    ],
+    "name:epo_x_preferred":[
+        "Urseni"
+    ],
+    "name:fre_x_preferred":[
+        "Urseni"
+    ],
+    "name:ger_x_preferred":[
+        "Urseni"
+    ],
+    "name:hun_x_preferred":[
+        "Magyarmedves"
+    ],
+    "name:rum_x_preferred":[
+        "Urseni"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0423\u0440\u0441\u0435\u043d\u044c"
+    ],
+    "name:unk_x_variant":[
+        "Magyarmedves"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Timis",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Mo\u015fni\u0163a Noua",
+    "qs:la_lc":"*RO48157834",
+    "qs:level":"locality",
+    "qs:loc":"Urseni",
+    "qs:loc_alt":"Urseni",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":664111,
+        "gp:id":882520,
+        "qs:id":967902,
+        "wd:id":"Q827813"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"905f5cf85e1f880386901daa49796a68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101845153,
+            "region_id":85687655
+        }
+    ],
+    "wof:id":101845153,
+    "wof:lastmodified":1514500228,
+    "wof:name":"Urseni",
+    "wof:parent_id":85687655,
+    "wof:placetype":"locality",
+    "wof:population":1105,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.29792015750991,
+    45.687103342684,
+    21.31989181599687,
+    45.69736367116133
+],
+  "geometry": {"coordinates":[[[21.3133840940302,45.69709071980083],[21.31319812257897,45.69620160130893],[21.31828083472988,45.69565552640557],[21.31772272705354,45.69298819588255],[21.31899333066326,45.6928516468646],[21.31862125819248,45.6910734267189],[21.31989181599687,45.69093686764461],[21.31914768544857,45.6873804257786],[21.31533623543481,45.68779002650405],[21.31570816468491,45.68956826485709],[21.31062599104848,45.69011420688889],[21.31044010266572,45.68922507791615],[21.30789902169289,45.68949795256185],[21.30771318127643,45.68860881745729],[21.3064426522767,45.68874522940217],[21.30625683977888,45.6878560907378],[21.30498632512007,45.68799248490768],[21.30480054053839,45.687103342684],[21.30098902247636,45.68751242625729],[21.30173196746648,45.69106902006786],[21.29792015750991,45.69147799763948],[21.29884871504532,45.6959237562304],[21.30520220440428,45.69524198665715],[21.30538803978675,45.69613112255951],[21.30792943569401,45.69585830314122],[21.30811531905726,45.6967474329121],[21.31065673223725,45.69647454752351],[21.31084266358295,45.69736367116133],[21.3133840940302,45.69709071980083]]],"type":"Polygon"}
+}

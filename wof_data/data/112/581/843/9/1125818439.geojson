@@ -1,0 +1,112 @@
+{
+  "id": 1125818439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.51667,45.0,22.51667,45.0",
+    "geom:latitude":45.0,
+    "geom:longitude":22.51667,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":35,
+    "iso:country":"RO",
+    "lbl:latitude":45.0,
+    "lbl:longitude":22.51667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Cracu Mare"
+    ],
+    "name:eng_x_preferred":[
+        "Cracu Mare"
+    ],
+    "name:fre_x_preferred":[
+        "Cracu Mare"
+    ],
+    "name:hun_x_preferred":[
+        "Cracu Mare"
+    ],
+    "name:rum_x_preferred":[
+        "Cracu Mare"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0440\u0430\u043a\u0443-\u041c\u0430\u0440\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Cracul Mare"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":680358,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Cracu Mare",
+    "qs_pg:name_adm0":"Rom\u00e2nia",
+    "qs_pg:name_adm1":"Caras-Severin",
+    "qs_pg:photos":29,
+    "qs_pg:photos_1k":6,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":29,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1167557,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424933,
+    "qs_pg:woe_id":870588,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424933,
+    "woe:name_adm0":"Rom\u00e2nia",
+    "woe:name_adm1":"Caras-Severin",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":680358,
+        "gp:id":870588,
+        "qs_pg:id":1167557,
+        "wd:id":"Q619164"
+    },
+    "wof:country":"RO",
+    "wof:created":1497291940,
+    "wof:geomhash":"eaa3e93f516130337ca2237890a99156",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125818439,
+            "region_id":85687627
+        }
+    ],
+    "wof:id":1125818439,
+    "wof:lastmodified":1514499877,
+    "wof:name":"Cracu Mare",
+    "wof:parent_id":85687627,
+    "wof:placetype":"locality",
+    "wof:population":35,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.51667,
+    45.0,
+    22.51667,
+    45.0
+],
+  "geometry": {"coordinates":[22.51667,45.0],"type":"Point"}
+}

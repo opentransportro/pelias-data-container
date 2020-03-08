@@ -1,0 +1,99 @@
+{
+  "id": 1125839729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.636918,45.578055,25.636918,45.578055",
+    "geom:latitude":45.578055,
+    "geom:longitude":25.636918,
+    "gn:gn_country":null,
+    "iso:country":"RO",
+    "lbl:latitude":45.578055,
+    "lbl:longitude":25.636918,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Timi\u0219u de Jos"
+    ],
+    "name:eng_x_preferred":[
+        "Timi\u0219u de Jos"
+    ],
+    "name:epo_x_preferred":[
+        "Timi\u0219u de Jos"
+    ],
+    "name:hun_x_preferred":[
+        "Als\u00f3t\u00f6m\u00f6s"
+    ],
+    "name:rum_x_preferred":[
+        "Timi\u0219u de Jos"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0456\u043c\u0456\u0448\u0443-\u0434\u0435-\u0416\u043e\u0441"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Timi\u0219u de Jos",
+    "qs_pg:name_adm0":"Rom\u00e2nia",
+    "qs_pg:name_adm1":"Brasov",
+    "qs_pg:photos":135,
+    "qs_pg:photos_1k":27,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":135,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1093041,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424933,
+    "qs_pg:woe_id":881803,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424933,
+    "woe:name_adm0":"Rom\u00e2nia",
+    "woe:name_adm1":"Brasov",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":881803,
+        "qs_pg:id":1093041,
+        "wd:id":"Q3894645"
+    },
+    "wof:country":"RO",
+    "wof:created":1497292879,
+    "wof:geomhash":"9776fc0f9e35b8f3c260c6c18e5f0604",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125839729,
+            "region_id":85687683
+        }
+    ],
+    "wof:id":1125839729,
+    "wof:lastmodified":1514500200,
+    "wof:name":"Timi\u0219u de Jos",
+    "wof:parent_id":85687683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.636918,
+    45.578055,
+    25.636918,
+    45.578055
+],
+  "geometry": {"coordinates":[25.636918,45.578055],"type":"Point"}
+}

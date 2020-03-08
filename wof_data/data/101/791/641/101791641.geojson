@@ -1,0 +1,107 @@
+{
+  "id": 101791641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000227,
+    "geom:area_square_m":1955433.540507,
+    "geom:bbox":"21.0131385853,45.7517035683,21.0331408017,45.7675347859",
+    "geom:latitude":45.759421,
+    "geom:longitude":21.023856,
+    "gn:population":1571,
+    "iso:country":"RO",
+    "lbl:latitude":45.759128,
+    "lbl:longitude":21.023856,
+    "mps:latitude":45.759128,
+    "mps:longitude":21.023856,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Beregs\u0103u Mare"
+    ],
+    "name:eng_x_preferred":[
+        "Beregs\u0103u Mare"
+    ],
+    "name:epo_x_preferred":[
+        "Beregs\u0103u Mare"
+    ],
+    "name:fre_x_preferred":[
+        "Beregs\u0103u Mare"
+    ],
+    "name:ger_x_preferred":[
+        "Beregs\u0103u Mare"
+    ],
+    "name:hun_x_preferred":[
+        "Bereksz\u00f3 "
+    ],
+    "name:rum_x_preferred":[
+        "Beregs\u0103u Mare"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0435\u043b\u0438\u043a\u0438 \u0411\u0435\u0440\u0435\u043a\u0441\u043e\u0432"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u0440\u0435\u0433\u0441\u0435\u0443-\u041c\u0430\u0440\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Gross-Beregsau"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Timis",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"S\u0103c\u0103laz",
+    "qs:la_lc":"*RO48158564",
+    "qs:level":"locality",
+    "qs:loc":"Beregs\u0103u Mare",
+    "qs:loc_alt":"Beregsau Mare",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":685046,
+        "gp:id":867172,
+        "qs:id":185197,
+        "wd:id":"Q793329"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"93ccae2901fe53c36fe6a49c7855c53c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101791641,
+            "region_id":85687655
+        }
+    ],
+    "wof:id":101791641,
+    "wof:lastmodified":1514499765,
+    "wof:name":"Beregs\u0103u Mare",
+    "wof:parent_id":85687655,
+    "wof:placetype":"locality",
+    "wof:population":1571,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.0131385852693,
+    45.75170356833814,
+    21.03314080174516,
+    45.76753478594452
+],
+  "geometry": {"coordinates":[[[21.02113900318608,45.76713583318673],[21.02095744320519,45.76624615630419],[21.03241320596845,45.76504849751336],[21.03186802768357,45.76237952900192],[21.03314080174516,45.76224638713762],[21.03150550192356,45.75423945227493],[21.03277808892574,45.7541063178129],[21.03241473347691,45.7523269933962],[21.02986963451633,45.75259323702068],[21.02968800867257,45.75170356833814],[21.01823496818889,45.7529008876956],[21.01841641259864,45.75379057900022],[21.0171438044585,45.75392354080088],[21.01732523640743,45.75481323365614],[21.01605260252188,45.75494618272882],[21.01641544919727,45.75672557057925],[21.01514276940048,45.75685850943563],[21.01532418412501,45.75774820443098],[21.01405147857957,45.7578811305583],[21.0147771338211,45.7614399109757],[21.01604992003655,45.76130697480005],[21.01695726324135,45.76575541613693],[21.0131385852693,45.76615421662132],[21.01332001650184,45.76704390954347],[21.01713875499581,45.76664510152114],[21.01732025445551,45.76753478594452],[21.02113900318608,45.76713583318673]]],"type":"Polygon"}
+}

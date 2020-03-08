@@ -1,0 +1,100 @@
+{
+  "id": 101789677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000177,
+    "geom:area_square_m":1506261.752411,
+    "geom:bbox":"22.0610132445,46.3730093807,22.0807550557,46.3873590934",
+    "geom:latitude":46.379621,
+    "geom:longitude":22.071168,
+    "gn:population":1901,
+    "iso:country":"RO",
+    "lbl:latitude":46.380091,
+    "lbl:longitude":22.071356,
+    "mps:latitude":46.380091,
+    "mps:longitude":22.071356,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ron_x_preferred":[
+        "B\u00e2rsa"
+    ],
+    "name:rum_x_colloquial":[
+        "Barsa",
+        "Birsa"
+    ],
+    "name:rum_x_preferred":[
+        "B\u00eersa"
+    ],
+    "name:rum_x_variant":[
+        "B\u00e2rsa"
+    ],
+    "name:unk_x_variant":[
+        "Barza"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Arad",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"B\u00e2rsa",
+    "qs:la_lc":"*RO12010051",
+    "qs:level":"locality",
+    "qs:loc":"B\u00e2rsa",
+    "qs:loc_alt":"Barsa",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"039daa58-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":684774,
+        "gp:id":867357,
+        "qs:id":127981,
+        "qs_pg:id":127981,
+        "wd:id":"Q791066"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"a637e291c4ce8a07997955a751b2ff74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101789677,
+            "region_id":85687691
+        }
+    ],
+    "wof:id":101789677,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1505337948,
+    "wof:name":"B\u00e2rsa",
+    "wof:parent_id":85687691,
+    "wof:placetype":"locality",
+    "wof:population":1901,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.06101324449611,
+    46.3730093806567,
+    22.0807550556986,
+    46.3873590934063
+],
+  "geometry": {"coordinates":[[[22.0807550556986,46.38721311691563],[22.080147313775,46.3845521245164],[22.07886219086504,46.38469809260238],[22.07764706482561,46.37937606334208],[22.07893206436847,46.37923011206186],[22.07872955318516,46.37834310640079],[22.08001452585336,46.37819714253897],[22.07940698271221,46.37553612781073],[22.07812207171241,46.3756820832711],[22.07791959524536,46.37479507351213],[22.07406488602453,46.37523283920495],[22.07386247989871,46.3743458200226],[22.07129268329777,46.37463758131258],[22.07109032695649,46.37375055550848],[22.06980543974458,46.37389641028312],[22.06960311263043,46.3730093806567],[22.0618937802011,46.37388416950853],[22.06229819642499,46.37565826130606],[22.06101324449611,46.37580401120567],[22.06121544504947,46.37669105836619],[22.06250041753754,46.37654530567011],[22.06351165312861,46.38098051214592],[22.06479672211481,46.38083473008112],[22.06540362920418,46.38349583329818],[22.06668875357235,46.38335002745544],[22.06729580041679,46.3860111130702],[22.07243648155054,46.38542770226627],[22.07263893011708,46.38631471756111],[22.07906474225791,46.38558509389452],[22.0794698710942,46.3873590934063],[22.0807550556986,46.38721311691563]]],"type":"Polygon"}
+}

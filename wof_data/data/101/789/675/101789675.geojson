@@ -1,0 +1,120 @@
+{
+  "id": 101789675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000236,
+    "geom:area_square_m":2014989.727567,
+    "geom:bbox":"21.5333063844,46.3768259435,21.5554369064,46.3936502695",
+    "geom:latitude":46.385616,
+    "geom:longitude":21.544238,
+    "gn:population":1905,
+    "iso:country":"RO",
+    "lbl:latitude":46.386041,
+    "lbl:longitude":21.544027,
+    "mps:latitude":46.386041,
+    "mps:longitude":21.544027,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Olari"
+    ],
+    "name:ara_x_preferred":[
+        "\u0648\u0644\u0627\u0631\u064a"
+    ],
+    "name:dut_x_preferred":[
+        "Olari"
+    ],
+    "name:eng_x_preferred":[
+        "Olari"
+    ],
+    "name:epo_x_preferred":[
+        "Olari"
+    ],
+    "name:fre_x_preferred":[
+        "Olari"
+    ],
+    "name:hun_x_preferred":[
+        "Vars\u00e1nd"
+    ],
+    "name:ita_x_preferred":[
+        "Olari"
+    ],
+    "name:por_x_preferred":[
+        "Olari"
+    ],
+    "name:rum_x_preferred":[
+        "Olari"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u043b\u0430\u0440\u0456"
+    ],
+    "name:vol_x_preferred":[
+        "Olari"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Arad",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Olari",
+    "qs:la_lc":"*RO12011502",
+    "qs:level":"locality",
+    "qs:loc":"Olari",
+    "qs:loc_alt":"Olari",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a28910-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":671873,
+        "gp:id":876814,
+        "qs:id":1027622,
+        "qs_pg:id":1027622,
+        "wd:id":"Q1193952"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"3eedadbd8346b85223ea5412b7846229",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101789675,
+            "region_id":85687691
+        }
+    ],
+    "wof:id":101789675,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514500054,
+    "wof:name":"Olari",
+    "wof:parent_id":85687691,
+    "wof:placetype":"locality",
+    "wof:population":1905,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.53330638443646,
+    46.37682594349752,
+    21.55543690643663,
+    46.39365026945819
+],
+  "geometry": {"coordinates":[[[21.55067889880343,46.39150619094704],[21.55048513039054,46.39061802931246],[21.55434435360797,46.39019912862591],[21.55415053148255,46.38931097406322],[21.55543690643663,46.38917131235343],[21.55446781722742,46.38473053829529],[21.55318154563969,46.38487018658873],[21.55279400952588,46.38309386475601],[21.55150777322672,46.38323349227034],[21.55112031171552,46.38145716116253],[21.54983411070401,46.38159676789923],[21.54944672378502,46.37982042751776],[21.54816055806054,46.37996001347813],[21.54777324572404,46.37818366382413],[21.54648711528472,46.37832322900965],[21.54629349224803,46.37743505003573],[21.54372125456115,46.37771412880932],[21.54352768116439,46.37682594349752],[21.53966934129352,46.37724443802779],[21.54005637239328,46.37902082375285],[21.53619785412485,46.37943919564646],[21.5369717679489,46.38299198752742],[21.53568550042263,46.38313142471401],[21.53587897896637,46.38401962292266],[21.53330638443646,46.38429845640962],[21.53388674584443,46.38696306125149],[21.53517310815852,46.38682364417946],[21.53556009864121,46.38860003717076],[21.53684649626609,46.38846059932456],[21.53742710632781,46.39112517345393],[21.53871355994505,46.39098571215237],[21.53929430682973,46.39365026945819],[21.54829974707394,46.39267355237979],[21.54810601170129,46.39178538635673],[21.55067889880343,46.39150619094704]]],"type":"Polygon"}
+}

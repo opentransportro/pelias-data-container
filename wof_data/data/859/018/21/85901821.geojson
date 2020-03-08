@@ -1,0 +1,112 @@
+{
+  "id": 85901821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000334,
+    "geom:area_square_m":2949844.216618,
+    "geom:bbox":"26.1721801758,44.4455829737,26.194152832,44.4653493008",
+    "geom:latitude":44.455328,
+    "geom:longitude":26.182903,
+    "gn:latitude":44.45,
+    "gn:longitude":26.16667,
+    "iso:country":"RO",
+    "lbl:latitude":44.451674,
+    "lbl:longitude":26.178703,
+    "mps:latitude":44.457368,
+    "mps:longitude":26.183113,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":4,
+    "mz:tier_metro":30,
+    "name:ron_x_preferred":[
+        "Biserica M\u0103rcu\u021ba"
+    ],
+    "name:rum_x_colloquial":[
+        "Marcuta"
+    ],
+    "name:rum_x_preferred":[
+        "M\u0103rcu\u021ba"
+    ],
+    "name:unk_x_variant":[
+        "M\u0103rcu\u021ba"
+    ],
+    "qs:gn_adm0_cc":"RO",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":683506,
+    "qs:gn_namadm1":"00",
+    "qs:gn_name":"M\u0103rcu\u0163a",
+    "qs:local_max":15664,
+    "qs:local_sum":56136,
+    "qs:localhoods":29,
+    "qs:name":"M\u0103rcu\u021ba",
+    "qs:name_adm0":"Rom\u00e2nia",
+    "qs:name_adm1":"Bucuresti",
+    "qs:name_local":"Bucure\u0219ti",
+    "qs:photo_max":14,
+    "qs:photo_sum":16,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":3,
+    "qs:woe_adm0":23424933,
+    "qs:woe_adm1":2346624,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":868274,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        101758405,
+        85633745,
+        85687611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":673847,
+        "gp:id":875383,
+        "qs:id":1167574,
+        "qs_pg:id":1167574
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"f990d618cb6cc71f9162db5158895281",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101758405,
+            "neighbourhood_id":85901821,
+            "region_id":85687611
+        }
+    ],
+    "wof:id":85901821,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1497308705,
+    "wof:name":"M\u0103rcu\u021ba",
+    "wof:parent_id":101758405,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.17218017580012,
+    44.44558297365118,
+    26.19415283202511,
+    44.4653493008001
+],
+  "geometry": {"coordinates":[[[26.19142810073208,44.4610229551915],[26.19415283202511,44.4533887344751],[26.19415283202511,44.44943030749938],[26.18865966797534,44.44558297365118],[26.1831665039,44.44943030748216],[26.17831121775521,44.44602973426198],[26.17767333982511,44.44594850692009],[26.17703546195111,44.44602973425818],[26.17218017580012,44.44943030748216],[26.17218017580012,44.45977629168023],[26.1738465055264,44.46066696347522],[26.17492492688154,44.46099409901662],[26.17496029471101,44.46103719484167],[26.17609543608836,44.46242036861203],[26.17761080156998,44.46366399692305],[26.17933966957645,44.46458809612507],[26.18121560068005,44.46515715360418],[26.18316650390017,44.4653493008001],[26.1851174071204,44.46515715360418],[26.18699333822383,44.46458809612507],[26.18872220623035,44.46366399692305],[26.19023757171209,44.46242036861203],[26.19137271308961,44.4610371948415],[26.19140625000017,44.46099632999763],[26.19142810073208,44.4610229551915]]],"type":"Polygon"}
+}

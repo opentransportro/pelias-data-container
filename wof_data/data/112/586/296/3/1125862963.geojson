@@ -1,0 +1,104 @@
+{
+  "id": 1125862963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.91667,46.18333,27.91667,46.18333",
+    "geom:latitude":46.18333,
+    "geom:longitude":27.91667,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":2988,
+    "gn:population":2988,
+    "iso:country":"RO",
+    "lbl:latitude":46.18333,
+    "lbl:longitude":27.91667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "M\u0103lu\u0219teni"
+    ],
+    "name:eng_x_preferred":[
+        "M\u0103lu\u0219teni"
+    ],
+    "name:fre_x_preferred":[
+        "M\u0103lu\u0219teni"
+    ],
+    "name:ita_x_preferred":[
+        "M\u0103lu\u0219teni"
+    ],
+    "name:may_x_preferred":[
+        "M\u0103lu\u0219teni"
+    ],
+    "name:por_x_preferred":[
+        "M\u0103lu\u0219teni"
+    ],
+    "name:rum_x_preferred":[
+        "M\u0103lu\u0219teni"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0435\u043b\u0443\u0448\u0442\u0435\u043d\u044c"
+    ],
+    "name:vie_x_preferred":[
+        "Malusteni"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":673964,
+    "qs_pg:gn_pop":2988,
+    "qs_pg:name":"M\u0103lu\u015fteni",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":127456,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":673964,
+        "qs_pg:id":127456,
+        "wd:id":"Q2548855"
+    },
+    "wof:country":"RO",
+    "wof:created":1497293911,
+    "wof:geomhash":"a841fe4bf1cb4ea5721d253b78520fe5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125862963,
+            "region_id":85687743
+        }
+    ],
+    "wof:id":1125862963,
+    "wof:lastmodified":1514500038,
+    "wof:name":"M\u0103lu\u015fteni",
+    "wof:parent_id":85687743,
+    "wof:placetype":"locality",
+    "wof:population":2988,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.91667,
+    46.18333,
+    27.91667,
+    46.18333
+],
+  "geometry": {"coordinates":[27.91667,46.18333],"type":"Point"}
+}

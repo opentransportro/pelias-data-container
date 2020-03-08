@@ -1,0 +1,105 @@
+{
+  "id": 101791823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000088,
+    "geom:area_square_m":768301.42799,
+    "geom:bbox":"25.5538188878,45.2188072731,25.5785653318,45.2290364795",
+    "geom:latitude":45.223909,
+    "geom:longitude":25.564251,
+    "gn:population":1184,
+    "iso:country":"RO",
+    "lbl:latitude":45.2246,
+    "lbl:longitude":25.561345,
+    "mps:latitude":45.2246,
+    "mps:longitude":25.561345,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Talea"
+    ],
+    "name:eng_x_preferred":[
+        "Talea"
+    ],
+    "name:fre_x_preferred":[
+        "Talea"
+    ],
+    "name:hun_x_preferred":[
+        "Talea"
+    ],
+    "name:ita_x_preferred":[
+        "Talea"
+    ],
+    "name:rum_x_preferred":[
+        "Talea"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0430\u043b\u044f"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Prahova",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Talea",
+    "qs:la_lc":"*RO42135654",
+    "qs:level":"locality",
+    "qs:loc":"Talea",
+    "qs:loc_alt":"Talea",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a4e778-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":665611,
+        "gp:id":881423,
+        "qs:id":126879,
+        "qs_pg:id":126879,
+        "wd:id":"Q12159836"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"560908d0d38e21a4eb5d7c1d8d1863bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101791823,
+            "region_id":85687661
+        }
+    ],
+    "wof:id":101791823,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514500188,
+    "wof:name":"Talea",
+    "wof:parent_id":85687661,
+    "wof:placetype":"locality",
+    "wof:population":1184,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.55381888778396,
+    45.21880727308758,
+    25.57856533182229,
+    45.22903647950034
+],
+  "geometry": {"coordinates":[[[25.5648261556284,45.22866220956354],[25.56432238542595,45.22690443739674],[25.56682232699347,45.22653012204205],[25.56631852385345,45.22477235798527],[25.57006826740502,45.22421079463015],[25.56956439396163,45.22245304557981],[25.57581362857445,45.2215168451288],[25.57606565349909,45.22239570311928],[25.57856533182229,45.22202111243973],[25.57831326952805,45.22114226134897],[25.57706345282975,45.22132956063865],[25.57681141968197,45.22045070467607],[25.57306198030199,45.22101250339881],[25.57281001366812,45.22013363566629],[25.56531104305475,45.22125681282398],[25.56480736538629,45.21949903171981],[25.56355754789149,45.21968616921765],[25.56330574342371,45.21880727308758],[25.56205593706488,45.21899439233903],[25.56281132576612,45.2216310868082],[25.55781180058653,45.22237945716716],[25.55831529580041,45.2241372739503],[25.5570653582505,45.22432433642905],[25.55756885788662,45.22608215442563],[25.55381888778396,45.22664327372422],[25.55407059719641,45.22752219093098],[25.55532061347498,45.22733516252168],[25.55557235203389,45.22821407486316],[25.5618224136449,45.22727869354304],[25.56232610907284,45.22903647950034],[25.5648261556284,45.22866220956354]]],"type":"Polygon"}
+}

@@ -1,0 +1,102 @@
+{
+  "id": 101831253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000183,
+    "geom:area_square_m":1516454.552727,
+    "geom:bbox":"26.0145800669,47.8046477712,26.0287057742,47.8361004517",
+    "geom:latitude":47.818419,
+    "geom:longitude":26.021519,
+    "gn:population":1263,
+    "iso:country":"RO",
+    "lbl:latitude":47.810877,
+    "lbl:longitude":26.02093,
+    "mps:latitude":47.810877,
+    "mps:longitude":26.02093,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "\u021aibeni"
+    ],
+    "name:eng_x_preferred":[
+        "\u021aibeni"
+    ],
+    "name:epo_x_preferred":[
+        "\u021aibeni"
+    ],
+    "name:fre_x_preferred":[
+        "\u021aibeni"
+    ],
+    "name:hun_x_preferred":[
+        "Istenseg\u00edts"
+    ],
+    "name:rum_x_preferred":[
+        "\u021aibeni"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0438\u0431\u0435\u043d\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0426\u0438\u0431\u0435\u043d\u044c"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Suceava",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Satu Mare",
+    "qs:la_lc":"*RO46150196",
+    "qs:level":"locality",
+    "qs:loc":"\u0162ibeni",
+    "qs:loc_alt":"Tibeni",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":665188,
+        "gp:id":881731,
+        "qs:id":3,
+        "wd:id":"Q844820",
+        "wk:page":"Tibeni, Suceava"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"95b2dee10fbd1e83d6d224fa80ed2c33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101831253,
+            "region_id":85687773
+        }
+    ],
+    "wof:id":101831253,
+    "wof:lastmodified":1514500277,
+    "wof:name":"\u0162ibeni",
+    "wof:parent_id":85687773,
+    "wof:placetype":"locality",
+    "wof:population":1263,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.01458006694315,
+    47.80464777119744,
+    26.02870577424477,
+    47.83610045165244
+],
+  "geometry": {"coordinates":[[[26.01487733053216,47.8277258538086],[26.01978619970629,47.83610045165244],[26.01952762530084,47.83529155076963],[26.02083754089318,47.83509757505556],[26.0197178808549,47.83159481366209],[26.01840804937234,47.83178877401349],[26.01728866892302,47.82828597488952],[26.02252760470844,47.82751010138293],[26.02308743868105,47.82926147301816],[26.02570693689353,47.8288734273591],[26.02458714966014,47.82537070922172],[26.02589680124532,47.82517667837203],[26.02533693890575,47.8234253185916],[26.02795613112886,47.82303722549011],[26.02739623360173,47.8212858754772],[26.02870577424477,47.82109181322687],[26.0275860417496,47.81758911177212],[26.02627658514956,47.81778315865927],[26.02459747888736,47.81252904145344],[26.02590680944741,47.8123350176063],[26.02450778499735,47.8079565673176],[26.02319855944808,47.80815057196958],[26.02207964361253,47.80464777119744],[26.01815216525432,47.80522964559873],[26.0187114727695,47.80698107180848],[26.01478378788141,47.80756282898358],[26.0153430181918,47.80931427262129],[26.01665229744111,47.80912036147322],[26.0183304072641,47.81437463580562],[26.01963980359824,47.8141806860466],[26.02243784002906,47.82293765966932],[26.01458006694315,47.82410135473691],[26.01569911902737,47.82760419717454],[26.01487733053216,47.8277258538086]]],"type":"Polygon"}
+}

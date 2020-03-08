@@ -1,0 +1,95 @@
+{
+  "id": 101795821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00007,
+    "geom:area_square_m":628814.523924,
+    "geom:bbox":"23.910053851,43.8297594977,23.9277020789,43.8369019316",
+    "geom:latitude":43.833189,
+    "geom:longitude":23.918321,
+    "gn:population":1612,
+    "iso:country":"RO",
+    "lbl:latitude":43.833302,
+    "lbl:longitude":23.914511,
+    "mps:latitude":43.833302,
+    "mps:longitude":23.914511,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Li\u0219teava"
+    ],
+    "name:eng_x_preferred":[
+        "Li\u0219teava"
+    ],
+    "name:fre_x_preferred":[
+        "Li\u0219teava"
+    ],
+    "name:rum_x_preferred":[
+        "Li\u0219teava"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0456\u0448\u0442\u044f\u0432\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Listiva"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Dolj",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Ostroveni",
+    "qs:la_lc":"*RO28073567",
+    "qs:level":"locality",
+    "qs:loc":"Li\u015fteava",
+    "qs:loc_alt":"Listeava",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":674708,
+        "gp:id":874721,
+        "qs:id":411341,
+        "wd:id":"Q12120103"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"3563c901e8b0ba7b83a9e85c78e0a40f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101795821,
+            "region_id":85687581
+        }
+    ],
+    "wof:id":101795821,
+    "wof:lastmodified":1514499997,
+    "wof:name":"Li\u015fteava",
+    "wof:parent_id":85687581,
+    "wof:placetype":"locality",
+    "wof:population":1612,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.91005385096486,
+    43.82975949771884,
+    23.92770207892107,
+    43.83690193158242
+],
+  "geometry": {"coordinates":[[[23.91624994565285,43.83535015597164],[23.92237150032793,43.8345157394287],[23.92258814850663,43.83540021617847],[23.92503676203387,43.83506634207606],[23.92525345482522,43.83595081157938],[23.92770207892107,43.83561687350857],[23.92748535032848,43.83473240995073],[23.92626105933562,43.83489938326608],[23.92561098012987,43.83224597586315],[23.92683521742595,43.83207901146613],[23.92661852408179,43.83119454270053],[23.92417007897768,43.8315284510449],[23.92373679030874,43.82975949771884],[23.9225125940913,43.82992642419026],[23.92272921612414,43.8308109044761],[23.91660805097638,43.83164533412037],[23.91639151843481,43.83076083897907],[23.91516728439268,43.83092767842231],[23.91495077855416,43.83004317900958],[23.91005385096486,43.83071037985155],[23.91048672824536,43.83247940113387],[23.9117110053956,43.83231261674223],[23.91257693719103,43.83585063182278],[23.91135258843019,43.83601742809344],[23.91156907548441,43.83690193158242],[23.91646650432165,43.83623464757886],[23.91624994565285,43.83535015597164]]],"type":"Polygon"}
+}

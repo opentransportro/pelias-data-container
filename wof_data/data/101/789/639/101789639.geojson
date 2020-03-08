@@ -1,0 +1,138 @@
+{
+  "id": 101789639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000151,
+    "geom:area_square_m":1296875.955662,
+    "geom:bbox":"24.2645964096,46.0755938592,24.290226879,46.0919200192",
+    "geom:latitude":46.082761,
+    "geom:longitude":24.276713,
+    "gn:population":1991,
+    "iso:country":"RO",
+    "lbl:latitude":46.082749,
+    "lbl:longitude":24.275451,
+    "mps:latitude":46.082749,
+    "mps:longitude":24.275451,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Valea Viilor"
+    ],
+    "name:eng_x_preferred":[
+        "Vorumloc"
+    ],
+    "name:epo_x_preferred":[
+        "Valea Viilor"
+    ],
+    "name:est_x_preferred":[
+        "Valea Viilor"
+    ],
+    "name:fre_x_preferred":[
+        "Valea Viilor"
+    ],
+    "name:ger_x_preferred":[
+        "Valea Viilor"
+    ],
+    "name:hun_x_preferred":[
+        "Nagybaromlak"
+    ],
+    "name:ita_x_preferred":[
+        "Valea Viilor"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30f4\u30a1\u30ec\u30a2\u30fb\u30f4\u30a3\u30a4\u30ed\u30eb"
+    ],
+    "name:may_x_preferred":[
+        "Valea Viilor"
+    ],
+    "name:pol_x_preferred":[
+        "Valea Viilor"
+    ],
+    "name:por_x_preferred":[
+        "Valea Viilor"
+    ],
+    "name:rum_x_preferred":[
+        "Valea Viilor"
+    ],
+    "name:tur_x_preferred":[
+        "Valea Viilor"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0430\u043b\u044f-\u0412\u0456\u0457\u043b\u043e\u0440"
+    ],
+    "name:unk_x_variant":[
+        "Vorumloc"
+    ],
+    "name:vie_x_preferred":[
+        "Valea Viilor"
+    ],
+    "name:vol_x_preferred":[
+        "Valea Viilor"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Sibiu",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Valea Viilor",
+    "qs:la_lc":"*RO45145961",
+    "qs:level":"locality",
+    "qs:loc":"Valea Viilor",
+    "qs:loc_alt":"Valea Viilor",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a5c8a0-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":663314,
+        "gp:id":883216,
+        "qs:id":126703,
+        "qs_pg:id":126703,
+        "wd:id":"Q1011619"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"9e526ab250f665a7533e69bde4fa8ca2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101789639,
+            "region_id":85687687
+        }
+    ],
+    "wof:id":101789639,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514500235,
+    "wof:name":"Valea Viilor",
+    "wof:parent_id":85687687,
+    "wof:placetype":"locality",
+    "wof:population":1991,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.26459640957313,
+    46.07559385924031,
+    24.29022687904205,
+    46.0919200192335
+],
+  "geometry": {"coordinates":[[[24.27048712957099,46.08753228944084],[24.27685142501525,46.08667152784625],[24.27708849673303,46.08755333388808],[24.27836135372172,46.08738113285051],[24.27788718076482,46.08561752603646],[24.28170558926109,46.08510085157525],[24.28194273006159,46.08598264582565],[24.28576113222618,46.08546582521495],[24.28552393208503,46.08458404074929],[24.28425115844158,46.08475632617592],[24.28306540735105,46.08034736875311],[24.28561074956838,46.08000281536442],[24.28537358993975,46.07912102664488],[24.28919148921773,46.07860409272399],[24.28895428031649,46.07772231253682],[24.29022687904205,46.07754997419374],[24.28975245184284,46.07578641658426],[24.28847989265898,46.07595874840331],[24.28871708146409,46.07684053109676],[24.28489930082117,46.07735744544789],[24.28442505188434,46.07559385924031],[24.28187990740037,46.0759383800206],[24.28235407724867,46.07770197927073],[24.27217289123388,46.07907950858055],[24.27193595948745,46.07819768350623],[24.27066329820229,46.07836980323646],[24.27137406422258,46.08101528448066],[24.26882860111613,46.08135949803835],[24.26977627142941,46.08488681491605],[24.26850344981472,46.08505891200036],[24.26874037270505,46.08594074135124],[24.26746752401607,46.0861128265413],[24.26770443715992,46.08699465789977],[24.26643156139511,46.08716673119511],[24.26690537822606,46.08893039667686],[24.26563245559669,46.08910246133485],[24.26586935928196,46.08998429545863],[24.26459640957313,46.09015634822055],[24.26507020748141,46.0919200192335],[24.26761617876662,46.09157588552227],[24.26737923521313,46.09069405715746],[24.26865219012791,46.09052197082866],[24.26841523682577,46.08964014447218],[24.26968816465984,46.08946804624799],[24.26945120161105,46.08858622189985],[24.27072410236542,46.08841411178082],[24.27048712957099,46.08753228944084]]],"type":"Polygon"}
+}

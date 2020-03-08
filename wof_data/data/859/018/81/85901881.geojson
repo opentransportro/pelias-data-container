@@ -1,0 +1,109 @@
+{
+  "id": 85901881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":27349233.117918,
+    "geom:bbox":"21.232338,45.75998,21.232338,45.75998",
+    "geom:latitude":45.75998,
+    "geom:longitude":21.232338,
+    "gn:latitude":45.75663,
+    "gn:longitude":21.18778,
+    "iso:country":"RO",
+    "lbl:latitude":45.75998,
+    "lbl:longitude":21.232338,
+    "mps:latitude":45.775393,
+    "mps:longitude":21.24243,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "name:rum_x_colloquial":[
+        "Ronat",
+        "Ronat Gara"
+    ],
+    "name:rum_x_preferred":[
+        "Rona\u021b"
+    ],
+    "name:unk_x_variant":[
+        "Rona\u021b"
+    ],
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":0,
+    "qs:gn_namadm1":"00",
+    "qs:gn_name":"Rona\u0163",
+    "qs:local_max":5226,
+    "qs:local_sum":9148,
+    "qs:localhoods":5,
+    "qs:name":"Rona\u021b",
+    "qs:name_adm0":"Rom\u00e2nia",
+    "qs:name_adm1":"Timis",
+    "qs:name_local":"Timi\u0219oara",
+    "qs:photo_max":1003,
+    "qs:photo_sum":5226,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":106,
+    "qs:woe_adm0":23424933,
+    "qs:woe_adm1":2346649,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":881802,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        101751973,
+        85633745,
+        85687655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":668679,
+        "gp:id":879214,
+        "qs:id":1036283,
+        "qs_pg:id":1036283
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"f0ab69b3a11db198d44b72a76d1b8d45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101751973,
+            "neighbourhood_id":85901881,
+            "region_id":85687655
+        }
+    ],
+    "wof:id":85901881,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1531932589,
+    "wof:name":"Rona\u021b",
+    "wof:parent_id":101751973,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.232338,
+    45.75998,
+    21.232338,
+    45.75998
+],
+  "geometry": {"coordinates":[21.232338,45.75998],"type":"Point"}
+}

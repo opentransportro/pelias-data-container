@@ -1,0 +1,110 @@
+{
+  "id": 1125791655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.47278,44.75639,22.47278,44.75639",
+    "geom:latitude":44.75639,
+    "geom:longitude":22.47278,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":1397,
+    "gn:population":1397,
+    "iso:country":"RO",
+    "lbl:latitude":44.75639,
+    "lbl:longitude":22.47278,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Ilovi\u021ba"
+    ],
+    "name:eng_x_preferred":[
+        "Ilovi\u021ba"
+    ],
+    "name:fre_x_preferred":[
+        "Ilovi\u021ba"
+    ],
+    "name:ita_x_preferred":[
+        "Ilovi\u021ba"
+    ],
+    "name:may_x_preferred":[
+        "Ilovi\u021ba"
+    ],
+    "name:por_x_preferred":[
+        "Ilovi\u021ba"
+    ],
+    "name:rum_x_preferred":[
+        "Ilovi\u021ba"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406\u043b\u043e\u0432\u0456\u0446\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Hovi\u0163a"
+    ],
+    "name:vie_x_preferred":[
+        "Ilovita"
+    ],
+    "name:vol_x_preferred":[
+        "Ilovi\u021ba"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":675637,
+    "qs_pg:gn_pop":1397,
+    "qs_pg:name":"Ilovi\u0163a",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":127533,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":675637,
+        "qs_pg:id":127533,
+        "wd:id":"Q2026105"
+    },
+    "wof:country":"RO",
+    "wof:created":1497290887,
+    "wof:geomhash":"0dbf331b2d457a5962c4638a9edd49b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125791655,
+            "region_id":85687599
+        }
+    ],
+    "wof:id":1125791655,
+    "wof:lastmodified":1514499981,
+    "wof:name":"Ilovi\u0163a",
+    "wof:parent_id":85687599,
+    "wof:placetype":"locality",
+    "wof:population":1397,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.47278,
+    44.75639,
+    22.47278,
+    44.75639
+],
+  "geometry": {"coordinates":[22.47278,44.75639],"type":"Point"}
+}

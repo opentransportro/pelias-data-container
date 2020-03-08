@@ -1,0 +1,109 @@
+{
+  "id": 1125810615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.4,45.18333,29.4,45.18333",
+    "geom:latitude":45.18333,
+    "geom:longitude":29.4,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":457,
+    "iso:country":"RO",
+    "lbl:latitude":45.18333,
+    "lbl:longitude":29.4,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Mila 23"
+    ],
+    "name:eng_x_preferred":[
+        "Mila 23"
+    ],
+    "name:fre_x_preferred":[
+        "Mila 23"
+    ],
+    "name:ger_x_preferred":[
+        "Mila 23"
+    ],
+    "name:rum_x_preferred":[
+        "Mila 23"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0456\u043b\u0430 23"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":673334,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Mila Dou\u0103zeci \u015ei Trei",
+    "qs_pg:name_adm0":"Rom\u00e2nia",
+    "qs_pg:name_adm1":"Tulcea",
+    "qs_pg:photos":227,
+    "qs_pg:photos_1k":46,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":227,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":229164,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424933,
+    "qs_pg:woe_id":875751,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424933,
+    "woe:name_adm0":"Rom\u00e2nia",
+    "woe:name_adm1":"Tulcea",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":673334,
+        "gp:id":875751,
+        "qs_pg:id":229164,
+        "wd:id":"Q6272206"
+    },
+    "wof:country":"RO",
+    "wof:created":1497291642,
+    "wof:geomhash":"3ff663e47c843e722fb48e86f5a870f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125810615,
+            "region_id":85687679
+        }
+    ],
+    "wof:id":1125810615,
+    "wof:lastmodified":1514500022,
+    "wof:name":"Mila Dou\u0103zeci \u015ei Trei",
+    "wof:parent_id":85687679,
+    "wof:placetype":"locality",
+    "wof:population":457,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.4,
+    45.18333,
+    29.4,
+    45.18333
+],
+  "geometry": {"coordinates":[29.4,45.18333],"type":"Point"}
+}

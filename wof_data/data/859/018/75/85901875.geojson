@@ -1,0 +1,111 @@
+{
+  "id": 85901875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":10024758.617041,
+    "geom:bbox":"24.700287,46.782852,24.700287,46.782852",
+    "geom:latitude":46.782852,
+    "geom:longitude":24.700287,
+    "gn:latitude":46.78333,
+    "gn:longitude":24.71667,
+    "gn:population":35490,
+    "iso:country":"RO",
+    "lbl:latitude":46.782852,
+    "lbl:longitude":24.700287,
+    "mps:latitude":46.78621,
+    "mps:longitude":24.706416,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:rum_x_preferred":[
+        "Reghin-Sat"
+    ],
+    "name:unk_x_variant":[
+        "Reghin-Sat"
+    ],
+    "qs:gn_adm0_cc":"RO",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":668997,
+    "qs:gn_nam_loc":"Reghin, Mures, RO",
+    "qs:gn_namadm1":"00",
+    "qs:gn_name":"Reghin-Sat",
+    "qs:local_max":68,
+    "qs:local_sum":106,
+    "qs:localhoods":2,
+    "qs:name":"Reghin-Sat",
+    "qs:name_adm0":"Rom\u00e2nia",
+    "qs:name_adm1":"Mures",
+    "qs:name_local":"Reghin",
+    "qs:photo_max":11,
+    "qs:photo_sum":38,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":12,
+    "qs:woe_adm0":23424933,
+    "qs:woe_adm1":2346640,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":878998,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        101833451,
+        85633745,
+        85687719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":668995,
+        "gp:id":878999,
+        "qs:id":908901,
+        "qs_pg:id":908901
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"35d3ac4031e75bd4a867b2b3a4867be2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101833451,
+            "neighbourhood_id":85901875,
+            "region_id":85687719
+        }
+    ],
+    "wof:id":85901875,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1531932587,
+    "wof:name":"Reghin-Sat",
+    "wof:parent_id":101833451,
+    "wof:placetype":"neighbourhood",
+    "wof:population":35490,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.700287,
+    46.782852,
+    24.700287,
+    46.782852
+],
+  "geometry": {"coordinates":[24.700287,46.782852],"type":"Point"}
+}

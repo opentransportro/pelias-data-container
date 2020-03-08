@@ -1,0 +1,76 @@
+{
+  "id": 1125769921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.97141,44.76429,24.97141,44.76429",
+    "geom:latitude":44.76429,
+    "geom:longitude":24.97141,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2851,
+    "gn:population":2851,
+    "iso:country":"RO",
+    "lbl:latitude":44.76429,
+    "lbl:longitude":24.97141,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":672108,
+    "qs_pg:gn_pop":2851,
+    "qs_pg:name":"Oarja Sat",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":127375,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":672108,
+        "qs_pg:id":127375
+    },
+    "wof:country":"RO",
+    "wof:created":1497290025,
+    "wof:geomhash":"a593d246d2c9f9066b04e325284cb06a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125769921,
+            "region_id":85687645
+        }
+    ],
+    "wof:id":1125769921,
+    "wof:lastmodified":1509390908,
+    "wof:name":"Oarja Sat",
+    "wof:parent_id":85687645,
+    "wof:placetype":"locality",
+    "wof:population":2851,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.97141,
+    44.76429,
+    24.97141,
+    44.76429
+],
+  "geometry": {"coordinates":[24.97141,44.76429],"type":"Point"}
+}

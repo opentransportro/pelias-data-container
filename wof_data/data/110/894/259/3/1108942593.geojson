@@ -1,0 +1,64 @@
+{
+  "id": 1108942593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.0591880383,44.475066499,26.0591880383,44.475066499",
+    "geom:latitude":44.475066,
+    "geom:longitude":26.059188,
+    "iso:country":"RO",
+    "lbl:latitude":44.475066,
+    "lbl:longitude":26.059188,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_metro":30,
+    "name:rus_x_variant":[
+        "1 Mai"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        101751949,
+        85633745,
+        85687595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"RO",
+    "wof:created":1491363203,
+    "wof:geomhash":"f0a48b6bf75a40b8c7134b70e013a537",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101751949,
+            "neighbourhood_id":1108942593,
+            "region_id":85687595
+        }
+    ],
+    "wof:id":1108942593,
+    "wof:lastmodified":1497292372,
+    "wof:name":"Domenii",
+    "wof:parent_id":101751949,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.05918803832712,
+    44.47506649899157,
+    26.05918803832712,
+    44.47506649899157
+],
+  "geometry": {"coordinates":[26.05918803832712,44.47506649899157],"type":"Point"}
+}

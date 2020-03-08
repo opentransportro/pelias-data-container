@@ -1,0 +1,125 @@
+{
+  "id": 101788643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0001,
+    "geom:area_square_m":847789.642225,
+    "geom:bbox":"23.1000371201,46.8310884728,23.1216252839,46.8419253626",
+    "geom:latitude":46.837856,
+    "geom:longitude":23.109879,
+    "gn:population":1638,
+    "iso:country":"RO",
+    "lbl:latitude":46.838749,
+    "lbl:longitude":23.105545,
+    "mps:latitude":46.838749,
+    "mps:longitude":23.105545,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Izvoru Cri\u0219ului"
+    ],
+    "name:eng_x_preferred":[
+        "Izvoru Cri\u0219ului"
+    ],
+    "name:epo_x_preferred":[
+        "Izvoru Cri\u0219ului"
+    ],
+    "name:fre_x_preferred":[
+        "Izvoru Cri\u0219ului"
+    ],
+    "name:ger_x_preferred":[
+        "Izvoru Cri\u0219ului"
+    ],
+    "name:hun_x_preferred":[
+        "K\u00f6r\u00f6sf\u0151"
+    ],
+    "name:ita_x_preferred":[
+        "Izvoru Cri\u0219ului"
+    ],
+    "name:may_x_preferred":[
+        "Izvoru Cri\u0219ului"
+    ],
+    "name:por_x_preferred":[
+        "Izvoru Cri\u0219ului"
+    ],
+    "name:rum_x_preferred":[
+        "Izvoru Cri\u0219ului"
+    ],
+    "name:spa_x_preferred":[
+        "Izvoru Cri\u0219ului"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406\u0437\u0432\u043e\u0440\u0443-\u041a\u0440\u0456\u0448\u0443\u043b\u0443\u0439"
+    ],
+    "name:unk_x_variant":[
+        "Izvorul Cri\u015fului"
+    ],
+    "name:vie_x_preferred":[
+        "Izvoru Crisului"
+    ],
+    "name:vol_x_preferred":[
+        "Izvoru Cri\u0219ului"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Cluj",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Izvoru Cri\u015fului",
+    "qs:la_lc":"*RO24058204",
+    "qs:level":"locality",
+    "qs:loc":"Izvoru Cri\u015fului",
+    "qs:loc_alt":"Izvoru Crisului",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":675329,
+        "gp:id":874261,
+        "qs:id":1092132,
+        "qs_pg:id":127518,
+        "wd:id":"Q911307"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"9204ab4733c23530665eedec2ed3a164",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101788643,
+            "region_id":85687727
+        }
+    ],
+    "wof:id":101788643,
+    "wof:lastmodified":1514499986,
+    "wof:name":"Izvoru Cri\u015fului",
+    "wof:parent_id":85687727,
+    "wof:placetype":"locality",
+    "wof:population":1638,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.10003712008643,
+    46.8310884728038,
+    23.12162528391565,
+    46.8419253626206
+],
+  "geometry": {"coordinates":[[[23.10480835816855,46.8419253626206],[23.11774456009937,46.84033972372754],[23.11796741458375,46.84122399015047],[23.12055461238447,46.84090667057058],[23.12033171632606,46.84002241030203],[23.12162528391565,46.83986373038431],[23.12073371270748,46.83632669057499],[23.11944022825423,46.83648535818344],[23.11921738027365,46.83560109239221],[23.11792390958897,46.83575974145515],[23.11814673678708,46.83664401032286],[23.11426622030575,46.83711987392741],[23.11448899476454,46.83800415091963],[23.11319545446105,46.83816274425828],[23.11341821774533,46.83904702322229],[23.10953749240673,46.83952271964483],[23.10931479148326,46.8386384314548],[23.1080212231364,46.83879696291365],[23.10735324037165,46.83614408249861],[23.10864674636002,46.83598556026345],[23.10820143097794,46.8342169739517],[23.10949488839026,46.83405844239599],[23.10927222432548,46.83317415065892],[23.11185907656119,46.83285704729121],[23.11141369412587,46.8310884728038],[23.10753352994448,46.83156408620721],[23.10775615401775,46.8324483832256],[23.10516930130171,46.83276538763516],[23.10539189341517,46.83364968969732],[23.10280497111091,46.8339666383792],[23.10369526931902,46.83750386018284],[23.10110815270616,46.83782077157184],[23.10133070968971,46.83870508041173],[23.10003712008643,46.83886351597329],[23.10070478628342,46.84151644509637],[23.10458572118756,46.84104106433887],[23.10480835816855,46.8419253626206]]],"type":"Polygon"}
+}

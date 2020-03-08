@@ -1,0 +1,74 @@
+{
+  "id": 101792869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000041,
+    "geom:bbox":"24.8978741919,44.903037214,24.9102716722,44.9086814509",
+    "geom:latitude":44.905491,
+    "geom:longitude":24.904379,
+    "iso:country":"RO",
+    "lbl:latitude":44.905556,
+    "lbl:longitude":24.905318,
+    "mps:latitude":44.905556,
+    "mps:longitude":24.905318,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ron_x_preferred":[
+        "F\u0103getu"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Arges",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Mioveni",
+    "qs:la_lc":"*RO13013301",
+    "qs:level":"locality",
+    "qs:loc":"F\u0103getu",
+    "qs:loc_alt":"Fagetu",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":56,
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "qs:id":3,
+        "wd:id":"Q5511781"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"b22d42da4b333528093ed8f09b59fc5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101792869,
+            "region_id":85687645
+        }
+    ],
+    "wof:id":101792869,
+    "wof:lastmodified":1527714635,
+    "wof:name":"F\u0103getu",
+    "wof:parent_id":85687645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.89787419190401,
+    44.90303721398897,
+    24.9102716721647,
+    44.90868145088285
+],
+  "geometry": {"coordinates":[[[24.9067766067443,44.90850231114086],[24.90653750709936,44.90762132082074],[24.9102716721647,44.90708382291035],[24.90955426537187,44.90444087328603],[24.90830960653648,44.90462004417606],[24.90807050928765,44.90373905497023],[24.90682586189928,44.90391820783168],[24.9065867931098,44.90303721398897],[24.90036354215403,44.90393274064002],[24.90012457611897,44.90305172905744],[24.89887992313083,44.90323078685714],[24.89911887059031,44.90411180171481],[24.89787419190401,44.90429084803765],[24.89835207931259,44.90605288022607],[24.89959679515249,44.90587382735293],[24.89983577225581,44.90675483813334],[24.90232521971802,44.90639668157792],[24.9025642438595,44.90727768444731],[24.90380897548005,44.90709858076434],[24.90404802808337,44.90797957899798],[24.90529277115479,44.90780045728565],[24.90553185222194,44.90868145088285],[24.9067766067443,44.90850231114086]]],"type":"Polygon"}
+}

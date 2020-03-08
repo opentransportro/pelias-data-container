@@ -1,0 +1,99 @@
+{
+  "id": 85901817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000164,
+    "geom:area_square_m":1449463.995072,
+    "geom:bbox":"26.0414208315,44.3904294857,26.0571885803,44.406531289",
+    "geom:latitude":44.397938,
+    "geom:longitude":26.04933,
+    "iso:country":"RO",
+    "lbl:latitude":44.400429,
+    "lbl:longitude":26.051331,
+    "mps:latitude":44.397563,
+    "mps:longitude":26.049333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:note":"???",
+    "mz:tier_locality":4,
+    "mz:tier_metro":30,
+    "name:rum_x_preferred":[
+        "Lupeasca"
+    ],
+    "name:unk_x_variant":[
+        "Lupeasca"
+    ],
+    "qs:gn_adm0_cc":"RO",
+    "qs:gn_id":0,
+    "qs:gn_local":683506,
+    "qs:id":0,
+    "qs:local_max":15664,
+    "qs:local_sum":56136,
+    "qs:localhoods":29,
+    "qs:name":"Lupeasca",
+    "qs:name_adm0":"Rom\u00e2nia",
+    "qs:name_adm1":"Bucuresti",
+    "qs:name_local":"Bucure\u0219ti",
+    "qs:photo_max":1,
+    "qs:photo_sum":1,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":1,
+    "qs:woe_adm0":23424933,
+    "qs:woe_adm1":2346624,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":868274,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        101751949,
+        85633745,
+        85687595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":875042
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"00244cfa36f0bea499e1ad2b26899764",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101751949,
+            "neighbourhood_id":85901817,
+            "region_id":85687595
+        }
+    ],
+    "wof:id":85901817,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1527269180,
+    "wof:name":"Lupeasca",
+    "wof:parent_id":101751949,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.04142083148997,
+    44.39042948570007,
+    26.05718858027012,
+    44.40653128902211
+],
+  "geometry": {"coordinates":[[[26.04904555267035,44.40653128902211],[26.05397455299675,44.40239182910001],[26.0540771484001,44.40239182910001],[26.0540771484001,44.40230566770173],[26.05682373047512,44.39999904046103],[26.05718858027012,44.39948836182192],[26.05472040263959,44.39257945387529],[26.05249940047571,44.39050725425797],[26.05250311531836,44.39054497168839],[26.05133056640022,44.39042948570007],[26.0493796631801,44.3906216328959],[26.04750373207668,44.39119069037501],[26.04577486407004,44.39211478957715],[26.04425949858842,44.39335841788814],[26.04301587027715,44.39487378336976],[26.04209177107509,44.3966026513764],[26.04152271359601,44.39847858247983],[26.04144314919188,44.39928641343182],[26.04142083148997,44.39928861153372],[26.04734438755224,44.40573753401917],[26.04904555267035,44.40653128902211]]],"type":"Polygon"}
+}

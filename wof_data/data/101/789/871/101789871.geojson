@@ -1,0 +1,134 @@
+{
+  "id": 101789871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00014,
+    "geom:area_square_m":1197105.28723,
+    "geom:bbox":"25.8275599272,46.0451091523,25.8469270912,46.0636124303",
+    "geom:latitude":46.054222,
+    "geom:longitude":25.835249,
+    "gn:population":1975,
+    "iso:country":"RO",
+    "lbl:latitude":46.052337,
+    "lbl:longitude":25.834589,
+    "mps:latitude":46.052337,
+    "mps:longitude":25.834589,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u064a\u0643\u0641\u0627\u0644\u0627\u0648"
+    ],
+    "name:cat_x_preferred":[
+        "Micfal\u0103u"
+    ],
+    "name:dut_x_preferred":[
+        "Micfal\u0103u"
+    ],
+    "name:eng_x_preferred":[
+        "Mikos Ujfalu"
+    ],
+    "name:epo_x_preferred":[
+        "Micfal\u0103u"
+    ],
+    "name:fre_x_preferred":[
+        "Micfal\u0103u"
+    ],
+    "name:hun_x_preferred":[
+        "Mik\u00f3\u00fajfalu"
+    ],
+    "name:ita_x_preferred":[
+        "Micfal\u0103u"
+    ],
+    "name:may_x_preferred":[
+        "Micfal\u0103u"
+    ],
+    "name:oci_x_preferred":[
+        "Micfal\u0103u"
+    ],
+    "name:por_x_preferred":[
+        "Micfal\u0103u"
+    ],
+    "name:rum_x_colloquial":[
+        "Micfalaeu",
+        "Micfalau",
+        "Mikoujfalu"
+    ],
+    "name:rum_x_preferred":[
+        "Micfal\u0103u"
+    ],
+    "name:rum_x_variant":[
+        "Mik\u00f4ujfal\u00f9"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0456\u043a\u0444\u0430\u043b\u0435\u0443"
+    ],
+    "name:unk_x_variant":[
+        "Mikos Ujfalu"
+    ],
+    "name:vol_x_preferred":[
+        "Micfal\u0103u"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Covasna",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Malna\u015f",
+    "qs:la_lc":"*RO26064504",
+    "qs:level":"locality",
+    "qs:loc":"Micfal\u0103u",
+    "qs:loc_alt":"Micfalau",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a1e9a6-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":673472,
+        "gp:id":875654,
+        "qs:id":411590,
+        "wd:id":"Q45706"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"69b1ab8e88b02e9069c5ada9cd2ffd3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101789871,
+            "region_id":85687699
+        }
+    ],
+    "wof:id":101789871,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514500017,
+    "wof:name":"Micfal\u0103u",
+    "wof:parent_id":85687699,
+    "wof:placetype":"locality",
+    "wof:population":1975,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.82755992722798,
+    46.04510915228013,
+    25.84692709122692,
+    46.06361243034848
+],
+  "geometry": {"coordinates":[[[25.83000920406784,46.0625442184878],[25.83508123817467,46.061781124449],[25.8356063173768,46.06353603895781],[25.83941037478849,46.06296353898421],[25.83914777155934,46.06208609322971],[25.83787977982252,46.06227693799372],[25.83604200262789,46.05613475262396],[25.83730985883335,46.05594393302795],[25.83704734413323,46.0550664758677],[25.83958299373018,46.054684798766],[25.83932045137897,46.0538073473702],[25.84058824477137,46.05361648986582],[25.84032569412864,46.05273904063898],[25.8441289680415,46.05216638871946],[25.84439157674854,46.05304382715872],[25.84692709122692,46.05266197686137],[25.84666444381321,46.05178454561479],[25.84539670994457,46.05197547468288],[25.84513409295135,46.0510980384131],[25.8438663704008,46.05128894885331],[25.84334120831596,46.04953406484168],[25.84207351643647,46.04972495305964],[25.84154843731051,46.04797005615092],[25.83521005096549,46.04892423582737],[25.83494762475266,46.04804676726184],[25.83367994274903,46.04823755451042],[25.83341754694652,46.04736008092578],[25.83214987626769,46.04755084955013],[25.83188751087374,46.04667337094691],[25.83061985152096,46.04686412094759],[25.83009519260111,46.04510915228013],[25.82755992722798,46.04549059281942],[25.82782221245759,46.04636808504972],[25.82908986850777,46.04617736870358],[25.8322383858204,46.0567071212115],[25.8297026011287,46.05708862510079],[25.83075230589213,46.06059852575379],[25.82821633417205,46.06097999825465],[25.82900361269589,46.06361243034848],[25.83027166067149,46.06342169083399],[25.83000920406784,46.0625442184878]]],"type":"Polygon"}
+}

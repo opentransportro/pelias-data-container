@@ -1,0 +1,80 @@
+{
+  "id": 1125832287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.769964,46.872397,24.769964,46.872397",
+    "geom:latitude":46.872397,
+    "geom:longitude":24.769964,
+    "gn:gn_country":null,
+    "iso:country":"RO",
+    "lbl:latitude":46.872397,
+    "lbl:longitude":24.769964,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Br\u00eencovene\u0219ti",
+    "qs_pg:name_adm0":"Rom\u00e2nia",
+    "qs_pg:name_adm1":"Mures",
+    "qs_pg:photos":31,
+    "qs_pg:photos_1k":6,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":31,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1091308,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424933,
+    "qs_pg:woe_id":868146,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424933,
+    "woe:name_adm0":"Rom\u00e2nia",
+    "woe:name_adm1":"Mures",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":868146,
+        "qs_pg:id":1091308
+    },
+    "wof:country":"RO",
+    "wof:created":1497292552,
+    "wof:geomhash":"92827f83cb964ce73e1803a7b489ed03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125832287,
+            "region_id":85687719
+        }
+    ],
+    "wof:id":1125832287,
+    "wof:lastmodified":1509394772,
+    "wof:name":"Br\u00eencovene\u0219ti",
+    "wof:parent_id":85687719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.769964,
+    46.872397,
+    24.769964,
+    46.872397
+],
+  "geometry": {"coordinates":[24.769964,46.872397],"type":"Point"}
+}

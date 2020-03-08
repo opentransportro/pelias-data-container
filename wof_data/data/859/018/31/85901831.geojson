@@ -1,0 +1,133 @@
+{
+  "id": 85901831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":8325410.759187,
+    "geom:bbox":"27.304077,44.209116,27.304077,44.209116",
+    "geom:latitude":44.209116,
+    "geom:longitude":27.304077,
+    "iso:country":"RO",
+    "lbl:latitude":44.209116,
+    "lbl:longitude":27.304077,
+    "mps:latitude":44.221149,
+    "mps:longitude":27.295119,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:hbs_x_preferred":[
+        "Op\u0161tina Mircea Vod\u0103"
+    ],
+    "name:ita_x_preferred":[
+        "Mircea Vod\u0103"
+    ],
+    "name:msa_x_preferred":[
+        "Mircea Vod\u0103"
+    ],
+    "name:nld_x_preferred":[
+        "Mircea Vod\u0103"
+    ],
+    "name:por_x_preferred":[
+        "Mircea Vod\u0103"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Mircea Vod\u0103"
+    ],
+    "name:rum_x_colloquial":[
+        "Mircea Voda",
+        "Mircea Vodae",
+        "Miroea Voda",
+        "Miroea Vodae"
+    ],
+    "name:rum_x_preferred":[
+        "Mircea Vod\u0103"
+    ],
+    "name:rum_x_variant":[
+        "Miroea Vod\u0103"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0456\u0440\u0447\u0430-\u0412\u043e\u0434\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Mircea Vod\u0103"
+    ],
+    "name:vol_x_preferred":[
+        "Mircea Vod\u0103"
+    ],
+    "qs:gn_id":0,
+    "qs:gn_local":0,
+    "qs:id":0,
+    "qs:local_max":18,
+    "qs:local_sum":18,
+    "qs:localhoods":1,
+    "qs:name":"Mircea Vod\u0103",
+    "qs:name_adm0":"Rom\u00e2nia",
+    "qs:name_adm1":"Calarasi",
+    "qs:name_local":"C\u0103l\u0103ra\u0219i",
+    "qs:photo_max":9,
+    "qs:photo_sum":18,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":5,
+    "qs:woe_adm0":23424933,
+    "qs:woe_adm1":2346654,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":868635,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":46,
+    "wof:belongsto":[
+        102191581,
+        101751955,
+        85633745,
+        85687615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":875895,
+        "wd:id":"Q2535675"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"f8f926013cca6d3d194b6f0750c66156",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101751955,
+            "neighbourhood_id":85901831,
+            "region_id":85687615
+        }
+    ],
+    "wof:id":85901831,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1531932575,
+    "wof:name":"Mircea Vod\u0103",
+    "wof:parent_id":101751955,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.304077,
+    44.209116,
+    27.304077,
+    44.209116
+],
+  "geometry": {"coordinates":[27.304077,44.209116],"type":"Point"}
+}

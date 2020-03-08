@@ -1,0 +1,111 @@
+{
+  "id": 1125856867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.31667,47.43333,25.31667,47.43333",
+    "geom:latitude":47.43333,
+    "geom:longitude":25.31667,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":3836,
+    "gn:population":3836,
+    "iso:country":"RO",
+    "lbl:latitude":47.43333,
+    "lbl:longitude":25.31667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Iacobeni "
+    ],
+    "name:eng_x_preferred":[
+        "Iacobeni"
+    ],
+    "name:fre_x_preferred":[
+        "Iacobeni"
+    ],
+    "name:hun_x_preferred":[
+        "Iacobeni"
+    ],
+    "name:ita_x_preferred":[
+        "Iacobeni"
+    ],
+    "name:may_x_preferred":[
+        "Iacobeni"
+    ],
+    "name:por_x_preferred":[
+        "Iacobeni"
+    ],
+    "name:rum_x_preferred":[
+        "Iacobeni"
+    ],
+    "name:ukr_x_preferred":[
+        "\u042f\u043a\u043e\u0431\u0435\u043d\u044c "
+    ],
+    "name:vol_x_preferred":[
+        "Iacobeni"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":675865,
+    "qs_pg:gn_pop":3836,
+    "qs_pg:name":"Iacobeni",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":275275,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":675865,
+        "qs_pg:id":275275,
+        "wd:id":"Q1065619"
+    },
+    "wof:country":"RO",
+    "wof:created":1497293657,
+    "wof:geomhash":"fbce145531257e292425048f4aa8d079",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125856867,
+            "region_id":85687773
+        }
+    ],
+    "wof:id":1125856867,
+    "wof:lastmodified":1534379451,
+    "wof:name":"Iacobeni",
+    "wof:parent_id":85687773,
+    "wof:placetype":"locality",
+    "wof:population":3836,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[
+        101783903
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.31667,
+    47.43333,
+    25.31667,
+    47.43333
+],
+  "geometry": {"coordinates":[25.31667,47.43333],"type":"Point"}
+}

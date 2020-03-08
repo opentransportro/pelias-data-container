@@ -1,0 +1,101 @@
+{
+  "id": 101792657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000066,
+    "geom:area_square_m":578729.327241,
+    "geom:bbox":"22.3292733296,45.1392670492,22.3456610498,45.1509582641",
+    "geom:latitude":45.144966,
+    "geom:longitude":22.336983,
+    "gn:population":1481,
+    "iso:country":"RO",
+    "lbl:latitude":45.146122,
+    "lbl:longitude":22.336859,
+    "mps:latitude":45.146122,
+    "mps:longitude":22.336859,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Rusca"
+    ],
+    "name:eng_x_preferred":[
+        "Rusca"
+    ],
+    "name:epo_x_preferred":[
+        "Rusca"
+    ],
+    "name:fre_x_preferred":[
+        "Rusca"
+    ],
+    "name:hun_x_preferred":[
+        "Ruszka"
+    ],
+    "name:ita_x_preferred":[
+        "Rusca"
+    ],
+    "name:rum_x_preferred":[
+        "Rusca"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0443\u0441\u043a\u0430"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Caras-Severin",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Teregova",
+    "qs:la_lc":"*RO23054270",
+    "qs:level":"locality",
+    "qs:loc":"Rusca",
+    "qs:loc_alt":"Rusca",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":668423,
+        "gp:id":879401,
+        "qs:id":412559,
+        "wd:id":"Q1392579"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"74a5b7752a5780ca75a24c3ee7a27d00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101792657,
+            "region_id":85687627
+        }
+    ],
+    "wof:id":101792657,
+    "wof:lastmodified":1514500121,
+    "wof:name":"Rusca",
+    "wof:parent_id":85687627,
+    "wof:placetype":"locality",
+    "wof:population":1481,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.32927332957115,
+    45.13926704921585,
+    22.34566104976943,
+    45.1509582641205
+],
+  "geometry": {"coordinates":[[[22.3325833229988,45.15080977530141],[22.33218444836501,45.14903522975141],[22.33972136851685,45.14814401523984],[22.33892325503768,45.14459497697953],[22.34017930992093,45.14444639980428],[22.3399797830711,45.14355914023872],[22.34249183607017,45.14326194645429],[22.34229227888159,45.1423746912929],[22.34480426908715,45.14207744309738],[22.34440510238795,45.14030294048217],[22.34566104976943,45.14015429942287],[22.34546145960212,45.13926704921585],[22.34043771126602,45.13986151257086],[22.34063722407871,45.14074877378948],[22.33812527507365,45.1410459211005],[22.33832475754934,45.14193318672204],[22.33706875466788,45.14208174066113],[22.33726822614454,45.1429690079334],[22.33475616362193,45.14326607637634],[22.33495560475541,45.14415334805091],[22.33244347944731,45.14445036207673],[22.33264289023293,45.14533763815319],[22.33138679919801,45.14548612544638],[22.33158619897847,45.14637340317358],[22.3303300825736,45.14652187823663],[22.33052947134718,45.14740915761405],[22.32927332957115,45.147557620447],[22.32967209344235,45.14933218140243],[22.33092827391596,45.14918371306771],[22.33132710984984,45.1509582641205],[22.3325833229988,45.15080977530141]]],"type":"Polygon"}
+}

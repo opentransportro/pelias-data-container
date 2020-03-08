@@ -1,0 +1,110 @@
+{
+  "id": 101791445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00022,
+    "geom:area_square_m":1935930.983482,
+    "geom:bbox":"27.2197979179,44.7237875007,27.2394149804,44.7427670771",
+    "geom:latitude":44.73368,
+    "geom:longitude":27.228735,
+    "gn:population":3056,
+    "iso:country":"RO",
+    "lbl:latitude":44.735274,
+    "lbl:longitude":27.228922,
+    "mps:latitude":44.735274,
+    "mps:longitude":27.228922,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Milo\u0219e\u0219ti"
+    ],
+    "name:eng_x_preferred":[
+        "Milo\u0219e\u0219ti"
+    ],
+    "name:fre_x_preferred":[
+        "Milo\u0219e\u0219ti"
+    ],
+    "name:ita_x_preferred":[
+        "Milo\u0219e\u0219ti"
+    ],
+    "name:may_x_preferred":[
+        "Milo\u0219e\u0219ti"
+    ],
+    "name:por_x_preferred":[
+        "Milo\u0219e\u0219ti"
+    ],
+    "name:rum_x_preferred":[
+        "Milo\u0219e\u0219ti"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0456\u043b\u043e\u0448\u0435\u0448\u0442\u044c"
+    ],
+    "name:vie_x_preferred":[
+        "Milosesti"
+    ],
+    "name:vol_x_preferred":[
+        "Milo\u0219e\u0219ti"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Ialomita",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Milo\u015fe\u015fti",
+    "qs:la_lc":"*RO34094045",
+    "qs:level":"locality",
+    "qs:loc":"Milo\u015fe\u015fti",
+    "qs:loc_alt":"Milosesti",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":673300,
+        "gp:id":875774,
+        "qs:id":127419,
+        "qs_pg:id":127419,
+        "wd:id":"Q2718332"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"c3213018aca1fe152068744d60e81f9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101791445,
+            "region_id":85687621
+        }
+    ],
+    "wof:id":101791445,
+    "wof:lastmodified":1514500023,
+    "wof:name":"Milo\u015fe\u015fti",
+    "wof:parent_id":85687621,
+    "wof:placetype":"locality",
+    "wof:population":3056,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.21979791788152,
+    44.72378750071937,
+    27.23941498039193,
+    44.74276707713653
+],
+  "geometry": {"coordinates":[[[27.23667501062107,44.74132000141401],[27.2347517106648,44.73520035644367],[27.23722075348866,44.73478682774493],[27.23694600562419,44.73391259371454],[27.23941498039193,44.73349901434574],[27.2385906971794,44.73087632492116],[27.23735626736948,44.73108311065386],[27.23625745179675,44.72758615365558],[27.23378871063557,44.72799965159817],[27.23406336199213,44.72887390076914],[27.22912571125659,44.72970073717454],[27.22885113126671,44.72882647305067],[27.22761671620924,44.72903314207286],[27.22596957917216,44.72378750071937],[27.21979791788152,44.72482051568272],[27.22117005795599,44.72919198095605],[27.21993561223894,44.7293985590195],[27.22295511224206,44.73901568054498],[27.22418975429218,44.73880906137521],[27.22501354373628,44.74143186731987],[27.22748291068564,44.74101856293112],[27.2280322312464,44.74276707713653],[27.23667501062107,44.74132000141401]]],"type":"Polygon"}
+}

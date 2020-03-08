@@ -1,0 +1,121 @@
+{
+  "id": 101796091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000167,
+    "geom:area_square_m":1487239.556381,
+    "geom:bbox":"24.6054028065,43.7532650187,24.6288291145,43.7694910035",
+    "geom:latitude":43.760484,
+    "geom:longitude":24.615606,
+    "gn:population":2684,
+    "iso:country":"RO",
+    "lbl:latitude":43.759937,
+    "lbl:longitude":24.613654,
+    "mps:latitude":43.759937,
+    "mps:longitude":24.613654,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "G\u00e2rcov"
+    ],
+    "name:eng_x_preferred":[
+        "G\u00e2rcov"
+    ],
+    "name:fre_x_preferred":[
+        "G\u00e2rcov"
+    ],
+    "name:ita_x_preferred":[
+        "G\u00e2rcov"
+    ],
+    "name:por_x_preferred":[
+        "G\u00e2rcov"
+    ],
+    "name:rum_x_colloquial":[
+        "Garcovu",
+        "Garcovul",
+        "Gircov"
+    ],
+    "name:rum_x_preferred":[
+        "G\u00eercov"
+    ],
+    "name:rum_x_variant":[
+        "G\u00e2rcovu",
+        "G\u00e2rcovul",
+        "G\u00e2rcov"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0438\u0440\u043a\u043e\u0432"
+    ],
+    "name:unk_x_variant":[
+        "G\u00e2rcovu"
+    ],
+    "name:vol_x_preferred":[
+        "G\u00e2rcov"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Olt",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"G\u00e2rcov",
+    "qs:la_lc":"*RO41125588",
+    "qs:level":"locality",
+    "qs:loc":"Garcov",
+    "qs:loc_alt":"Garcov",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a07c9c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":677205,
+        "gp:id":872907,
+        "qs:id":918409,
+        "qs_pg:id":918409,
+        "wd:id":"Q2543054"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"9228cdad5ebfb624c79ea55d7fa8a9cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101796091,
+            "region_id":85687607
+        }
+    ],
+    "wof:id":101796091,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514499939,
+    "wof:name":"Garcov",
+    "wof:parent_id":85687607,
+    "wof:placetype":"locality",
+    "wof:population":2684,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.60540280653896,
+    43.75326501871785,
+    24.62882911452294,
+    43.76949100347139
+],
+  "geometry": {"coordinates":[[[24.61735359490001,43.7693158493185],[24.61689968677541,43.76755040244944],[24.62178467599921,43.76684966625169],[24.62110367044187,43.76420152295537],[24.62232484820061,43.76402631212],[24.62209784705504,43.76314359805178],[24.61843434711682,43.76366917790216],[24.61752664686071,43.76013827061189],[24.61996884518533,43.75978792334956],[24.61974190773003,43.75890519931136],[24.62218404434844,43.75855480049387],[24.62195708070948,43.75767208129867],[24.62439915562277,43.75732163092914],[24.62417216580383,43.75643891657705],[24.6266141790129,43.75608841465765],[24.6263871630174,43.75520570514948],[24.62882911452294,43.75485515168305],[24.62860207235548,43.75397244701884],[24.62738111757994,43.75414772786382],[24.62715410229816,43.75326501871785],[24.61616537236932,43.75484186851475],[24.61639222846395,43.75572460562785],[24.60540280653896,43.75730031361553],[24.60698994196474,43.76347963065922],[24.6082111390138,43.76330458802869],[24.60843792710716,43.76418733901727],[24.61210153188159,43.76366211514289],[24.6127821106088,43.76631033192706],[24.61156086250139,43.7664854303153],[24.61201459223554,43.76825090752811],[24.61445715266802,43.76790068387908],[24.614684066731,43.76878341421451],[24.61590535477558,43.76860827761487],[24.61613229573794,43.76949100347139],[24.61735359490001,43.7693158493185]]],"type":"Polygon"}
+}

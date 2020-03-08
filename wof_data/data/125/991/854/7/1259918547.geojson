@@ -1,0 +1,69 @@
+{
+  "id": 1259918547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.64834,46.78295,27.64834,46.78295",
+    "geom:latitude":46.78295,
+    "geom:longitude":27.64834,
+    "gn:admin1_code":"38",
+    "gn:admin2_code":"167071.0",
+    "gn:asciiname":"Telejna",
+    "gn:country_code":"RO",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":665288,
+    "gn:latitude":46.78295,
+    "gn:longitude":27.64834,
+    "gn:modification_date":"2013-04-21",
+    "gn:name":"Telejna",
+    "gn:population":347,
+    "gn:timezone":"Europe/Bucharest",
+    "iso:country":"RO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":665288
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"061129f52d1e80bcee3698534a0d7dcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1259918547,
+            "region_id":85687743
+        }
+    ],
+    "wof:id":1259918547,
+    "wof:lastmodified":1536729061,
+    "wof:name":"Telejna",
+    "wof:parent_id":85687743,
+    "wof:placetype":"locality",
+    "wof:population":347,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.64834,
+    46.78295,
+    27.64834,
+    46.78295
+],
+  "geometry": {"coordinates":[27.64834,46.78295],"type":"Point"}
+}

@@ -1,0 +1,109 @@
+{
+  "id": 85901857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":10150010.587922,
+    "geom:bbox":"26.047829,44.958091,26.047829,44.958091",
+    "geom:latitude":44.958091,
+    "geom:longitude":26.047829,
+    "gn:latitude":44.95,
+    "gn:longitude":26.03333,
+    "iso:country":"RO",
+    "lbl:latitude":44.958091,
+    "lbl:longitude":26.047829,
+    "mps:latitude":44.959133,
+    "mps:longitude":26.051181,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "name:rum_x_colloquial":[
+        "Ploestiori Eforie"
+    ],
+    "name:rum_x_preferred":[
+        "Ploe\u0219tiori Eforie"
+    ],
+    "name:unk_x_variant":[
+        "Ploe\u0219tiori Eforie"
+    ],
+    "qs:gn_adm0_cc":"RO",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":670474,
+    "qs:gn_namadm1":"00",
+    "qs:gn_name":"Ploe\u015ftiori Eforie",
+    "qs:local_max":613,
+    "qs:local_sum":755,
+    "qs:localhoods":2,
+    "qs:name":"Ploe\u0219tiori Eforie",
+    "qs:name_adm0":"Rom\u00e2nia",
+    "qs:name_adm1":"Prahova",
+    "qs:name_local":"Ploie\u0219ti",
+    "qs:photo_max":65,
+    "qs:photo_sum":142,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":11,
+    "qs:woe_adm0":23424933,
+    "qs:woe_adm1":2346643,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":877873,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        101835933,
+        85633745,
+        85687661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":670475,
+        "gp:id":877872,
+        "qs:id":1083401,
+        "qs_pg:id":1083401
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"192eaf751f8e10457638de9ab7c9d348",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101835933,
+            "neighbourhood_id":85901857,
+            "region_id":85687661
+        }
+    ],
+    "wof:id":85901857,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1531932583,
+    "wof:name":"Ploe\u0219tiori Eforie",
+    "wof:parent_id":101835933,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.047829,
+    44.958091,
+    26.047829,
+    44.958091
+],
+  "geometry": {"coordinates":[26.047829,44.958091],"type":"Point"}
+}

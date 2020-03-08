@@ -1,0 +1,101 @@
+{
+  "id": 101785049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000107,
+    "geom:area_square_m":897538.379542,
+    "geom:bbox":"23.8286953026,47.4738829115,23.8472394012,47.4875723466",
+    "geom:latitude":47.480967,
+    "geom:longitude":23.838591,
+    "gn:population":1017,
+    "iso:country":"RO",
+    "lbl:latitude":47.484519,
+    "lbl:longitude":23.836273,
+    "mps:latitude":47.484519,
+    "mps:longitude":23.836273,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Borcut"
+    ],
+    "name:eng_x_preferred":[
+        "Borcut"
+    ],
+    "name:epo_x_preferred":[
+        "Borcut"
+    ],
+    "name:fre_x_preferred":[
+        "Borcut"
+    ],
+    "name:hun_x_preferred":[
+        "Bork\u00fat"
+    ],
+    "name:ita_x_preferred":[
+        "Borcut"
+    ],
+    "name:rum_x_preferred":[
+        "Borcut"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u0440\u043a\u0443\u0442"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Maramures",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"T\u00e2rgu L\u0103pu\u015f",
+    "qs:la_lc":"*RO37106817",
+    "qs:level":"locality",
+    "qs:loc":"Borcut",
+    "qs:loc_alt":"Borcut",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":684224,
+        "gp:id":867748,
+        "qs:id":409491,
+        "wd:id":"Q725278"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"f667069e27d468c19f049c4cbf1f7a69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101785049,
+            "region_id":85687761
+        }
+    ],
+    "wof:id":101785049,
+    "wof:lastmodified":1535390460,
+    "wof:name":"Borcut",
+    "wof:parent_id":85687761,
+    "wof:placetype":"locality",
+    "wof:population":1017,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.8286953026299,
+    47.4738829114712,
+    23.8472394012478,
+    47.4875723466432
+],
+  "geometry": {"coordinates":[[[23.8342748363558,47.4792987168011],[23.8329674451386,47.4794662597832],[23.8339252842455,47.4829945067848],[23.8286953026299,47.4836645752013],[23.8291741147139,47.4854287182038],[23.8330967400185,47.4849261705272],[23.8338152279408,47.4875723466432],[23.8403531028143,47.4867344048521],[23.8396342958425,47.4840882783101],[23.846171660328,47.4832499951632],[23.8459319725822,47.4823679672025],[23.8472394012478,47.4822002669699],[23.8469997026956,47.4813182411602],[23.8443848802356,47.4816536193757],[23.8431867569241,47.4772434399269],[23.8458013667734,47.4769080947727],[23.8453221055844,47.4751440281262],[23.8440148470021,47.475311701909],[23.8437752533431,47.4744296635463],[23.8411607557371,47.4747649575996],[23.8409212150423,47.4738829114712],[23.8356922130633,47.4745532987531],[23.8364106113908,47.4771994733234],[23.8337959369528,47.4775345929802],[23.8342748363558,47.4792987168011]],[[23.8342748363558,47.4792987168011],[23.8368895958434,47.4789635839289],[23.8366500983933,47.4780815292038],[23.8405721164649,47.4775787225424],[23.8412908315234,47.4802248535113],[23.8399834360309,47.480392481282],[23.8402230073569,47.4812745259327],[23.8349932638111,47.4819448938727],[23.8342748363558,47.4792987168011]]],"type":"Polygon"}
+}

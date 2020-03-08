@@ -1,0 +1,113 @@
+{
+  "id": 1125778755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.1,46.36667,24.1,46.36667",
+    "geom:latitude":46.36667,
+    "geom:longitude":24.1,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":1023,
+    "gn:population":1023,
+    "iso:country":"RO",
+    "lbl:latitude":46.36667,
+    "lbl:longitude":24.1,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Bichi\u0219"
+    ],
+    "name:eng_x_preferred":[
+        "Bichi\u0219"
+    ],
+    "name:epo_x_preferred":[
+        "Bichi\u0219"
+    ],
+    "name:fre_x_preferred":[
+        "Bichi\u0219"
+    ],
+    "name:hun_x_preferred":[
+        "Magyarb\u00fckk\u00f6s"
+    ],
+    "name:ita_x_preferred":[
+        "Bichi\u0219"
+    ],
+    "name:may_x_preferred":[
+        "Bichi\u0219"
+    ],
+    "name:por_x_preferred":[
+        "Bichi\u0219"
+    ],
+    "name:rum_x_preferred":[
+        "Bichi\u0219"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0456\u043a\u0456\u0448"
+    ],
+    "name:vie_x_preferred":[
+        "Bichis"
+    ],
+    "name:vol_x_preferred":[
+        "Bichi\u0219"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":684903,
+    "qs_pg:gn_pop":1023,
+    "qs_pg:name":"Bichi\u015f",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":127993,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":684903,
+        "qs_pg:id":127993,
+        "wd:id":"Q662157"
+    },
+    "wof:country":"RO",
+    "wof:created":1497290379,
+    "wof:geomhash":"73fb19b2da241b4ae688f7d3c47567e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125778755,
+            "region_id":85687719
+        }
+    ],
+    "wof:id":1125778755,
+    "wof:lastmodified":1514499768,
+    "wof:name":"Bichi\u015f",
+    "wof:parent_id":85687719,
+    "wof:placetype":"locality",
+    "wof:population":1023,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.1,
+    46.36667,
+    24.1,
+    46.36667
+],
+  "geometry": {"coordinates":[24.1,46.36667],"type":"Point"}
+}

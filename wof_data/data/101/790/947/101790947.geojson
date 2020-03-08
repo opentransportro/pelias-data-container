@@ -1,0 +1,113 @@
+{
+  "id": 101790947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000066,
+    "geom:area_square_m":568686.7791,
+    "geom:bbox":"24.2538027382,45.6252267387,24.2639023052,45.6386078933",
+    "geom:latitude":45.632476,
+    "geom:longitude":24.25948,
+    "gn:population":1642,
+    "iso:country":"RO",
+    "lbl:latitude":45.634114,
+    "lbl:longitude":24.257873,
+    "mps:latitude":45.634114,
+    "mps:longitude":24.257873,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Boi\u021ba"
+    ],
+    "name:eng_x_preferred":[
+        "Boi\u021ba"
+    ],
+    "name:epo_x_preferred":[
+        "Boi\u021ba "
+    ],
+    "name:fre_x_preferred":[
+        "Boi\u021ba"
+    ],
+    "name:ger_x_preferred":[
+        "Boi\u021ba "
+    ],
+    "name:hun_x_preferred":[
+        "Bojca"
+    ],
+    "name:ita_x_preferred":[
+        "Boi\u021ba"
+    ],
+    "name:may_x_preferred":[
+        "Boi\u021ba"
+    ],
+    "name:por_x_preferred":[
+        "Boi\u021ba"
+    ],
+    "name:rum_x_preferred":[
+        "Boi\u021ba"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u0439\u0446\u0430 "
+    ],
+    "name:vol_x_preferred":[
+        "Boi\u021ba"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Sibiu",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Boi\u0163a",
+    "qs:la_lc":"*RO45146021",
+    "qs:level":"locality",
+    "qs:loc":"Boi\u0163a",
+    "qs:loc_alt":"Boita",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":684318,
+        "gp:id":867683,
+        "qs:id":2,
+        "wd:id":"Q833686"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"c7bbde6b764a57ab710f89fbb31926e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101790947,
+            "region_id":85687687
+        }
+    ],
+    "wof:id":101790947,
+    "wof:lastmodified":1514499780,
+    "wof:name":"Boi\u0163a",
+    "wof:parent_id":85687687,
+    "wof:placetype":"locality",
+    "wof:population":1642,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.25380273817433,
+    45.62522673869375,
+    24.26390230516506,
+    45.6386078933387
+],
+  "geometry": {"coordinates":[[[24.26072192711257,45.63738217841427],[24.26025453107553,45.63561783019048],[24.2627796410361,45.63527424669445],[24.26254591900027,45.63439207710729],[24.26380844394509,45.63422026605122],[24.26263988416656,45.62980941517986],[24.26390230516506,45.62963760517169],[24.2627338939331,45.62522673869375],[24.26147156975213,45.62539853264434],[24.26170521300941,45.62628071168456],[24.25918050460422,45.62662426097614],[24.26034867443673,45.63103516929101],[24.25529878504045,45.63172215195044],[24.25506520892009,45.6308399599771],[24.25380273817433,45.63101166490009],[24.25543784146464,45.63718700460794],[24.25796304704295,45.63684353480011],[24.25843038521998,45.6386078933387],[24.25969301609325,45.63843612949006],[24.25945932272322,45.63755395406542],[24.26072192711257,45.63738217841427]]],"type":"Polygon"}
+}

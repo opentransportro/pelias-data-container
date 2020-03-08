@@ -1,0 +1,69 @@
+{
+  "id": 1259893897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.2887,46.29665,23.2887,46.29665",
+    "geom:latitude":46.29665,
+    "geom:longitude":23.2887,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"5826.0",
+    "gn:asciiname":"Valea Cocesti",
+    "gn:country_code":"RO",
+    "gn:dem":865,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":663827,
+    "gn:latitude":46.29665,
+    "gn:longitude":23.2887,
+    "gn:modification_date":"2013-04-20",
+    "gn:name":"Valea Coce\u0219ti",
+    "gn:population":38,
+    "gn:timezone":"Europe/Bucharest",
+    "iso:country":"RO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":663827
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"f8c33f8ab12f07ca598f1611576dded3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1259893897,
+            "region_id":85687697
+        }
+    ],
+    "wof:id":1259893897,
+    "wof:lastmodified":1536764409,
+    "wof:name":"Valea Cocesti",
+    "wof:parent_id":85687697,
+    "wof:placetype":"locality",
+    "wof:population":38,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.2887,
+    46.29665,
+    23.2887,
+    46.29665
+],
+  "geometry": {"coordinates":[23.2887,46.29665],"type":"Point"}
+}

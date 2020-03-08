@@ -1,0 +1,107 @@
+{
+  "id": 85901705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":18319684.462383,
+    "geom:bbox":"26.271938,47.665233,26.271938,47.665233",
+    "geom:latitude":47.665233,
+    "geom:longitude":26.271938,
+    "gn:latitude":47.66667,
+    "gn:longitude":26.28333,
+    "iso:country":"RO",
+    "lbl:latitude":47.665233,
+    "lbl:longitude":26.271938,
+    "mps:latitude":47.67105,
+    "mps:longitude":26.277026,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":1,
+    "name:rum_x_preferred":[
+        "Burdujeni-Sat"
+    ],
+    "name:unk_x_variant":[
+        "Burdujeni-Sat"
+    ],
+    "qs:gn_adm0_cc":"RO",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":665850,
+    "qs:gn_nam_loc":"Suceava, Suceava, RO",
+    "qs:gn_namadm1":"00",
+    "qs:gn_name":"Burdujeni-Sat",
+    "qs:local_max":581,
+    "qs:local_sum":933,
+    "qs:localhoods":2,
+    "qs:name":"Burdujeni-Sat",
+    "qs:name_adm0":"Rom\u00e2nia",
+    "qs:name_adm1":"Suceava",
+    "qs:name_local":"Suceava",
+    "qs:photo_max":155,
+    "qs:photo_sum":352,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":31,
+    "qs:woe_adm0":23424933,
+    "qs:woe_adm1":2346647,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":881258,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        101752043,
+        85633745,
+        85687773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":683236,
+        "gp:id":868473,
+        "qs:id":1167546,
+        "qs_pg:id":1167546
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"82eee22e1b998a76d726c78b80ac68e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101752043,
+            "neighbourhood_id":85901705,
+            "region_id":85687773
+        }
+    ],
+    "wof:id":85901705,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1531932548,
+    "wof:name":"Burdujeni-Sat",
+    "wof:parent_id":101752043,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.271938,
+    47.665233,
+    26.271938,
+    47.665233
+],
+  "geometry": {"coordinates":[26.271938,47.665233],"type":"Point"}
+}

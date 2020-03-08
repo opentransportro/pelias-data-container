@@ -1,0 +1,113 @@
+{
+  "id": 101788729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000093,
+    "geom:area_square_m":798046.236778,
+    "geom:bbox":"25.1252263213,46.2672806226,25.1428212472,46.280869133",
+    "geom:latitude":46.274216,
+    "geom:longitude":25.135116,
+    "gn:population":1203,
+    "iso:country":"RO",
+    "lbl:latitude":46.275494,
+    "lbl:longitude":25.134982,
+    "mps:latitude":46.275494,
+    "mps:longitude":25.134982,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Porumbeni"
+    ],
+    "name:eng_x_preferred":[
+        "Porumbenii Mari"
+    ],
+    "name:epo_x_preferred":[
+        "Porumbenii Mari"
+    ],
+    "name:fre_x_preferred":[
+        "Porumbenii Mari"
+    ],
+    "name:hun_x_preferred":[
+        "Nagygalambfalva"
+    ],
+    "name:ita_x_preferred":[
+        "Porumbenii Mari"
+    ],
+    "name:may_x_preferred":[
+        "Porumbeni"
+    ],
+    "name:por_x_preferred":[
+        "Porumbenii Mari"
+    ],
+    "name:rum_x_preferred":[
+        "Porumbenii Mari"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u0440\u0443\u043c\u0431\u0435\u043d\u0456\u0439-\u041c\u0430\u0440\u0456"
+    ],
+    "name:unk_x_variant":[
+        "Nagygalambfalva"
+    ],
+    "name:vol_x_preferred":[
+        "Porumbenii Mari"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Harghita",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Porumbeni",
+    "qs:la_lc":"*RO32086487",
+    "qs:level":"locality",
+    "qs:loc":"Porumbenii Mari",
+    "qs:loc_alt":"Porumbenii Mari",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":669811,
+        "gp:id":878405,
+        "qs:id":111872,
+        "wd:id":"Q6302252"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"f3b70483fae720537c6ab587f22fda13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101788729,
+            "region_id":85687733
+        }
+    ],
+    "wof:id":101788729,
+    "wof:lastmodified":1514500094,
+    "wof:name":"Porumbenii Mari",
+    "wof:parent_id":85687733,
+    "wof:placetype":"locality",
+    "wof:population":1203,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.12522632131595,
+    46.26728062263123,
+    25.14282124723485,
+    46.28086913302923
+],
+  "geometry": {"coordinates":[[[25.13667644935578,46.28068656793909],[25.13617113797869,46.27892793717007],[25.13872109804277,46.27856277540008],[25.13821575054754,46.27680415314779],[25.139490679397,46.27662155646908],[25.13873267930262,46.27398362345269],[25.14128239515924,46.27361840544677],[25.14052437306685,46.27098048118552],[25.14179916008413,46.2707978598595],[25.14154648774775,46.26991855256176],[25.14282124723485,46.26973591955328],[25.14256856587673,46.26885661438382],[25.14129382612776,46.26903924392445],[25.14078853503486,46.26728062263123],[25.13951382697024,46.26746323008717],[25.13976644742212,46.26834254487062],[25.1372169684505,46.26870772126716],[25.13772216254279,46.27046636068491],[25.13517257345802,46.27083149034723],[25.13542514709292,46.27171081498147],[25.12522632131595,46.27317075530368],[25.12573118481151,46.27492945600858],[25.12828101695851,46.27456454797965],[25.12853350426337,46.27544388939532],[25.12980842840386,46.2752614091861],[25.13031347464226,46.27702008107258],[25.1315884304891,46.27683757877827],[25.13234613944104,46.27947556617369],[25.13362114674487,46.27929303832627],[25.133873757576,46.28017236131495],[25.13514877683787,46.27998981484632],[25.13540141813598,46.28086913302923],[25.13667644935578,46.28068656793909]]],"type":"Polygon"}
+}

@@ -1,0 +1,101 @@
+{
+  "id": 101791027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000129,
+    "geom:area_square_m":1107295.261143,
+    "geom:bbox":"21.4478568459,46.2022474208,21.4663826629,46.2139360035",
+    "geom:latitude":46.208275,
+    "geom:longitude":21.457563,
+    "gn:population":2205,
+    "iso:country":"RO",
+    "lbl:latitude":46.208016,
+    "lbl:longitude":21.456814,
+    "mps:latitude":46.208016,
+    "mps:longitude":21.456814,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Horia"
+    ],
+    "name:eng_x_preferred":[
+        "Horia"
+    ],
+    "name:epo_x_preferred":[
+        "Horia"
+    ],
+    "name:ger_x_preferred":[
+        "Horia"
+    ],
+    "name:hun_x_preferred":[
+        "\u00dajpan\u00e1d"
+    ],
+    "name:rum_x_preferred":[
+        "Horia"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u043e\u0440\u0456\u044f"
+    ],
+    "name:unk_x_variant":[
+        "Neupanat"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Arad",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Vladimirescu",
+    "qs:la_lc":"*RO12009397",
+    "qs:level":"locality",
+    "qs:loc":"Horia",
+    "qs:loc_alt":"Horia",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":676010,
+        "gp:id":873772,
+        "qs:id":250013,
+        "wd:id":"Q714450"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"4e33e36c14309a06da682e6970455fb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101791027,
+            "region_id":85687691
+        }
+    ],
+    "wof:id":101791027,
+    "wof:lastmodified":1514499969,
+    "wof:name":"Horia",
+    "wof:parent_id":85687691,
+    "wof:placetype":"locality",
+    "wof:population":2205,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.44785684592517,
+    46.20224742076135,
+    21.46638266285049,
+    46.21393600350024
+],
+  "geometry": {"coordinates":[[[21.46349219983398,46.21365904506911],[21.46310959501415,46.21188212093307],[21.46439196707854,46.21174362396965],[21.46400935395991,46.20996670121974],[21.46529167903805,46.20982819419078],[21.46510036423882,46.20893973399774],[21.46638266285049,46.2088012142554],[21.46580870601377,46.20613583575403],[21.46324422592733,46.2064128439871],[21.46305296437583,46.20552437723444],[21.46177073592338,46.20566285566196],[21.46119706189205,46.20299744159433],[21.45991488902888,46.20313589671974],[21.45972370122161,46.20224742076135],[21.45715937868243,46.20252427963834],[21.45735052546723,46.20341276088959],[21.45350393554418,46.2038279419416],[21.45369502896705,46.20471643015333],[21.44984832401906,46.20513148089447],[21.45023041229814,46.2069084702581],[21.4489481244002,46.20704679507213],[21.44913916028207,46.20793529093373],[21.44785684592517,46.20807360303041],[21.44823890117021,46.2098505971137],[21.45080360601764,46.20957394697837],[21.45099468693957,46.21046243726522],[21.45227705096875,46.21032408650802],[21.4528504043522,46.21298954357184],[21.45798004726367,46.2124359551583],[21.45817126349976,46.21332442830618],[21.46073609031401,46.21304753662452],[21.46092735577491,46.21393600350024],[21.46349219983398,46.21365904506911]]],"type":"Polygon"}
+}

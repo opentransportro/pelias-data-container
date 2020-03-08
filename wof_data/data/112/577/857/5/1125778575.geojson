@@ -1,0 +1,107 @@
+{
+  "id": 1125778575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.71667,44.56667,23.71667,44.56667",
+    "geom:latitude":44.56667,
+    "geom:longitude":23.71667,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":4429,
+    "gn:population":4429,
+    "iso:country":"RO",
+    "lbl:latitude":44.56667,
+    "lbl:longitude":23.71667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Meline\u0219ti"
+    ],
+    "name:eng_x_preferred":[
+        "Meline\u0219ti"
+    ],
+    "name:fre_x_preferred":[
+        "Meline\u0219ti"
+    ],
+    "name:ita_x_preferred":[
+        "Meline\u0219ti"
+    ],
+    "name:may_x_preferred":[
+        "Meline\u0219ti"
+    ],
+    "name:por_x_preferred":[
+        "Meline\u0219ti"
+    ],
+    "name:rum_x_preferred":[
+        "Meline\u0219ti"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0435\u043b\u0456\u043d\u0435\u0448\u0442\u044c"
+    ],
+    "name:vie_x_preferred":[
+        "Melinesti"
+    ],
+    "name:vol_x_preferred":[
+        "Meline\u0219ti"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":673600,
+    "qs_pg:gn_pop":4429,
+    "qs_pg:name":"Meline\u015fti",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":127441,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":673600,
+        "qs_pg:id":127441,
+        "wd:id":"Q2312895"
+    },
+    "wof:country":"RO",
+    "wof:created":1497290372,
+    "wof:geomhash":"aa56cf29e5f5643be0505bff5d3f104a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125778575,
+            "region_id":85687581
+        }
+    ],
+    "wof:id":1125778575,
+    "wof:lastmodified":1514500015,
+    "wof:name":"Meline\u015fti",
+    "wof:parent_id":85687581,
+    "wof:placetype":"locality",
+    "wof:population":4429,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.71667,
+    44.56667,
+    23.71667,
+    44.56667
+],
+  "geometry": {"coordinates":[23.71667,44.56667],"type":"Point"}
+}

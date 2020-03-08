@@ -1,0 +1,100 @@
+{
+  "id": 101791037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000135,
+    "geom:area_square_m":1157142.128561,
+    "geom:bbox":"21.3728944429,46.2490863398,21.3945270301,46.2642664832",
+    "geom:latitude":46.256488,
+    "geom:longitude":21.382692,
+    "iso:country":"RO",
+    "lbl:latitude":46.255986,
+    "lbl:longitude":21.382692,
+    "mps:latitude":46.255986,
+    "mps:longitude":21.382692,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Zimandcuz"
+    ],
+    "name:eng_x_preferred":[
+        "Zimandcuz"
+    ],
+    "name:epo_x_preferred":[
+        "Zimandcuz"
+    ],
+    "name:fre_x_preferred":[
+        "Zimandcuz"
+    ],
+    "name:hun_x_preferred":[
+        "Zim\u00e1ndk\u00f6z"
+    ],
+    "name:rum_x_preferred":[
+        "Zimandcuz"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0456\u043c\u0430\u043d\u0434\u043a\u0443\u0437"
+    ],
+    "name:unk_x_variant":[
+        "Zimand"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Arad",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Zimandu Nou",
+    "qs:la_lc":"*RO12012876",
+    "qs:level":"locality",
+    "qs:loc":"Zimandcuz",
+    "qs:loc_alt":"Zimandcuz",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":662198,
+        "gp:id":884036,
+        "qs:id":267444,
+        "qs_pg:id":267444,
+        "wd:id":"Q1467443"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"ba2ee8f49a161b6397534f37fcc619e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101791037,
+            "region_id":85687691
+        }
+    ],
+    "wof:id":101791037,
+    "wof:lastmodified":1514500259,
+    "wof:name":"Zimandcuz",
+    "wof:parent_id":85687691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.37289444291059,
+    46.24908633979129,
+    21.39452703011568,
+    46.26426648322229
+],
+  "geometry": {"coordinates":[[[21.39452703011568,46.25926222505228],[21.394336613429,46.25837364580832],[21.39048574160705,46.25878661832655],[21.38915348521192,46.2525664811177],[21.3878699934491,46.25270408941344],[21.38748946326143,46.25092689335986],[21.3823556015513,46.25147715166884],[21.38216543096928,46.25058854165269],[21.37959850572537,46.25086357326188],[21.37921827128162,46.24908633979129],[21.37793484092424,46.24922382726123],[21.37850514308263,46.25188968391166],[21.37722164508443,46.25202716389873],[21.37798207964079,46.25558163640369],[21.37541490126745,46.25585657129432],[21.37655555041772,46.26118828259558],[21.37527182885788,46.26132574276261],[21.37546194496616,46.26221436055755],[21.37289444291059,46.26248924000566],[21.37327461721082,46.26426648322229],[21.37455841237363,46.26412904592553],[21.37436830056481,46.26324042743329],[21.3769358319484,46.26296551195219],[21.37674568711077,46.26207689775788],[21.38059687800512,46.26166441705703],[21.38040667955914,46.26077580979478],[21.39452703011568,46.25926222505228]]],"type":"Polygon"}
+}

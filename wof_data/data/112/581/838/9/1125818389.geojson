@@ -1,0 +1,109 @@
+{
+  "id": 1125818389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.3,46.95,26.3,46.95",
+    "geom:latitude":46.95,
+    "geom:longitude":26.3,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":1711,
+    "iso:country":"RO",
+    "lbl:latitude":46.95,
+    "lbl:longitude":26.3,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Bistri\u021ba"
+    ],
+    "name:eng_x_preferred":[
+        "Bistri\u021ba"
+    ],
+    "name:fre_x_preferred":[
+        "Bistri\u021ba"
+    ],
+    "name:ita_x_preferred":[
+        "Bistri\u021ba"
+    ],
+    "name:rum_x_preferred":[
+        "Bistri\u021ba"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0456\u0441\u0442\u0440\u0456\u0446\u0430 "
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":684658,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Bistri\u021ba",
+    "qs_pg:name_adm0":"Rom\u00e2nia",
+    "qs_pg:name_adm1":"Neamt",
+    "qs_pg:photos":29,
+    "qs_pg:photos_1k":6,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":29,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1167541,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424933,
+    "qs_pg:woe_id":867437,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424933,
+    "woe:name_adm0":"Rom\u00e2nia",
+    "woe:name_adm1":"Neamt",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":684658,
+        "gp:id":867437,
+        "qs_pg:id":1167541,
+        "wd:id":"Q12087030"
+    },
+    "wof:country":"RO",
+    "wof:created":1497291939,
+    "wof:geomhash":"c52adfc17555e8eded00ebeb1876fe2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125818389,
+            "region_id":85687747
+        }
+    ],
+    "wof:id":1125818389,
+    "wof:lastmodified":1514499774,
+    "wof:name":"Bistri\u021ba",
+    "wof:parent_id":85687747,
+    "wof:placetype":"locality",
+    "wof:population":1711,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.3,
+    46.95,
+    26.3,
+    46.95
+],
+  "geometry": {"coordinates":[26.3,46.95],"type":"Point"}
+}

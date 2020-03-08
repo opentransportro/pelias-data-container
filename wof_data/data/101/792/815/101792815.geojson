@@ -1,0 +1,103 @@
+{
+  "id": 101792815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000052,
+    "geom:area_square_m":459026.893,
+    "geom:bbox":"24.1302518311,44.8260915466,24.1384026328,44.8461660264",
+    "geom:latitude":44.837808,
+    "geom:longitude":24.135038,
+    "gn:population":1046,
+    "iso:country":"RO",
+    "lbl:latitude":44.842846,
+    "lbl:longitude":24.134761,
+    "mps:latitude":44.842846,
+    "mps:longitude":24.134761,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Gl\u0103vile"
+    ],
+    "name:eng_x_preferred":[
+        "Gl\u0103vile"
+    ],
+    "name:fre_x_preferred":[
+        "Gl\u0103vile"
+    ],
+    "name:ita_x_preferred":[
+        "Gl\u0103vile"
+    ],
+    "name:may_x_preferred":[
+        "Gl\u0103vile"
+    ],
+    "name:por_x_preferred":[
+        "Gl\u0103vile"
+    ],
+    "name:rum_x_preferred":[
+        "Gl\u0103vile"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043b\u0435\u0432\u0456\u043b\u0435"
+    ],
+    "name:vie_x_preferred":[
+        "Glavile"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*V\u00e2lcea",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Gl\u0103vile",
+    "qs:la_lc":"*RO51170168",
+    "qs:level":"locality",
+    "qs:loc":"Gl\u0103vile",
+    "qs:loc_alt":"Glavile",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":671081,
+        "qs:id":1,
+        "wd:id":"Q2721408"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"6a63fded5d9414bf53491d0e9a307d9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101792815,
+            "region_id":85687643
+        }
+    ],
+    "wof:id":101792815,
+    "wof:lastmodified":1514499950,
+    "wof:name":"Gl\u0103vile",
+    "wof:parent_id":85687643,
+    "wof:placetype":"locality",
+    "wof:population":1046,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.13025183106265,
+    44.82609154663982,
+    24.13840263282788,
+    44.84616602643467
+],
+  "geometry": {"coordinates":[[[24.13840263282788,44.84426346925443],[24.13817619174495,44.84338037203264],[24.1369309201263,44.84355031298071],[24.13579894878103,44.83913479207837],[24.13704412691675,44.83896486667498],[24.13659136658208,44.83719865554923],[24.13783650057763,44.83702872158113],[24.1369310175703,44.83349629636393],[24.13817607004921,44.83332636004877],[24.13681801444011,44.82802770236708],[24.13806294804482,44.82785776992068],[24.13761030040229,44.82609154663982],[24.13512050118197,44.82643138432366],[24.13579937458547,44.82908073596485],[24.13206445697688,44.82959040961481],[24.13229071077944,44.83047353358324],[24.13602568445003,44.82996385061165],[24.13670467023974,44.83261318685095],[24.13545962969977,44.83278310527766],[24.13636500046903,44.83631554806146],[24.13511987841451,44.83648546413997],[24.13557258262324,44.8382516840486],[24.13432741642958,44.83842159156177],[24.13478012072483,44.84018781255486],[24.13353491038856,44.84035771150201],[24.13376125789335,44.84124082318255],[24.13127077957148,44.84158058294491],[24.13149709904951,44.84246369955866],[24.13025183106265,44.84263356037297],[24.13115712786333,44.84616602643467],[24.13240247065227,44.84599615318837],[24.13217611369686,44.84511304170474],[24.13840263282788,44.84426346925443]]],"type":"Polygon"}
+}

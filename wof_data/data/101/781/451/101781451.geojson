@@ -1,0 +1,80 @@
+{
+  "id": 101781451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000161,
+    "geom:area_square_m":1336195.317822,
+    "geom:bbox":"26.8966470775,47.856697821,26.9296359296,47.8669548379",
+    "geom:latitude":47.861151,
+    "geom:longitude":26.911972,
+    "gn:population":1073,
+    "iso:country":"RO",
+    "lbl:latitude":47.860513,
+    "lbl:longitude":26.911973,
+    "mps:latitude":47.860513,
+    "mps:longitude":26.911973,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Iacobeni-Mari"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Botosani",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"D\u00e2ngeni",
+    "qs:la_lc":"*RO17037057",
+    "qs:level":"locality",
+    "qs:loc":"Iacobeni",
+    "qs:loc_alt":"Iacobeni",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":675863,
+        "gp:id":873885,
+        "qs:id":967706,
+        "wd:id":"Q12173478"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"587cd9f0aeefe4497ac11af3dd36f340",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101781451,
+            "region_id":85687777
+        }
+    ],
+    "wof:id":101781451,
+    "wof:lastmodified":1505337906,
+    "wof:name":"Iacobeni",
+    "wof:parent_id":85687777,
+    "wof:placetype":"locality",
+    "wof:population":1073,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.89664707748659,
+    47.85669782095488,
+    26.92963592959666,
+    47.86695483792363
+],
+  "geometry": {"coordinates":[[[26.89825028397433,47.8658773935847],[26.91394378675267,47.8634221682953],[26.91423942310843,47.86429505889834],[26.92600884482869,47.86245213604792],[26.92571302143318,47.86157928186822],[26.92963592959666,47.86096470690234],[26.92904419678723,47.85921901829073],[26.92250617704781,47.86024319178557],[26.92161898609226,47.85762458679386],[26.91769624788844,47.85823886815245],[26.91740060565473,47.85736598465576],[26.91609302814447,47.85757071001029],[26.91579741956099,47.85669782095488],[26.90272133304927,47.85874418008001],[26.9024259451366,47.85787124907324],[26.89981065615495,47.85828032648448],[26.90158292717962,47.86351793837196],[26.89765954878646,47.86413151078602],[26.89795490994794,47.86500445294064],[26.89664707748659,47.86520895006089],[26.89723779681992,47.86695483792363],[26.89854567086616,47.86675033271848],[26.89825028397433,47.8658773935847]]],"type":"Polygon"}
+}

@@ -1,0 +1,142 @@
+{
+  "id": 85901839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":16000695.790828,
+    "geom:bbox":"25.636741,45.626606,25.636741,45.626606",
+    "geom:latitude":45.626606,
+    "geom:longitude":25.636741,
+    "gn:latitude":45.61667,
+    "gn:longitude":25.63333,
+    "iso:country":"RO",
+    "lbl:latitude":45.626606,
+    "lbl:longitude":25.636741,
+    "mps:latitude":45.631517,
+    "mps:longitude":25.632162,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":2,
+    "name:eng_x_preferred":[
+        "Noa"
+    ],
+    "name:ger_x_preferred":[
+        "Neuen"
+    ],
+    "name:hbs_x_preferred":[
+        "Op\u0161tina Vi\u015fina Nou\u0103"
+    ],
+    "name:hun_x_preferred":[
+        "Noa"
+    ],
+    "name:ita_x_preferred":[
+        "Vi\u0219ina Nou\u0103"
+    ],
+    "name:msa_x_preferred":[
+        "Vi\u015fina Nou\u0103"
+    ],
+    "name:nld_x_preferred":[
+        "Vi\u0219ina Nou\u0103"
+    ],
+    "name:por_x_preferred":[
+        "Vi\u015fina Nou\u0103"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Vi\u0219ina Nou\u0103"
+    ],
+    "name:rum_x_preferred":[
+        "Noua"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0456\u0448\u0438\u043d\u0430-\u041d\u043e\u0443\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Noa",
+        "Noua"
+    ],
+    "name:vol_x_preferred":[
+        "Vi\u015fina Nou\u0103"
+    ],
+    "qs:gn_adm0_cc":"RO",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":683844,
+    "qs:gn_namadm1":"00",
+    "qs:gn_name":"Noua",
+    "qs:local_max":4931,
+    "qs:local_sum":6364,
+    "qs:localhoods":4,
+    "qs:name":"Noua",
+    "qs:name_adm0":"Rom\u00e2nia",
+    "qs:name_adm1":"Brasov",
+    "qs:name_en":"Noa",
+    "qs:name_local":"Bra\u0219ov",
+    "qs:photo_max":12,
+    "qs:photo_sum":57,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":21,
+    "qs:woe_adm0":23424933,
+    "qs:woe_adm1":2346623,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":868025,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        101751991,
+        85633745,
+        85687683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":672164,
+        "gp:id":876595,
+        "qs:id":1167578,
+        "qs_pg:id":1167578,
+        "wd:id":"Q1218373"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"bd3e913454eeca553d8711757245f6fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101751991,
+            "neighbourhood_id":85901839,
+            "region_id":85687683
+        }
+    ],
+    "wof:id":85901839,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1531932578,
+    "wof:name":"Noua",
+    "wof:parent_id":101751991,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.636741,
+    45.626606,
+    25.636741,
+    45.626606
+],
+  "geometry": {"coordinates":[25.636741,45.626606],"type":"Point"}
+}

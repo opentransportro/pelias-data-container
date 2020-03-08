@@ -1,0 +1,120 @@
+{
+  "id": 101794911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000221,
+    "geom:area_square_m":1956179.367423,
+    "geom:bbox":"26.132626931,44.1659298242,26.1595928301,44.1781188801",
+    "geom:latitude":44.172314,
+    "geom:longitude":26.146651,
+    "gn:population":7717,
+    "iso:country":"RO",
+    "lbl:latitude":44.171855,
+    "lbl:longitude":26.146651,
+    "mps:latitude":44.171855,
+    "mps:longitude":26.146651,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041a\u043e\u043c\u0430\u043d\u0430"
+    ],
+    "name:dut_x_preferred":[
+        "Comana "
+    ],
+    "name:eng_x_preferred":[
+        "Comana"
+    ],
+    "name:fre_x_preferred":[
+        "Comana"
+    ],
+    "name:ger_x_preferred":[
+        "Comana"
+    ],
+    "name:ita_x_preferred":[
+        "Comana"
+    ],
+    "name:may_x_preferred":[
+        "Comana"
+    ],
+    "name:por_x_preferred":[
+        "Comana"
+    ],
+    "name:rum_x_preferred":[
+        "Comana"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u043c\u0430\u043d\u0430"
+    ],
+    "name:vie_x_preferred":[
+        "Comana"
+    ],
+    "name:vol_x_preferred":[
+        "Comana"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Giurgiu",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Comana",
+    "qs:la_lc":"*RO30102106",
+    "qs:level":"locality",
+    "qs:loc":"Comana",
+    "qs:loc_alt":"Comana",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"039f0d76-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":681036,
+        "gp:id":870098,
+        "qs:id":908678,
+        "qs_pg:id":908678,
+        "wd:id":"Q2717316"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"498818a8787fd8c4e7b0ae94f06504cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101794911,
+            "region_id":85687591
+        }
+    ],
+    "wof:id":101794911,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514499860,
+    "wof:name":"Comana",
+    "wof:parent_id":85687591,
+    "wof:placetype":"locality",
+    "wof:population":7717,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.13262693097363,
+    44.16592982419365,
+    26.15959283005105,
+    44.17811888006509
+],
+  "geometry": {"coordinates":[[[26.15549287371363,44.17734443028826],[26.15498572610898,44.17558835375877],[26.15621150678737,44.17539471208806],[26.15595793077387,44.17451667500393],[26.15718368639017,44.17432302233544],[26.15667652994301,44.17256695052765],[26.15790224283029,44.17237329032173],[26.15764866239772,44.17149525559807],[26.15887435022626,44.17130158439545],[26.15836718494529,44.16954551730777],[26.15959283005105,44.16935183856913],[26.1590856706614,44.16759577232062],[26.1554088191553,44.16817674440972],[26.15515530790685,44.16729869862644],[26.15270407194879,44.16768593415492],[26.15219715101017,44.16592982419365],[26.13748953876564,44.16825194004116],[26.13799603570493,44.17000813297341],[26.13677031801797,44.17020155556952],[26.13702356425597,44.17107965321463],[26.13579782151544,44.17127306480842],[26.13630430952588,44.17302926245702],[26.13262693097363,44.17360943122071],[26.13338658111911,44.17624374741291],[26.13461243437712,44.17605036191759],[26.13486568935338,44.1769284608248],[26.13731740906883,44.17654163954273],[26.13757070969194,44.17741973002006],[26.14002243521662,44.17703284398607],[26.14027578148733,44.17791092603193],[26.14763088681389,44.17674990015735],[26.14788434943063,44.17762795993747],[26.15033602743898,44.17724082872149],[26.15058953570548,44.17811888006509],[26.15549287371363,44.17734443028826]]],"type":"Polygon"}
+}

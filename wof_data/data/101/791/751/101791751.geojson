@@ -1,0 +1,99 @@
+{
+  "id": 101791751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000089,
+    "geom:area_square_m":778326.777753,
+    "geom:bbox":"26.4249221358,44.9672740295,26.4388477501,44.9771131835",
+    "geom:latitude":44.971757,
+    "geom:longitude":26.432095,
+    "gn:population":1290,
+    "iso:country":"RO",
+    "lbl:latitude":44.971886,
+    "lbl:longitude":26.432227,
+    "mps:latitude":44.971886,
+    "mps:longitude":26.432227,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Conduratu"
+    ],
+    "name:eng_x_preferred":[
+        "Conduratu"
+    ],
+    "name:fre_x_preferred":[
+        "Conduratu"
+    ],
+    "name:ita_x_preferred":[
+        "Conduratu"
+    ],
+    "name:rum_x_preferred":[
+        "Conduratu"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u043d\u0434\u0443\u0440\u0430\u0442\u0443"
+    ],
+    "name:unk_x_variant":[
+        "Conduratul"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Prahova",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:id":0,
+    "qs:la":"Baba Ana",
+    "qs:la_lc":"*RO42132164",
+    "qs:level":"locality",
+    "qs:loc":"Conduratu",
+    "qs:loc_alt":"Conduratu",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":680966,
+        "gp:id":870149,
+        "qs:id":410102,
+        "wd:id":"Q12112327"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"330425947f1ed1c152df3001f90e6994",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101791751,
+            "region_id":85687661
+        }
+    ],
+    "wof:id":101791751,
+    "wof:lastmodified":1514499862,
+    "wof:name":"Conduratu",
+    "wof:parent_id":85687661,
+    "wof:placetype":"locality",
+    "wof:population":1290,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.4249221357926,
+    44.96727402947715,
+    26.43884775008115,
+    44.97711318349809
+],
+  "geometry": {"coordinates":[[[26.43519939401961,44.9769158096006],[26.43493547439232,44.97603929177023],[26.43741955883837,44.97564450718068],[26.43689167918689,44.9738914813484],[26.43813367313709,44.97369407425987],[26.4376058004795,44.97194104952314],[26.43884775008115,44.97174363497459],[26.43805596789929,44.96911409722014],[26.43681407305064,44.96931150096151],[26.43655018565391,44.96843498171921],[26.43530830121574,44.96863236719446],[26.43504444294081,44.96775584282318],[26.43256068704898,44.96815056257839],[26.43229687614433,44.96727402947715],[26.42608744052421,44.96826055423611],[26.42661489068598,44.97001365491531],[26.42537294354975,44.97021092307284],[26.42616414553015,44.97284057344461],[26.4249221357926,44.97303783773629],[26.42518587326447,44.97391438840799],[26.42642790125831,44.97371712051637],[26.42669166785532,44.97459366606165],[26.42917573684497,44.97419907907812],[26.42943955082592,44.97507561589566],[26.43068159181973,44.97487829680318],[26.4309454349285,44.97575482849311],[26.4321874863399,44.9755574911328],[26.43245135857865,44.97643401769432],[26.43369342040626,44.97623666206545],[26.43395732177635,44.97711318349809],[26.43519939401961,44.9769158096006]]],"type":"Polygon"}
+}

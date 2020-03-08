@@ -1,0 +1,109 @@
+{
+  "id": 101793623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000113,
+    "geom:area_square_m":997994.530521,
+    "geom:bbox":"25.7949974623,44.3696637001,25.815940186,44.3809687124",
+    "geom:latitude":44.376459,
+    "geom:longitude":25.805273,
+    "gn:population":1092,
+    "iso:country":"RO",
+    "lbl:latitude":44.375651,
+    "lbl:longitude":25.801941,
+    "mps:latitude":44.375651,
+    "mps:longitude":25.801941,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Zorile"
+    ],
+    "name:eng_x_preferred":[
+        "Zorile"
+    ],
+    "name:rum_x_colloquial":[
+        "Faelcoaia",
+        "Faelcoaia, Garae",
+        "Faelcoianca",
+        "Falcoaia",
+        "Falcoaia, Gara",
+        "Falcoianca"
+    ],
+    "name:rum_x_preferred":[
+        "Zorile"
+    ],
+    "name:rum_x_variant":[
+        "F\u0103lcoaia",
+        "F\u0103lcoaia, Gar\u0103",
+        "F\u0103lcoianca"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u043e\u0440\u0456\u043b\u0435 "
+    ],
+    "name:unk_x_variant":[
+        "F\u0103lcoianca"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Giurgiu",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Gr\u0103dinari",
+    "qs:la_lc":"*RO30103407",
+    "qs:level":"locality",
+    "qs:loc":"Zorile",
+    "qs:loc_alt":"Zorile",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a642ee-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":662135,
+        "gp:id":884082,
+        "qs:id":112089,
+        "wd:id":"Q12107116"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"d229be639d2743b29b09203f9c80badd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101793623,
+            "region_id":85687591
+        }
+    ],
+    "wof:id":101793623,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514500260,
+    "wof:name":"Zorile",
+    "wof:parent_id":85687591,
+    "wof:placetype":"locality",
+    "wof:population":1092,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.79499746226799,
+    44.36966370012766,
+    25.8159401860122,
+    44.38096871237258
+],
+  "geometry": {"coordinates":[[[25.80561029362838,44.38058956724569],[25.80536071327879,44.37971067988389],[25.80905375431638,44.37914186337497],[25.80930338842671,44.38002074050604],[25.81422741229323,44.37926210130001],[25.81447712827571,44.38014096331125],[25.81570813384837,44.37995126375012],[25.81470925943268,44.37643582049861],[25.8159401860122,44.37624612004561],[25.81544077415612,44.37448839638898],[25.80928624717581,44.37543671916183],[25.80903664611549,44.3745578380661],[25.80534389581243,44.37512664704258],[25.80409631210034,44.3707321682997],[25.80532714661342,44.37054259689137],[25.80507764252241,44.36966370012766],[25.8026160020047,44.37004282158972],[25.80286547026941,44.37092172517072],[25.80163462112148,44.37111126750438],[25.80188408165833,44.3719901730193],[25.7981914365696,44.37255872301785],[25.79869028070499,44.37431655007316],[25.79499746226799,44.37488498967292],[25.79524684585789,44.37576391121252],[25.79770876796994,44.37538495920319],[25.79845708736963,44.37802169453482],[25.79599505773541,44.3784006669909],[25.79624448206619,44.37927958263674],[25.79747551846361,44.37909010027062],[25.79772497090369,44.37996901103486],[25.80141808995177,44.37940046647088],[25.80166760634631,44.38027936553533],[25.80289864931149,44.38008981819149],[25.80314819381852,44.38096871237258],[25.80561029362838,44.38058956724569]]],"type":"Polygon"}
+}

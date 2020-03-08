@@ -1,0 +1,101 @@
+{
+  "id": 101789551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00015,
+    "geom:area_square_m":1286868.076855,
+    "geom:bbox":"22.7035104165,46.1641406823,22.7246137073,46.1813105139",
+    "geom:latitude":46.17399,
+    "geom:longitude":22.713344,
+    "gn:population":2987,
+    "iso:country":"RO",
+    "lbl:latitude":46.173922,
+    "lbl:longitude":22.714064,
+    "mps:latitude":46.173922,
+    "mps:longitude":22.714064,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Baia de Cri\u0219"
+    ],
+    "name:eng_x_preferred":[
+        "Baia de Cri\u0219"
+    ],
+    "name:fre_x_preferred":[
+        "Baia de Cri\u0219"
+    ],
+    "name:hun_x_preferred":[
+        "K\u00f6r\u00f6sb\u00e1nya"
+    ],
+    "name:ita_x_preferred":[
+        "Baia de Cri\u0219"
+    ],
+    "name:rum_x_preferred":[
+        "Baia de Cri\u0219"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u044f-\u0434\u0435-\u041a\u0440\u0456\u0448"
+    ],
+    "name:unk_x_variant":[
+        "Baia de Cri\u015f"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Hunedoara",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Baia de Cri\u015f",
+    "qs:la_lc":"*RO33087745",
+    "qs:level":"locality",
+    "qs:loc":"Baia de Cris",
+    "qs:loc_alt":"Baia de Cris",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":685832,
+        "gp:id":15001373,
+        "qs:id":497359,
+        "wd:id":"Q15296381"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"a1b78621b9aed9db36ad65ab0c89c8db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101789551,
+            "region_id":85687671
+        }
+    ],
+    "wof:id":101789551,
+    "wof:lastmodified":1514499756,
+    "wof:name":"Baia de Cris",
+    "wof:parent_id":85687671,
+    "wof:placetype":"locality",
+    "wof:population":2987,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.70351041649587,
+    46.16414068233564,
+    22.72461370725063,
+    46.18131051393266
+],
+  "geometry": {"coordinates":[[[22.71053987083843,46.17981110870511],[22.71437643706844,46.1793506602977],[22.71416458418071,46.17846499171958],[22.7180010306555,46.17800441456023],[22.71778912611643,46.17711875366592],[22.71906790825278,46.17696520031154],[22.71822029951545,46.17342255751447],[22.72461370725063,46.17265462007072],[22.7237658386104,46.16911201831107],[22.71609421491712,46.17003342719551],[22.7156705774072,46.16826208465619],[22.71311339789247,46.1685690870342],[22.71205466424186,46.16414068233564],[22.7107761657312,46.16429414599236],[22.71119959168863,46.16606551699385],[22.70992104618909,46.16621897121991],[22.71055619214201,46.16887602830218],[22.70927757942979,46.16902947601966],[22.71012448614624,46.17257221520504],[22.70884578598879,46.17272565933655],[22.70905751500476,46.17361134432736],[22.70777878806427,46.17376477610287],[22.70799050587982,46.17465046292546],[22.70671175215557,46.17480388234446],[22.70692345876904,46.17568957099883],[22.70564467825966,46.17584297806059],[22.70585637366929,46.1767286685469],[22.7045775663737,46.17688206325113],[22.70478925057841,46.17776775556899],[22.70351041649587,46.17792113791512],[22.70393377151555,46.17969252512376],[22.70521264605941,46.17953913693236],[22.70563607763847,46.18131051393266],[22.71075167206686,46.18069678496545],[22.71053987083843,46.17981110870511]]],"type":"Polygon"}
+}

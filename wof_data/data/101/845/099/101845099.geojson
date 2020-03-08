@@ -1,0 +1,75 @@
+{
+  "id": 101845099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000033,
+    "geom:bbox":"27.6367962676,44.4099244091,27.6444335969,44.4162206641",
+    "geom:latitude":44.413134,
+    "geom:longitude":27.640707,
+    "iso:country":"RO",
+    "lbl:latitude":44.413188,
+    "lbl:longitude":27.641016,
+    "mps:latitude":44.413188,
+    "mps:longitude":27.641016,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Calarasi",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"\u015etefan cel Mare",
+    "qs:la_lc":"*RO22094562",
+    "qs:level":"locality",
+    "qs:loc":"\u015etefan cel Mare",
+    "qs:loc_alt":"Stefan cel Mare",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":666250,
+        "gp:id":869940,
+        "qs:id":5
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"9d3123181754e72a50d974fcc9010192",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101845099,
+            "region_id":85687615
+        }
+    ],
+    "wof:id":101845099,
+    "wof:lastmodified":1534985977,
+    "wof:name":"\u015etefan cel Mare",
+    "wof:parent_id":85687615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[
+        1175613459
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.63679626757892,
+    44.4099244091297,
+    27.64443359687499,
+    44.41622066406273
+],
+  "geometry": {"coordinates":[[[27.64443359687499,44.41145942140503],[27.64415502150689,44.41058620871598],[27.64292858283164,44.41079762729072],[27.64265003625138,44.4099244091297],[27.63897072390091,44.41055856700382],[27.63924921805381,44.41143179651954],[27.63679626757892,44.41185450392476],[27.63818873322799,44.41622066406273],[27.6443214854354,44.41516369279861],[27.64320714072448,44.41167084376514],[27.64443359687499,44.41145942140503]]],"type":"Polygon"}
+}

@@ -1,0 +1,112 @@
+{
+  "id": 101790833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000176,
+    "geom:area_square_m":1536642.549546,
+    "geom:bbox":"28.4797374672,45.1007870247,28.495448772,45.1197354513",
+    "geom:latitude":45.111062,
+    "geom:longitude":28.48672,
+    "gn:population":1679,
+    "iso:country":"RO",
+    "lbl:latitude":45.111324,
+    "lbl:longitude":28.486719,
+    "mps:latitude":45.111324,
+    "mps:longitude":28.486719,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041c\u0435\u0433\u0434\u0430\u043d\u043a\u044c\u043e\u0439"
+    ],
+    "name:dut_x_preferred":[
+        "Valea Teilor"
+    ],
+    "name:eng_x_preferred":[
+        "Meidankioi"
+    ],
+    "name:eng_x_variant":[
+        "Meidanchioi",
+        "Valea Teilor"
+    ],
+    "name:fre_x_preferred":[
+        "Valea Teilor"
+    ],
+    "name:hun_x_preferred":[
+        "Valea Teilor"
+    ],
+    "name:ita_x_preferred":[
+        "Valea Teilor"
+    ],
+    "name:por_x_preferred":[
+        "Valea Teilor"
+    ],
+    "name:rum_x_preferred":[
+        "Valea Teilor"
+    ],
+    "name:unk_x_variant":[
+        "Meidanchioi"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Tulcea",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Valea Teilor",
+    "qs:la_lc":"*RO49161561",
+    "qs:level":"locality",
+    "qs:loc":"Valea Teilor",
+    "qs:loc_alt":"Valea Teilor",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a5c3fa-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":663363,
+        "gp:id":883168,
+        "qs:id":112007,
+        "wd:id":"Q593601"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"d5a8affd2c9540610d85a15f77f99484",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101790833,
+            "region_id":85687679
+        }
+    ],
+    "wof:id":101790833,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514500234,
+    "wof:name":"Valea Teilor",
+    "wof:parent_id":85687679,
+    "wof:placetype":"locality",
+    "wof:population":1679,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.47973746719913,
+    45.10078702468644,
+    28.49544877202158,
+    45.11973545133441
+],
+  "geometry": {"coordinates":[[[28.48712227262388,45.11820026850791],[28.49083879388991,45.11753474696172],[28.49113657365058,45.11840451494544],[28.49237541425333,45.11818264129408],[28.49267322403529,45.1190524034605],[28.4939120736305,45.11883051122101],[28.49420991343504,45.11970026756973],[28.49544877202158,45.11947835674187],[28.4942574148796,45.11599933684056],[28.49301862751355,45.11622123150801],[28.49152979493778,45.11187239643124],[28.49276849329181,45.111650521961],[28.49217301014471,45.10991098356425],[28.4909343473912,45.11013284995693],[28.49004126764379,45.10752351691303],[28.49127987700166,45.1073016626359],[28.49008920372592,45.1038225431767],[28.49132773309231,45.1036006905066],[28.49073243410368,45.10186112818644],[28.48701692635512,45.10252661833971],[28.48642178294608,45.10078702468644],[28.48394480493846,45.10123059592269],[28.4842423349528,45.1021004017108],[28.48176528614584,45.10254392284332],[28.4829553858462,45.10602316051711],[28.48047815944761,45.10646665575871],[28.48226346147794,45.11168550740985],[28.48102472826167,45.11190725743029],[28.48161989096639,45.11364686851022],[28.48038111333426,45.11386861205744],[28.48097628925171,45.11560822410621],[28.47973746719913,45.11582996117932],[28.48033265632819,45.11756957419777],[28.48157151399727,45.11734782905017],[28.48186914468198,45.11821762885785],[28.48310801135079,45.11799586512404],[28.48370334496769,45.11973545133441],[28.48741999896328,45.11907004860933],[28.48712227262388,45.11820026850791]]],"type":"Polygon"}
+}

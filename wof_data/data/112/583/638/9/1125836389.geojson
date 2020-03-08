@@ -1,0 +1,80 @@
+{
+  "id": 1125836389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.350681,46.161879,24.350681,46.161879",
+    "geom:latitude":46.161879,
+    "geom:longitude":24.350681,
+    "gn:gn_country":null,
+    "iso:country":"RO",
+    "lbl:latitude":46.161879,
+    "lbl:longitude":24.350681,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Media\u0219",
+    "qs_pg:name_adm0":"Rom\u00e2nia",
+    "qs_pg:name_adm1":"Sibiu",
+    "qs_pg:photos":753,
+    "qs_pg:photos_1k":153,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":6,
+    "qs_pg:photos_all":753,
+    "qs_pg:photos_sr":9,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1092259,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424933,
+    "qs_pg:woe_id":875535,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424933,
+    "woe:name_adm0":"Rom\u00e2nia",
+    "woe:name_adm1":"Sibiu",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":875535,
+        "qs_pg:id":1092259
+    },
+    "wof:country":"RO",
+    "wof:created":1497292733,
+    "wof:geomhash":"2c971aa02d4b7785f581430489f84b70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125836389,
+            "region_id":85687687
+        }
+    ],
+    "wof:id":1125836389,
+    "wof:lastmodified":1509395005,
+    "wof:name":"Media\u0219",
+    "wof:parent_id":85687687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.350681,
+    46.161879,
+    24.350681,
+    46.161879
+],
+  "geometry": {"coordinates":[24.350681,46.161879],"type":"Point"}
+}

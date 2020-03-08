@@ -1,0 +1,101 @@
+{
+  "id": 101791743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000103,
+    "geom:area_square_m":898069.334947,
+    "geom:bbox":"26.2213082838,44.9474943393,26.2358945406,44.9628932648",
+    "geom:latitude":44.95515,
+    "geom:longitude":26.228602,
+    "gn:population":5695,
+    "iso:country":"RO",
+    "lbl:latitude":44.955254,
+    "lbl:longitude":26.228491,
+    "mps:latitude":44.955254,
+    "mps:longitude":26.228491,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Albe\u0219ti-Paleologu"
+    ],
+    "name:eng_x_preferred":[
+        "Albe\u0219ti-Paleologu"
+    ],
+    "name:fre_x_preferred":[
+        "Albe\u0219ti-Paleologu"
+    ],
+    "name:hun_x_preferred":[
+        "Albe\u0219ti-Paleologu"
+    ],
+    "name:ita_x_preferred":[
+        "Albe\u0219ti-Paleologu"
+    ],
+    "name:rum_x_preferred":[
+        "Albe\u0219ti-Paleologu"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043b\u0431\u0435\u0448\u0442\u044c-\u041f\u0430\u043b\u0435\u043e\u043b\u043e\u0433\u0443"
+    ],
+    "name:unk_x_variant":[
+        "Paleologu"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Prahova",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Albe\u015fti-Paleologu",
+    "qs:la_lc":"*RO42131933",
+    "qs:level":"locality",
+    "qs:loc":"Albe\u015fti-Paleologu",
+    "qs:loc_alt":"Albesti-Paleologu",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":686542,
+        "gp:id":866105,
+        "qs:id":1277761,
+        "wd:id":"Q12077538"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"f715c28ec2c8079f047edc13328bfe51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101791743,
+            "region_id":85687661
+        }
+    ],
+    "wof:id":101791743,
+    "wof:lastmodified":1514499734,
+    "wof:name":"Albe\u015fti-Paleologu",
+    "wof:parent_id":85687661,
+    "wof:placetype":"locality",
+    "wof:population":5695,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.22130828384951,
+    44.94749433933396,
+    26.2358945406009,
+    44.962893264836
+],
+  "geometry": {"coordinates":[[[26.23451326246584,44.9626982854428],[26.23216807503508,44.95480402229884],[26.2358945406009,44.95421909215486],[26.23537339623857,44.95246481625861],[26.23413128537146,44.95265980053085],[26.23361022054121,44.95090551149895],[26.22988395121968,44.95149035492352],[26.22962348977404,44.95061319747799],[26.22838140280794,44.9508081123812],[26.22786054869505,44.9490537858639],[26.22661849056652,44.94924867897976],[26.22609771595802,44.94749433933396],[26.22361364963842,44.94788406732039],[26.22439471792103,44.95051559586977],[26.22315261829146,44.95071044851989],[26.22549623806401,44.95860498498479],[26.22425396605945,44.95879985496765],[26.22451440363284,44.95967702172612],[26.22327210559047,44.95987188058916],[26.22353253560203,44.96074904940127],[26.22229021152145,44.9609438971442],[26.22255063397006,44.9618210680099],[26.22130828384951,44.9620159046321],[26.22156869873419,44.96289307755183],[26.22405342783378,44.96250338251593],[26.22379297634961,44.96162621670999],[26.22503531098795,44.96143135073277],[26.22477485194179,44.96055418698103],[26.22601716054004,44.96035930988381],[26.2257566939337,44.95948214818605],[26.23072577771705,44.95870250726],[26.23176800132069,44.96221108810153],[26.23301032609174,44.9620161269446],[26.23327092714339,44.962893264836],[26.23451326246584,44.9626982854428]]],"type":"Polygon"}
+}

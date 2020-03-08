@@ -1,0 +1,110 @@
+{
+  "id": 101834867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000139,
+    "geom:area_square_m":1191034.073416,
+    "geom:bbox":"21.6601480744,46.290533835,21.6830253288,46.3042345239",
+    "geom:latitude":46.296686,
+    "geom:longitude":21.670557,
+    "gn:population":3498,
+    "iso:country":"RO",
+    "lbl:latitude":46.296602,
+    "lbl:longitude":21.669777,
+    "mps:latitude":46.296602,
+    "mps:longitude":21.669777,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "M\u00e2sca"
+    ],
+    "name:eng_x_preferred":[
+        "M\u00e2sca"
+    ],
+    "name:epo_x_preferred":[
+        "M\u00e2sca"
+    ],
+    "name:fre_x_preferred":[
+        "M\u00e2sca"
+    ],
+    "name:hun_x_preferred":[
+        "Muszka"
+    ],
+    "name:ita_x_preferred":[
+        "M\u00e2sca"
+    ],
+    "name:rum_x_preferred":[
+        "M\u00e2sca"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0438\u0441\u043a\u0430"
+    ],
+    "name:unk_x_variant":[
+        "M\u00eesca"
+    ],
+    "name:vie_x_preferred":[
+        "M\u00e2sca"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Arad",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"\u015eiria",
+    "qs:la_lc":"*RO12012368",
+    "qs:level":"locality",
+    "qs:loc":"M\u00e2sca",
+    "qs:loc_alt":"Masca",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":673079,
+        "gp:id":872589,
+        "qs:id":1027683,
+        "qs_pg:id":1027683,
+        "wd:id":"Q683613"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"955b85806db06329b6038c66a9e9ed43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101834867,
+            "region_id":85687691
+        }
+    ],
+    "wof:id":101834867,
+    "wof:lastmodified":1514500035,
+    "wof:name":"M\u00e2sca",
+    "wof:parent_id":85687691,
+    "wof:placetype":"locality",
+    "wof:population":3498,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.66014807436403,
+    46.2905338349924,
+    21.68302532879335,
+    46.30423452385207
+],
+  "geometry": {"coordinates":[[[21.66066391188673,46.29283337692135],[21.66014807436403,46.29408637155774],[21.66220440641195,46.29386073943181],[21.66317986806456,46.29830063615623],[21.66446385451786,46.29815969970474],[21.66524445654284,46.30171158844342],[21.66652851917684,46.30157062580787],[21.66711412018668,46.30423452385207],[21.6683982384418,46.30409353773064],[21.66800778827019,46.30231761209598],[21.67185998312556,46.30189457765903],[21.67166470888668,46.3010066214614],[21.67423276723679,46.30072452700671],[21.67403746023422,46.29983657522297],[21.68302532879335,46.29884877909808],[21.68282988622559,46.29796084524969],[21.68026199534006,46.29824314420068],[21.68006660226342,46.29735520395042],[21.67878266824869,46.2974963276539],[21.67858730410086,46.29660838370762],[21.67730338455937,46.29674948932853],[21.67593621369713,46.2905338349924],[21.67336864415739,46.29081596226064],[21.67356388807639,46.29170392126207],[21.66072546998794,46.29311366198618],[21.66066391188673,46.29283337692135]]],"type":"Polygon"}
+}

@@ -1,0 +1,118 @@
+{
+  "id": 101845079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000102,
+    "geom:area_square_m":898167.566928,
+    "geom:bbox":"22.8559987379,44.5068786246,22.8739845684,44.5181351693",
+    "geom:latitude":44.511506,
+    "geom:longitude":22.86361,
+    "gn:population":1985,
+    "iso:country":"RO",
+    "lbl:latitude":44.511736,
+    "lbl:longitude":22.863473,
+    "mps:latitude":44.511736,
+    "mps:longitude":22.863473,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Livezile"
+    ],
+    "name:eng_x_preferred":[
+        "Broscari"
+    ],
+    "name:fre_x_preferred":[
+        "Livezile"
+    ],
+    "name:ita_x_preferred":[
+        "Livezile"
+    ],
+    "name:may_x_preferred":[
+        "Livezile"
+    ],
+    "name:por_x_preferred":[
+        "Livezile"
+    ],
+    "name:rum_x_preferred":[
+        "Livezile"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0456\u0432\u0435\u0437\u0456\u043b\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Broscari"
+    ],
+    "name:vie_x_preferred":[
+        "Livezile"
+    ],
+    "name:vol_x_preferred":[
+        "Livezile"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Mehedinti",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:id":0,
+    "qs:la":"Livezile",
+    "qs:la_lc":"*RO38112600",
+    "qs:level":"locality",
+    "qs:loc":"Livezile",
+    "qs:loc_alt":"Livezile",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a17944-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":674647,
+        "gp:id":874777,
+        "qs:id":262346,
+        "qs_pg:id":262346,
+        "wd:id":"Q2465443"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"150c3ee0cc523fa14e3839dc41a68f9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101845079,
+            "region_id":85687599
+        }
+    ],
+    "wof:id":101845079,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514499997,
+    "wof:name":"Livezile",
+    "wof:parent_id":85687599,
+    "wof:placetype":"locality",
+    "wof:population":1985,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.85599873788271,
+    44.50687862459182,
+    22.87398456835763,
+    44.51813516926489
+],
+  "geometry": {"coordinates":[[[22.86300409250657,44.51589844706507],[22.86672744319708,44.51543464788648],[22.8665231942673,44.51454813504733],[22.86776428035063,44.51439350860801],[22.86756002116914,44.51350699740527],[22.86880108250409,44.51335235901604],[22.86859681307288,44.51246584944931],[22.86983784966048,44.5123111991104],[22.86922503591711,44.50965167179186],[22.87294794116787,44.50918765751931],[22.87274363074897,44.50830115449759],[22.87398456835763,44.50814645636541],[22.87378024769521,44.50725995498021],[22.86509368782555,44.50834251225922],[22.86488950633748,44.50745599001573],[22.86240761488125,44.50776515363185],[22.86220347917771,44.50687862459182],[22.85599873788271,44.50765126127499],[22.8562027801886,44.50853780436279],[22.8574437592452,44.50838330373824],[22.85887242203842,44.51458905279333],[22.85763131219932,44.51474357308479],[22.85783542190268,44.51563010677484],[22.85907655042763,44.51547558367332],[22.85968898616301,44.51813516926489],[22.86217133714979,44.51782606190937],[22.86196714610082,44.51693954017509],[22.86320829381202,44.51678496716329],[22.86300409250657,44.51589844706507]]],"type":"Polygon"}
+}

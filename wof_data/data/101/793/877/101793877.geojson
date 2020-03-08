@@ -1,0 +1,108 @@
+{
+  "id": 101793877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000047,
+    "geom:area_square_m":409128.416933,
+    "geom:bbox":"22.3532251276,44.9549716284,22.3594256712,44.9675433282",
+    "geom:latitude":44.961582,
+    "geom:longitude":22.356146,
+    "gn:population":1101,
+    "iso:country":"RO",
+    "lbl:latitude":44.962971,
+    "lbl:longitude":22.356205,
+    "mps:latitude":44.962971,
+    "mps:longitude":22.356205,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041f\u043b\u0443\u0433\u043e\u0432\u0430"
+    ],
+    "name:dut_x_preferred":[
+        "Plugova"
+    ],
+    "name:eng_x_preferred":[
+        "Plugovo"
+    ],
+    "name:epo_x_preferred":[
+        "Plugova"
+    ],
+    "name:fre_x_preferred":[
+        "Plugova"
+    ],
+    "name:hun_x_preferred":[
+        "Ek\u00e9s"
+    ],
+    "name:rum_x_preferred":[
+        "Plugova"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043b\u0443\u0433\u043e\u0432\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Plugovo"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Caras-Severin",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Mehadia",
+    "qs:la_lc":"*RO23053274",
+    "qs:level":"locality",
+    "qs:loc":"Plugova",
+    "qs:loc_alt":"Plugova",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a315a6-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":670388,
+        "gp:id":877935,
+        "qs:id":412180,
+        "wd:id":"Q632565"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"274b6cbe8fb3a3faa0fd02d5b16b6a39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101793877,
+            "region_id":85687627
+        }
+    ],
+    "wof:id":101793877,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514500085,
+    "wof:name":"Plugova",
+    "wof:parent_id":85687627,
+    "wof:placetype":"locality",
+    "wof:population":1101,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.35322512757176,
+    44.95497162842139,
+    22.35942567116803,
+    44.96754332815402
+],
+  "geometry": {"coordinates":[[[22.35837240686897,44.96739460554647],[22.35817360989398,44.96650725725738],[22.35942567116803,44.96635852246635],[22.3572392403093,44.95659764812996],[22.35598738997106,44.95674635276879],[22.35559000311321,44.95497162842139],[22.35433818514446,44.9551203126577],[22.35453685526164,44.95600767812698],[22.35328501214889,44.9561563501814],[22.35447709170398,44.96148053611228],[22.35322512757176,44.96162920968385],[22.35401993619712,44.9651786557223],[22.35527197704198,44.96502997118864],[22.35566946941287,44.96680468206398],[22.35692154264234,44.96665597712331],[22.35712032043602,44.96754332815402],[22.35837240686897,44.96739460554647]]],"type":"Polygon"}
+}

@@ -1,0 +1,105 @@
+{
+  "id": 1125794233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.88333,44.63333,26.88333,44.63333",
+    "geom:latitude":44.63333,
+    "geom:longitude":26.88333,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3371,
+    "gn:population":1069,
+    "iso:country":"RO",
+    "lbl:latitude":44.63333,
+    "lbl:longitude":26.88333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Balaciu"
+    ],
+    "name:eng_x_preferred":[
+        "Balaciu"
+    ],
+    "name:hun_x_preferred":[
+        "Balaciu"
+    ],
+    "name:ita_x_preferred":[
+        "Balaciu"
+    ],
+    "name:rum_x_preferred":[
+        "Balaciu"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u043b\u0430\u0447\u0443"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":685714,
+    "qs_pg:gn_pop":3371,
+    "qs_pg:name":"Balaciu de Sus",
+    "qs_pg:name_adm0":"Rom\u00e2nia",
+    "qs_pg:name_adm1":"Ialomita",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1277835,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424933,
+    "qs_pg:woe_id":866705,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424933,
+    "woe:name_adm0":"Rom\u00e2nia",
+    "woe:name_adm1":"Ialomita",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":685714,
+        "gp:id":866705,
+        "qs_pg:id":1277835,
+        "wd:id":"Q13569904"
+    },
+    "wof:country":"RO",
+    "wof:created":1497290985,
+    "wof:geomhash":"4f197d01c3eb1e126b148a8260a93a3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125794233,
+            "region_id":85687621
+        }
+    ],
+    "wof:id":1125794233,
+    "wof:lastmodified":1514499757,
+    "wof:name":"Balaciu de Sus",
+    "wof:parent_id":85687621,
+    "wof:placetype":"locality",
+    "wof:population":1069,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.88333,
+    44.63333,
+    26.88333,
+    44.63333
+],
+  "geometry": {"coordinates":[26.88333,44.63333],"type":"Point"}
+}

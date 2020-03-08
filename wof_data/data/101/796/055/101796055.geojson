@@ -1,0 +1,98 @@
+{
+  "id": 101796055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000131,
+    "geom:area_square_m":1157734.480497,
+    "geom:bbox":"23.0698933535,44.1650265886,23.0871605993,44.179891015",
+    "geom:latitude":44.173179,
+    "geom:longitude":23.079193,
+    "gn:population":1403,
+    "iso:country":"RO",
+    "lbl:latitude":44.173053,
+    "lbl:longitude":23.079193,
+    "mps:latitude":44.173053,
+    "mps:longitude":23.079193,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0413\u0435\u043c\u0435\u043d\u0438"
+    ],
+    "name:dut_x_preferred":[
+        "Gemeni"
+    ],
+    "name:eng_x_preferred":[
+        "Gemeni"
+    ],
+    "name:fre_x_preferred":[
+        "Gemeni"
+    ],
+    "name:ita_x_preferred":[
+        "Gemeni"
+    ],
+    "name:rum_x_preferred":[
+        "Gemeni"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0436\u0435\u043c\u0435\u043d\u044c"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Mehedinti",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"D\u00e2rvari",
+    "qs:la_lc":"*RO38111550",
+    "qs:level":"locality",
+    "qs:loc":"Gemeni",
+    "qs:loc_alt":"Gemeni",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":677530,
+        "gp:id":872673,
+        "qs:id":410771,
+        "wd:id":"Q12100726"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"8db158ea458e94e3a3b7202171e94d39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101796055,
+            "region_id":85687599
+        }
+    ],
+    "wof:id":101796055,
+    "wof:lastmodified":1514499940,
+    "wof:name":"Gemeni",
+    "wof:parent_id":85687599,
+    "wof:placetype":"locality",
+    "wof:population":1403,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.06989335352961,
+    44.16502658856103,
+    23.08716059929208,
+    44.17989101496596
+],
+  "geometry": {"coordinates":[[[23.07934952574607,44.17942002325935],[23.07893830832597,44.17764747389339],[23.0801717167119,44.17749045300803],[23.07996610229378,44.17660417933922],[23.08366623608015,44.17613303725528],[23.08346057503269,44.17524677086129],[23.08716059929208,44.17477550540019],[23.08489827875621,44.16502658856103],[23.08366514521549,44.16518366058824],[23.0838707502154,44.16606993463313],[23.08263759228157,44.16622699483941],[23.08284318736548,44.16711327050172],[23.08037681666048,44.16742735262272],[23.08058238348036,44.16831363272979],[23.07811595188934,44.16862766190758],[23.07832149044157,44.16951394645912],[23.0758549979634,44.1698279226913],[23.07606050824381,44.17071421168657],[23.07359395487816,44.17102813497036],[23.07379943688329,44.1719144284092],[23.07133282262998,44.17222829874197],[23.07215468808391,44.17577348301734],[23.07092129847211,44.17593040750978],[23.07112676754411,44.17681670338322],[23.06989335352961,44.17697361604922],[23.07009881267072,44.1778599135406],[23.07133224504224,44.17770299804863],[23.07153773096684,44.17858929150577],[23.0752380468673,44.17811844863616],[23.07564915414599,44.17989101496596],[23.07934952574607,44.17942002325935]]],"type":"Polygon"}
+}

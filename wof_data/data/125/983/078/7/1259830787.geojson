@@ -1,0 +1,69 @@
+{
+  "id": 1259830787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.05372,45.67909,27.05372,45.67909",
+    "geom:latitude":45.67909,
+    "geom:longitude":27.05372,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"175732",
+    "gn:asciiname":"Bontesti",
+    "gn:country_code":"RO",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":684242,
+    "gn:latitude":45.67909,
+    "gn:longitude":27.05372,
+    "gn:modification_date":"2013-04-21",
+    "gn:name":"Bon\u021be\u0219ti",
+    "gn:population":447,
+    "gn:timezone":"Europe/Bucharest",
+    "iso:country":"RO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":684242
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"bcd0c07f0eddc23a3a839b703ff4bf9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1259830787,
+            "region_id":85687705
+        }
+    ],
+    "wof:id":1259830787,
+    "wof:lastmodified":1536854107,
+    "wof:name":"Bontesti",
+    "wof:parent_id":85687705,
+    "wof:placetype":"locality",
+    "wof:population":447,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.05372,
+    45.67909,
+    27.05372,
+    45.67909
+],
+  "geometry": {"coordinates":[27.05372,45.67909],"type":"Point"}
+}

@@ -1,0 +1,111 @@
+{
+  "id": 1125854805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.26667,45.08333,26.26667,45.08333",
+    "geom:latitude":45.08333,
+    "geom:longitude":26.26667,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":2651,
+    "gn:population":2651,
+    "iso:country":"RO",
+    "lbl:latitude":45.08333,
+    "lbl:longitude":26.26667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Gornet-Cricov"
+    ],
+    "name:eng_x_preferred":[
+        "Gornet-Cricov"
+    ],
+    "name:fre_x_preferred":[
+        "Gornet-Cricov"
+    ],
+    "name:hun_x_preferred":[
+        "Gornet-Cricov"
+    ],
+    "name:ita_x_preferred":[
+        "Gornet-Cricov"
+    ],
+    "name:rum_x_preferred":[
+        "Gornet-Cricov"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u0435\u0442-\u041a\u0440\u0456\u043a\u043e\u0432"
+    ],
+    "name:unk_x_variant":[
+        "Cricov"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":676888,
+    "qs_pg:gn_pop":2651,
+    "qs_pg:name":"Gornet-Cricov",
+    "qs_pg:name_adm0":"Rom\u00e2nia",
+    "qs_pg:name_adm1":"Prahova",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1278589,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424933,
+    "qs_pg:woe_id":873130,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424933,
+    "woe:name_adm0":"Rom\u00e2nia",
+    "woe:name_adm1":"Prahova",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":676888,
+        "gp:id":873130,
+        "qs_pg:id":1278589,
+        "wd:id":"Q14077986"
+    },
+    "wof:country":"RO",
+    "wof:created":1497293569,
+    "wof:geomhash":"aaad34203ef650836e527d9005e58f3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125854805,
+            "region_id":85687661
+        }
+    ],
+    "wof:id":1125854805,
+    "wof:lastmodified":1514499952,
+    "wof:name":"Gornet-Cricov",
+    "wof:parent_id":85687661,
+    "wof:placetype":"locality",
+    "wof:population":2651,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.26667,
+    45.08333,
+    26.26667,
+    45.08333
+],
+  "geometry": {"coordinates":[26.26667,45.08333],"type":"Point"}
+}

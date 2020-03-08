@@ -1,0 +1,136 @@
+{
+  "id": 101789773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000092,
+    "geom:area_square_m":788056.170281,
+    "geom:bbox":"23.8112386824,46.2856666188,23.8292668518,46.3000769663",
+    "geom:latitude":46.291129,
+    "geom:longitude":23.818593,
+    "gn:population":1132,
+    "iso:country":"RO",
+    "lbl:latitude":46.289801,
+    "lbl:longitude":23.817705,
+    "mps:latitude":46.289801,
+    "mps:longitude":23.817705,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Lopadea Nou\u0103"
+    ],
+    "name:ara_x_preferred":[
+        "\u0644\u0648\u0628\u0627\u062f\u064a\u0627 \u0646\u0648\u0627"
+    ],
+    "name:dut_x_preferred":[
+        "Lopadea Nou\u0103"
+    ],
+    "name:eng_x_preferred":[
+        "Lopadea Nou\u0103"
+    ],
+    "name:epo_x_preferred":[
+        "Lopadea Nou\u0103"
+    ],
+    "name:fre_x_preferred":[
+        "Lopadea Nou\u0103"
+    ],
+    "name:ger_x_preferred":[
+        "Lopadea Nou\u0103"
+    ],
+    "name:hun_x_preferred":[
+        "Magyarlap\u00e1d"
+    ],
+    "name:ita_x_preferred":[
+        "Lopadea Nou\u0103"
+    ],
+    "name:mac_x_preferred":[
+        "\u041b\u043e\u043f\u0430\u0434\u0435\u0430 \u041d\u043e\u0432\u0430"
+    ],
+    "name:may_x_preferred":[
+        "Lopadea Nou\u0103"
+    ],
+    "name:por_x_preferred":[
+        "Lopadea Nou\u0103"
+    ],
+    "name:rum_x_colloquial":[
+        "Lopadea Noua",
+        "Lopadea Nouae"
+    ],
+    "name:rum_x_preferred":[
+        "Lopadea Nou\u0103"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u043e\u043f\u0430\u0434\u044f-\u041d\u043e\u0443\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Lopadea Nou\u0103"
+    ],
+    "name:vie_x_preferred":[
+        "Lopadea Noua"
+    ],
+    "name:vol_x_preferred":[
+        "Lopadea Nou\u0103"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Alba",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Lopadea Nou\u0103",
+    "qs:la_lc":"*RO11005210",
+    "qs:level":"locality",
+    "qs:loc":"Lopadea Noua",
+    "qs:loc_alt":"Lopadea Noua",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a17b74-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":674612,
+        "gp:id":874794,
+        "qs:id":411350,
+        "wd:id":"Q937029"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"16fb36a1b0101a3325d148cac6d642a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101789773,
+            "region_id":85687697
+        }
+    ],
+    "wof:id":101789773,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514499998,
+    "wof:name":"Lopadea Noua",
+    "wof:parent_id":85687697,
+    "wof:placetype":"locality",
+    "wof:population":1132,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.81123868242292,
+    46.28566661879483,
+    23.82926685176523,
+    46.30007696631117
+],
+  "geometry": {"coordinates":[[[23.82264201223688,46.29134621483297],[23.8277570435655,46.29067870419487],[23.82798809173914,46.29156154413118],[23.82926685176523,46.29139462517287],[23.82880472509282,46.28962895046737],[23.82752600523287,46.28979586306156],[23.82729497674052,46.28891302073094],[23.82473755571834,46.28924679381726],[23.82427560857843,46.28748109283913],[23.8229969274999,46.28764795015127],[23.82276598876655,46.2867650946859],[23.82148732061648,46.28693193357174],[23.82125641179965,46.28604907372943],[23.81742042468539,46.28654948937259],[23.81718958594473,46.28566661879483],[23.81463226561641,46.28600014663613],[23.81486306419328,46.28688302357193],[23.81230567510721,46.28721649678647],[23.81253644334726,46.28809937888332],[23.81381516154812,46.28793264672066],[23.81543095509471,46.29411276566458],[23.81415209628562,46.29427952007984],[23.8146137999039,46.29604526394581],[23.81333489376169,46.29621200947111],[23.81356574023056,46.29709488279025],[23.81228680684433,46.29726161624541],[23.81251764305421,46.29814449154821],[23.81123868242292,46.29831121293302],[23.81170034415612,46.30007696631117],[23.81425833864614,46.29974349557409],[23.81402746267196,46.2988606258416],[23.81530642909291,46.29869387077741],[23.81507554286082,46.29781100302944],[23.81635448203531,46.29764423589529],[23.81612358554656,46.29676137013115],[23.81740249747543,46.2965945909279],[23.81694069382428,46.29482886217255],[23.81821955841878,46.29466207408058],[23.81798865125785,46.29377921108897],[23.81926748861065,46.2936124109288],[23.81903657119744,46.29272954992121],[23.82287298007248,46.29222906749504],[23.82264201223688,46.29134621483297]]],"type":"Polygon"}
+}

@@ -1,0 +1,142 @@
+{
+  "id": 101792469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000038,
+    "geom:area_square_m":329294.394339,
+    "geom:bbox":"22.8222704497,44.9915709957,22.8429159571,44.9950416064",
+    "geom:latitude":44.993272,
+    "geom:longitude":22.832435,
+    "gn:population":2145,
+    "iso:country":"RO",
+    "lbl:latitude":44.993065,
+    "lbl:longitude":22.835016,
+    "mps:latitude":44.993065,
+    "mps:longitude":22.835016,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u5df4\u4e9e\u5fb7\u963f\u62c9\u9ed8"
+    ],
+    "name:dut_x_preferred":[
+        "Baia de Aram\u0103"
+    ],
+    "name:eng_x_preferred":[
+        "Baia de Aram\u0103"
+    ],
+    "name:fre_x_preferred":[
+        "Baia de Aram\u0103"
+    ],
+    "name:ger_x_preferred":[
+        "Baia de Aram\u0103"
+    ],
+    "name:hun_x_preferred":[
+        "Ar\u00e1mab\u00e1nya"
+    ],
+    "name:ind_x_preferred":[
+        "Baia de Aram\u0103"
+    ],
+    "name:ita_x_preferred":[
+        "Baia de Aram\u0103"
+    ],
+    "name:may_x_preferred":[
+        "Baia de Aram\u0103"
+    ],
+    "name:min_x_preferred":[
+        "Baia de Aram\u0103"
+    ],
+    "name:per_x_preferred":[
+        "\u0628\u06cc\u0647 \u062f\u0647 \u0627\u0631\u0645"
+    ],
+    "name:pol_x_preferred":[
+        "Baia de Aram\u0103"
+    ],
+    "name:por_x_preferred":[
+        "Baia de Aram\u0103"
+    ],
+    "name:rum_x_colloquial":[
+        "Baia de Arama",
+        "Baia de Aramae"
+    ],
+    "name:rum_x_preferred":[
+        "Baia de Aram\u0103"
+    ],
+    "name:spa_x_preferred":[
+        "Baia de Aram\u0103"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0430\u0458\u0430 \u0434\u0435 \u0410\u0440\u0430\u043c\u0430"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0411\u0430\u044f-\u0434\u0435-\u0410\u0440\u0430\u043c\u044d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u044f-\u0434\u0435-\u0410\u0440\u0430\u043c\u0435"
+    ],
+    "name:vie_x_preferred":[
+        "Baia de Arama"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Mehedinti",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Baia de Aram\u0103",
+    "qs:la_lc":"*RO38109924",
+    "qs:level":"locality",
+    "qs:loc":"Baia de Aram\u0103",
+    "qs:loc_alt":"Baia de Arama",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"039d4720-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":685836,
+        "gp:id":866619,
+        "qs:id":5,
+        "wd:id":"Q778516"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"57a08180df69524429a4a4af1e1807bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101792469,
+            "region_id":85687599
+        }
+    ],
+    "wof:id":101792469,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514499756,
+    "wof:name":"Baia de Aram\u0103",
+    "wof:parent_id":85687599,
+    "wof:placetype":"locality",
+    "wof:population":2145,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.82227044974502,
+    44.99157099571272,
+    22.84291595710221,
+    44.99504160637224
+],
+  "geometry": {"coordinates":[[[22.82268322097804,44.99504160637224],[22.83394805944323,44.99365232711989],[22.8341546299547,44.99453855043947],[22.84291595710221,44.99345714521974],[22.84270925283641,44.99257094182849],[22.84145767241154,44.99272547015926],[22.84125099586117,44.99183926276737],[22.83624468848132,44.99245721564466],[22.83603809696427,44.99157099571272],[22.82227044974502,44.99326910507233],[22.82268322097804,44.99504160637224]]],"type":"Polygon"}
+}

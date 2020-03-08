@@ -1,0 +1,98 @@
+{
+  "id": 101834833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000079,
+    "geom:area_square_m":675136.813562,
+    "geom:bbox":"22.8432489888,46.1115961016,22.8599875881,46.1237909838",
+    "geom:latitude":46.117746,
+    "geom:longitude":22.851897,
+    "gn:population":2314,
+    "iso:country":"RO",
+    "lbl:latitude":46.116828,
+    "lbl:longitude":22.851073,
+    "mps:latitude":46.116828,
+    "mps:longitude":22.851073,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Barza"
+    ],
+    "name:eng_x_preferred":[
+        "Barza"
+    ],
+    "name:fre_x_preferred":[
+        "Barza"
+    ],
+    "name:hun_x_preferred":[
+        "Gurab\u00e1rza"
+    ],
+    "name:ita_x_preferred":[
+        "Barza"
+    ],
+    "name:rum_x_preferred":[
+        "Barza"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u0440\u0437\u0430 "
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Hunedoara",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Cri\u015fcior",
+    "qs:la_lc":"*RO33087362",
+    "qs:level":"locality",
+    "qs:loc":"Barza",
+    "qs:loc_alt":"Barza",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":685315,
+        "gp:id":870696,
+        "qs:id":4,
+        "wd:id":"Q6487774"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"62ed06925800d1cdba3202c02f8fdb5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101834833,
+            "region_id":85687671
+        }
+    ],
+    "wof:id":101834833,
+    "wof:lastmodified":1514499760,
+    "wof:name":"Barza",
+    "wof:parent_id":85687671,
+    "wof:placetype":"locality",
+    "wof:population":2314,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.84324898875479,
+    46.11159610157137,
+    22.8599875881344,
+    46.12379098383053
+],
+  "geometry": {"coordinates":[[[22.8576226564727,46.1237786886287],[22.8599875881344,46.11767358732402],[22.85985573773911,46.11712780062214],[22.85730161889308,46.11743821865264],[22.85708778821225,46.11655284873871],[22.85453368319662,46.11686319985756],[22.85431990189176,46.11597782293467],[22.85304285960632,46.11613297266541],[22.85261536456483,46.11436220959718],[22.84878431888524,46.11482754957865],[22.84857064541961,46.11394215753558],[22.84601662220803,46.11425230203218],[22.84537577718709,46.11159610157137],[22.84409881608451,46.11175114209772],[22.84452599673466,46.11352194940741],[22.84324898875479,46.11367698057768],[22.84431699877013,46.11810399422473],[22.84814830498783,46.11763881073477],[22.84836199469095,46.11852420129867],[22.84963910369066,46.11836910667972],[22.84985282263062,46.11925449318767],[22.85112994516334,46.11909938036587],[22.85134369334156,46.11998476281696],[22.85262082940659,46.11982963179196],[22.85304839334356,46.12160038747254],[22.85432556308291,46.12144523529309],[22.85475320370699,46.12321598064364],[22.85730760392369,46.12290561871851],[22.85752147817709,46.12379098383053],[22.8576226564727,46.1237786886287]]],"type":"Polygon"}
+}

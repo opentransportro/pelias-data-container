@@ -1,0 +1,105 @@
+{
+  "id": 1125854827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.86667,47.2,26.86667,47.2",
+    "geom:latitude":47.2,
+    "geom:longitude":26.86667,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2652,
+    "gn:population":2652,
+    "iso:country":"RO",
+    "lbl:latitude":47.2,
+    "lbl:longitude":26.86667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "H\u0103rm\u0103neasa"
+    ],
+    "name:eng_x_preferred":[
+        "H\u0103rm\u0103neasa"
+    ],
+    "name:fre_x_preferred":[
+        "H\u0103rm\u0103neasa"
+    ],
+    "name:rum_x_preferred":[
+        "H\u0103rm\u0103neasa"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u0435\u0440\u043c\u0435\u043d\u044f\u0441\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Helesteni H\u0103rm\u0103neasa"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":676302,
+    "qs_pg:gn_pop":2652,
+    "qs_pg:name":"H\u0103rm\u0103neasa",
+    "qs_pg:name_adm0":"Rom\u00e2nia",
+    "qs_pg:name_adm1":"Iasi",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1278626,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424933,
+    "qs_pg:woe_id":873567,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424933,
+    "woe:name_adm0":"Rom\u00e2nia",
+    "woe:name_adm1":"Iasi",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":676302,
+        "gp:id":873567,
+        "qs_pg:id":1278626,
+        "wd:id":"Q12167183"
+    },
+    "wof:country":"RO",
+    "wof:created":1497293570,
+    "wof:geomhash":"8857bbb4b653c9bc4fba7a8046b5e0cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125854827,
+            "region_id":85687769
+        }
+    ],
+    "wof:id":1125854827,
+    "wof:lastmodified":1514499973,
+    "wof:name":"H\u0103rm\u0103neasa",
+    "wof:parent_id":85687769,
+    "wof:placetype":"locality",
+    "wof:population":2652,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.86667,
+    47.2,
+    26.86667,
+    47.2
+],
+  "geometry": {"coordinates":[26.86667,47.2],"type":"Point"}
+}

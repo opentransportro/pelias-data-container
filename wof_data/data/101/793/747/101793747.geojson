@@ -1,0 +1,102 @@
+{
+  "id": 101793747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000171,
+    "geom:area_square_m":1516984.741925,
+    "geom:bbox":"27.0795694317,44.2598942138,27.1006645575,44.2730574646",
+    "geom:latitude":44.26663,
+    "geom:longitude":27.089451,
+    "gn:population":3062,
+    "iso:country":"RO",
+    "lbl:latitude":44.266775,
+    "lbl:longitude":27.089451,
+    "mps:latitude":44.266775,
+    "mps:longitude":27.089451,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Alexandru Odobescu"
+    ],
+    "name:eng_x_preferred":[
+        "Barza"
+    ],
+    "name:fre_x_preferred":[
+        "Alexandru Odobescu"
+    ],
+    "name:rum_x_preferred":[
+        "Alexandru Odobescu"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0443-\u041e\u0434\u043e\u0431\u0435\u0441\u043a\u0443 "
+    ],
+    "name:unk_x_variant":[
+        "Barza"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Calarasi",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Alexandru Odobescu",
+    "qs:la_lc":"*RO22094125",
+    "qs:level":"locality",
+    "qs:loc":"Alexandru Odobescu",
+    "qs:loc_alt":"Alexandru Odobescu",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"039d0eae-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":686493,
+        "gp:id":866147,
+        "qs:id":1277764,
+        "qs_pg:id":1277764,
+        "wd:id":"Q12077645"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"7bb3c31886438a94e2da8d99800eb757",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101793747,
+            "region_id":85687615
+        }
+    ],
+    "wof:id":101793747,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514499735,
+    "wof:name":"Alexandru Odobescu",
+    "wof:parent_id":85687615,
+    "wof:placetype":"locality",
+    "wof:population":3062,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.07956943170325,
+    44.2598942137908,
+    27.10066455750888,
+    44.27305746461047
+],
+  "geometry": {"coordinates":[[[27.08213805518375,44.27305746461047],[27.09071436867941,44.2716242928928],[27.09098322240817,44.27249939461387],[27.09220839623993,44.27229459446369],[27.09193952499999,44.27141949640179],[27.09316467348896,44.27121468549274],[27.0928957956516,44.27033958946578],[27.09412091879852,44.27013476779825],[27.09385203436506,44.26925967380652],[27.09630222214611,44.26884999453802],[27.09603331360978,44.26797490624091],[27.09970848401758,44.2673602901906],[27.09943953387756,44.26648521124866],[27.10066455750888,44.26628031405914],[27.09985772006246,44.26365507846293],[27.09863274894127,44.26385996467212],[27.0980949468817,44.26210979216245],[27.09564505115645,44.26251950669689],[27.09483853490821,44.2598942137908],[27.08993885953629,44.26071342597476],[27.09020761736878,44.26158853986743],[27.08285776450168,44.26281694762406],[27.08312642821107,44.2636920818361],[27.08067637964297,44.26410144307118],[27.0817510034521,44.26760199293858],[27.08052589739532,44.26780666655634],[27.08079456309656,44.26868180362243],[27.07956943170325,44.2688864664787],[27.08064413350922,44.27238701314207],[27.08186933495352,44.27218233565844],[27.08213805518375,44.27305746461047]]],"type":"Polygon"}
+}

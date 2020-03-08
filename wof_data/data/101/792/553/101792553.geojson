@@ -1,0 +1,98 @@
+{
+  "id": 101792553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000087,
+    "geom:area_square_m":768397.743749,
+    "geom:bbox":"26.3864311095,44.6873277135,26.4051124131,44.6990133182",
+    "geom:latitude":44.69393,
+    "geom:longitude":26.395459,
+    "gn:population":1408,
+    "iso:country":"RO",
+    "lbl:latitude":44.694302,
+    "lbl:longitude":26.395317,
+    "mps:latitude":44.694302,
+    "mps:longitude":26.395317,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Fierbin\u021bii de Jos"
+    ],
+    "name:eng_x_preferred":[
+        "Fierbin\u021bii de Jos"
+    ],
+    "name:fre_x_preferred":[
+        "Fierbin\u021bii de Jos"
+    ],
+    "name:ita_x_preferred":[
+        "Fierbin\u021bii de Jos"
+    ],
+    "name:rum_x_preferred":[
+        "Fierbin\u021bii de Jos"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0424'\u0454\u0440\u0431\u0456\u043d\u0446\u0456\u0439-\u0434\u0435-\u0416\u043e\u0441"
+    ],
+    "name:unk_x_variant":[
+        "Fierbin\u0163ii-de-Jos"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Ialomita",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Fierbin\u0163i-T\u00e2rg",
+    "qs:la_lc":"*RO34102749",
+    "qs:level":"locality",
+    "qs:loc":"Fierbin\u0163ii de Jos",
+    "qs:loc_alt":"Fierbintii de Jos",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":678285,
+        "gp:id":872110,
+        "qs:id":1278479,
+        "wd:id":"Q12165082"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"d43e629e939fdaedf49f61ddd65a3aaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101792553,
+            "region_id":85687621
+        }
+    ],
+    "wof:id":101792553,
+    "wof:lastmodified":1514499926,
+    "wof:name":"Fierbin\u0163ii de Jos",
+    "wof:parent_id":85687621,
+    "wof:placetype":"locality",
+    "wof:population":1408,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.3864311094793,
+    44.68732771351705,
+    26.40511241306837,
+    44.69901331822922
+],
+  "geometry": {"coordinates":[[[26.40511241306837,44.69881644852626],[26.4045897461998,44.69706276309864],[26.40335361760049,44.69725962566986],[26.40309231826899,44.69638277709265],[26.40185619999124,44.69657962150984],[26.40159492940421,44.69570276783577],[26.40035882144809,44.69589959409967],[26.40009757960394,44.69502273532902],[26.39886148197047,44.69521954344015],[26.39781669380903,44.69171207878651],[26.39905271932031,44.69151528493273],[26.39853035342651,44.68976155054622],[26.39729436397187,44.68995833727234],[26.39651094950773,44.68732771351705],[26.39156713097486,44.68811467179785],[26.39182818631576,44.68899156216526],[26.39306417053137,44.68879484091212],[26.39384745485518,44.69142549214263],[26.3864311094793,44.69260566497621],[26.38669211747037,44.69348256703296],[26.38792821232312,44.69328590446833],[26.38818924904905,44.69416280143315],[26.38942535423263,44.69396612071841],[26.38994749586016,44.69571990293298],[26.39118362940729,44.69552320050389],[26.39144473431196,44.69640008575294],[26.39268087818846,44.69620336517232],[26.39346431124306,44.69883400104715],[26.40088133726914,44.69765330704695],[26.40114261124688,44.6985301612234],[26.40361492764504,44.6981364727153],[26.40387624840332,44.69901331822922],[26.40511241306837,44.69881644852626]]],"type":"Polygon"}
+}

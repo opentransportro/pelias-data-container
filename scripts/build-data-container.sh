@@ -7,7 +7,7 @@
 
 set -e
 
-ORG=${ORG:-hsldevcom}
+ORG=${ORG:-opentransport}
 DOCKER_IMAGE=pelias-data-container
 WORKDIR=/mnt
 

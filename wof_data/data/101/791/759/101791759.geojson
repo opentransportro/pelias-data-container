@@ -1,0 +1,101 @@
+{
+  "id": 101791759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000034,
+    "geom:area_square_m":299354.528997,
+    "geom:bbox":"25.7561411752,44.9781145813,25.7640900927,44.9860894261",
+    "geom:latitude":44.981999,
+    "geom:longitude":25.759624,
+    "gn:population":1470,
+    "iso:country":"RO",
+    "lbl:latitude":44.982791,
+    "lbl:longitude":25.758962,
+    "mps:latitude":44.982791,
+    "mps:longitude":25.758962,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041c\u0438\u043d\u0438\u0435\u0440\u0438"
+    ],
+    "name:dut_x_preferred":[
+        "Minieri"
+    ],
+    "name:eng_x_preferred":[
+        "Minieri"
+    ],
+    "name:fre_x_preferred":[
+        "Minieri"
+    ],
+    "name:ita_x_preferred":[
+        "Minieri"
+    ],
+    "name:rum_x_preferred":[
+        "Minieri"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0456\u043d\u0456\u0454\u0440\u0456"
+    ],
+    "name:unk_x_variant":[
+        "Ora\u015fu Nou"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Prahova",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:id":0,
+    "qs:la":"Filipe\u015ftii de P\u0103dure",
+    "qs:la_lc":"*RO42133161",
+    "qs:level":"locality",
+    "qs:loc":"Minieri",
+    "qs:loc_alt":"Minieri",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":673190,
+        "gp:id":875864,
+        "wd:id":"Q12131533"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"5938f932dbc43157f00f5aef46d22b70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101791759,
+            "region_id":85687661
+        }
+    ],
+    "wof:id":101791759,
+    "wof:lastmodified":1514500023,
+    "wof:name":"Minieri",
+    "wof:parent_id":85687661,
+    "wof:placetype":"locality",
+    "wof:population":1470,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.75614117520297,
+    44.97811458132821,
+    25.76409009269412,
+    44.98608942609019
+],
+  "geometry": {"coordinates":[[[25.76409009269412,44.98037136619951],[25.76358357919611,44.9786143483542],[25.76109558232002,44.97899309935275],[25.76084237811881,44.97811458132821],[25.75835438793888,44.97849326653989],[25.75860755527896,44.97937179148977],[25.75736353044715,44.97956111548467],[25.75786985963003,44.98131816795916],[25.75662579039255,44.98150748416276],[25.75738530728637,44.98414306238851],[25.75614117520297,44.98433237426258],[25.7566475352109,44.98608942609019],[25.7616241657804,44.98533206258691],[25.76061119262386,44.98181800854002],[25.76185525766971,44.98162864472488],[25.76160202209513,44.98075013105102],[25.76409009269412,44.98037136619951]]],"type":"Polygon"}
+}

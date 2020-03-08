@@ -1,0 +1,98 @@
+{
+  "id": 1125863747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.83333,46.43333,24.83333,46.43333",
+    "geom:latitude":46.43333,
+    "geom:longitude":24.83333,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":5398,
+    "gn:population":137,
+    "iso:country":"RO",
+    "lbl:latitude":46.43333,
+    "lbl:longitude":24.83333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Beca\u0219"
+    ],
+    "name:eng_x_preferred":[
+        "Beca\u0219"
+    ],
+    "name:epo_x_preferred":[
+        "Beca\u0219"
+    ],
+    "name:fre_x_preferred":[
+        "Beca\u0219"
+    ],
+    "name:hun_x_preferred":[
+        "B\u00e9k\u00e1stelep"
+    ],
+    "name:rum_x_preferred":[
+        "Beca\u0219"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u043a\u0430\u0448"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":685225,
+    "qs_pg:gn_pop":5398,
+    "qs_pg:name":"Beca\u015f",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":128042,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":685225,
+        "qs_pg:id":128042,
+        "wd:id":"Q854063"
+    },
+    "wof:country":"RO",
+    "wof:created":1497293941,
+    "wof:geomhash":"6d8a4e31da5b4c2ed88b9e408a9123f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125863747,
+            "region_id":85687719
+        }
+    ],
+    "wof:id":1125863747,
+    "wof:lastmodified":1514499762,
+    "wof:name":"Beca\u015f",
+    "wof:parent_id":85687719,
+    "wof:placetype":"locality",
+    "wof:population":137,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.83333,
+    46.43333,
+    24.83333,
+    46.43333
+],
+  "geometry": {"coordinates":[24.83333,46.43333],"type":"Point"}
+}

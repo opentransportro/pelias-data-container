@@ -1,0 +1,66 @@
+{
+  "id": 1259844977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.51667,44.73333,23.51667,44.73333",
+    "geom:latitude":44.73333,
+    "geom:longitude":23.51667,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"82555.0",
+    "gn:asciiname":"Turburea de Sus",
+    "gn:country_code":"RO",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":664477,
+    "gn:latitude":44.73333,
+    "gn:longitude":23.51667,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Turburea de Sus",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bucharest",
+    "iso:country":"RO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":664477
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"d233542b5d85f93ac55ee36771d3f128",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1259844977,
+            "region_id":85687619
+        }
+    ],
+    "wof:id":1259844977,
+    "wof:lastmodified":1536833706,
+    "wof:name":"Turburea de Sus",
+    "wof:parent_id":85687619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.51667,
+    44.73333,
+    23.51667,
+    44.73333
+],
+  "geometry": {"coordinates":[23.51667,44.73333],"type":"Point"}
+}

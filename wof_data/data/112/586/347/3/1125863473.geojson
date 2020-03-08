@@ -1,0 +1,122 @@
+{
+  "id": 1125863473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.3,44.46667,23.3,44.46667",
+    "geom:latitude":44.46667,
+    "geom:longitude":23.3,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":1319,
+    "gn:population":1319,
+    "iso:country":"RO",
+    "lbl:latitude":44.46667,
+    "lbl:longitude":23.3,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Secu"
+    ],
+    "name:eng_x_preferred":[
+        "Secu"
+    ],
+    "name:fre_x_preferred":[
+        "Secu"
+    ],
+    "name:ita_x_preferred":[
+        "Secu"
+    ],
+    "name:may_x_preferred":[
+        "Secu"
+    ],
+    "name:por_x_preferred":[
+        "Secu"
+    ],
+    "name:rum_x_preferred":[
+        "Secu"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0435\u043a\u0443 "
+    ],
+    "name:unk_x_variant":[
+        "Secul"
+    ],
+    "name:vie_x_preferred":[
+        "Secu"
+    ],
+    "name:vol_x_preferred":[
+        "Secu"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":667481,
+    "qs_pg:gn_pop":1319,
+    "qs_pg:name":"Secu",
+    "qs_pg:name_adm0":"Rom\u00e2nia",
+    "qs_pg:name_adm1":"Dolj",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1290461,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424933,
+    "qs_pg:woe_id":880081,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424933,
+    "woe:name_adm0":"Rom\u00e2nia",
+    "woe:name_adm1":"Dolj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":667481,
+        "gp:id":880081,
+        "qs_pg:id":1290461,
+        "wd:id":"Q2465726"
+    },
+    "wof:country":"RO",
+    "wof:created":1497293931,
+    "wof:geomhash":"73929fee59aaa3c4ae03aba54243fe30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125863473,
+            "region_id":85687581
+        }
+    ],
+    "wof:id":1125863473,
+    "wof:lastmodified":1514500140,
+    "wof:name":"Secu",
+    "wof:parent_id":85687581,
+    "wof:placetype":"locality",
+    "wof:population":1319,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.3,
+    44.46667,
+    23.3,
+    44.46667
+],
+  "geometry": {"coordinates":[23.3,44.46667],"type":"Point"}
+}

@@ -1,0 +1,98 @@
+{
+  "id": 101790687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000183,
+    "geom:area_square_m":1586417.060571,
+    "geom:bbox":"27.5790365706,45.3999573143,27.5985851738,45.4154244285",
+    "geom:latitude":45.408267,
+    "geom:longitude":27.587681,
+    "gn:population":1058,
+    "iso:country":"RO",
+    "lbl:latitude":45.409795,
+    "lbl:longitude":27.588473,
+    "mps:latitude":45.409795,
+    "mps:longitude":27.588473,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Corbu Nou"
+    ],
+    "name:eng_x_preferred":[
+        "Corbu Nou"
+    ],
+    "name:fre_x_preferred":[
+        "Corbu Nou"
+    ],
+    "name:ita_x_preferred":[
+        "Corbu Nou"
+    ],
+    "name:rum_x_preferred":[
+        "Corbu Nou"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0440\u0431\u0443-\u041d\u043e\u0443"
+    ],
+    "name:unk_x_variant":[
+        "Corbu"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Braila",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"M\u0103xineni",
+    "qs:la_lc":"*RO18043563",
+    "qs:level":"locality",
+    "qs:loc":"Corbu Nou",
+    "qs:loc_alt":"Corbu Nou",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":680848,
+        "gp:id":870232,
+        "qs:id":8,
+        "wd:id":"Q12112751"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"1bc11cffce62c403f69a47ebeebc13cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101790687,
+            "region_id":85687663
+        }
+    ],
+    "wof:id":101790687,
+    "wof:lastmodified":1514499869,
+    "wof:name":"Corbu Nou",
+    "wof:parent_id":85687663,
+    "wof:placetype":"locality",
+    "wof:population":1058,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.57903657060319,
+    45.3999573143405,
+    27.59858517375187,
+    45.41542442847947
+],
+  "geometry": {"coordinates":[[[27.58514141202971,45.41542442847947],[27.59387865190035,45.41394504175719],[27.59359272668848,45.41307253059165],[27.59858517375187,45.41222685878301],[27.59801321235312,45.41048186261838],[27.59676515003616,45.41069329484441],[27.59447792415136,45.40371321279923],[27.5882382165039,45.40476999773188],[27.58709525347905,45.40127983916915],[27.58584735951933,45.40149113648943],[27.58556166661958,45.40061858882206],[27.58431378241704,45.40082986755118],[27.5840281196397,45.3999573143405],[27.57903657060319,45.40080226667635],[27.58132161801495,45.40778277044052],[27.58007356294337,45.40799400286653],[27.58207347184816,45.41410188402506],[27.58332165510376,45.41389062437798],[27.5836074219863,45.41476316832262],[27.58485561500561,45.41455189007917],[27.58514141202971,45.41542442847947]]],"type":"Polygon"}
+}

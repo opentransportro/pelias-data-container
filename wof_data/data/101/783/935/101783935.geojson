@@ -1,0 +1,98 @@
+{
+  "id": 101783935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000107,
+    "geom:area_square_m":897543.622344,
+    "geom:bbox":"25.9982863312,47.4825883009,26.0171408276,47.4921313652",
+    "geom:latitude":47.486818,
+    "geom:longitude":26.008759,
+    "gn:population":1445,
+    "iso:country":"RO",
+    "lbl:latitude":47.487206,
+    "lbl:longitude":26.010465,
+    "mps:latitude":47.487206,
+    "mps:longitude":26.010465,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041c\u0438\u0440\u043e\u043d\u0443"
+    ],
+    "name:dut_x_preferred":[
+        "Mironu"
+    ],
+    "name:eng_x_preferred":[
+        "Mironu"
+    ],
+    "name:fre_x_preferred":[
+        "Mironu"
+    ],
+    "name:ita_x_preferred":[
+        "Mironu"
+    ],
+    "name:rum_x_preferred":[
+        "Mironu"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0456\u0440\u043e\u043d\u0443"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Suceava",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Valea Moldovei",
+    "qs:la_lc":"*RO46150891",
+    "qs:level":"locality",
+    "qs:loc":"Mironu",
+    "qs:loc_alt":"Mironu",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":673110,
+        "gp:id":875920,
+        "qs:id":262364,
+        "wd:id":"Q12131569"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"23489d2bc49f146786f34c779137eee7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101783935,
+            "region_id":85687773
+        }
+    ],
+    "wof:id":101783935,
+    "wof:lastmodified":1514500024,
+    "wof:name":"Mironu",
+    "wof:parent_id":85687773,
+    "wof:placetype":"locality",
+    "wof:population":1445,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.99828633116192,
+    47.48258830093386,
+    26.01714082760623,
+    47.49213136518574
+],
+  "geometry": {"coordinates":[[[26.01564601003179,47.4919376412015],[26.01536903419185,47.49106171738714],[26.0166704250758,47.49086798172317],[26.01583950755008,47.48824021323645],[26.01714082760623,47.48804647349095],[26.01575610176661,47.4836668502038],[26.0131536596291,47.48405427623732],[26.01287679181723,47.48317833976444],[26.00506937864634,47.48434022365325],[26.00451592712102,47.48258830093386],[25.99931097480794,47.48336255029892],[25.99958761186377,47.48423852754058],[25.99828633116192,47.4844320549837],[25.99911625223496,47.48705998966352],[26.00041759497839,47.48686645083677],[26.00069428000188,47.48774242245935],[26.00329698051195,47.48735529078152],[26.00357371889294,47.48823125340857],[26.00487507665741,47.4880376605571],[26.00542863077305,47.48978957400345],[26.00673002111876,47.489595958081],[26.0070068368567,47.49047190889974],[26.00830823910081,47.49027827370207],[26.00858508752162,47.49115421931856],[26.01248930358588,47.49057320946235],[26.01276622605678,47.49144914227981],[26.01406763451882,47.49125543757282],[26.01434458967668,47.49213136518574],[26.01564601003179,47.4919376412015]]],"type":"Polygon"}
+}

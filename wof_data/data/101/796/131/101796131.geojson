@@ -1,0 +1,111 @@
+{
+  "id": 101796131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000175,
+    "geom:area_square_m":1557053.468462,
+    "geom:bbox":"24.3984921596,43.9533616704,24.4244572631,43.9690470673",
+    "geom:latitude":43.960004,
+    "geom:longitude":24.414962,
+    "gn:population":4723,
+    "iso:country":"RO",
+    "lbl:latitude":43.958386,
+    "lbl:longitude":24.417125,
+    "mps:latitude":43.958386,
+    "mps:longitude":24.417125,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Studina"
+    ],
+    "name:eng_x_preferred":[
+        "Studina"
+    ],
+    "name:fre_x_preferred":[
+        "Studina"
+    ],
+    "name:ita_x_preferred":[
+        "Studina"
+    ],
+    "name:por_x_preferred":[
+        "Studina"
+    ],
+    "name:rum_x_preferred":[
+        "Studina"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0442\u0443\u0434\u0456\u043d\u0430 "
+    ],
+    "name:vie_x_preferred":[
+        "Studina"
+    ],
+    "name:vol_x_preferred":[
+        "Studina"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Olt",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Gr\u0103dinile",
+    "qs:la_lc":"*RO41130320",
+    "qs:level":"locality",
+    "qs:loc":"Studina",
+    "qs:loc_alt":"Studina",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a4ccca-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":665909,
+        "gp:id":881211,
+        "qs:id":126903,
+        "qs_pg:id":126903,
+        "wd:id":"Q2719870"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"10c844cc0bd292961ddf22f448a0bae9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101796131,
+            "region_id":85687607
+        }
+    ],
+    "wof:id":101796131,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514500165,
+    "wof:name":"Studina",
+    "wof:parent_id":85687607,
+    "wof:placetype":"locality",
+    "wof:population":4723,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.39849215960885,
+    43.95336167042075,
+    24.42445726308216,
+    43.96904706733329
+],
+  "geometry": {"coordinates":[[[24.42103073643221,43.96835551509628],[24.42058033602547,43.96658936833427],[24.42180620397926,43.96641645016422],[24.4213558044346,43.96465030419586],[24.41767828828006,43.96516899665266],[24.41700291880363,43.96251973984391],[24.4231318110688,43.96165522614115],[24.42268143158554,43.95988907906741],[24.4239071545469,43.95971613896484],[24.42323160037057,43.95706691752315],[24.42445726308216,43.95689397216802],[24.42355658090071,43.95336167042075],[24.40762338420944,43.95560866784427],[24.4082981842264,43.95825801645441],[24.39849215960885,43.95963963919263],[24.39894178565953,43.96140591419231],[24.40629655827519,43.96036974722762],[24.40652149243573,43.96125286422171],[24.40774728281764,43.9610801158525],[24.40797224403457,43.96196322841996],[24.40919804575708,43.96179046245521],[24.40942303403114,43.96267357059611],[24.41310045353231,43.96215517637825],[24.41332550466723,43.96303827392376],[24.41455131594279,43.96286544374266],[24.41522657801465,43.96551471906088],[24.41154896338173,43.9660331938266],[24.41177401535367,43.96691629216485],[24.41299991136555,43.96674347867156],[24.41322499040257,43.96762657258159],[24.41445089775402,43.96745374149043],[24.41467600385772,43.96833683097128],[24.41590192254802,43.96816398228145],[24.4161270557197,43.96904706733329],[24.42103073643221,43.96835551509628]]],"type":"Polygon"}
+}

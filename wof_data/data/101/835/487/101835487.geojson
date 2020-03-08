@@ -1,0 +1,95 @@
+{
+  "id": 101835487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000072,
+    "geom:area_square_m":644847.925144,
+    "geom:bbox":"24.7375335904,43.8452607051,24.7543521198,43.854613947",
+    "geom:latitude":43.850681,
+    "geom:longitude":24.745958,
+    "gn:population":1202,
+    "iso:country":"RO",
+    "lbl:latitude":43.8509,
+    "lbl:longitude":24.745831,
+    "mps:latitude":43.8509,
+    "mps:longitude":24.745831,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Plea\u0219ov"
+    ],
+    "name:eng_x_preferred":[
+        "Plea\u0219ov"
+    ],
+    "name:fre_x_preferred":[
+        "Plea\u0219ov"
+    ],
+    "name:rum_x_preferred":[
+        "Plea\u0219ov"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043b\u044f\u0448\u043e\u0432"
+    ],
+    "name:unk_x_variant":[
+        "Plea\u015fovul"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Teleorman",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Uda-Clocociov",
+    "qs:la_lc":"*RO47155154",
+    "qs:level":"locality",
+    "qs:loc":"Plea\u015fov",
+    "qs:loc_alt":"Pleasov",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":670529,
+        "gp:id":877831,
+        "qs:id":412150,
+        "wd:id":"Q12141134"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"d1b0d16c94c293bcbe7244ba17fbf48b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101835487,
+            "region_id":85687585
+        }
+    ],
+    "wof:id":101835487,
+    "wof:lastmodified":1514500081,
+    "wof:name":"Plea\u015fov",
+    "wof:parent_id":85687585,
+    "wof:placetype":"locality",
+    "wof:population":1202,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.7375335903622,
+    43.84526070508565,
+    24.75435211982517,
+    43.8546139469637
+],
+  "geometry": {"coordinates":[[[24.7375335903622,43.8508764749609],[24.73802553845883,43.85263648142433],[24.74143654410619,43.85214369283],[24.74166596542813,43.85302600972796],[24.74288868833634,43.85284932359377],[24.74334759439489,43.8546139469637],[24.74823856127597,43.85390703268337],[24.74800903263156,43.85302473425668],[24.75289982185848,43.85231760117392],[24.75312942145558,43.85319988702912],[24.75435211982517,43.85302306446454],[24.75366329577491,43.85037621218214],[24.75244065061486,43.85055302531691],[24.75221107896823,43.84967073531516],[24.75098844487468,43.84984753084751],[24.75075890027819,43.84896523632085],[24.74953627725137,43.84914201425124],[24.74930675970472,43.84825971520002],[24.74808414774498,43.8484364755289],[24.74785465724619,43.84755417195379],[24.74663205635488,43.84773091468145],[24.74617313876104,43.84596629710296],[24.74495056667195,43.84614301908863],[24.74472113957472,43.84526070508565],[24.74349857855481,43.84543740947186],[24.74395740659156,43.847202042378],[24.74273480343879,43.8473787385866],[24.74296421368638,43.84826105610836],[24.74174158613374,43.84843774099841],[24.74197098795395,43.84932006027964],[24.74074833600059,43.84949673385034],[24.74097772939268,43.85037905489133],[24.7375335903622,43.8508764749609]]],"type":"Polygon"}
+}

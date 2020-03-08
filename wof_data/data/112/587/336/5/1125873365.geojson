@@ -1,0 +1,125 @@
+{
+  "id": 1125873365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.96667,46.53333,25.96667,46.53333",
+    "geom:latitude":46.53333,
+    "geom:longitude":25.96667,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":3375,
+    "gn:population":3375,
+    "iso:country":"RO",
+    "lbl:latitude":46.53333,
+    "lbl:longitude":25.96667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Lunca de Sus"
+    ],
+    "name:eng_x_preferred":[
+        "Lunca de Sus"
+    ],
+    "name:epo_x_preferred":[
+        "Lunca de Sus"
+    ],
+    "name:fre_x_preferred":[
+        "Lunca de Sus"
+    ],
+    "name:hun_x_preferred":[
+        "Gyimesfels\u0151lok"
+    ],
+    "name:ita_x_preferred":[
+        "Lunca de Sus"
+    ],
+    "name:may_x_preferred":[
+        "Lunca de Sus"
+    ],
+    "name:por_x_preferred":[
+        "Lunca de Sus"
+    ],
+    "name:rum_x_preferred":[
+        "Lunca de Sus"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0443\u043d\u043a\u0430-\u0434\u0435-\u0421\u0443\u0441"
+    ],
+    "name:vie_x_preferred":[
+        "Lunca de Sus"
+    ],
+    "name:vol_x_preferred":[
+        "Lunca de Sus"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":674413,
+    "qs_pg:gn_pop":3375,
+    "qs_pg:name":"Lunca de Sus",
+    "qs_pg:name_adm0":"Rom\u00e2nia",
+    "qs_pg:name_adm1":"Harghita",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":8,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":127482,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424933,
+    "qs_pg:woe_id":15002038,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424933,
+    "woe:name_adm0":"Rom\u00e2nia",
+    "woe:name_adm1":"Harghita",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":674413,
+        "gp:id":15002038,
+        "qs_pg:id":127482,
+        "wd:id":"Q1029575"
+    },
+    "wof:country":"RO",
+    "wof:created":1497294412,
+    "wof:geomhash":"e6c6ae433e754d49f69ecee364c184ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125873365,
+            "region_id":85687733
+        }
+    ],
+    "wof:id":1125873365,
+    "wof:lastmodified":1514500002,
+    "wof:name":"Lunca de Sus",
+    "wof:parent_id":85687733,
+    "wof:placetype":"locality",
+    "wof:population":3375,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.96667,
+    46.53333,
+    25.96667,
+    46.53333
+],
+  "geometry": {"coordinates":[25.96667,46.53333],"type":"Point"}
+}

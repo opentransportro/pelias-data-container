@@ -1,0 +1,107 @@
+{
+  "id": 85901803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":8394783.088699,
+    "geom:bbox":"26.915235,46.543824,26.915235,46.543824",
+    "geom:latitude":46.543824,
+    "geom:longitude":26.915235,
+    "gn:latitude":46.53333,
+    "gn:longitude":26.91667,
+    "iso:country":"RO",
+    "lbl:latitude":46.543824,
+    "lbl:longitude":26.915235,
+    "mps:latitude":46.533694,
+    "mps:longitude":26.919286,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":1,
+    "name:rum_x_preferred":[
+        "Izvoarele de Sus"
+    ],
+    "name:unk_x_variant":[
+        "Izvoarele de Sus"
+    ],
+    "qs:gn_adm0_cc":"RO",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":685948,
+    "qs:gn_nam_loc":"Bac\u0103u, Bacau, RO",
+    "qs:gn_namadm1":"00",
+    "qs:gn_name":"Izvoarele de Sus",
+    "qs:local_max":559,
+    "qs:local_sum":1083,
+    "qs:localhoods":4,
+    "qs:name":"Izvoarele de Sus",
+    "qs:name_adm0":"Rom\u00e2nia",
+    "qs:name_adm1":"Bacau",
+    "qs:name_local":"Bac\u0103u",
+    "qs:photo_max":439,
+    "qs:photo_sum":472,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":11,
+    "qs:woe_adm0":23424933,
+    "qs:woe_adm1":2346618,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":866528,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        101752009,
+        85633745,
+        85687715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":675366,
+        "gp:id":874233,
+        "qs:id":314779,
+        "qs_pg:id":314779
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"23f5adce1501114e062adba68185210a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101752009,
+            "neighbourhood_id":85901803,
+            "region_id":85687715
+        }
+    ],
+    "wof:id":85901803,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1531932569,
+    "wof:name":"Izvoarele de Sus",
+    "wof:parent_id":101752009,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.915235,
+    46.543824,
+    26.915235,
+    46.543824
+],
+  "geometry": {"coordinates":[26.915235,46.543824],"type":"Point"}
+}

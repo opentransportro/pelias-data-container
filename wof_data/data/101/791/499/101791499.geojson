@@ -1,0 +1,127 @@
+{
+  "id": 101791499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000335,
+    "geom:area_square_m":2943871.66656,
+    "geom:bbox":"28.6601784809,44.6379421109,28.690926468,44.6583185591",
+    "geom:latitude":44.646385,
+    "geom:longitude":28.675808,
+    "gn:population":3291,
+    "iso:country":"RO",
+    "lbl:latitude":44.6458,
+    "lbl:longitude":28.676857,
+    "mps:latitude":44.6458,
+    "mps:longitude":28.676857,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u064a\u0647\u0627\u064a \u0641\u064a\u062a\u064a\u0627\u0632\u0648"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u0430\u0440\u044a\u044e\u0440\u0442"
+    ],
+    "name:dut_x_preferred":[
+        "Mihai Viteazu"
+    ],
+    "name:eng_x_preferred":[
+        "Mihai-Viteazul"
+    ],
+    "name:eng_x_variant":[
+        "Mihaiu Viteazul",
+        "Mihai Viteazu"
+    ],
+    "name:hun_x_preferred":[
+        "Mihai Viteazu "
+    ],
+    "name:ita_x_preferred":[
+        "Mihai Viteazu"
+    ],
+    "name:may_x_preferred":[
+        "Mihai Viteazu"
+    ],
+    "name:por_x_preferred":[
+        "Mihai Viteazu "
+    ],
+    "name:rum_x_preferred":[
+        "Mihai Viteazu"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0456\u0445\u0430\u0439-\u0412\u0456\u0442\u044f\u0437\u0443 "
+    ],
+    "name:unk_x_variant":[
+        "Mihaiu Viteazul"
+    ],
+    "name:vie_x_preferred":[
+        "Mihai Viteazu"
+    ],
+    "name:vol_x_preferred":[
+        "Mihai Viteazu "
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Constanta",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Mihai Viteazu",
+    "qs:la_lc":"*RO25062253",
+    "qs:level":"locality",
+    "qs:loc":"Mihai Viteazu",
+    "qs:loc_alt":"Mihai Viteazu",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a1f234-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":673367,
+        "gp:id":875711,
+        "qs:id":127423,
+        "qs_pg:id":127423,
+        "wd:id":"Q1176862"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"c49478532489a64250911eb00e26efb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101791499,
+            "region_id":85687633
+        }
+    ],
+    "wof:id":101791499,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514500020,
+    "wof:name":"Mihai Viteazu",
+    "wof:parent_id":85687633,
+    "wof:placetype":"locality",
+    "wof:population":3291,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.66017848088984,
+    44.63794211086247,
+    28.6909264680271,
+    44.65831855906868
+],
+  "geometry": {"coordinates":[[[28.66661699971922,44.65459158984623],[28.67398713558794,44.65324929872833],[28.67428383933981,44.65411885278979],[28.67674051667319,44.65367129915671],[28.67644377816214,44.65280175313558],[28.68627000145847,44.65101099469928],[28.68597313599543,44.65014147903639],[28.68720135748885,44.64991757344939],[28.68660762800442,44.64817854473063],[28.68906397546994,44.64773070644435],[28.68876709407863,44.64686119741015],[28.68999523742548,44.64663726069017],[28.68969835072659,44.64576775386524],[28.6909264680271,44.64554380676844],[28.69062957602205,44.64467430215274],[28.68940147609061,44.64489824522752],[28.68791728382769,44.64055067484543],[28.68914529692387,44.64032675187917],[28.68855166970411,44.63858771907894],[28.68732369133784,44.63881163400288],[28.68702691317918,44.63794211086247],[28.67965896507383,44.6392852739387],[28.67936230316371,44.63841572486592],[28.67322219484254,44.63953461139374],[28.67292563182286,44.63866504041619],[28.66801345864428,44.63955987439539],[28.66771697715103,44.63869028553722],[28.66648892956493,44.63891395401811],[28.66678539368752,44.63978354689311],[28.66432923778217,44.6402308486912],[28.66759075604193,44.64979633923485],[28.66881902945573,44.64957265134353],[28.6697088396262,44.65218137142779],[28.66602383695732,44.65285242806152],[28.66543072240626,44.65111325903814],[28.66051740319784,44.65200776743455],[28.66140688451242,44.65461656646875],[28.66017848088984,44.65484016961238],[28.66136455514788,44.65831855906868],[28.66382149281026,44.65787130623431],[28.66352492139447,44.65700171962004],[28.66598178960095,44.6565544172052],[28.66568519546894,44.65568483681847],[28.66691359918087,44.65546116802403],[28.66661699971922,44.65459158984623]]],"type":"Polygon"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1259854597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.70508,45.17467,23.70508,45.17467",
+    "geom:latitude":45.17467,
+    "geom:longitude":23.70508,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"78258",
+    "gn:asciiname":"Bercesti",
+    "gn:country_code":"RO",
+    "gn:dem":502,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":685072,
+    "gn:latitude":45.17467,
+    "gn:longitude":23.70508,
+    "gn:modification_date":"2013-04-21",
+    "gn:name":"Berce\u0219ti",
+    "gn:population":454,
+    "gn:timezone":"Europe/Bucharest",
+    "iso:country":"RO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":685072
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"022a24a54dbb8158dc75e89a8c62aad4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1259854597,
+            "region_id":85687619
+        }
+    ],
+    "wof:id":1259854597,
+    "wof:lastmodified":1536819967,
+    "wof:name":"Bercesti",
+    "wof:parent_id":85687619,
+    "wof:placetype":"locality",
+    "wof:population":454,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.70508,
+    45.17467,
+    23.70508,
+    45.17467
+],
+  "geometry": {"coordinates":[23.70508,45.17467],"type":"Point"}
+}

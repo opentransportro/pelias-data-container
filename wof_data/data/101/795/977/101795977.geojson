@@ -1,0 +1,120 @@
+{
+  "id": 101795977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000134,
+    "geom:area_square_m":1197776.833857,
+    "geom:bbox":"25.277662017,43.7123478898,25.3047755984,43.7301061995",
+    "geom:latitude":43.721658,
+    "geom:longitude":25.289014,
+    "gn:population":2328,
+    "iso:country":"RO",
+    "lbl:latitude":43.721659,
+    "lbl:longitude":25.28809,
+    "mps:latitude":43.721659,
+    "mps:longitude":25.28809,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "F\u00e2nt\u00e2nele"
+    ],
+    "name:eng_x_preferred":[
+        "F\u00e2nt\u00e2nele"
+    ],
+    "name:fre_x_preferred":[
+        "F\u00e2nt\u00e2nele"
+    ],
+    "name:ita_x_preferred":[
+        "F\u00e2nt\u00e2nele"
+    ],
+    "name:may_x_preferred":[
+        "F\u00e2nt\u00e2nele"
+    ],
+    "name:por_x_preferred":[
+        "F\u00e2nt\u00e2nele"
+    ],
+    "name:rum_x_colloquial":[
+        "Fantanele",
+        "Fintinele",
+        "Fontanelile"
+    ],
+    "name:rum_x_preferred":[
+        "F\u00eent\u00eenele"
+    ],
+    "name:rum_x_variant":[
+        "Font\u00e2nelile",
+        "F\u00e2nt\u00e2nele"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0424\u0438\u043d\u0442\u0438\u043d\u0435\u043b\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Font\u00e2nelile"
+    ],
+    "name:vol_x_preferred":[
+        "F\u00e2nt\u00e2nele"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Teleorman",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"F\u00e2nt\u00e2nele",
+    "qs:la_lc":"*RO47155118",
+    "qs:level":"locality",
+    "qs:loc":"F\u00e2nt\u00e2nele",
+    "qs:loc_alt":"Fantanele",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a021f2-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":678175,
+        "gp:id":872219,
+        "qs:id":8,
+        "wd:id":"Q2549516"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"8a6e7eeebfa1c571844791a2be2ed6d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101795977,
+            "region_id":85687585
+        }
+    ],
+    "wof:id":101795977,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514499932,
+    "wof:name":"F\u00e2nt\u00e2nele",
+    "wof:parent_id":85687585,
+    "wof:placetype":"locality",
+    "wof:population":2328,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.27766201699984,
+    43.71234788978995,
+    25.3047755983776,
+    43.73010619949127
+],
+  "geometry": {"coordinates":[[[25.28859707479052,43.72937382703117],[25.28717501397421,43.72408825486866],[25.29083109206408,43.72353888272778],[25.29035704335161,43.72177703324513],[25.29157568731546,43.72159388689761],[25.29133865981828,43.72071296323293],[25.29499449805752,43.7201634475731],[25.2947574276082,43.71928253218681],[25.29719458381396,43.71891612294962],[25.2969574879283,43.71803521260193],[25.29939458170043,43.71766875229235],[25.29915746038211,43.71678784698383],[25.30159449172186,43.71642133560454],[25.30135734497446,43.71554043533501],[25.30379431388309,43.71517387288901],[25.30355714171088,43.71429297765906],[25.3047755983776,43.7141096780972],[25.30430124778184,43.71234788978995],[25.3006459622386,43.71289772586687],[25.30088308023335,43.71377863046609],[25.29844615392801,43.71414512239926],[25.29868324649652,43.71502603203692],[25.29259072328239,43.71594202629319],[25.29282773789743,43.71682295068888],[25.29039064563415,43.71718925415519],[25.29062763481033,43.71807018358771],[25.28940906089286,43.71825331697738],[25.2896460421378,43.71913424820724],[25.28355298224011,43.72004971551343],[25.28378988550224,43.7209306614954],[25.28135257857105,43.72129675416676],[25.28158945638035,43.72217770518358],[25.28037077512681,43.72236073317174],[25.28060764499594,43.72324168598556],[25.27817022691187,43.72360770526535],[25.2788807888694,43.72625057448852],[25.27766201699984,43.72643357225428],[25.27813573781089,43.72819548434251],[25.28301092434765,43.72746338102371],[25.28372178764084,43.73010619949127],[25.28859707479052,43.72937382703117]]],"type":"Polygon"}
+}

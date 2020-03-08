@@ -1,0 +1,98 @@
+{
+  "id": 101834719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000089,
+    "geom:area_square_m":784589.357184,
+    "geom:bbox":"26.0795537899,44.7966980993,26.094940497,44.810134196",
+    "geom:latitude":44.80404,
+    "geom:longitude":26.087112,
+    "gn:population":2005,
+    "iso:country":"RO",
+    "lbl:latitude":44.803926,
+    "lbl:longitude":26.087776,
+    "mps:latitude":44.803926,
+    "mps:longitude":26.087776,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Mirosl\u0103ve\u0219ti"
+    ],
+    "name:eng_x_preferred":[
+        "Mirosl\u0103ve\u0219ti"
+    ],
+    "name:fre_x_preferred":[
+        "Mirosl\u0103ve\u0219ti"
+    ],
+    "name:ita_x_preferred":[
+        "Mirosl\u0103ve\u0219ti"
+    ],
+    "name:rum_x_preferred":[
+        "Mirosl\u0103ve\u0219ti"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0456\u0440\u043e\u0441\u043b\u0435\u0432\u0435\u0448\u0442\u044c"
+    ],
+    "name:unk_x_variant":[
+        "Puchenii-Mirosl\u0103vesti"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Prahova",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Puchenii Mari",
+    "qs:la_lc":"*RO42134942",
+    "qs:level":"locality",
+    "qs:loc":"Mirosl\u0103ve\u015fti",
+    "qs:loc_alt":"Miroslavesti",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":673097,
+        "gp:id":875928,
+        "qs:id":411646,
+        "wd:id":"Q12131573"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"c6d347e7ccf485b3c6a5dfd55bb045ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101834719,
+            "region_id":85687661
+        }
+    ],
+    "wof:id":101834719,
+    "wof:lastmodified":1514500024,
+    "wof:name":"Mirosl\u0103ve\u015fti",
+    "wof:parent_id":85687661,
+    "wof:placetype":"locality",
+    "wof:population":2005,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.07955378992244,
+    44.79669809930323,
+    26.09494049695252,
+    44.81013419602414
+],
+  "geometry": {"coordinates":[[[[26.09163371171348,44.80972651244554],[26.09472213651844,44.81013419602414],[26.09447286950535,44.80928393814423],[26.09163371171348,44.80972651244554]]],[[[26.0798924402082,44.808176620871],[26.08798111836961,44.80924435651843],[26.08750429407633,44.80761686693637],[26.09494049695252,44.80645765958053],[26.09468325969044,44.80557997986386],[26.09344392979307,44.80577321418133],[26.09318672130979,44.80489552945801],[26.0919474019945,44.80508874562054],[26.09066160920941,44.8007002820442],[26.09190083752861,44.80050708344612],[26.09164369249572,44.79962938976462],[26.08916526463599,44.800015765296],[26.08839400214902,44.79738265422122],[26.08715483138729,44.79757580949166],[26.08689778322764,44.79669809930323],[26.08565862304874,44.79689123642271],[26.08591565301248,44.7977689501223],[26.08467646702502,44.79796207611321],[26.08519052226393,44.79971750605705],[26.08395129226886,44.79991062442969],[26.08472239979835,44.8025437686872],[26.08348310759067,44.80273688295222],[26.08374014637201,44.80361459823166],[26.08250082834923,44.8038077013664],[26.08275785949797,44.80468541866509],[26.08151851565901,44.8048785106688],[26.08203257325943,44.80663394781322],[26.07955378992244,44.80702010193721],[26.0798924402082,44.808176620871]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,102 @@
+{
+  "id": 101792571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000145,
+    "geom:area_square_m":1277316.921941,
+    "geom:bbox":"26.9966705245,44.7540689028,27.019156328,44.7690882099",
+    "geom:latitude":44.761879,
+    "geom:longitude":27.008642,
+    "gn:population":1428,
+    "iso:country":"RO",
+    "lbl:latitude":44.761875,
+    "lbl:longitude":27.008642,
+    "mps:latitude":44.761875,
+    "mps:longitude":27.008642,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Colelia"
+    ],
+    "name:eng_x_preferred":[
+        "Colelia"
+    ],
+    "name:fre_x_preferred":[
+        "Colelia"
+    ],
+    "name:ita_x_preferred":[
+        "Colelia"
+    ],
+    "name:may_x_preferred":[
+        "Colelia"
+    ],
+    "name:rum_x_preferred":[
+        "Colelia"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u043b\u0435\u043b\u0456\u044f "
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Ialomita",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Colelia",
+    "qs:la_lc":"*RO34179971",
+    "qs:level":"locality",
+    "qs:loc":"Colelia",
+    "qs:loc_alt":"Colelia",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"039f06c8-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":681119,
+        "gp:id":870024,
+        "qs:id":410068,
+        "wd:id":"Q3791428"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"971d7befd775026ab6b8be1391041a3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101792571,
+            "region_id":85687621
+        }
+    ],
+    "wof:id":101792571,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514499859,
+    "wof:name":"Colelia",
+    "wof:parent_id":85687621,
+    "wof:placetype":"locality",
+    "wof:population":1428,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.99667052448001,
+    44.75406890277458,
+    27.01915632796039,
+    44.76908820986682
+],
+  "geometry": {"coordinates":[[[27.01131986147396,44.76868000751671],[27.01104841408176,44.76780509018255],[27.01475604484455,44.76719268852037],[27.01448455477924,44.76631778067923],[27.01819205967308,44.76570525904123],[27.01792052694259,44.76483036069436],[27.01915632796039,44.76462616138821],[27.01861326001347,44.76287636728694],[27.01614172167859,44.76328473654235],[27.01559876992712,44.76153492124047],[27.01436302460149,44.76173907662866],[27.01382015318154,44.75998924752537],[27.01258443570191,44.76019338095676],[27.01068486138291,44.75406890277458],[27.00944926136395,44.75427299576864],[27.00972057785788,44.75514792972291],[27.00601367602951,44.75576013242977],[27.00628494986614,44.75663507587029],[27.0025779222629,44.75724715861406],[27.00284915343479,44.75812211153965],[26.99667052448001,44.75914197668345],[26.99748401572987,44.76176688127862],[27.00366291361598,44.76074696071572],[27.00447677380873,44.76337179549046],[27.00324095644299,44.7635758198154],[27.0035122474705,44.76445076523584],[27.00474808276732,44.76424673721522],[27.0052907340301,44.76599661586397],[27.00652659718679,44.76579256588724],[27.0073407112522,44.76841736076875],[27.00857662020195,44.76821328513756],[27.00884803172778,44.76908820986682],[27.01131986147396,44.76868000751671]]],"type":"Polygon"}
+}

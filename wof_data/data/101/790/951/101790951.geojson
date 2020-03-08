@@ -1,0 +1,95 @@
+{
+  "id": 101790951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000073,
+    "geom:area_square_m":628542.661056,
+    "geom:bbox":"24.2272319537,45.6395647237,24.2466425656,45.6501265338",
+    "geom:latitude":45.645743,
+    "geom:longitude":24.236409,
+    "gn:population":1381,
+    "iso:country":"RO",
+    "lbl:latitude":45.645734,
+    "lbl:longitude":24.236261,
+    "mps:latitude":45.645734,
+    "mps:longitude":24.236261,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "T\u0103lm\u0103cel"
+    ],
+    "name:eng_x_preferred":[
+        "T\u0103lm\u0103cel"
+    ],
+    "name:epo_x_preferred":[
+        "T\u0103lm\u0103cel"
+    ],
+    "name:fre_x_preferred":[
+        "T\u0103lm\u0103cel"
+    ],
+    "name:rum_x_preferred":[
+        "T\u0103lm\u0103cel"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0435\u043b\u043c\u0435\u0447\u0435\u043b"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Sibiu",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"T\u0103lmaciu",
+    "qs:la_lc":"*RO45145827",
+    "qs:level":"locality",
+    "qs:loc":"T\u0103lm\u0103cel",
+    "qs:loc_alt":"Talmacel",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":665607,
+        "gp:id":881425,
+        "qs:id":250105,
+        "wd:id":"Q3893977"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"a196d1c46adbdaf37c364bcdfec44276",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101790951,
+            "region_id":85687687
+        }
+    ],
+    "wof:id":101790951,
+    "wof:lastmodified":1514500221,
+    "wof:name":"T\u0103lm\u0103cel",
+    "wof:parent_id":85687687,
+    "wof:placetype":"locality",
+    "wof:population":1381,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.22723195369076,
+    45.63956472368949,
+    24.24664256558367,
+    45.65012653381109
+],
+  "geometry": {"coordinates":[[[24.23228371618939,45.64855860829346],[24.2373353650687,45.64787269441791],[24.23756876869328,45.64875492071525],[24.23883168254412,45.6485834014905],[24.23906511536438,45.64946562331636],[24.24664256558367,45.64843617331627],[24.24617547710875,45.64667176691182],[24.24364976633899,45.64701496414835],[24.24341627558886,45.64613275263065],[24.24215342893035,45.64630432551257],[24.241919967375,45.6454221095218],[24.2406571329966,45.64559366417694],[24.2401902780785,45.6438292219874],[24.23766466554889,45.64417227341045],[24.23743129156742,45.64329004400429],[24.23616849403351,45.64346154398169],[24.2357018142493,45.64169707496421],[24.23191349534841,45.64221146554911],[24.23121372362993,45.63956472368949],[24.22868825850225,45.6399075564234],[24.22985439985905,45.6443188186015],[24.23364287766344,45.64380449888353],[24.23434285455409,45.64645121217899],[24.23307997755967,45.64662267672372],[24.23331330340898,45.64750491516997],[24.23078748934068,45.64784780561666],[24.23102078621491,45.64873004921395],[24.22723195369076,45.64924428185708],[24.22746520219431,45.65012653381109],[24.23251704225703,45.64944084742109],[24.23228371618939,45.64855860829346]]],"type":"Polygon"}
+}

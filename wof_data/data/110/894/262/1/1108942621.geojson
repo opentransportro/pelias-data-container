@@ -1,0 +1,85 @@
+{
+  "id": 1108942621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.0995570925,44.4274316475,26.0995570925,44.4274316475",
+    "geom:latitude":44.427432,
+    "geom:longitude":26.099557,
+    "iso:country":"RO",
+    "lbl:latitude":44.427432,
+    "lbl:longitude":26.099557,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_metro":30,
+    "name:cat_x_preferred":[
+        "Centru Civic"
+    ],
+    "name:dut_x_preferred":[
+        "Centru Civic"
+    ],
+    "name:eng_x_preferred":[
+        "Centrul Civic"
+    ],
+    "name:fre_x_preferred":[
+        "Centrul civic"
+    ],
+    "name:ger_x_preferred":[
+        "Centrul Civic"
+    ],
+    "name:rum_x_preferred":[
+        "Centrul Civic"
+    ],
+    "name:spa_x_preferred":[
+        "Centru Civic"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        101751949,
+        85633745,
+        85687595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q2315216"
+    },
+    "wof:country":"RO",
+    "wof:created":1491363221,
+    "wof:geomhash":"cb209a370f8495c37c82e677bdbba10a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101751949,
+            "neighbourhood_id":1108942621,
+            "region_id":85687595
+        }
+    ],
+    "wof:id":1108942621,
+    "wof:lastmodified":1514499836,
+    "wof:name":"Centrul Civic",
+    "wof:parent_id":101751949,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.09955709245233,
+    44.42743164752163,
+    26.09955709245233,
+    44.42743164752163
+],
+  "geometry": {"coordinates":[26.09955709245233,44.42743164752163],"type":"Point"}
+}

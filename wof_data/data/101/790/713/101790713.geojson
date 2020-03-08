@@ -1,0 +1,105 @@
+{
+  "id": 101790713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00029,
+    "geom:area_square_m":2524381.419841,
+    "geom:bbox":"27.7379261049,45.2785326323,27.7533466157,45.3018079054",
+    "geom:latitude":45.290619,
+    "geom:longitude":27.74575,
+    "gn:population":1913,
+    "iso:country":"RO",
+    "lbl:latitude":45.290911,
+    "lbl:longitude":27.745603,
+    "mps:latitude":45.290911,
+    "mps:longitude":27.745603,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Romanu"
+    ],
+    "name:eng_x_preferred":[
+        "Romanul"
+    ],
+    "name:fre_x_preferred":[
+        "Romanu"
+    ],
+    "name:ita_x_preferred":[
+        "Romanu"
+    ],
+    "name:rum_x_preferred":[
+        "Romanu"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u043e\u043c\u0430\u043d\u0443"
+    ],
+    "name:unk_x_variant":[
+        "Romanul"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Braila",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Romanu",
+    "qs:la_lc":"*RO18043787",
+    "qs:level":"locality",
+    "qs:loc":"Romanu",
+    "qs:loc_alt":"Romanu",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a3b72c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":668723,
+        "gp:id":879183,
+        "qs:id":1027489,
+        "qs_pg:id":1027489,
+        "wd:id":"Q12148689"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"d3162b7a374ccf63559d0f542c24d6b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101790713,
+            "region_id":85687663
+        }
+    ],
+    "wof:id":101790713,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514500115,
+    "wof:name":"Romanu",
+    "wof:parent_id":85687663,
+    "wof:placetype":"locality",
+    "wof:population":1913,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.73792610487584,
+    45.27853263230088,
+    27.75334661568917,
+    45.3018079053989
+],
+  "geometry": {"coordinates":[[[27.74396024050554,45.3018079053989],[27.7501862160334,45.30074216777598],[27.75047372072049,45.30161426052666],[27.75296408727149,45.30118785503089],[27.75210149978261,45.29857159520736],[27.75334661568917,45.29835838220151],[27.7519091163378,45.29399793514335],[27.75315413283943,45.29378472703013],[27.7517168392381,45.28942425755554],[27.75296175635594,45.28921105433335],[27.75152466845537,45.2848505624371],[27.75276948621052,45.28463736410436],[27.7507579340496,45.27853263230088],[27.74328966161232,45.27981143833085],[27.74300245335871,45.2789393036295],[27.74051299704422,45.27936544725532],[27.74137454841542,45.2819818697638],[27.73888494892373,45.28240797820428],[27.73974649798106,45.28502440905311],[27.73850163091618,45.28523745300737],[27.73965045624612,45.288726019617],[27.73840550796871,45.28893906453982],[27.73926719691411,45.2915554836074],[27.73802218557745,45.29176852559215],[27.73917119745028,45.29525707649947],[27.73792610487584,45.29547011945323],[27.73993720490847,45.30157504633337],[27.74367283854485,45.30093579142124],[27.74396024050554,45.3018079053989]]],"type":"Polygon"}
+}

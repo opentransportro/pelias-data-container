@@ -1,0 +1,129 @@
+{
+  "id": 101786293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000123,
+    "geom:area_square_m":1027202.203008,
+    "geom:bbox":"23.0189126134,47.3941307937,23.035011662,47.41083438",
+    "geom:latitude":47.402323,
+    "geom:longitude":23.025409,
+    "gn:population":3131,
+    "iso:country":"RO",
+    "lbl:latitude":47.401184,
+    "lbl:longitude":23.025288,
+    "mps:latitude":47.401184,
+    "mps:longitude":23.025288,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0425\u043e\u0434\u043e\u0434"
+    ],
+    "name:dut_x_preferred":[
+        "Hodod"
+    ],
+    "name:eng_x_preferred":[
+        "Hadad"
+    ],
+    "name:epo_x_preferred":[
+        "Hodod"
+    ],
+    "name:fre_x_preferred":[
+        "Hodod"
+    ],
+    "name:ger_x_preferred":[
+        "Hodod"
+    ],
+    "name:hun_x_preferred":[
+        "Hadad"
+    ],
+    "name:ita_x_preferred":[
+        "Hodod"
+    ],
+    "name:may_x_preferred":[
+        "Hodod"
+    ],
+    "name:por_x_preferred":[
+        "Hodod"
+    ],
+    "name:rum_x_preferred":[
+        "Hodod"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u043e\u0434\u043e\u0434"
+    ],
+    "name:unk_x_variant":[
+        "Hadad"
+    ],
+    "name:vie_x_preferred":[
+        "Hodod"
+    ],
+    "name:vol_x_preferred":[
+        "Hodod"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Satu Mare",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Hodod",
+    "qs:la_lc":"*RO44137844",
+    "qs:level":"locality",
+    "qs:loc":"Hodod",
+    "qs:loc_alt":"Hodod",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a0e434-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":676106,
+        "gp:id":873711,
+        "qs:id":411050,
+        "qs_pg:id":411050,
+        "wd:id":"Q1014893"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"2d8b9a9be3810f16cb41d76d7762e1b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101786293,
+            "region_id":85687757
+        }
+    ],
+    "wof:id":101786293,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514499968,
+    "wof:name":"Hodod",
+    "wof:parent_id":85687757,
+    "wof:placetype":"locality",
+    "wof:population":3131,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.01891261343366,
+    47.39413079370291,
+    23.03501166202477,
+    47.41083437996144
+],
+  "geometry": {"coordinates":[[[23.02612643758022,47.41020331346158],[23.02590134525803,47.4093191686955],[23.02851681113748,47.40900354766876],[23.02739128304842,47.40458283885641],[23.02869889826576,47.40442502040156],[23.02847380074434,47.40354087853058],[23.03501166202477,47.4027515668534],[23.03456128264924,47.4009833110087],[23.03325376754026,47.40114119844696],[23.03302861397509,47.40025706580127],[23.03041360493717,47.40057278746519],[23.03018850395739,47.3996886475224],[23.02888101003003,47.3998464817488],[23.02775575938233,47.39542575037586],[23.02514096373125,47.39574134073717],[23.02491598581832,47.39485718502192],[23.02360859858766,47.39501495360076],[23.02338365186881,47.39413079370291],[23.02207627882785,47.39428854351115],[23.02230120417147,47.395172706518],[23.02099380257044,47.39533044377362],[23.02144363995734,47.39709877278591],[23.0201361884167,47.39725650059694],[23.02103589548926,47.40079315818275],[23.01972835124201,47.40095088276655],[23.02040317049671,47.40360337401989],[23.02171077889443,47.40344564010843],[23.02193575967101,47.40432979860492],[23.02324338226521,47.40417204591915],[23.0241434891426,47.40770865673721],[23.01891261343366,47.408339623247],[23.0193625546982,47.41010794710076],[23.02067032719151,47.40995022275303],[23.02089533394997,47.41083437996144],[23.02612643758022,47.41020331346158]]],"type":"Polygon"}
+}

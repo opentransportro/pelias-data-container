@@ -1,0 +1,107 @@
+{
+  "id": 85901701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":2399905.232756,
+    "geom:bbox":"21.306021,46.194046,21.306021,46.194046",
+    "geom:latitude":46.194046,
+    "geom:longitude":21.306021,
+    "gn:latitude":46.18333,
+    "gn:longitude":21.31667,
+    "iso:country":"RO",
+    "lbl:latitude":46.194046,
+    "lbl:longitude":21.306021,
+    "mps:latitude":46.195616,
+    "mps:longitude":21.305446,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:rum_x_preferred":[
+        "Bujac"
+    ],
+    "name:unk_x_variant":[
+        "Bujac"
+    ],
+    "qs:gn_adm0_cc":"RO",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":686254,
+    "qs:gn_nam_loc":"Arad, Arad, RO",
+    "qs:gn_namadm1":"00",
+    "qs:gn_name":"Bujac",
+    "qs:local_max":710,
+    "qs:local_sum":1140,
+    "qs:localhoods":4,
+    "qs:name":"Bujac",
+    "qs:name_adm0":"Rom\u00e2nia",
+    "qs:name_adm1":"Arad",
+    "qs:name_local":"Arad",
+    "qs:photo_max":13,
+    "qs:photo_sum":21,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":3,
+    "qs:woe_adm0":23424933,
+    "qs:woe_adm1":2346616,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":866307,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        101751999,
+        85633745,
+        85687691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":683354,
+        "gp:id":868381,
+        "qs:id":222558,
+        "qs_pg:id":222558
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"3a0ddac18e9cdb31461c91690077abec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101751999,
+            "neighbourhood_id":85901701,
+            "region_id":85687691
+        }
+    ],
+    "wof:id":85901701,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1531932546,
+    "wof:name":"Bujac",
+    "wof:parent_id":101751999,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.306021,
+    46.194046,
+    21.306021,
+    46.194046
+],
+  "geometry": {"coordinates":[21.306021,46.194046],"type":"Point"}
+}

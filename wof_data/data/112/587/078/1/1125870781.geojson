@@ -1,0 +1,89 @@
+{
+  "id": 1125870781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.48333,44.71667,22.48333,44.71667",
+    "geom:latitude":44.71667,
+    "geom:longitude":22.48333,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"RO",
+    "lbl:latitude":44.71667,
+    "lbl:longitude":22.48333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Verciorova"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":662783,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"V\u00eerciorova",
+    "qs_pg:name_adm0":"Rom\u00e2nia",
+    "qs_pg:name_adm1":"Mehedinti",
+    "qs_pg:photos":31,
+    "qs_pg:photos_1k":6,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":31,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":41213,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424933,
+    "qs_pg:woe_id":883621,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424933,
+    "woe:name_adm0":"Rom\u00e2nia",
+    "woe:name_adm1":"Mehedinti",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":662783,
+        "gp:id":883621,
+        "qs_pg:id":41213
+    },
+    "wof:country":"RO",
+    "wof:created":1497294286,
+    "wof:geomhash":"c81cb2fb2d3b13573df88e6d3bce7e3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125870781,
+            "region_id":85687599
+        }
+    ],
+    "wof:id":1125870781,
+    "wof:lastmodified":1509397297,
+    "wof:name":"V\u00eerciorova",
+    "wof:parent_id":85687599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.48333,
+    44.71667,
+    22.48333,
+    44.71667
+],
+  "geometry": {"coordinates":[22.48333,44.71667],"type":"Point"}
+}

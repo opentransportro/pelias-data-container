@@ -1,0 +1,119 @@
+{
+  "id": 101789823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000204,
+    "geom:area_square_m":1755878.205959,
+    "geom:bbox":"25.9849976918,45.8114544642,26.0186532192,45.823541954",
+    "geom:latitude":45.817812,
+    "geom:longitude":26.00281,
+    "gn:population":3063,
+    "iso:country":"RO",
+    "lbl:latitude":45.819977,
+    "lbl:longitude":26.005359,
+    "mps:latitude":45.819977,
+    "mps:longitude":26.005359,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u0631\u0648\u0634\u0646\u064a\u0648 \u0645\u0627\u0631\u064a"
+    ],
+    "name:dut_x_preferred":[
+        "Boro\u0219neu Mare"
+    ],
+    "name:eng_x_preferred":[
+        "Boro\u0219neu Mare"
+    ],
+    "name:epo_x_preferred":[
+        "Boro\u0219neu Mare"
+    ],
+    "name:fre_x_preferred":[
+        "Boro\u0219neu Mare"
+    ],
+    "name:hun_x_preferred":[
+        "Nagyborosny\u00f3"
+    ],
+    "name:ita_x_preferred":[
+        "Boro\u0219neu Mare"
+    ],
+    "name:por_x_preferred":[
+        "Boro\u0219neu Mare"
+    ],
+    "name:rum_x_preferred":[
+        "Boro\u0219neu Mare"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u0440\u043e\u0448\u043d\u0435\u0443-\u041c\u0430\u0440\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Nagyborosny\u00f2"
+    ],
+    "name:vie_x_preferred":[
+        "Borosneu Mare"
+    ],
+    "name:vol_x_preferred":[
+        "Boro\u0219neu Mare"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Covasna",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Boro\u015fneu Mare",
+    "qs:la_lc":"*RO26063937",
+    "qs:level":"locality",
+    "qs:loc":"Boro\u015fneu Mare",
+    "qs:loc_alt":"Borosneu Mare",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":684170,
+        "gp:id":867791,
+        "qs:id":127954,
+        "qs_pg:id":127954,
+        "wd:id":"Q1097085"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"115c4d48c60d88b60a601a59472c436e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101789823,
+            "region_id":85687699
+        }
+    ],
+    "wof:id":101789823,
+    "wof:lastmodified":1514499783,
+    "wof:name":"Boro\u015fneu Mare",
+    "wof:parent_id":85687699,
+    "wof:placetype":"locality",
+    "wof:population":3063,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.98499769178937,
+    45.81145446419305,
+    26.01865321924373,
+    45.82354195404423
+],
+  "geometry": {"coordinates":[[[26.0030379098917,45.82354195404423],[26.00934820058239,45.82257835710209],[26.00908466571929,45.82170123357008],[26.01287068669671,45.82112290683318],[26.01260710558176,45.82024579266681],[26.01765494497977,45.81947449550182],[26.01739129852473,45.81859739430979],[26.01865321924373,45.81840453625671],[26.0183895647462,45.8175274372183],[26.01712766312301,45.81772029166399],[26.01554608280674,45.81245764526159],[26.00797519224284,45.81361432822968],[26.00823864677443,45.81449146123072],[26.00697678455811,45.81468419301825],[26.0075036885662,45.81643846187217],[26.00119406641238,45.81740193264483],[26.00040401343006,45.81477047312399],[25.9991421222781,45.81496311162465],[25.99808894925394,45.81145446419305],[25.99556529571839,45.81183966753213],[25.99609178376727,45.81359400856053],[25.99356802184036,45.81397916651935],[25.99383124422275,45.81485634206047],[25.98499769178937,45.81620394926335],[25.98552390223671,45.81795834640792],[25.98804789076758,45.81757337611919],[25.98883740381558,45.82020493935551],[25.98757535623503,45.82039744277773],[25.9878385302161,45.82127463122373],[25.995410810306,45.82011936483394],[25.99567410995689,45.82099653021731],[25.99946019926688,45.82041868439387],[25.99998694631904,45.82217298918647],[26.00124899828495,45.82198033680567],[26.00151240748198,45.82285748342042],[26.00277447054418,45.82266481248575],[26.0030379098917,45.82354195404423]]],"type":"Polygon"}
+}

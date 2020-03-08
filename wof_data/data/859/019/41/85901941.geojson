@@ -1,0 +1,107 @@
+{
+  "id": 85901941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":9836257.712034,
+    "geom:bbox":"27.972458,45.271622,27.972458,45.271622",
+    "geom:latitude":45.271622,
+    "geom:longitude":27.972458,
+    "gn:latitude":45.26667,
+    "gn:longitude":27.96667,
+    "iso:country":"RO",
+    "lbl:latitude":45.271622,
+    "lbl:longitude":27.972458,
+    "mps:latitude":45.272049,
+    "mps:longitude":27.970458,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":1,
+    "name:rum_x_preferred":[
+        "Vatra Veche"
+    ],
+    "name:unk_x_variant":[
+        "Vatra Veche"
+    ],
+    "qs:gn_adm0_cc":"RO",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":683902,
+    "qs:gn_nam_loc":"Braila, Br\u0103ila, RO",
+    "qs:gn_namadm1":"00",
+    "qs:gn_name":"Vatra Veche",
+    "qs:local_max":321,
+    "qs:local_sum":530,
+    "qs:localhoods":3,
+    "qs:name":"Vatra Veche",
+    "qs:name_adm0":"Rom\u00e2nia",
+    "qs:name_adm1":"Braila",
+    "qs:name_local":"Br\u0103ila",
+    "qs:photo_max":43,
+    "qs:photo_sum":321,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":32,
+    "qs:woe_adm0":23424933,
+    "qs:woe_adm1":2346622,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":867987,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        101751979,
+        85633745,
+        85687663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":663094,
+        "gp:id":883393,
+        "qs:id":1167616,
+        "qs_pg:id":1167616
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"973ad0e0380882d9f477d411ed384ab3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101751979,
+            "neighbourhood_id":85901941,
+            "region_id":85687663
+        }
+    ],
+    "wof:id":85901941,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1531932605,
+    "wof:name":"Vatra Veche",
+    "wof:parent_id":101751979,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.972458,
+    45.271622,
+    27.972458,
+    45.271622
+],
+  "geometry": {"coordinates":[27.972458,45.271622],"type":"Point"}
+}

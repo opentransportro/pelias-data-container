@@ -1,0 +1,98 @@
+{
+  "id": 101794061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000042,
+    "geom:area_square_m":369229.204312,
+    "geom:bbox":"25.434660507,44.6746370753,25.4475368809,44.6843607806",
+    "geom:latitude":44.680538,
+    "geom:longitude":25.439508,
+    "gn:population":1012,
+    "iso:country":"RO",
+    "lbl:latitude":44.681174,
+    "lbl:longitude":25.437801,
+    "mps:latitude":44.681174,
+    "mps:longitude":25.437801,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Te\u021bcoiu"
+    ],
+    "name:eng_x_preferred":[
+        "Te\u021bcoiu"
+    ],
+    "name:fre_x_preferred":[
+        "Te\u021bcoiu"
+    ],
+    "name:ita_x_preferred":[
+        "Te\u021bcoiu"
+    ],
+    "name:rum_x_preferred":[
+        "Te\u021bcoiu"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0435\u0446\u043a\u043e\u044e"
+    ],
+    "name:unk_x_variant":[
+        "Te\u0163coiul"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*D\u00e2mbovita",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"M\u0103t\u0103saru",
+    "qs:la_lc":"*RO27068048",
+    "qs:level":"locality",
+    "qs:loc":"Tetcoiu",
+    "qs:loc_alt":"Tetcoiu",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":665209,
+        "gp:id":881718,
+        "qs:id":2,
+        "wd:id":"Q12161117"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"a0da27ccdfefeb182285891cf8d58e57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101794061,
+            "region_id":85687637
+        }
+    ],
+    "wof:id":101794061,
+    "wof:lastmodified":1514500193,
+    "wof:name":"Tetcoiu",
+    "wof:parent_id":85687637,
+    "wof:placetype":"locality",
+    "wof:population":1012,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.43466050703677,
+    44.67463707532642,
+    25.44753688089071,
+    44.68436078058022
+],
+  "geometry": {"coordinates":[[[25.43639080111848,44.68329574660311],[25.4425831404634,44.68236883312045],[25.44282916737836,44.6832485081631],[25.44530608867183,44.68287763347854],[25.44506002524014,44.68199796516882],[25.44753688089071,44.6816270386139],[25.44729079106145,44.6807473756121],[25.44481397192465,44.68111829543369],[25.44456792872461,44.68023862427344],[25.44085270018383,44.68079488402776],[25.44060672186822,44.67991520134484],[25.43936831605265,44.6801005885963],[25.43863049654527,44.67746152190313],[25.43986884759187,44.67727614474705],[25.43913106431029,44.67463707532642],[25.43789276802596,44.6748224423884],[25.43813866742352,44.67570213698468],[25.43690034560933,44.67588749276183],[25.4373921382213,44.67764688440946],[25.43615377262086,44.67783223226547],[25.4366455691561,44.67959162494412],[25.43540715976542,44.67977696487861],[25.43589896022195,44.68153635858937],[25.43466050703677,44.68172169060165],[25.43539822876636,44.68436078058022],[25.43663673673331,44.68417543847374],[25.43639080111848,44.68329574660311]]],"type":"Polygon"}
+}

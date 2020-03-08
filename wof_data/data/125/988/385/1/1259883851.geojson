@@ -1,0 +1,66 @@
+{
+  "id": 1259883851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.41667,46.4,23.41667,46.4",
+    "geom:latitude":46.4,
+    "geom:longitude":23.41667,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"6976.0",
+    "gn:asciiname":"Deleni",
+    "gn:country_code":"RO",
+    "gn:dem":481,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":679526,
+    "gn:latitude":46.4,
+    "gn:longitude":23.41667,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Deleni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bucharest",
+    "iso:country":"RO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":679526
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"b3864c8366b2b799b28b81530520908b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1259883851,
+            "region_id":85687697
+        }
+    ],
+    "wof:id":1259883851,
+    "wof:lastmodified":1536779093,
+    "wof:name":"Deleni",
+    "wof:parent_id":85687697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.41667,
+    46.4,
+    23.41667,
+    46.4
+],
+  "geometry": {"coordinates":[23.41667,46.4],"type":"Point"}
+}

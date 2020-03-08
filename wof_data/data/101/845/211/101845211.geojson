@@ -1,0 +1,122 @@
+{
+  "id": 101845211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000087,
+    "geom:area_square_m":738131.417894,
+    "geom:bbox":"23.4535346229,46.5717900298,23.4728298018,46.5839495724",
+    "geom:latitude":46.577935,
+    "geom:longitude":23.461743,
+    "gn:population":2319,
+    "iso:country":"RO",
+    "lbl:latitude":46.57938,
+    "lbl:longitude":23.459477,
+    "mps:latitude":46.57938,
+    "mps:longitude":23.459477,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "B\u0103i\u0219oara"
+    ],
+    "name:eng_x_preferred":[
+        "B\u0103i\u0219oara"
+    ],
+    "name:epo_x_preferred":[
+        "B\u0103i\u0219oara"
+    ],
+    "name:fre_x_preferred":[
+        "B\u0103i\u0219oara"
+    ],
+    "name:ger_x_preferred":[
+        "B\u0103i\u0219oara"
+    ],
+    "name:hun_x_preferred":[
+        "J\u00e1rab\u00e1nya"
+    ],
+    "name:ita_x_preferred":[
+        "B\u0103i\u0219oara"
+    ],
+    "name:may_x_preferred":[
+        "B\u0103i\u0219oara"
+    ],
+    "name:por_x_preferred":[
+        "B\u0103i\u0219oara"
+    ],
+    "name:rum_x_preferred":[
+        "B\u0103i\u0219oara"
+    ],
+    "name:spa_x_preferred":[
+        "B\u0103i\u0219oara"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u0439\u0448\u043e\u0430\u0440\u0430"
+    ],
+    "name:vie_x_preferred":[
+        "Baisoara"
+    ],
+    "name:vol_x_preferred":[
+        "B\u0103i\u0219oara"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Cluj",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"B\u0103i\u015foara",
+    "qs:la_lc":"*RO24055918",
+    "qs:level":"locality",
+    "qs:loc":"B\u0103i\u015foara",
+    "qs:loc_alt":"Baisoara",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":685773,
+        "gp:id":15001376,
+        "qs:id":275381,
+        "qs_pg:id":275381,
+        "wd:id":"Q250038"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"c1ac71cf0057c2cc08ef3c1175a7abaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101845211,
+            "region_id":85687727
+        }
+    ],
+    "wof:id":101845211,
+    "wof:lastmodified":1514499822,
+    "wof:name":"B\u0103i\u015foara",
+    "wof:parent_id":85687727,
+    "wof:placetype":"locality",
+    "wof:population":2319,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.45353462290984,
+    46.57179002979342,
+    23.47282980175567,
+    46.58394957242314
+],
+  "geometry": {"coordinates":[[[23.45708898328263,46.58378698113034],[23.45686214296205,46.58290339214983],[23.46329493113922,46.5820902208626],[23.46261416178174,46.5794394939611],[23.46776001933495,46.57878871794139],[23.46753303388869,46.57790515252805],[23.46881946010666,46.57774242324729],[23.46813850082964,46.57509172949943],[23.47071120933276,46.57476624363449],[23.47048420148786,46.57388268301253],[23.47177052466316,46.57371992016897],[23.47154350611055,46.57283636152761],[23.47282980175567,46.57267358645436],[23.47260277249683,46.57179002979342],[23.46874392561159,46.57227829954161],[23.46897089355133,46.57316186559325],[23.46768457663859,46.57332459458547],[23.46791153386829,46.57420816261737],[23.46533883789471,46.57453358077839],[23.46556576397018,46.57541715391983],[23.45913379779483,46.57623044614309],[23.45890697394162,46.57534685735834],[23.45762057989486,46.57550946658932],[23.45739378621255,46.57462587352819],[23.45353462290984,46.57511359966713],[23.45376135525476,46.57599720210976],[23.45504777055118,46.57583463896509],[23.45640849150396,46.58113621074386],[23.45512195351228,46.58129879265266],[23.45534875392542,46.58218238705763],[23.45406218839611,46.58234495672997],[23.45428897808233,46.58322855311468],[23.45557556406516,46.58306598031447],[23.45580238393205,46.58394957242314],[23.45708898328263,46.58378698113034]]],"type":"Polygon"}
+}

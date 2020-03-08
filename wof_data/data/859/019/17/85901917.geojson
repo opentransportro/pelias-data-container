@@ -1,0 +1,111 @@
+{
+  "id": 85901917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":13276402.399329,
+    "geom:bbox":"22.219271,45.414283,22.219271,45.414283",
+    "geom:latitude":45.414283,
+    "geom:longitude":22.219271,
+    "gn:latitude":45.41667,
+    "gn:longitude":22.21667,
+    "iso:country":"RO",
+    "lbl:latitude":45.414283,
+    "lbl:longitude":22.219271,
+    "mps:latitude":45.412457,
+    "mps:longitude":22.219903,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:ron_x_preferred":[
+        "R\u00e2ul Teu\u0219"
+    ],
+    "name:rum_x_colloquial":[
+        "Teus"
+    ],
+    "name:rum_x_preferred":[
+        "Teu\u0219"
+    ],
+    "name:unk_x_variant":[
+        "Teu\u0219"
+    ],
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":0,
+    "qs:gn_namadm1":"00",
+    "qs:gn_name":"Teu\u015f",
+    "qs:local_max":38,
+    "qs:local_sum":38,
+    "qs:localhoods":1,
+    "qs:name":"Teu\u0219",
+    "qs:name_adm0":"Rom\u00e2nia",
+    "qs:name_adm1":"Caras-Severin",
+    "qs:name_local":"Caransebe\u0219",
+    "qs:photo_max":14,
+    "qs:photo_sum":38,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":13,
+    "qs:woe_adm0":23424933,
+    "qs:woe_adm1":2346626,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":868844,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        101792667,
+        85633745,
+        85687627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":665202,
+        "gp:id":881722,
+        "qs:id":1167608,
+        "qs_pg:id":1167608
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"97c3e209193819c3f489492b10b49ac6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101792667,
+            "neighbourhood_id":85901917,
+            "region_id":85687627
+        }
+    ],
+    "wof:id":85901917,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1531932598,
+    "wof:name":"Teu\u0219",
+    "wof:parent_id":101792667,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.219271,
+    45.414283,
+    22.219271,
+    45.414283
+],
+  "geometry": {"coordinates":[22.219271,45.414283],"type":"Point"}
+}

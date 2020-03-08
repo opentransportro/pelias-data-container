@@ -1,0 +1,137 @@
+{
+  "id": 85901741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":14812487.144236,
+    "geom:bbox":"27.666737,46.229305,27.666737,46.229305",
+    "geom:latitude":46.229305,
+    "geom:longitude":27.666737,
+    "gn:latitude":46.23333,
+    "gn:longitude":27.66667,
+    "iso:country":"RO",
+    "lbl:latitude":46.229305,
+    "lbl:longitude":27.666737,
+    "mps:latitude":46.227266,
+    "mps:longitude":27.666858,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0648\u0631\u064a\u0634"
+    ],
+    "name:bel_x_preferred":[
+        "\u0420\u0430\u043a\u0430 \u041c\u0443\u0440\u044d\u0448"
+    ],
+    "name:bul_x_preferred":[
+        "\u041c\u0443\u0440\u0435\u0448"
+    ],
+    "name:cat_x_preferred":[
+        "Mure\u0219"
+    ],
+    "name:ces_x_preferred":[
+        "Mure\u0219"
+    ],
+    "name:dan_x_preferred":[
+        "Mure\u0219"
+    ],
+    "name:deu_x_preferred":[
+        "Mure\u0219"
+    ],
+    "name:epo_x_preferred":[
+        "Mure\u0219"
+    ],
+    "name:eus_x_preferred":[
+        "Mure\u0219"
+    ],
+    "name:rum_x_preferred":[
+        "Cotu Negru"
+    ],
+    "name:spa_x_preferred":[
+        "Mure\u0219"
+    ],
+    "name:unk_x_variant":[
+        "Cotu Negru"
+    ],
+    "qs:gn_adm0_cc":"RO",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":683973,
+    "qs:gn_nam_loc":"lapusna",
+    "qs:gn_namadm1":"00",
+    "qs:gn_name":"Cotu Negru",
+    "qs:local_max":89,
+    "qs:local_sum":89,
+    "qs:localhoods":1,
+    "qs:name":"Cotu Negru",
+    "qs:name_adm0":"Rom\u00e2nia",
+    "qs:name_adm1":"Vaslui",
+    "qs:name_local":"B\u00eerlad",
+    "qs:photo_max":43,
+    "qs:photo_sum":89,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":16,
+    "qs:woe_adm0":23424933,
+    "qs:woe_adm1":2346651,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":867334,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        101752031,
+        85633745,
+        85687743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":680443,
+        "gp:id":870531,
+        "qs:id":273257,
+        "qs_pg:id":273257
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"419d221b00d19db29ac5165d9944a89d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101752031,
+            "neighbourhood_id":85901741,
+            "region_id":85687743
+        }
+    ],
+    "wof:id":85901741,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1531932556,
+    "wof:name":"Cotu Negru",
+    "wof:parent_id":101752031,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.666737,
+    46.229305,
+    27.666737,
+    46.229305
+],
+  "geometry": {"coordinates":[27.666737,46.229305],"type":"Point"}
+}

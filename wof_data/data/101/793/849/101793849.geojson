@@ -1,0 +1,92 @@
+{
+  "id": 101793849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000049,
+    "geom:area_square_m":429067.522716,
+    "geom:bbox":"22.7987035455,45.0619743619,22.806209759,45.0749981214",
+    "geom:latitude":45.068559,
+    "geom:longitude":22.80252,
+    "gn:population":1121,
+    "iso:country":"RO",
+    "lbl:latitude":45.068829,
+    "lbl:longitude":22.801837,
+    "mps:latitude":45.068829,
+    "mps:longitude":22.801837,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Clo\u0219ani"
+    ],
+    "name:eng_x_preferred":[
+        "Clo\u0219ani"
+    ],
+    "name:fre_x_preferred":[
+        "Clo\u0219ani"
+    ],
+    "name:rum_x_preferred":[
+        "Clo\u0219ani"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043b\u043e\u0448\u0430\u043d\u044c"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Gorj",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Pade\u015f",
+    "qs:la_lc":"*RO31081095",
+    "qs:level":"locality",
+    "qs:loc":"Clo\u015fani",
+    "qs:loc_alt":"Closani",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":681297,
+        "gp:id":869890,
+        "qs:id":410025,
+        "wd:id":"Q12110544"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"920c45e2f271c0aaf4b52e8c398964f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101793849,
+            "region_id":85687619
+        }
+    ],
+    "wof:id":101793849,
+    "wof:lastmodified":1514499853,
+    "wof:name":"Clo\u015fani",
+    "wof:parent_id":85687619,
+    "wof:placetype":"locality",
+    "wof:population":1121,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.79870354551156,
+    45.06197436189888,
+    22.8062097590485,
+    45.07499812143283
+],
+  "geometry": {"coordinates":[[[22.8062097590485,45.0736495504766],[22.80538342669399,45.07010462198502],[22.80413004742462,45.07025873658415],[22.80309742177758,45.06582753594608],[22.80435070514216,45.0656734355772],[22.80393767683086,45.06390095298894],[22.80519091562093,45.06374684338209],[22.80477788341267,45.06197436189888],[22.80227147632155,45.06228255480175],[22.8024779497656,45.06316880180748],[22.80122471771841,45.06332287871055],[22.80143118059789,45.06420912741498],[22.80017792315607,45.06436319223388],[22.80038437546943,45.06524944263708],[22.79913109263231,45.06540349537102],[22.79995691129039,45.06894849690332],[22.79870354551156,45.0691025460867],[22.79891000252553,45.06998879644993],[22.8001633874876,45.06983474442154],[22.80078286776569,45.07249348010083],[22.80203630406299,45.07233940460429],[22.80265591944124,45.07499812143283],[22.80390940707741,45.07484402246564],[22.80370284081391,45.07395778751516],[22.8062097590485,45.0736495504766]]],"type":"Polygon"}
+}

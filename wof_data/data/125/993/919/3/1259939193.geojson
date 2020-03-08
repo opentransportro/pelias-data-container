@@ -1,0 +1,70 @@
+{
+  "id": 1259939193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.16667,45.85,24.16667,45.85",
+    "geom:latitude":45.85,
+    "geom:longitude":24.16667,
+    "gn:admin1_code":"33",
+    "gn:admin2_code":"145765.0",
+    "gn:asciiname":"Timban",
+    "gn:country_code":"RO",
+    "gn:dem":448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":665096,
+    "gn:latitude":45.85,
+    "gn:longitude":24.16667,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"\u0162imban",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bucharest",
+    "iso:country":"RO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0162imbau",
+        "\u0162imban"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":665096
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"20c4e1403bf4adbbab3ff0a33bb99aba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1259939193,
+            "region_id":85687687
+        }
+    ],
+    "wof:id":1259939193,
+    "wof:lastmodified":1537683315,
+    "wof:name":"Timban",
+    "wof:parent_id":85687687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.16667,
+    45.85,
+    24.16667,
+    45.85
+],
+  "geometry": {"coordinates":[24.16667,45.85],"type":"Point"}
+}

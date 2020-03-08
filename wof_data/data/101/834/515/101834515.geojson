@@ -1,0 +1,98 @@
+{
+  "id": 101834515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000086,
+    "geom:area_square_m":752708.651817,
+    "geom:bbox":"25.5463640433,44.794198903,25.5592736724,44.81039768",
+    "geom:latitude":44.80231,
+    "geom:longitude":25.55215,
+    "gn:population":1551,
+    "iso:country":"RO",
+    "lbl:latitude":44.802396,
+    "lbl:longitude":25.55259,
+    "mps:latitude":44.802396,
+    "mps:longitude":25.55259,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Cazaci"
+    ],
+    "name:eng_x_preferred":[
+        "Cazaci"
+    ],
+    "name:fre_x_preferred":[
+        "Cazaci"
+    ],
+    "name:ita_x_preferred":[
+        "Cazaci"
+    ],
+    "name:rum_x_preferred":[
+        "Cazaci"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0437\u0430\u0447 "
+    ],
+    "name:unk_x_variant":[
+        "Cazachi"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*D\u00e2mbovita",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"S\u0103lcioara",
+    "qs:la_lc":"*RO27068789",
+    "qs:level":"locality",
+    "qs:loc":"Cazaci",
+    "qs:loc_alt":"Cazaci",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":682506,
+        "gp:id":869001,
+        "qs:id":185227,
+        "wd:id":"Q12107646"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"b8813daf1a64a3617293d196ad0fdd93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101834515,
+            "region_id":85687637
+        }
+    ],
+    "wof:id":101834515,
+    "wof:lastmodified":1514499833,
+    "wof:name":"Cazaci",
+    "wof:parent_id":85687637,
+    "wof:placetype":"locality",
+    "wof:population":1551,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.54636404334997,
+    44.79419890300233,
+    25.55927367240497,
+    44.81039768001222
+],
+  "geometry": {"coordinates":[[[25.55545547695164,44.79433750260506],[25.55024282267971,44.79419890300233],[25.55082959639213,44.79627484637882],[25.54958897769762,44.79646160393952],[25.54983751055556,44.79734087987333],[25.5485968661589,44.79752762615686],[25.54884539092376,44.79840690405803],[25.54636404334997,44.79878035939277],[25.5468610502636,44.80053892449678],[25.54810176440037,44.80035219736845],[25.54859884892431,44.80211074994293],[25.54983959235182,44.80192400133615],[25.55133120166357,44.80719960427518],[25.54884948740835,44.80757312761932],[25.54909808812863,44.80845239656429],[25.54785720159623,44.80863913961713],[25.54835439708211,44.81039768001222],[25.5533180456539,44.8096505925073],[25.55257204772397,44.807012820583],[25.55629454163051,44.80645238142961],[25.55654325237248,44.80733162996387],[25.55778408725001,44.80714478415143],[25.55803282657303,44.80802402784991],[25.55927367240497,44.80783716395507],[25.55877616733477,44.80607868193016],[25.55753535817286,44.80626553901925],[25.55703793075503,44.80450704445542],[25.55579715088095,44.80469388006077],[25.55331081165968,44.79590128722771],[25.55455140823148,44.79571448563752],[25.55430281230042,44.79483522187206],[25.5555433831712,44.79464840900647],[25.55545547695164,44.79433750260506]]],"type":"Polygon"}
+}

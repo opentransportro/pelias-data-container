@@ -1,0 +1,114 @@
+{
+  "id": 101789965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000186,
+    "geom:area_square_m":1606257.617473,
+    "geom:bbox":"27.7022025153,45.6946778099,27.7297025511,45.7112634102",
+    "geom:latitude":45.703358,
+    "geom:longitude":27.718292,
+    "gn:population":2582,
+    "iso:country":"RO",
+    "lbl:latitude":45.703284,
+    "lbl:longitude":27.721521,
+    "mps:latitude":45.703284,
+    "mps:longitude":27.721521,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Costache Negri"
+    ],
+    "name:eng_x_preferred":[
+        "Costache Negri"
+    ],
+    "name:fre_x_preferred":[
+        "Costache Negri"
+    ],
+    "name:ger_x_preferred":[
+        "Costache Negri"
+    ],
+    "name:ita_x_preferred":[
+        "Costache Negri"
+    ],
+    "name:may_x_preferred":[
+        "Costache Negri"
+    ],
+    "name:por_x_preferred":[
+        "Costache Negri"
+    ],
+    "name:rum_x_preferred":[
+        "Costache Negri"
+    ],
+    "name:unk_x_variant":[
+        "M\u00e2njina"
+    ],
+    "name:vol_x_preferred":[
+        "Costache Negri"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Galati",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Costache Negri",
+    "qs:la_lc":"*RO29076111",
+    "qs:level":"locality",
+    "qs:loc":"Costache Negri",
+    "qs:loc_alt":"Costache Negri",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a68c68-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":672364,
+        "gp:id":876453,
+        "qs:id":1028049,
+        "qs_pg:id":1083980,
+        "wd:id":"Q2539228"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"83bc119ec04d9fcea93fa97dd6eabd21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101789965,
+            "region_id":85687709
+        }
+    ],
+    "wof:id":101789965,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514499872,
+    "wof:name":"Costache Negri",
+    "wof:parent_id":85687709,
+    "wof:placetype":"locality",
+    "wof:population":2582,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.70220251534806,
+    45.69467780985343,
+    27.72970255114842,
+    45.71126341018493
+],
+  "geometry": {"coordinates":[[[27.72932006238972,45.7078148166334],[27.7284483794507,45.70519933357753],[27.72970255114842,45.70498616851557],[27.72883092140989,45.70237068232581],[27.72757680527201,45.70258383552539],[27.72670533983427,45.69996832247767],[27.72545127050091,45.7001814490369],[27.72516082470031,45.69930960406896],[27.72390676513589,45.69952271189544],[27.72361634993126,45.69865086130886],[27.72236230013641,45.69886395040351],[27.72207191552639,45.69799209419887],[27.72081787550201,45.69820516456167],[27.72052752148511,45.69733330273959],[27.71676540449261,45.69797241329536],[27.71763633610368,45.70058802932886],[27.7138739737336,45.70122704242334],[27.71358370668531,45.70035516022438],[27.71232958692832,45.70056813107675],[27.71116871353178,45.69708056983495],[27.70991465911504,45.69729351010699],[27.70904418634808,45.69467780985343],[27.70653616240986,45.69510362236292],[27.70827699431305,45.70033505528357],[27.70702285810995,45.70054796306175],[27.70818357998292,45.7040355675324],[27.70316665135408,45.70488711401424],[27.70345678788811,45.70575902677081],[27.70220251534806,45.70597188038306],[27.70249264542144,45.70684379542564],[27.7087640133426,45.70577935978571],[27.70847379062667,45.70490746449093],[27.71599903242242,45.70362967759701],[27.71687007025753,45.70624528737238],[27.71812430218671,45.70603225929824],[27.71986681513857,45.71126341018493],[27.72613839931751,45.71019792948607],[27.72555732807501,45.70845425871954],[27.72932006238972,45.7078148166334]]],"type":"Polygon"}
+}

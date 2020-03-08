@@ -1,0 +1,113 @@
+{
+  "id": 1125825231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.98333,47.31667,22.98333,47.31667",
+    "geom:latitude":47.31667,
+    "geom:longitude":22.98333,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":1298,
+    "gn:population":1298,
+    "iso:country":"RO",
+    "lbl:latitude":47.31667,
+    "lbl:longitude":22.98333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Co\u0219eiu"
+    ],
+    "name:eng_x_preferred":[
+        "Co\u0219eiu"
+    ],
+    "name:epo_x_preferred":[
+        "Co\u0219eiu"
+    ],
+    "name:fre_x_preferred":[
+        "Co\u0219eiu"
+    ],
+    "name:hun_x_preferred":[
+        "Kusaly"
+    ],
+    "name:ita_x_preferred":[
+        "Co\u0219eiu"
+    ],
+    "name:por_x_preferred":[
+        "Co\u0219eiu"
+    ],
+    "name:rum_x_preferred":[
+        "Co\u0219eiu"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0448\u0435\u044e"
+    ],
+    "name:unk_x_variant":[
+        "Co\u015feiul"
+    ],
+    "name:vie_x_preferred":[
+        "Coseiu"
+    ],
+    "name:vol_x_preferred":[
+        "Co\u0219eiu"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":680655,
+    "qs_pg:gn_pop":1298,
+    "qs_pg:name":"Co\u015feiu",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":127774,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":680655,
+        "qs_pg:id":127774,
+        "wd:id":"Q1094479"
+    },
+    "wof:country":"RO",
+    "wof:created":1497292246,
+    "wof:geomhash":"ed553ebab9267f9ecb2f15a331d1f93b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125825231,
+            "region_id":85687723
+        }
+    ],
+    "wof:id":1125825231,
+    "wof:lastmodified":1514499875,
+    "wof:name":"Co\u015feiu",
+    "wof:parent_id":85687723,
+    "wof:placetype":"locality",
+    "wof:population":1298,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.98333,
+    47.31667,
+    22.98333,
+    47.31667
+],
+  "geometry": {"coordinates":[22.98333,47.31667],"type":"Point"}
+}

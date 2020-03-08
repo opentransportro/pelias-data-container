@@ -1,0 +1,89 @@
+{
+  "id": 101835601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000086,
+    "geom:area_square_m":754554.810114,
+    "geom:bbox":"26.2019010793,44.5321389328,26.2215373073,44.5418816946",
+    "geom:latitude":44.536966,
+    "geom:longitude":26.211282,
+    "iso:country":"RO",
+    "lbl:latitude":44.538135,
+    "lbl:longitude":26.208009,
+    "mps:latitude":44.538135,
+    "mps:longitude":26.208009,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "\u0218tef\u0103ne\u0219tii de Sus"
+    ],
+    "name:eng_x_preferred":[
+        "\u0218tef\u0103ne\u0219tii de Sus"
+    ],
+    "name:fre_x_preferred":[
+        "\u0218tef\u0103ne\u0219tii de Sus"
+    ],
+    "name:rum_x_preferred":[
+        "\u0218tef\u0103ne\u0219tii de Sus"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0442\u0435\u0444\u0435\u043d\u0435\u0448\u0442\u0456\u0439-\u0434\u0435-\u0421\u0443\u0441"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Ilfov",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:id":0,
+    "qs:la":"Afuma\u0163i",
+    "qs:la_lc":"*RO36100834",
+    "qs:level":"locality",
+    "qs:loc":"\u015etef\u0103ne\u015ftii de Sus",
+    "qs:loc_alt":"Stefanestii de Sus",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":666222,
+        "gp:id":880983,
+        "qs:id":983807,
+        "wd:id":"Q12172392"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"1f3f83c7b50e9458e2bea73a046c8a38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101835601,
+            "region_id":85687611
+        }
+    ],
+    "wof:id":101835601,
+    "wof:lastmodified":1514500274,
+    "wof:name":"\u015etef\u0103ne\u015ftii de Sus",
+    "wof:parent_id":85687611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.20190107931541,
+    44.53213893284953,
+    26.22153730726859,
+    44.54188169455216
+],
+  "geometry": {"coordinates":[[[26.20852633658836,44.53213893284953],[26.20190107931541,44.53909332755978],[26.20278116960742,44.53895464594939],[26.20303814170757,44.53983222904054],[26.20550479541515,44.5394434148613],[26.20601884296741,44.54119856247041],[26.20725219438805,44.5410041265277],[26.20750925189009,44.54188169455216],[26.21244265376754,44.5411037911685],[26.211928405658,44.53934868167914],[26.21316170131684,44.53915417645953],[26.21290457508775,44.53827662295237],[26.2153711078164,44.53788757586273],[26.21511395620649,44.53701002786079],[26.22004685910707,44.5362317730503],[26.22030408250788,44.53710930701033],[26.22153730726859,44.53691470340777],[26.22025120573983,44.53252703600606],[26.21408545494171,44.53349982070188],[26.21459968454019,44.53525492731126],[26.20966680421998,44.5360329211511],[26.20852633658836,44.53213893284953]]],"type":"Polygon"}
+}

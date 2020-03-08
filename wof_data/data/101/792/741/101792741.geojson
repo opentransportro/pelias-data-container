@@ -1,0 +1,83 @@
+{
+  "id": 101792741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000048,
+    "geom:area_square_m":419120.79723,
+    "geom:bbox":"25.8746627506,44.7085379316,25.885578816,44.715258571",
+    "geom:latitude":44.712236,
+    "geom:longitude":25.88005,
+    "gn:population":2934,
+    "iso:country":"RO",
+    "lbl:latitude":44.712083,
+    "lbl:longitude":25.879947,
+    "mps:latitude":44.712083,
+    "mps:longitude":25.879947,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "F\u00eent\u00eenele"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*D\u00e2mbovita",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Cojasca",
+    "qs:la_lc":"*RO27066697",
+    "qs:level":"locality",
+    "qs:loc":"F\u00e2nt\u00e2nele",
+    "qs:loc_alt":"Fantanele",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":678170,
+        "gp:id":872214,
+        "qs:id":127661,
+        "qs_pg:id":127661,
+        "wd:id":"Q12165736"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"f1c65183f0770959dc4778ac84361f8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101792741,
+            "region_id":85687637
+        }
+    ],
+    "wof:id":101792741,
+    "wof:lastmodified":1505337968,
+    "wof:name":"F\u00e2nt\u00e2nele",
+    "wof:parent_id":85687637,
+    "wof:placetype":"locality",
+    "wof:population":2934,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.87466275060285,
+    44.70853793160666,
+    25.88557881599507,
+    44.71525857098806
+],
+  "geometry": {"coordinates":[[[25.87815106653943,44.71525857098806],[25.88557881599507,44.71411459100545],[25.88456589477016,44.71060108980384],[25.88332802795151,44.71079177586739],[25.8830748418236,44.70991339342561],[25.88183698569242,44.71010406140033],[25.8815838281381,44.70922567402613],[25.88034598269456,44.70941632391242],[25.88009285371277,44.70853793160666],[25.87761717671833,44.70891918057436],[25.87787026935177,44.70979757979831],[25.87663240145326,44.70998818579773],[25.87688548630751,44.7108665870087],[25.87564759274863,44.71105718183748],[25.87590066982295,44.71193558503552],[25.87466275060285,44.71212616869332],[25.87542198967037,44.71476137983439],[25.87789792969653,44.71438017713564],[25.87815106653943,44.71525857098806]]],"type":"Polygon"}
+}

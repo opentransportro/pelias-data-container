@@ -1,0 +1,87 @@
+{
+  "id": 101791961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000074,
+    "geom:area_square_m":638563.271623,
+    "geom:bbox":"23.3079298651,45.3971465465,23.3232634344,45.4125855982",
+    "geom:latitude":45.407055,
+    "geom:longitude":23.316342,
+    "gn:population":4998,
+    "iso:country":"RO",
+    "lbl:latitude":45.408793,
+    "lbl:longitude":23.316458,
+    "mps:latitude":45.408793,
+    "mps:longitude":23.316458,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rum_x_preferred":[
+        "Aninoasa"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Hunedoara",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Aninoasa",
+    "qs:la_lc":"*RO33087219",
+    "qs:level":"locality",
+    "qs:loc":"Aninoasa",
+    "qs:loc_alt":"Aninoasa",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"039d1c3c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":686315,
+        "gp:id":866268,
+        "qs:id":275397,
+        "qs_pg:id":275397,
+        "wd:id":"Q16898320"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"a91d1a5b80c8c7f91e77cab891ab09a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101791961,
+            "region_id":85687671
+        }
+    ],
+    "wof:id":101791961,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1505337963,
+    "wof:name":"Aninoasa",
+    "wof:parent_id":85687671,
+    "wof:placetype":"locality",
+    "wof:population":4998,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.30792986510244,
+    45.3971465464856,
+    23.32326343438376,
+    45.41258559817658
+],
+  "geometry": {"coordinates":[[[23.32035207301169,45.41057818563439],[23.31948431636897,45.40703921290282],[23.32326343438376,45.40655788737729],[23.32261253802812,45.40390367231618],[23.32135289672715,45.4040641201982],[23.32005146582014,45.39875564026079],[23.31879193417046,45.39891605521996],[23.31835823534715,45.3971465464856],[23.31709873586004,45.39730694047239],[23.31774923962269,45.39996121076041],[23.31900879721854,45.39980080781561],[23.31987634033464,45.40333980638746],[23.31861670525041,45.40350022127848],[23.31883359438888,45.40438497095573],[23.31757393335295,45.40454537383124],[23.31779081221021,45.40543012531435],[23.31653112522156,45.40559051617402],[23.31674799379567,45.40647526946299],[23.30792986510244,45.40759760629425],[23.30858011841678,45.41025192178006],[23.31109973291746,45.40993131122065],[23.31175018433481,45.41258559817658],[23.31301003986812,45.4124252614323],[23.31279319425414,45.4115405032797],[23.32035207301169,45.41057818563439]]],"type":"Polygon"}
+}

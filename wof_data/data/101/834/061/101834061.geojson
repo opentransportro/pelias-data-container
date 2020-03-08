@@ -1,0 +1,144 @@
+{
+  "id": 101834061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000206,
+    "geom:area_square_m":1762867.644831,
+    "geom:bbox":"23.8190375097,46.1640012708,23.8523184593,46.1821734733",
+    "geom:latitude":46.171802,
+    "geom:longitude":23.833941,
+    "gn:population":4297,
+    "iso:country":"RO",
+    "lbl:latitude":46.169385,
+    "lbl:longitude":23.833689,
+    "mps:latitude":46.169385,
+    "mps:longitude":23.833689,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Cr\u0103ciunelu de Jos"
+    ],
+    "name:ara_x_preferred":[
+        "\u0643\u0631\u0627\u062a\u0634\u064a\u0648\u0646\u064a\u0644\u0648 \u062f\u064a \u062c\u0648\u0633"
+    ],
+    "name:dut_x_preferred":[
+        "Cr\u0103ciunelu de Jos"
+    ],
+    "name:eng_x_preferred":[
+        "Cr\u0103ciunelu de Jos"
+    ],
+    "name:epo_x_preferred":[
+        "Cr\u0103ciunelu de Jos"
+    ],
+    "name:fre_x_preferred":[
+        "Cr\u0103ciunelu de Jos"
+    ],
+    "name:ger_x_preferred":[
+        "Cr\u0103ciunelu de Jos"
+    ],
+    "name:hun_x_preferred":[
+        "Als\u00f3kar\u00e1csonfalva"
+    ],
+    "name:ita_x_preferred":[
+        "Cr\u0103ciunelu de Jos"
+    ],
+    "name:mac_x_preferred":[
+        "\u041a\u0440\u0430\u0447\u0443\u043d\u0435\u043b\u0443 \u0434\u0435 \u0416\u043e\u0441"
+    ],
+    "name:may_x_preferred":[
+        "Cr\u0103ciunelu de Jos"
+    ],
+    "name:por_x_preferred":[
+        "Cr\u0103ciunelu de Jos"
+    ],
+    "name:rum_x_colloquial":[
+        "Craciunelu de Jos",
+        "Craciunelul-de-Jos",
+        "Craeciunelu de Jos",
+        "Craeciunelul-de-Jos"
+    ],
+    "name:rum_x_preferred":[
+        "Cr\u0103ciunelu de Jos"
+    ],
+    "name:rum_x_variant":[
+        "Cr\u0103ciunelul-de-Jos"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0440\u0435\u0447\u0443\u043d\u0435\u043b\u0443-\u0434\u0435-\u0416\u043e\u0441"
+    ],
+    "name:unk_x_variant":[
+        "Cr\u0103ciunelul-de-Jos"
+    ],
+    "name:vie_x_preferred":[
+        "Craciunelu de Jos"
+    ],
+    "name:vol_x_preferred":[
+        "Cr\u0103ciunelu de Jos"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Alba",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Cr\u0103ciunelu de Jos",
+    "qs:la_lc":"*RO11004188",
+    "qs:level":"locality",
+    "qs:loc":"Cr\u0103ciunelu de Jos",
+    "qs:loc_alt":"Craciunelu de Jos",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"039f4e08-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":680373,
+        "gp:id":870576,
+        "qs:id":1028021,
+        "qs_pg:id":1028021,
+        "wd:id":"Q664814"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"8094f15b79b3ea7b8411cdb51b4ee320",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101834061,
+            "region_id":85687697
+        }
+    ],
+    "wof:id":101834061,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514499884,
+    "wof:name":"Cr\u0103ciunelu de Jos",
+    "wof:parent_id":85687697,
+    "wof:placetype":"locality",
+    "wof:population":4297,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.81903750972015,
+    46.16400127076395,
+    23.85231845934265,
+    46.18217347334041
+],
+  "geometry": {"coordinates":[[[23.83634067911646,46.18198929636202],[23.8403481323968,46.18217347334041],[23.83989613181194,46.18044244606563],[23.83861998949124,46.18060944053548],[23.83769816473603,46.1770778789774],[23.83897422715972,46.17691089720131],[23.83828290150808,46.17426222292545],[23.85231845934265,46.17242452433288],[23.85208781740454,46.17154166541889],[23.85081191316522,46.17170880179157],[23.85035069861652,46.169943074],[23.84907482718404,46.17011018881533],[23.8493054095955,46.17099305648799],[23.84547769269028,46.17149431921553],[23.84524717017297,46.17061144201926],[23.84269536324223,46.17094553478552],[23.84200397424445,46.16829687693422],[23.83945225863795,46.16863088983212],[23.83922185515041,46.16774799512973],[23.83794600663998,46.16791497559581],[23.83725491479987,46.16526627475434],[23.83597911906628,46.16543323049819],[23.83574879465607,46.1645503246404],[23.83319722177953,46.16488418416657],[23.83296694707838,46.16400127076395],[23.83041538568864,46.16433506312387],[23.83064562046479,46.16521798286726],[23.82936980914417,46.16538485940794],[23.8298302681161,46.16715070162849],[23.82727854429169,46.1674844217689],[23.82750874851945,46.16836734741634],[23.8262328559785,46.16853418784524],[23.82646305002066,46.16941711546053],[23.82135932890969,46.17008433777153],[23.82158945285533,46.17096727686226],[23.81903750972015,46.17130080310301],[23.81926760350149,46.17218374733028],[23.8230955674594,46.17168342564946],[23.82401628005465,46.17521515252099],[23.82146415140312,46.17554874087153],[23.82192448649369,46.17731460977899],[23.82702887516029,46.17664734687787],[23.82725913728433,46.17753026685],[23.82853523664932,46.17736340992724],[23.82830495455033,46.17648049312641],[23.82958102682858,46.17631362416421],[23.82912045204245,46.17454779329887],[23.83422451024717,46.1738801907228],[23.83537642008969,46.17829469543886],[23.83665251671982,46.17812774090993],[23.83734384005191,46.18077641979448],[23.83606768349517,46.18094338384191],[23.83634067911646,46.18198929636202]]],"type":"Polygon"}
+}

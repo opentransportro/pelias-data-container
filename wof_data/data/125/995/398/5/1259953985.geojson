@@ -1,0 +1,72 @@
+{
+  "id": 1259953985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.95,45.68333,22.95,45.68333",
+    "geom:latitude":45.68333,
+    "geom:longitude":22.95,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"88644.0",
+    "gn:asciiname":"Ocolisu Mare",
+    "gn:country_code":"RO",
+    "gn:dem":330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":672010,
+    "gn:latitude":45.68333,
+    "gn:longitude":22.95,
+    "gn:modification_date":"2015-12-04",
+    "gn:name":"Ocoli\u0219u Mare",
+    "gn:population":236,
+    "gn:timezone":"Europe/Bucharest",
+    "iso:country":"RO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hun_x_preferred":[
+        "Nagyoklos"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":672010
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"259d327ed4a7eaacd739299dc8c1d77b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1259953985,
+            "region_id":85687671
+        }
+    ],
+    "wof:id":1259953985,
+    "wof:lastmodified":1537683436,
+    "wof:name":"Ocolisu Mare",
+    "wof:parent_id":85687671,
+    "wof:placetype":"locality",
+    "wof:population":236,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.95,
+    45.68333,
+    22.95,
+    45.68333
+],
+  "geometry": {"coordinates":[22.95,45.68333],"type":"Point"}
+}

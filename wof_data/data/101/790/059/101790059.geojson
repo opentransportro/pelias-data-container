@@ -1,0 +1,101 @@
+{
+  "id": 101790059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000109,
+    "geom:area_square_m":927701.318302,
+    "geom:bbox":"24.390938305,46.3415615258,24.4094131818,46.3524973087",
+    "geom:latitude":46.347855,
+    "geom:longitude":24.400332,
+    "gn:population":1359,
+    "iso:country":"RO",
+    "lbl:latitude":46.348495,
+    "lbl:longitude":24.401731,
+    "mps:latitude":46.348495,
+    "mps:longitude":24.401731,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Deaj"
+    ],
+    "name:eng_x_preferred":[
+        "Deaj"
+    ],
+    "name:epo_x_preferred":[
+        "Deaj"
+    ],
+    "name:fre_x_preferred":[
+        "Deaj"
+    ],
+    "name:hun_x_preferred":[
+        "D\u00e9sfalva"
+    ],
+    "name:rum_x_preferred":[
+        "Deaj"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u044f\u0436"
+    ],
+    "name:unk_x_variant":[
+        "Dea\u015f"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Mures",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Mica",
+    "qs:la_lc":"*RO39118209",
+    "qs:level":"locality",
+    "qs:loc":"Deaj",
+    "qs:loc_alt":"Deaj",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":679692,
+        "gp:id":871059,
+        "qs:id":967633,
+        "wd:id":"Q258432"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"ccbfe49347a600f2e72ea041b33fe4b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101790059,
+            "region_id":85687719
+        }
+    ],
+    "wof:id":101790059,
+    "wof:lastmodified":1514499900,
+    "wof:name":"Deaj",
+    "wof:parent_id":85687719,
+    "wof:placetype":"locality",
+    "wof:population":1359,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.39093830496233,
+    46.3415615257644,
+    24.40941318182377,
+    46.35249730872749
+],
+  "geometry": {"coordinates":[[[24.40941318182377,46.3511065564245],[24.40820771286246,46.34670020080011],[24.40692916133952,46.34687408155543],[24.40620606310313,46.34423024316027],[24.39725641341636,46.3454469125241],[24.39677467915942,46.34368430092218],[24.39421764924271,46.34403177045908],[24.39373603598233,46.34226914058769],[24.39245754983142,46.34244284589397],[24.39221677857267,46.3415615257644],[24.39093830496233,46.3417352125341],[24.39190137150956,46.34526049877036],[24.3931799251082,46.34508679875455],[24.39414323566677,46.34861205166919],[24.39158596100987,46.34895946297053],[24.39182677427806,46.34984077968721],[24.39310543533827,46.34966707833792],[24.39334627886279,46.35054839048775],[24.39590361861218,46.35020093548144],[24.396144512398,46.35108223975084],[24.39870186231133,46.35073471720727],[24.39918376066754,46.35249730872749],[24.40941318182377,46.3511065564245]]],"type":"Polygon"}
+}

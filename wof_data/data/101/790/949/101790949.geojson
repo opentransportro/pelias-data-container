@@ -1,0 +1,113 @@
+{
+  "id": 101790949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000074,
+    "geom:area_square_m":638522.854104,
+    "geom:bbox":"24.2924275111,45.6362877646,24.3056657011,45.6450876409",
+    "geom:latitude":45.640835,
+    "geom:longitude":24.2988,
+    "gn:population":2578,
+    "iso:country":"RO",
+    "lbl:latitude":45.640895,
+    "lbl:longitude":24.298674,
+    "mps:latitude":45.640895,
+    "mps:longitude":24.298674,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Turnu Ro\u0219u"
+    ],
+    "name:eng_x_preferred":[
+        "Turnu Ro\u0219u"
+    ],
+    "name:epo_x_preferred":[
+        "Turnu Ro\u0219u"
+    ],
+    "name:fre_x_preferred":[
+        "Turnu Ro\u0219u"
+    ],
+    "name:ger_x_preferred":[
+        "Turnu Ro\u0219u"
+    ],
+    "name:hun_x_preferred":[
+        "V\u00f6r\u00f6storony"
+    ],
+    "name:ita_x_preferred":[
+        "Turnu Ro\u0219u"
+    ],
+    "name:por_x_preferred":[
+        "Turnu Ro\u0219u"
+    ],
+    "name:rum_x_preferred":[
+        "Turnu Ro\u0219u"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0443\u0440\u043d\u0443-\u0420\u043e\u0448\u0443"
+    ],
+    "name:unk_x_variant":[
+        "Porce\u015fti"
+    ],
+    "name:vol_x_preferred":[
+        "Turnu Ro\u0219u"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Sibiu",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Turnu Ro\u015fu",
+    "qs:la_lc":"*RO45145934",
+    "qs:level":"locality",
+    "qs:loc":"Turnu Ro\u015fu",
+    "qs:loc_alt":"Turnu Rosu",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":664436,
+        "gp:id":882293,
+        "qs:id":1084521,
+        "wd:id":"Q934617"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"538d71fa7a0b3849c4a5b62de9e1df61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101790949,
+            "region_id":85687687
+        }
+    ],
+    "wof:id":101790949,
+    "wof:lastmodified":1514500213,
+    "wof:name":"Turnu Ro\u015fu",
+    "wof:parent_id":85687687,
+    "wof:placetype":"locality",
+    "wof:population":2578,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.29242751110178,
+    45.63628776458575,
+    24.30566570111637,
+    45.64508764086037
+],
+  "geometry": {"coordinates":[[[24.29808975079578,45.64508764086037],[24.30566570111637,45.64405396918642],[24.3051967513527,45.64228986880187],[24.30393414953426,45.64246217850405],[24.30369970879224,45.64158012318404],[24.30243711920804,45.64175241465171],[24.30149953216522,45.63822416778248],[24.30528704714186,45.63770728700075],[24.30505261690382,45.63682523177152],[24.30252765277555,45.63716982752828],[24.30229327110715,45.63628776458575],[24.29598083283747,45.63714897517428],[24.29621511768784,45.63803105421823],[24.29242751110178,45.63854761008849],[24.29383307824941,45.64384011564442],[24.2963583888527,45.64349572144062],[24.29659272322789,45.64437779481705],[24.29785538720591,45.644205571974],[24.29808975079578,45.64508764086037]]],"type":"Polygon"}
+}

@@ -1,0 +1,120 @@
+{
+  "id": 101790911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000134,
+    "geom:area_square_m":1157308.691224,
+    "geom:bbox":"24.8416480509,45.7204532418,24.8567175246,45.7358072784",
+    "geom:latitude":45.72742,
+    "geom:longitude":24.849334,
+    "gn:population":1653,
+    "iso:country":"RO",
+    "lbl:latitude":45.727488,
+    "lbl:longitude":24.850076,
+    "mps:latitude":45.727488,
+    "mps:longitude":24.850076,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Lisa"
+    ],
+    "name:eng_x_preferred":[
+        "Lissa"
+    ],
+    "name:epo_x_preferred":[
+        "Lisa"
+    ],
+    "name:hun_x_preferred":[
+        "Lisza"
+    ],
+    "name:ita_x_preferred":[
+        "Lisa"
+    ],
+    "name:may_x_preferred":[
+        "Lisa"
+    ],
+    "name:por_x_preferred":[
+        "Lisa"
+    ],
+    "name:rum_x_preferred":[
+        "Lisa"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0456\u0441\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Lissa"
+    ],
+    "name:vie_x_preferred":[
+        "Lisa"
+    ],
+    "name:vol_x_preferred":[
+        "Lisa"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Brasov",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Lisa",
+    "qs:la_lc":"*RO19041346",
+    "qs:level":"locality",
+    "qs:loc":"Lisa",
+    "qs:loc_alt":"Lisa",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a170e8-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":674721,
+        "gp:id":874714,
+        "qs:id":1027764,
+        "qs_pg:id":1027764,
+        "wd:id":"Q671987"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"7a5f3516dbabd55da4d3fb25c92e7a8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101790911,
+            "region_id":85687683
+        }
+    ],
+    "wof:id":101790911,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514499996,
+    "wof:name":"Lisa",
+    "wof:parent_id":85687683,
+    "wof:placetype":"locality",
+    "wof:population":1653,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.84164805087329,
+    45.72045324176423,
+    24.85671752456653,
+    45.73580727844342
+],
+  "geometry": {"coordinates":[[[24.85671752456653,45.72837776172798],[24.85452150763876,45.72045324176423],[24.85199562717804,45.72081105185225],[24.85223954945474,45.72169156607043],[24.84592462186288,45.72258584551912],[24.84568079612637,45.72170531456572],[24.84441780765133,45.72188412210591],[24.84417401146436,45.72100358648106],[24.84164805087329,45.72136114986688],[24.84213557624855,45.72312223317539],[24.84466161407846,45.72276465640596],[24.84563694220037,45.72628678035704],[24.84184764257964,45.72682316316292],[24.84209144227401,45.72770370087801],[24.84335456888391,45.72752491826566],[24.84481769804484,45.7328080966621],[24.84355445553246,45.73298689935496],[24.84404220857238,45.73474795491836],[24.84277891999517,45.73492674930105],[24.84302279256264,45.73580727844342],[24.84681269398163,45.73527084023777],[24.84632484316785,45.73350980071376],[24.85137778653007,45.73279436649045],[24.85113379922205,45.73191385813391],[24.85492337080268,45.73137713497181],[24.85443531104329,45.72961613437599],[24.85569844808413,45.72943720334723],[24.85545441426717,45.72855670440981],[24.85671752456653,45.72837776172798]]],"type":"Polygon"}
+}

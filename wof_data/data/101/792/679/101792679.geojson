@@ -1,0 +1,124 @@
+{
+  "id": 101792679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000086,
+    "geom:area_square_m":748340.206297,
+    "geom:bbox":"22.0253546496,45.2158978875,22.0370018882,45.2403057249",
+    "geom:latitude":45.227027,
+    "geom:longitude":22.031126,
+    "gn:population":953,
+    "iso:country":"RO",
+    "lbl:latitude":45.220115,
+    "lbl:longitude":22.0287,
+    "mps:latitude":45.220115,
+    "mps:longitude":22.0287,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "V\u0103liug"
+    ],
+    "name:eng_x_preferred":[
+        "V\u0103liug"
+    ],
+    "name:epo_x_preferred":[
+        "V\u0103liug"
+    ],
+    "name:fre_x_preferred":[
+        "V\u0103liug"
+    ],
+    "name:ger_x_preferred":[
+        "V\u0103liug"
+    ],
+    "name:hun_x_preferred":[
+        "Ferenczfalva"
+    ],
+    "name:ita_x_preferred":[
+        "V\u0103liug"
+    ],
+    "name:por_x_preferred":[
+        "V\u0103liug"
+    ],
+    "name:rum_x_colloquial":[
+        "Vaeliug",
+        "Valiug"
+    ],
+    "name:rum_x_preferred":[
+        "V\u0103liug"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u043b\u0456\u0443\u0433"
+    ],
+    "name:vie_x_preferred":[
+        "Valiug"
+    ],
+    "name:vol_x_preferred":[
+        "V\u0103liug"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Caras-Severin",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"V\u0103liug",
+    "qs:la_lc":"*RO23054485",
+    "qs:level":"locality",
+    "qs:loc":"V\u0103liug",
+    "qs:loc_alt":"Valiug",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a5d034-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":663237,
+        "gp:id":883281,
+        "qs:id":550698,
+        "qs_pg:id":550698,
+        "wd:id":"Q920517"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"6ed19c7f123d8057af33e2699f9c9767",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101792679,
+            "region_id":85687627
+        }
+    ],
+    "wof:id":101792679,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514500254,
+    "wof:name":"V\u0103liug",
+    "wof:parent_id":85687627,
+    "wof:placetype":"locality",
+    "wof:population":953,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.02535464957873,
+    45.21589788754551,
+    22.03700188816816,
+    45.24030572490085
+],
+  "geometry": {"coordinates":[[[22.03700188816816,45.23720717834851],[22.03641638953565,45.23454355072977],[22.03515767133399,45.23468852577776],[22.0341821013339,45.23024911152874],[22.03292347463668,45.23039405808373],[22.03233828923072,45.22773038860657],[22.03107971506552,45.22787531205938],[22.03049466168676,45.22521162486805],[22.03175317741733,45.22506670949303],[22.03058317451604,45.21973932235591],[22.03184156749199,45.21959440811372],[22.03145159296821,45.2178186092184],[22.03270994109596,45.21767368534069],[22.03231996032309,45.21589788754551],[22.02854501504373,45.21633259797011],[22.02873994293549,45.21722050547834],[22.02748159656477,45.2173653816065],[22.02767651315588,45.21825329073516],[22.02641814141043,45.21839815453484],[22.02661304669965,45.21928606528388],[22.02535464957873,45.21943091675462],[22.02574444571934,45.22120674042299],[22.02700288178778,45.22106188357026],[22.02797761250542,45.22550141055308],[22.02671907905534,45.2256462808628],[22.02710898959333,45.22742208954674],[22.02962612850308,45.22713232313743],[22.03079629007641,45.2324596911958],[22.03205496755919,45.23231476930101],[22.03381093733572,45.24030572490085],[22.03632862532891,45.24001578754707],[22.035743111508,45.23735216147981],[22.03700188816816,45.23720717834851]]],"type":"Polygon"}
+}

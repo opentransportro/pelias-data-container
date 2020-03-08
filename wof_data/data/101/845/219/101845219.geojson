@@ -1,0 +1,92 @@
+{
+  "id": 101845219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000095,
+    "geom:area_square_m":797910.288705,
+    "geom:bbox":"25.3047112553,46.9356365848,25.3331209174,46.9440018665",
+    "geom:latitude":46.93923,
+    "geom:longitude":25.320494,
+    "gn:population":1001,
+    "iso:country":"RO",
+    "lbl:latitude":46.938612,
+    "lbl:longitude":25.318341,
+    "mps:latitude":46.938612,
+    "mps:longitude":25.318341,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Zencani"
+    ],
+    "name:hun_x_preferred":[
+        "Zs\u00e1khegy"
+    ],
+    "name:rum_x_preferred":[
+        "Zencani"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0435\u043d\u043a\u0430\u043d\u044c"
+    ],
+    "name:unk_x_variant":[
+        "Zenk\u00e0n"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Harghita",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Topli\u0163a",
+    "qs:la_lc":"*RO32083632",
+    "qs:level":"locality",
+    "qs:loc":"Zencani",
+    "qs:loc_alt":"Zencani",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":662223,
+        "gp:id":868667,
+        "qs:id":1,
+        "wd:id":"Q1415535"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"e220dc119d4c0f9f7c5f524464dd0800",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101845219,
+            "region_id":85687733
+        }
+    ],
+    "wof:id":101845219,
+    "wof:lastmodified":1514500258,
+    "wof:name":"Zencani",
+    "wof:parent_id":85687733,
+    "wof:placetype":"locality",
+    "wof:population":1001,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.30471125533046,
+    46.93563658478678,
+    25.33312091743664,
+    46.94400186649995
+],
+  "geometry": {"coordinates":[[[25.30471125533046,46.93873509218088],[25.30523220753076,46.94049185137055],[25.30652234516094,46.94030691458647],[25.3062618431303,46.93942853923727],[25.31400237535405,46.93831861761157],[25.31478428104231,46.94095367524073],[25.3134941517639,46.94113871129298],[25.31375478905341,46.94201706473899],[25.31891533846397,46.94127681410163],[25.31917606828978,46.9421551518908],[25.32949693732456,46.94067388510229],[25.33027968200804,46.94330880447973],[25.3315698148246,46.94312356630365],[25.33183077247014,46.94400186649995],[25.33312091743664,46.94381660938933],[25.33207707279394,46.94030341489668],[25.33078700914939,46.94048865767479],[25.33052609634251,46.93961035211834],[25.32923604484665,46.93979557596344],[25.32871429351189,46.93803895366625],[25.32742427449352,46.93822415499716],[25.32690260863598,46.93646752017696],[25.32174261341379,46.93720814335217],[25.32148187859889,46.93632980960939],[25.3201918796837,46.9365149234485],[25.31993117639649,46.93563658478678],[25.31090109747191,46.93693192680212],[25.31116165845145,46.93781029051615],[25.30471125533046,46.93873509218088]]],"type":"Polygon"}
+}

@@ -1,0 +1,197 @@
+{
+  "id": 101833687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000896,
+    "geom:area_square_m":7427255.208512,
+    "geom:bbox":"23.8690815845,47.9115619928,23.9255276084,47.9407614862",
+    "geom:latitude":47.927694,
+    "geom:longitude":23.894636,
+    "gn:population":40653,
+    "iso:country":"RO",
+    "lbl:latitude":47.929598,
+    "lbl:longitude":23.895064,
+    "mps:latitude":47.929598,
+    "mps:longitude":23.895064,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ace_x_preferred":[
+        "Sighetu Marma\u021biei"
+    ],
+    "name:arm_x_preferred":[
+        "\u054d\u056b\u0563\u0565\u057f\u0578\u0582 \u0544\u0561\u0580\u0574\u0561\u0581\u056b\u0565\u0575"
+    ],
+    "name:bel_x_preferred":[
+        "\u0421\u0456\u0433\u0435\u0442\u0443 \u041c\u0430\u0440\u043c\u0430\u0446\u044b\u0435\u0439"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u0438\u0433\u0435\u0442"
+    ],
+    "name:chi_x_preferred":[
+        "\u932b\u84cb\u5716\u99ac\u723e\u99ac\u5207\u4f0a"
+    ],
+    "name:cze_x_preferred":[
+        "Sighetu Marma\u021biei"
+    ],
+    "name:deu_x_preferred":[
+        "Sighetu Marma\u0163iei"
+    ],
+    "name:dut_x_preferred":[
+        "Sighetu Marma\u021biei"
+    ],
+    "name:eng_x_preferred":[
+        "Sighetu Marma\u0163iei"
+    ],
+    "name:epo_x_preferred":[
+        "Sighetu Marma\u0163iei"
+    ],
+    "name:fre_x_preferred":[
+        "Sighetu Marma\u021biei"
+    ],
+    "name:fry_x_preferred":[
+        "Sighetu Marma\u021biei"
+    ],
+    "name:ger_x_preferred":[
+        "Marmaroschsiget"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d9\u05d2\u05d8"
+    ],
+    "name:hun_x_preferred":[
+        "M\u00e1ramarossziget"
+    ],
+    "name:ind_x_preferred":[
+        "Sighetu Marma\u021biei"
+    ],
+    "name:ita_x_preferred":[
+        "Sighetu Marma\u0163iei"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30b2\u30c8\u30a5\u30fb\u30de\u30eb\u30de\u30c4\u30a3\u30a8\u30a4"
+    ],
+    "name:kor_x_preferred":[
+        "\uc2dc\uac8c\ud22c\ub9c8\ub974\ub9c8\uce58\uc5d0\uc774"
+    ],
+    "name:may_x_preferred":[
+        "Sighetu Marma\u021biei"
+    ],
+    "name:min_x_preferred":[
+        "Sighetu Marma\u021biei"
+    ],
+    "name:nob_x_preferred":[
+        "Sighetu Marma\u021biei"
+    ],
+    "name:per_x_preferred":[
+        "\u0633\u06cc\u06af\u062a\u0648 \u0645\u0631\u0645\u062a\u0633\u06cc\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Sighetu Marma\u0163iei"
+    ],
+    "name:por_x_preferred":[
+        "Sighetu Marma\u021biei"
+    ],
+    "name:ron_x_preferred":[
+        "Sighetu Marma\u021biei"
+    ],
+    "name:ron_x_variant":[
+        "Sighet"
+    ],
+    "name:rum_x_preferred":[
+        "Sighetu Marma\u021biei"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0438\u0433\u0435\u0442\u0443-\u041c\u0430\u0440\u043c\u0430\u0446\u0438\u0435\u0439"
+    ],
+    "name:sco_x_preferred":[
+        "Sighetu Marma\u021biei"
+    ],
+    "name:spa_x_preferred":[
+        "Sighetu Marma\u021biei"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0438\u0433\u0435\u0442\u0443 \u041c\u0430\u0440\u043c\u0430\u0446\u0458\u0435\u0458"
+    ],
+    "name:swe_x_preferred":[
+        "Sighetu Marma\u021biei"
+    ],
+    "name:szl_x_preferred":[
+        "Sighetu Marma\u021biei"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0421\u0438\u0433\u0435\u0442\u0443-\u041c\u0430\u0440\u043c\u0430\u0442\u0441\u0438\u0435\u0439"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0438\u0433\u0456\u0442 \u041c\u0430\u0440\u043c\u0430\u0440\u043e\u0441\u044c\u043a\u0438\u0439"
+    ],
+    "name:unk_x_variant":[
+        "Marmaro\u0161 Sihot"
+    ],
+    "name:vie_x_preferred":[
+        "Sighetu Marmatiei"
+    ],
+    "name:yid_x_preferred":[
+        "\u05e1\u05d9\u05d2\u05e2\u05d8"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Maramures",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"\u0422\u044f\u0447\u0456\u0432\u0441\u044c\u043a\u0438\u0439",
+    "qs:la_lc":"*UA2124400000",
+    "qs:level":"locality",
+    "qs:loc":"Sighetu Marma\u0163iei",
+    "qs:loc_alt":"Sighetu Marmatiei",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":667227,
+        "gp:id":880266,
+        "qs:id":432788,
+        "qs_pg:id":127003,
+        "wd:id":"Q334874"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"2205f0c96a1e4ce219b190d38e490d40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101833687,
+            "region_id":85687761
+        }
+    ],
+    "wof:id":101833687,
+    "wof:lastmodified":1514500148,
+    "wof:name":"Sighetu Marma\u0163iei",
+    "wof:parent_id":85687761,
+    "wof:placetype":"locality",
+    "wof:population":40653,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.86908158448716,
+    47.91156199283461,
+    23.92552760839459,
+    47.94076148623896
+],
+  "geometry": {"coordinates":[[[23.87899048237711,47.94033174998486],[23.87865751259875,47.93912654244741],[23.87997632612348,47.93895822677007],[23.87973274082947,47.93807655475769],[23.88632658165983,47.93723475634062],[23.88694511435756,47.93947227897087],[23.90948267243851,47.93703717223792],[23.90947638935569,47.93701447976957],[23.91079506506725,47.93684579422262],[23.91055095850027,47.93596420191733],[23.91450687312141,47.93545806066453],[23.91462795613114,47.93589523093408],[23.91651877424761,47.93246209344176],[23.91641152903583,47.93247582098104],[23.91494665719739,47.92718632349624],[23.91362823812909,47.92735505427669],[23.91216388344571,47.92206549526435],[23.91480045315598,47.92172805834775],[23.91455638822561,47.92084646789965],[23.91982934619205,47.92017141816598],[23.920317660455,47.92193457095937],[23.92246858851968,47.92165908162758],[23.92552760839459,47.91610485315329],[23.92544343256401,47.91580099897214],[23.92412533114862,47.91596985049551],[23.92290451444006,47.91156199283461],[23.92158651362689,47.91173081172997],[23.92231890632343,47.91437553988254],[23.9210008325332,47.91454435310851],[23.92148910465619,47.9163075062055],[23.9162165570408,47.91698262827362],[23.9157284585263,47.91521944822432],[23.9144103453159,47.91538818255555],[23.91367834319902,47.91274339376668],[23.91104222333888,47.91308079488567],[23.91128616990562,47.91396239903128],[23.9086499751262,47.91429974376848],[23.90962569514153,47.91782617581174],[23.90435286376771,47.91850072979275],[23.90459673378609,47.91938234840183],[23.89141388687034,47.92106766229733],[23.89117023395966,47.92018601004145],[23.88721529149086,47.92069128636052],[23.88697171444556,47.91980962287164],[23.88565340626297,47.91997801338294],[23.88516632776435,47.91821467624658],[23.88384805514033,47.91838304425198],[23.88360455368326,47.91750137060569],[23.87569488304092,47.91851122703599],[23.87593825421374,47.91939292084464],[23.87198324758964,47.91989764606575],[23.87222656432425,47.9207793488082],[23.86908158448716,47.92118056225678],[23.86981978487563,47.92565011602369],[23.8734433086878,47.92518784537299],[23.87417348388209,47.92783292959393],[23.87026270570863,47.9283318519166],[23.87159147246427,47.93637708536687],[23.87240833766481,47.93627288511311],[23.87265178210947,47.93715457736209],[23.8739705619127,47.93698633492932],[23.87501315947247,47.94076148623896],[23.87899048237711,47.94033174998486]]],"type":"Polygon"}
+}

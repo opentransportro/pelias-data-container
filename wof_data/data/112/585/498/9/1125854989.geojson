@@ -1,0 +1,117 @@
+{
+  "id": 1125854989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.85,45.01667,22.85,45.01667",
+    "geom:latitude":45.01667,
+    "geom:longitude":22.85,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":5071,
+    "gn:population":5071,
+    "iso:country":"RO",
+    "lbl:latitude":45.01667,
+    "lbl:longitude":22.85,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Pade\u0219"
+    ],
+    "name:eng_x_preferred":[
+        "Pade\u0219"
+    ],
+    "name:fre_x_preferred":[
+        "Pade\u0219"
+    ],
+    "name:ita_x_preferred":[
+        "Pade\u0219"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d1\u30c7\u30b7\u30e5"
+    ],
+    "name:por_x_preferred":[
+        "Pade\u0219"
+    ],
+    "name:rum_x_preferred":[
+        "Pade\u0219"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0430\u0434\u0435\u0448"
+    ],
+    "name:unk_x_variant":[
+        "Pade\u015fu"
+    ],
+    "name:vol_x_preferred":[
+        "Pade\u0219"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":671559,
+    "qs_pg:gn_pop":5071,
+    "qs_pg:name":"Pade\u0219",
+    "qs_pg:name_adm0":"Rom\u00e2nia",
+    "qs_pg:name_adm1":"Gorj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":1279062,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424933,
+    "qs_pg:woe_id":877041,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424933,
+    "woe:name_adm0":"Rom\u00e2nia",
+    "woe:name_adm1":"Gorj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":671559,
+        "gp:id":877041,
+        "qs_pg:id":1279062,
+        "wd:id":"Q3888742"
+    },
+    "wof:country":"RO",
+    "wof:created":1497293580,
+    "wof:geomhash":"532e785075f6a33b041cea6ae9647bad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125854989,
+            "region_id":85687619
+        }
+    ],
+    "wof:id":1125854989,
+    "wof:lastmodified":1514500063,
+    "wof:name":"Pade\u0219",
+    "wof:parent_id":85687619,
+    "wof:placetype":"locality",
+    "wof:population":5071,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.85,
+    45.01667,
+    22.85,
+    45.01667
+],
+  "geometry": {"coordinates":[22.85,45.01667],"type":"Point"}
+}

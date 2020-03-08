@@ -1,0 +1,92 @@
+{
+  "id": 101793707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000049,
+    "geom:area_square_m":429127.783644,
+    "geom:bbox":"26.3820465585,44.4565999215,26.3899519011,44.4648868923",
+    "geom:latitude":44.460734,
+    "geom:longitude":26.386051,
+    "gn:population":1265,
+    "iso:country":"RO",
+    "lbl:latitude":44.460838,
+    "lbl:longitude":26.385976,
+    "mps:latitude":44.460838,
+    "mps:longitude":26.385976,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Islaz"
+    ],
+    "name:eng_x_preferred":[
+        "Islaz"
+    ],
+    "name:fre_x_preferred":[
+        "Islaz"
+    ],
+    "name:rum_x_preferred":[
+        "Islaz"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406\u0441\u043b\u0430\u0437 "
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Ilfov",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Br\u0103ne\u015fti",
+    "qs:la_lc":"*RO36101298",
+    "qs:level":"locality",
+    "qs:loc":"Islaz",
+    "qs:loc_alt":"Islaz",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":675479,
+        "gp:id":874149,
+        "qs:id":1145740,
+        "wd:id":"Q12075057"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"a3ac24ca9c1d498d2fa85cfd3951ec52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101793707,
+            "region_id":85687611
+        }
+    ],
+    "wof:id":101793707,
+    "wof:lastmodified":1514499985,
+    "wof:name":"Islaz",
+    "wof:parent_id":85687611,
+    "wof:placetype":"locality",
+    "wof:population":1265,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.38204655853212,
+    44.45659992145136,
+    26.38995190109773,
+    44.46488689227488
+],
+  "geometry": {"coordinates":[[[26.38975807896554,44.4642972418921],[26.38872076548631,44.46078887803793],[26.38995190109773,44.46059231301535],[26.38891468562582,44.45708393871621],[26.3864525495253,44.45747702594281],[26.38619330779784,44.45659992145136],[26.38250010013104,44.45718943277308],[26.38327769648919,44.45982077346275],[26.38204655853212,44.46001725880132],[26.38334267488415,44.46440281356882],[26.38580512164015,44.46400979300432],[26.38606441235402,44.46488689227488],[26.38975807896554,44.4642972418921]]],"type":"Polygon"}
+}

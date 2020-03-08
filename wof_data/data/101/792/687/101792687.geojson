@@ -1,0 +1,123 @@
+{
+  "id": 101792687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000057,
+    "geom:area_square_m":498880.748207,
+    "geom:bbox":"21.805369297,45.2698495315,21.8155052321,45.2898199958",
+    "geom:latitude":45.28173,
+    "geom:longitude":21.809735,
+    "gn:population":2922,
+    "iso:country":"RO",
+    "lbl:latitude":45.283829,
+    "lbl:longitude":21.81177,
+    "mps:latitude":45.283829,
+    "mps:longitude":21.81177,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Lupac"
+    ],
+    "name:eng_x_preferred":[
+        "Lupac"
+    ],
+    "name:epo_x_preferred":[
+        "Lupac"
+    ],
+    "name:fre_x_preferred":[
+        "Lupac"
+    ],
+    "name:ger_x_preferred":[
+        "Lupac"
+    ],
+    "name:hrv_x_preferred":[
+        "Lupak"
+    ],
+    "name:hun_x_preferred":[
+        "Kiskrass\u00f3"
+    ],
+    "name:ita_x_preferred":[
+        "Lupac"
+    ],
+    "name:por_x_preferred":[
+        "Lupac"
+    ],
+    "name:rum_x_preferred":[
+        "Lupac"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0443\u043f\u0430\u043a"
+    ],
+    "name:vie_x_preferred":[
+        "Lupac"
+    ],
+    "name:vol_x_preferred":[
+        "Lupac"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Caras-Severin",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Lupac",
+    "qs:la_lc":"*RO23053167",
+    "qs:level":"locality",
+    "qs:loc":"Lupac",
+    "qs:loc_alt":"Lupac",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a194ce-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":674305,
+        "gp:id":875036,
+        "qs:id":1027735,
+        "qs_pg:id":1027735,
+        "wd:id":"Q426370"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"68c725117b2566fd567d74a974083219",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101792687,
+            "region_id":85687627
+        }
+    ],
+    "wof:id":101792687,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514500003,
+    "wof:name":"Lupac",
+    "wof:parent_id":85687627,
+    "wof:placetype":"locality",
+    "wof:population":2922,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.80536929700065,
+    45.26984953148082,
+    21.81550523214025,
+    45.28981999578741
+],
+  "geometry": {"coordinates":[[[21.80881981927126,45.28598209414758],[21.81260083558908,45.28555520052527],[21.8127926664709,45.28644353413972],[21.81405301317363,45.28630120351158],[21.81424487168618,45.28718953342661],[21.81550523214025,45.28704718509596],[21.81435408445748,45.28171720576677],[21.81057333794837,45.28214415790353],[21.80999804897988,45.27947913022609],[21.81125824492642,45.27933683584553],[21.81106647847002,45.27844849383689],[21.80980630209274,45.27859078556867],[21.80923110973072,45.27592574530001],[21.80797098623736,45.27606801403641],[21.80662928936198,45.26984953148082],[21.80536929700065,45.26999176663463],[21.80766935542636,45.28065202274183],[21.80892958258204,45.28050975581345],[21.8096966045631,45.284063130351],[21.80717598785236,45.28434767034662],[21.80736772432846,45.28523601665637],[21.80610738766785,45.28537826672499],[21.80706609293856,45.28981999578741],[21.80832652748586,45.2896777324741],[21.80794298206519,45.28790104929311],[21.80920337163445,45.28775877622513],[21.80881981927126,45.28598209414758]]],"type":"Polygon"}
+}

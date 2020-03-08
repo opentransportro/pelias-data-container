@@ -1,0 +1,107 @@
+{
+  "id": 101834729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000106,
+    "geom:area_square_m":928275.21792,
+    "geom:bbox":"26.747933692,45.043074211,26.7654270553,45.0619961074",
+    "geom:latitude":45.05128,
+    "geom:longitude":26.756612,
+    "gn:population":4704,
+    "iso:country":"RO",
+    "lbl:latitude":45.049385,
+    "lbl:longitude":26.757467,
+    "mps:latitude":45.049385,
+    "mps:longitude":26.757467,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Coste\u0219ti "
+    ],
+    "name:eng_x_preferred":[
+        "Coste\u0219ti"
+    ],
+    "name:fre_x_preferred":[
+        "Coste\u0219ti"
+    ],
+    "name:ita_x_preferred":[
+        "Coste\u0219ti"
+    ],
+    "name:may_x_preferred":[
+        "Coste\u0219ti"
+    ],
+    "name:por_x_preferred":[
+        "Coste\u0219ti "
+    ],
+    "name:rum_x_preferred":[
+        "Coste\u0219ti"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0441\u0442\u0435\u0448\u0442\u044c "
+    ],
+    "name:vol_x_preferred":[
+        "Coste\u0219ti"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Buzau",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Coste\u015fti",
+    "qs:la_lc":"*RO21046484",
+    "qs:level":"locality",
+    "qs:loc":"Coste\u015fti",
+    "qs:loc_alt":"Costesti",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":680577,
+        "gp:id":870434,
+        "qs:id":127765,
+        "qs_pg:id":127765,
+        "wd:id":"Q2289347"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"7cf1cf08a75f3e875140e6b720158868",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101834729,
+            "region_id":85687667
+        }
+    ],
+    "wof:id":101834729,
+    "wof:lastmodified":1514499872,
+    "wof:name":"Coste\u015fti",
+    "wof:parent_id":85687667,
+    "wof:placetype":"locality",
+    "wof:population":4704,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.74793369201421,
+    45.0430742110064,
+    26.76542705533871,
+    45.06199610742249
+],
+  "geometry": {"coordinates":[[[26.75842601432015,45.0540851156785],[26.75777136451768,45.05195977558367],[26.7611254974139,45.05141651110597],[26.76242674432325,45.05013014874248],[26.76193326382923,45.04852826868137],[26.76446150438005,45.04811866365344],[26.76542705533871,45.04716415732241],[26.76539152676571,45.04704884344358],[26.76414888942742,45.04725018070371],[26.76360950358423,45.04549927583264],[26.76236689468578,45.04570059107374],[26.76155795396448,45.0430742110064],[26.75658765694783,45.04387928122185],[26.75739637892133,45.0465057054127],[26.75491107294289,45.0469081746042],[26.75518063269249,45.04778365356157],[26.75393794944819,45.0479848698385],[26.75420750207587,45.04886035090959],[26.75172207507495,45.04926274682384],[26.75226114072382,45.05101371898348],[26.75350389470191,45.05081252100626],[26.75458223228259,45.05431443187211],[26.75333940535552,45.05451564455575],[26.75360899929524,45.05539112204309],[26.7511232849098,45.05579351076614],[26.75139285348291,45.05666899404486],[26.74890707054738,45.0570713314554],[26.74917661374985,45.05794682052488],[26.74793369201421,45.05814797090619],[26.7484727752701,45.0598989517128],[26.74971573349302,45.05969779397896],[26.75042348420118,45.06199610742249],[26.75842601432015,45.0540851156785]]],"type":"Polygon"}
+}

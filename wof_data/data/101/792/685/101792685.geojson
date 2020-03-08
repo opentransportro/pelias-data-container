@@ -1,0 +1,132 @@
+{
+  "id": 101792685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000037,
+    "geom:area_square_m":319289.37002,
+    "geom:bbox":"21.7468727147,45.2581824065,21.7531321837,45.2762352148",
+    "geom:latitude":45.267653,
+    "geom:longitude":21.750138,
+    "gn:population":1982,
+    "iso:country":"RO",
+    "lbl:latitude":45.267621,
+    "lbl:longitude":21.75066,
+    "mps:latitude":45.267621,
+    "mps:longitude":21.75066,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Dognecea"
+    ],
+    "name:eng_x_preferred":[
+        "Dognecea"
+    ],
+    "name:epo_x_preferred":[
+        "Dognecea"
+    ],
+    "name:fre_x_preferred":[
+        "Dognecea"
+    ],
+    "name:ger_x_preferred":[
+        "Dognecea"
+    ],
+    "name:hun_x_preferred":[
+        "Dogn\u00e1cska"
+    ],
+    "name:ita_x_preferred":[
+        "Dognecea"
+    ],
+    "name:may_x_preferred":[
+        "Dognecea"
+    ],
+    "name:por_x_preferred":[
+        "Dognecea"
+    ],
+    "name:rum_x_colloquial":[
+        "Dogneca"
+    ],
+    "name:rum_x_preferred":[
+        "Dognecea"
+    ],
+    "name:rum_x_variant":[
+        "Dogne\u010da"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u0433\u043d\u0435\u0447\u0430 "
+    ],
+    "name:unk_x_variant":[
+        "Dogne\u010da"
+    ],
+    "name:vie_x_preferred":[
+        "Dognecea"
+    ],
+    "name:vol_x_preferred":[
+        "Dognecea"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Caras-Severin",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Dognecea",
+    "qs:la_lc":"*RO23052696",
+    "qs:level":"locality",
+    "qs:loc":"Dognecea",
+    "qs:loc_alt":"Dognecea",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"039fbffa-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":679160,
+        "gp:id":871459,
+        "qs:id":1027981,
+        "qs_pg:id":1027981,
+        "wd:id":"Q907678"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"518b0b7205baa3847207d061b368a24b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101792685,
+            "region_id":85687627
+        }
+    ],
+    "wof:id":101792685,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514499910,
+    "wof:name":"Dognecea",
+    "wof:parent_id":85687627,
+    "wof:placetype":"locality",
+    "wof:population":1982,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.74687271470032,
+    45.25818240653518,
+    21.75313218365324,
+    45.27623521475812
+],
+  "geometry": {"coordinates":[[[21.74862994912138,45.25818240653518],[21.74737009863611,45.25832394184897],[21.74813264922432,45.26187791526905],[21.74687271470032,45.26201944607021],[21.7474446529734,45.26468492306719],[21.7487046461971,45.26454338436412],[21.75080258487947,45.27431669060826],[21.74954237636325,45.27445825829398],[21.74992388471418,45.27623521475812],[21.75118413238431,45.2760936418012],[21.75099335462681,45.27520516672689],[21.75225357692932,45.27506358135361],[21.75187200629239,45.27328663334316],[21.75313218365324,45.2731450381898],[21.75160606489618,45.26603722544587],[21.75034604410894,45.26617879951607],[21.74862994912138,45.25818240653518]]],"type":"Polygon"}
+}

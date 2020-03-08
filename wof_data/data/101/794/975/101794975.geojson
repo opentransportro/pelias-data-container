@@ -1,0 +1,120 @@
+{
+  "id": 101794975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000119,
+    "geom:area_square_m":1047846.303301,
+    "geom:bbox":"22.7663304742,44.5321565358,22.7826771087,44.5468387862",
+    "geom:latitude":44.540496,
+    "geom:longitude":22.774413,
+    "gn:population":2808,
+    "iso:country":"RO",
+    "lbl:latitude":44.540247,
+    "lbl:longitude":22.77658,
+    "mps:latitude":44.540247,
+    "mps:longitude":22.77658,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0425\u0438\u043d\u043e\u0432\u0430"
+    ],
+    "name:dut_x_preferred":[
+        "Hinova"
+    ],
+    "name:eng_x_preferred":[
+        "Hinova"
+    ],
+    "name:fre_x_preferred":[
+        "Hinova"
+    ],
+    "name:ita_x_preferred":[
+        "Hinova"
+    ],
+    "name:may_x_preferred":[
+        "Hinova"
+    ],
+    "name:por_x_preferred":[
+        "Hinova"
+    ],
+    "name:rum_x_preferred":[
+        "Hinova"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u0438\u043d\u043e\u0432\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u0456\u043d\u043e\u0432\u0430"
+    ],
+    "name:vie_x_preferred":[
+        "Hinova"
+    ],
+    "name:vol_x_preferred":[
+        "Hinova"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Mehedinti",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Hinova",
+    "qs:la_lc":"*RO38112076",
+    "qs:level":"locality",
+    "qs:loc":"Hinova",
+    "qs:loc_alt":"Hinova",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a0dc82-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":676186,
+        "gp:id":873654,
+        "qs:id":58037,
+        "qs_pg:id":58037,
+        "wd:id":"Q2465415"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"8f454a2985415306c8ee889682ecae3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101794975,
+            "region_id":85687599
+        }
+    ],
+    "wof:id":101794975,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514499967,
+    "wof:name":"Hinova",
+    "wof:parent_id":85687599,
+    "wof:placetype":"locality",
+    "wof:population":2808,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.76633047420614,
+    44.5321565357919,
+    22.78267710868982,
+    44.54683878618181
+],
+  "geometry": {"coordinates":[[[22.77003140265941,44.54475841520747],[22.77499916686634,44.54414438180788],[22.77520214360135,44.54503108709184],[22.77644408830025,44.54487753900645],[22.77624109283732,44.54399083651759],[22.78245063218242,44.54322288842957],[22.78143531254375,44.53878942837997],[22.78267710868982,44.53863580841681],[22.78247405120629,44.53774911570258],[22.78123227378143,44.53790273286972],[22.78102924340612,44.53701603619277],[22.77978747866871,44.53716963579052],[22.7793814805184,44.53539623334535],[22.7768980078269,44.53570337704002],[22.77608626189084,44.5321565357919],[22.77484459137349,44.53231007430236],[22.77545333209605,44.53497021537049],[22.7742115993936,44.53512374748993],[22.77461743101242,44.53689717462504],[22.77337565483845,44.53705069755915],[22.77357856449976,44.53793741217146],[22.76985314363213,44.53839790070941],[22.76965029013957,44.53751117771611],[22.76716668353157,44.53781809061581],[22.7675723240007,44.53959154660873],[22.76633047420614,44.53974498648199],[22.76795322147052,44.54683878618181],[22.77043721468198,44.54653184696554],[22.77003140265941,44.54475841520747]]],"type":"Polygon"}
+}

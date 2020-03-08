@@ -1,0 +1,104 @@
+{
+  "id": 101834105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000143,
+    "geom:area_square_m":1218891.631463,
+    "geom:bbox":"25.9346448584,46.2880053886,25.9558708044,46.3022141796",
+    "geom:latitude":46.29627,
+    "geom:longitude":25.94328,
+    "gn:population":1347,
+    "iso:country":"RO",
+    "lbl:latitude":46.296803,
+    "lbl:longitude":25.94135,
+    "mps:latitude":46.296803,
+    "mps:longitude":25.94135,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Bancu"
+    ],
+    "name:eng_x_preferred":[
+        "Bancu"
+    ],
+    "name:epo_x_preferred":[
+        "Bancu"
+    ],
+    "name:fre_x_preferred":[
+        "Bancu"
+    ],
+    "name:hun_x_preferred":[
+        "Cs\u00edkb\u00e1nkfalva"
+    ],
+    "name:rum_x_preferred":[
+        "Bancu"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u043d\u043a\u0443"
+    ],
+    "name:unk_x_variant":[
+        "Csik Bankfolva"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Harghita",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Ciucs\u00e2ngeorgiu",
+    "qs:la_lc":"*RO32083981",
+    "qs:level":"locality",
+    "qs:loc":"Bancu",
+    "qs:loc_alt":"Bancu",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":685483,
+        "gp:id":866861,
+        "qs:id":1167538,
+        "qs_pg:id":1167538,
+        "wd:id":"Q713722"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"6c2f8e2f1160a7e4e7e763c7997fffa4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101834105,
+            "region_id":85687733
+        }
+    ],
+    "wof:id":101834105,
+    "wof:lastmodified":1514499759,
+    "wof:name":"Bancu",
+    "wof:parent_id":85687733,
+    "wof:placetype":"locality",
+    "wof:population":1347,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.93464485836711,
+    46.28800538863555,
+    25.95587080442834,
+    46.30221417963179
+],
+  "geometry": {"coordinates":[[[25.93749760468347,46.30031236852074],[25.94872715776091,46.30221417963179],[25.9484981853094,46.30146010538715],[25.95486403050154,46.30049849423096],[25.95459767953253,46.29962156524607],[25.95587080442834,46.29942920136068],[25.9556044451831,46.29855227459109],[25.95433133983772,46.29874463482872],[25.95406501141707,46.29786770297909],[25.95024570485361,46.29844468215231],[25.94944696316981,46.29581384519122],[25.94690083512256,46.29619840059831],[25.94663464953112,46.29532144478992],[25.94536159276868,46.29551369619884],[25.94429704125668,46.29200584407181],[25.94557001982707,46.29181360724181],[25.94450557034952,46.28830574679046],[25.94068684461763,46.28888236825765],[25.94042081903456,46.28800538863555],[25.93787500003964,46.28838972017246],[25.93814098653291,46.28926670708029],[25.93941391966803,46.28907454521789],[25.94021200533683,46.29170548642799],[25.93511998912032,46.29247408700053],[25.93591794153735,46.29510505905108],[25.93464485836711,46.29529718237382],[25.93544285346059,46.29792815248135],[25.9367159952904,46.29773601822956],[25.93749760468347,46.30031236852074]]],"type":"Polygon"}
+}

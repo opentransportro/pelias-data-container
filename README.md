@@ -25,7 +25,6 @@ Data builder obeys the following environment variables, which can pe passed to t
 
  * DOCKER_USER - dockerhub credentials for image deployment
  * DOCKER_AUTH
- * MMLAPIKEY - needed for loading nlsfi data
  * ORG - optional, default 'hsldevcom'
  * BUILD_INTERVAL - optional, as days, defaults to 7
  * THRESHOLD - optional regression limit, as %, defaults to 2%
@@ -53,7 +52,7 @@ docker run -v /var/run/docker.sock:/var/run/docker.sock -e BUILD_INTERVAL=0 -e M
 ```
 
 Another alternative is to install required components locally:
-- Git projects for pelias dataloading (NLSFI, OpenAddresses, OSM, GTFS, etc.)
+- Git projects for pelias dataloading (OSM, GTFS, etc.)
 - hsldevcom/pelias-schema git project
 - WOF admin data and street polylines, both available as a part of this git project
 - Properly configured pelias.json config file

@@ -1,0 +1,98 @@
+{
+  "id": 1125863161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.26667,44.8,26.26667,44.8",
+    "geom:latitude":44.8,
+    "geom:longitude":26.26667,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":3968,
+    "gn:population":3968,
+    "iso:country":"RO",
+    "lbl:latitude":44.8,
+    "lbl:longitude":26.26667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Gherghi\u021ba"
+    ],
+    "name:eng_x_preferred":[
+        "Gherghi\u021ba"
+    ],
+    "name:fre_x_preferred":[
+        "Gherghi\u021ba"
+    ],
+    "name:hun_x_preferred":[
+        "Gherghi\u021ba"
+    ],
+    "name:ita_x_preferred":[
+        "Gherghi\u021ba"
+    ],
+    "name:rum_x_preferred":[
+        "Gherghi\u021ba"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0435\u0440\u0433\u0456\u0446\u0430"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":677432,
+    "qs_pg:gn_pop":3968,
+    "qs_pg:name":"Gherghi\u0163a",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":127616,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":677432,
+        "qs_pg:id":127616,
+        "wd:id":"Q14077756"
+    },
+    "wof:country":"RO",
+    "wof:created":1497293919,
+    "wof:geomhash":"07b655911e9f6a55b76a9c1773c3aeb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125863161,
+            "region_id":85687661
+        }
+    ],
+    "wof:id":1125863161,
+    "wof:lastmodified":1514499941,
+    "wof:name":"Gherghi\u0163a",
+    "wof:parent_id":85687661,
+    "wof:placetype":"locality",
+    "wof:population":3968,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.26667,
+    44.8,
+    26.26667,
+    44.8
+],
+  "geometry": {"coordinates":[26.26667,44.8],"type":"Point"}
+}

@@ -1,0 +1,129 @@
+{
+  "id": 101787229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000205,
+    "geom:area_square_m":1735521.335962,
+    "geom:bbox":"24.8409452344,46.7641038726,24.876208418,46.778197585",
+    "geom:latitude":46.771586,
+    "geom:longitude":24.855113,
+    "gn:population":6277,
+    "iso:country":"RO",
+    "lbl:latitude":46.772054,
+    "lbl:longitude":24.852174,
+    "mps:latitude":46.772054,
+    "mps:longitude":24.852174,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Gurghiu"
+    ],
+    "name:eng_x_preferred":[
+        "Gurghiul"
+    ],
+    "name:epo_x_preferred":[
+        "Gurghiu"
+    ],
+    "name:fre_x_preferred":[
+        "Gurghiu "
+    ],
+    "name:hun_x_preferred":[
+        "G\u00f6rg\u00e9nyszentimre"
+    ],
+    "name:ita_x_preferred":[
+        "Gurghiu"
+    ],
+    "name:may_x_preferred":[
+        "Gurghiu"
+    ],
+    "name:por_x_preferred":[
+        "Gurghiu "
+    ],
+    "name:rum_x_colloquial":[
+        "Goergenyszentimre",
+        "Gorgeny",
+        "Gorgenyszentimre"
+    ],
+    "name:rum_x_preferred":[
+        "Gurghiu"
+    ],
+    "name:rum_x_variant":[
+        "G\u00f6rg\u00e9nyszentimre",
+        "G\u0151rgeny"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0443\u0440\u0433\u0456\u0443"
+    ],
+    "name:unk_x_variant":[
+        "Gurghiul"
+    ],
+    "name:vol_x_preferred":[
+        "Gurghiu"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Mures",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Gurghiu",
+    "qs:la_lc":"*RO39117319",
+    "qs:level":"locality",
+    "qs:loc":"Gurghiu",
+    "qs:loc_alt":"Gurghiu",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a0c24c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":676438,
+        "gp:id":873465,
+        "qs:id":967699,
+        "qs_pg:id":967699,
+        "wd:id":"Q1031627"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"b1fc863b75515576b25b7cce67b8b411",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101787229,
+            "region_id":85687719
+        }
+    ],
+    "wof:id":101787229,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514499959,
+    "wof:name":"Gurghiu",
+    "wof:parent_id":85687719,
+    "wof:placetype":"locality",
+    "wof:population":6277,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.84094523441632,
+    46.76410387261967,
+    24.87620841801083,
+    46.77819758496935
+],
+  "geometry": {"coordinates":[[[24.85532956793884,46.7780181352702],[24.85482623493124,46.77625861630889],[24.85997612498431,46.77554069186704],[24.85947267278829,46.77378119541896],[24.86076008504011,46.77360168290016],[24.86050835484002,46.77272193619922],[24.87338184150713,46.77092600246488],[24.87363377459468,46.7718057145517],[24.87620841801083,46.77144633692734],[24.87595644435197,46.77056663176654],[24.87466914686775,46.77074632478008],[24.87391335155428,46.76810719114934],[24.87262610704687,46.76828685844634],[24.87237421715855,46.76740714118733],[24.87108698506,46.76758678969423],[24.87133885466517,46.76846651041524],[24.86876432628253,46.768825768368],[24.86901616611613,46.76970549471969],[24.86257960596993,46.77060338865419],[24.86182442314538,46.76796415381074],[24.86311169005643,46.76778461606284],[24.86285996374602,46.7669048719913],[24.86028546262656,46.76726392523869],[24.85978212351677,46.76550441938161],[24.85720767206919,46.76586339747848],[24.85670445724827,46.76410387261967],[24.85541726029516,46.76428333175915],[24.85566884202819,46.76516309829236],[24.85438161692696,46.76534254556168],[24.85488477217882,46.76710208167083],[24.84716101300347,46.76817848487099],[24.84766396792844,46.76993805730598],[24.84122708283985,46.77083467296325],[24.84223271619794,46.77435387148199],[24.84094523441632,46.77453316244345],[24.84144807518288,46.77629276087856],[24.84402311207714,46.77593414979833],[24.84427458923091,46.77681394016867],[24.84813714649198,46.7762758981824],[24.84838869532564,46.77715567689114],[24.85225124269101,46.77661748653861],[24.85250286320547,46.77749725358274],[24.85379038355677,46.77731782267489],[24.8540420351589,46.77819758496935],[24.85532956793884,46.7780181352702]]],"type":"Polygon"}
+}

@@ -1,0 +1,93 @@
+{
+  "id": 101835631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000108,
+    "geom:area_square_m":956913.619579,
+    "geom:bbox":"26.4845462665,44.2222880064,26.50876699,44.234015049",
+    "geom:latitude":44.229824,
+    "geom:longitude":26.497047,
+    "gn:population":1060,
+    "iso:country":"RO",
+    "lbl:latitude":44.229549,
+    "lbl:longitude":26.493049,
+    "mps:latitude":44.229549,
+    "mps:longitude":26.493049,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Negoe\u0219ti"
+    ],
+    "name:eng_x_preferred":[
+        "Negoe\u0219ti"
+    ],
+    "name:ita_x_preferred":[
+        "Negoe\u0219ti"
+    ],
+    "name:rum_x_preferred":[
+        "Negoe\u0219ti"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0435\u0433\u043e\u0454\u0448\u0442\u044c"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Calarasi",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:id":0,
+    "qs:la":"Bude\u015fti",
+    "qs:la_lc":"*RO22101458",
+    "qs:level":"locality",
+    "qs:loc":"Negoe\u015fti",
+    "qs:loc_alt":"Negoesti",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":672429,
+        "gp:id":876416,
+        "qs:id":914133,
+        "wd:id":"Q13571294"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"ed6fc1881169d0bde58bd4c3781731aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101835631,
+            "region_id":85687615
+        }
+    ],
+    "wof:id":101835631,
+    "wof:lastmodified":1514500043,
+    "wof:name":"Negoe\u015fti",
+    "wof:parent_id":85687615,
+    "wof:placetype":"locality",
+    "wof:population":1060,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.48454626650368,
+    44.22228800641119,
+    26.50876698996166,
+    44.2340150490312
+],
+  "geometry": {"coordinates":[[[[26.50876698996166,44.22839096699346],[26.50818511762969,44.22664726463444],[26.50248705785668,44.22756676402003],[26.50274641695637,44.22844371711648],[26.49784263544416,44.22923476406191],[26.49758334685282,44.22835779682441],[26.4963574002004,44.22855551890348],[26.49557965052435,44.22592459724819],[26.48454626650368,44.22770335033579],[26.48506443842984,44.22945736326056],[26.4887424068919,44.22886455441125],[26.48977908869011,44.2323725192042],[26.49100513359053,44.23217487322108],[26.49126434800564,44.23305185699667],[26.49371645039344,44.23265651461099],[26.49397571060939,44.23353348976229],[26.49642781802004,44.23313808250549],[26.49668712403792,44.2340150490312],[26.505269385171,44.23263064370269],[26.50500995573873,44.2317537019282],[26.50623594515719,44.23155587547592],[26.50571708266392,44.2298019943284],[26.5069430292624,44.22960416050068],[26.50668359620283,44.22872722112731],[26.50876698996166,44.22839096699346]]],[[[26.50702136896763,44.22315984793499],[26.50673043602376,44.22228800641119],[26.50486785992877,44.22258860190425],[26.50512721920683,44.22346555218019],[26.50702136896763,44.22315984793499]]]],"type":"MultiPolygon"}
+}

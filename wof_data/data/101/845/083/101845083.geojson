@@ -1,0 +1,95 @@
+{
+  "id": 101845083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000061,
+    "geom:area_square_m":538858.895852,
+    "geom:bbox":"24.3303599929,44.8234048809,24.3459821403,44.8324238384",
+    "geom:latitude":44.828485,
+    "geom:longitude":24.339122,
+    "gn:population":1033,
+    "iso:country":"RO",
+    "lbl:latitude":44.828095,
+    "lbl:longitude":24.339122,
+    "mps:latitude":44.828095,
+    "mps:longitude":24.339122,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Deje\u0219ti"
+    ],
+    "name:eng_x_preferred":[
+        "Deje\u0219ti"
+    ],
+    "name:fre_x_preferred":[
+        "Deje\u0219ti"
+    ],
+    "name:ita_x_preferred":[
+        "Deje\u0219ti"
+    ],
+    "name:rum_x_preferred":[
+        "Deje\u0219ti"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0435\u0436\u0435\u0448\u0442\u044c"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Olt",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Vitomire\u015fti",
+    "qs:la_lc":"*RO41129914",
+    "qs:level":"locality",
+    "qs:loc":"Deje\u015fti",
+    "qs:loc_alt":"Dejesti",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":679545,
+        "gp:id":871195,
+        "qs:id":410388,
+        "wd:id":"Q12099824"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"0b63266b8260f3eaf5a89d7140a0aba3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101845083,
+            "region_id":85687607
+        }
+    ],
+    "wof:id":101845083,
+    "wof:lastmodified":1514499903,
+    "wof:name":"Deje\u015fti",
+    "wof:parent_id":85687607,
+    "wof:placetype":"locality",
+    "wof:population":1033,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.33035999290007,
+    44.82340488086618,
+    24.34598214028483,
+    44.83242383841019
+],
+  "geometry": {"coordinates":[[[24.34542661906681,44.832251429633],[24.34473768508087,44.82960373482433],[24.34598214028483,44.82943132073581],[24.34552286117037,44.82766619064398],[24.34303401847484,44.8280109914491],[24.34280443043968,44.82712841814367],[24.34156001746669,44.82730079324665],[24.34110090715546,44.82553563642131],[24.33985652461712,44.82570799045811],[24.339627002339,44.8248254069386],[24.33838263159777,44.82499774305984],[24.33815313744822,44.82411515508664],[24.33690877850489,44.82428747329305],[24.33667931248232,44.82340488086618],[24.33543496533753,44.82357718115844],[24.33612333596312,44.82622496397528],[24.33487892606672,44.82639725895001],[24.33533784998838,44.82816244727439],[24.33035999290007,44.82885150470383],[24.33058939452894,44.82973410950677],[24.33307837403373,44.82938960402771],[24.33330782243712,44.83027220122977],[24.33455232057491,44.83009992319063],[24.3347817971117,44.83098251593992],[24.33851530641272,44.83046558377191],[24.33874484837042,44.83134816576751],[24.34123385764894,44.83100346418678],[24.34146344638611,44.83188603857707],[24.34395246557722,44.83154127162663],[24.34418210109567,44.83242383841019],[24.34542661906681,44.832251429633]]],"type":"Polygon"}
+}

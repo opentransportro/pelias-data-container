@@ -1,0 +1,69 @@
+{
+  "id": 1259948391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.18232,46.97714,27.18232,46.97714",
+    "geom:latitude":46.97714,
+    "geom:longitude":27.18232,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"96717.0",
+    "gn:asciiname":"Tarnita",
+    "gn:country_code":"RO",
+    "gn:dem":271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":665487,
+    "gn:latitude":46.97714,
+    "gn:longitude":27.18232,
+    "gn:modification_date":"2013-04-21",
+    "gn:name":"Tarni\u021ba",
+    "gn:population":165,
+    "gn:timezone":"Europe/Bucharest",
+    "iso:country":"RO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":665487
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"b6e4307bbc15c7405457dca76312681c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1259948391,
+            "region_id":85687769
+        }
+    ],
+    "wof:id":1259948391,
+    "wof:lastmodified":1536685776,
+    "wof:name":"Tarnita",
+    "wof:parent_id":85687769,
+    "wof:placetype":"locality",
+    "wof:population":165,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.18232,
+    46.97714000000001,
+    27.18232,
+    46.97714000000001
+],
+  "geometry": {"coordinates":[27.18232,46.97714000000001],"type":"Point"}
+}

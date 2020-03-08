@@ -1,0 +1,96 @@
+{
+  "id": 101835539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000047,
+    "geom:area_square_m":418587.464748,
+    "geom:bbox":"25.5102019697,44.4113132922,25.5272292625,44.4237259108",
+    "geom:latitude":44.41843,
+    "geom:longitude":25.519372,
+    "gn:population":1437,
+    "iso:country":"RO",
+    "lbl:latitude":44.419294,
+    "lbl:longitude":25.518791,
+    "mps:latitude":44.419294,
+    "mps:longitude":25.518791,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Sadina"
+    ],
+    "name:eng_x_preferred":[
+        "Sadina"
+    ],
+    "name:fre_x_preferred":[
+        "Sadina"
+    ],
+    "name:rum_x_preferred":[
+        "Sadina"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u0434\u0456\u043d\u0430"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Giurgiu",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Roata de Jos",
+    "qs:la_lc":"*RO30104831",
+    "qs:level":"locality",
+    "qs:loc":"Sadina",
+    "qs:loc_alt":"Sadina",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a3e3b4-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":668288,
+        "gp:id":879493,
+        "qs:id":1092725,
+        "wd:id":"Q12150182"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"a27c784586138fa56943fc17cc22cc6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101835539,
+            "region_id":85687591
+        }
+    ],
+    "wof:id":101835539,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514500129,
+    "wof:name":"Sadina",
+    "wof:parent_id":85687591,
+    "wof:placetype":"locality",
+    "wof:population":1437,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.5102019696667,
+    44.41131329223117,
+    25.52722926253307,
+    44.42372591083972
+],
+  "geometry": {"coordinates":[[[25.52722926253307,44.4148106765735],[25.5239295290308,44.41131329223117],[25.52475383348889,44.41426808115017],[25.5210562850009,44.41482680758753],[25.52130165928571,44.41570648269044],[25.52006911068173,44.41589269905347],[25.52031447698391,44.41677237606916],[25.5190819031493,44.41695858121784],[25.51932726146799,44.41783826014665],[25.51686205612435,44.41821063344418],[25.51710738843667,44.41909031764078],[25.5146421182057,44.41946263936626],[25.51488742450772,44.42034232883026],[25.512422089388,44.42071459898096],[25.51266736967602,44.42159429371225],[25.5102019696667,44.42196651228539],[25.51069248823984,44.42372591083972],[25.51439068559529,44.42316754099761],[25.51414536721279,44.42228785250347],[25.51537806721694,44.42210170343378],[25.51513274084454,44.4212220168526],[25.52129604256334,44.42029106971029],[25.52105063611191,44.41941139846318],[25.52228325679545,44.41922516867834],[25.52203784236144,44.41834549934504],[25.52450302604763,44.41797300277671],[25.52425758561236,44.41709333871279],[25.52549014861563,44.41690707193038],[25.52499926182577,44.41514774618622],[25.52722926253307,44.4148106765735]]],"type":"Polygon"}
+}

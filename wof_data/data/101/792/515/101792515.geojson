@@ -1,0 +1,130 @@
+{
+  "id": 101792515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000106,
+    "geom:area_square_m":938096.482909,
+    "geom:bbox":"26.5610359693,44.4611788334,26.5779831427,44.4732515737",
+    "geom:latitude":44.467517,
+    "geom:longitude":26.568759,
+    "gn:population":2579,
+    "iso:country":"RO",
+    "lbl:latitude":44.467125,
+    "lbl:longitude":26.569465,
+    "mps:latitude":44.467125,
+    "mps:longitude":26.569465,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "T\u0103m\u0103d\u0103u Mare"
+    ],
+    "name:eng_x_preferred":[
+        "T\u0103m\u0103d\u0103u Mare"
+    ],
+    "name:fre_x_preferred":[
+        "T\u0103m\u0103d\u0103u Mare"
+    ],
+    "name:ita_x_preferred":[
+        "T\u0103m\u0103d\u0103u Mare"
+    ],
+    "name:may_x_preferred":[
+        "T\u0103m\u0103d\u0103u Mare"
+    ],
+    "name:por_x_preferred":[
+        "T\u0103m\u0103d\u0103u Mare"
+    ],
+    "name:rum_x_colloquial":[
+        "Taemaedaeu",
+        "Taemaedaeu Mare",
+        "Taemaedaeul-Mare",
+        "Tamadau",
+        "Tamadau Mare",
+        "Tamadaul-Mare"
+    ],
+    "name:rum_x_preferred":[
+        "T\u0103m\u0103d\u0103u Mare"
+    ],
+    "name:rum_x_variant":[
+        "T\u0103m\u0103d\u0103u",
+        "T\u0103m\u0103d\u0103ul-Mare"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0435\u043c\u0435\u0434\u0435\u0443-\u041c\u0430\u0440\u0435"
+    ],
+    "name:unk_x_variant":[
+        "T\u0103m\u0103d\u0103ul-Mare"
+    ],
+    "name:vie_x_preferred":[
+        "Tamadau Mare"
+    ],
+    "name:vol_x_preferred":[
+        "T\u0103m\u0103d\u0103u Mare"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Calarasi",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:id":0,
+    "qs:la":"Fundulea",
+    "qs:la_lc":"*RO22103032",
+    "qs:level":"locality",
+    "qs:loc":"T\u0103m\u0103d\u0103u Mare",
+    "qs:loc_alt":"Tamadau Mare",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a4eaac-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":665578,
+        "gp:id":881447,
+        "qs:id":181006,
+        "qs_pg:id":181006,
+        "wd:id":"Q2716789"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"8afb002811eac66774e6173618631b17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101792515,
+            "region_id":85687615
+        }
+    ],
+    "wof:id":101792515,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514500221,
+    "wof:name":"T\u0103m\u0103d\u0103u Mare",
+    "wof:parent_id":85687615,
+    "wof:placetype":"locality",
+    "wof:population":2579,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.56103596934639,
+    44.461178833406,
+    26.57798314268001,
+    44.47325157365083
+],
+  "geometry": {"coordinates":[[[26.57798314268001,44.47265520343666],[26.57772078455105,44.4717786920624],[26.57648994097428,44.47197749306883],[26.5759652924383,44.47022445849177],[26.57473447677557,44.47042323783342],[26.57263645313401,44.46341100858757],[26.57140577218553,44.46360974481348],[26.57114358517674,44.4627332055714],[26.56991291433894,44.46293192371292],[26.56938860800676,44.461178833406],[26.56446599017909,44.46197353228234],[26.56472806680381,44.46285009250977],[26.56103596934639,44.46344597503349],[26.56129800326238,44.46432254442306],[26.56252872790031,44.46412392785271],[26.56305286341291,44.46587705481545],[26.56428361596932,44.46567841658759],[26.56533208653781,44.46918463753514],[26.56287043130914,44.46958192806898],[26.5631325400808,44.47045848656126],[26.56190168313026,44.47065711363388],[26.56242589714805,44.47241023309579],[26.56488767458984,44.47201295014202],[26.565149833259,44.4728895003895],[26.56761161555988,44.4724921522357],[26.56734942127667,44.47161560913764],[26.57227282237329,44.47082075298221],[26.57279736408486,44.47257380901726],[26.57402823074074,44.47237505154669],[26.5742905354561,44.47325157365083],[26.57798314268001,44.47265520343666]]],"type":"Polygon"}
+}

@@ -1,0 +1,98 @@
+{
+  "id": 1125863641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.08333,45.68333,23.08333,45.68333",
+    "geom:latitude":45.68333,
+    "geom:longitude":23.08333,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":2224,
+    "gn:population":2224,
+    "iso:country":"RO",
+    "lbl:latitude":45.68333,
+    "lbl:longitude":23.08333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Bo\u0219orod"
+    ],
+    "name:eng_x_preferred":[
+        "Bo\u0219orod"
+    ],
+    "name:fre_x_preferred":[
+        "Bo\u0219orod"
+    ],
+    "name:hun_x_preferred":[
+        "Bosor\u00f3d"
+    ],
+    "name:ita_x_preferred":[
+        "Bo\u0219orod"
+    ],
+    "name:rum_x_preferred":[
+        "Bo\u0219orod"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u0448\u043e\u0440\u043e\u0434"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":684103,
+    "qs_pg:gn_pop":2224,
+    "qs_pg:name":"Bo\u015forod",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":127941,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":684103,
+        "qs_pg:id":127941,
+        "wd:id":"Q5053732"
+    },
+    "wof:country":"RO",
+    "wof:created":1497293936,
+    "wof:geomhash":"b5e44fd2fbe1f93386a6ca73ac2c7ce4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125863641,
+            "region_id":85687671
+        }
+    ],
+    "wof:id":1125863641,
+    "wof:lastmodified":1514499788,
+    "wof:name":"Bo\u015forod",
+    "wof:parent_id":85687671,
+    "wof:placetype":"locality",
+    "wof:population":2224,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.08333,
+    45.68333,
+    23.08333,
+    45.68333
+],
+  "geometry": {"coordinates":[23.08333,45.68333],"type":"Point"}
+}

@@ -1,0 +1,115 @@
+{
+  "id": 85901727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":6511427.640802,
+    "geom:bbox":"25.5135,45.354778,25.5135,45.354778",
+    "geom:latitude":45.354778,
+    "geom:longitude":25.5135,
+    "gn:latitude":45.35,
+    "gn:longitude":25.55,
+    "iso:country":"RO",
+    "lbl:latitude":45.354778,
+    "lbl:longitude":25.5135,
+    "mps:latitude":45.357789,
+    "mps:longitude":25.499654,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":2,
+    "name:deu_x_preferred":[
+        "Coada Izvorului"
+    ],
+    "name:ron_x_preferred":[
+        "Coada Izvorului"
+    ],
+    "name:rum_x_preferred":[
+        "Coada Izvorului"
+    ],
+    "name:unk_x_variant":[
+        "Coada Izvorului"
+    ],
+    "qs:gn_adm0_cc":"RO",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":667091,
+    "qs:gn_nam_loc":"Sinaia, Prahova, RO",
+    "qs:gn_namadm1":"00",
+    "qs:gn_name":"Coada Izvorului",
+    "qs:local_max":1646,
+    "qs:local_sum":3089,
+    "qs:localhoods":3,
+    "qs:name":"Coada Izvorului",
+    "qs:name_adm0":"Rom\u00e2nia",
+    "qs:name_adm1":"Prahova",
+    "qs:name_local":"Sinaia",
+    "qs:photo_max":12,
+    "qs:photo_sum":22,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":4,
+    "qs:woe_adm0":23424933,
+    "qs:woe_adm1":2346643,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":880361,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":23,
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687661
+    ],
+    "wof:breaches":[
+        85901897
+    ],
+    "wof:concordances":{
+        "gn:id":681285,
+        "gp:id":869902,
+        "qs:id":314694,
+        "qs_pg:id":314694
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"21624a98226b5d5f879d0545476a963d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":-1,
+            "neighbourhood_id":85901727,
+            "region_id":85687661
+        }
+    ],
+    "wof:id":85901727,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1531932553,
+    "wof:name":"Coada Izvorului",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.5135,
+    45.354778,
+    25.5135,
+    45.354778
+],
+  "geometry": {"coordinates":[25.5135,45.354778],"type":"Point"}
+}

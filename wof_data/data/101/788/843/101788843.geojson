@@ -1,0 +1,100 @@
+{
+  "id": 101788843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000104,
+    "geom:area_square_m":877689.77757,
+    "geom:bbox":"21.7983730325,47.0047599265,21.8145877539,47.0156925043",
+    "geom:latitude":47.010224,
+    "geom:longitude":21.80623,
+    "gn:population":1257,
+    "iso:country":"RO",
+    "lbl:latitude":47.010113,
+    "lbl:longitude":21.806107,
+    "mps:latitude":47.010113,
+    "mps:longitude":21.806107,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Livada de Bihor"
+    ],
+    "name:eng_x_preferred":[
+        "Livada de Bihor"
+    ],
+    "name:epo_x_preferred":[
+        "Livada de Bihor"
+    ],
+    "name:fre_x_preferred":[
+        "Livada de Bihor"
+    ],
+    "name:hun_x_preferred":[
+        "M\u00e1csapuszta"
+    ],
+    "name:ita_x_preferred":[
+        "Livada de Bihor"
+    ],
+    "name:rum_x_preferred":[
+        "Livada de Bihor"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0456\u0432\u0430\u0434\u0430-\u0434\u0435-\u0411\u0456\u0445\u043e\u0440"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Bihor",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Nojorid",
+    "qs:la_lc":"*RO15030149",
+    "qs:level":"locality",
+    "qs:loc":"Livada de Bihor",
+    "qs:loc_alt":"Livada de Bihor",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":674673,
+        "qs:id":7,
+        "wd:id":"Q645761"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"55ccb8ac15f7396264b883f50e31c25b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101788843,
+            "region_id":85687737
+        }
+    ],
+    "wof:id":101788843,
+    "wof:lastmodified":1514499996,
+    "wof:name":"Livada de Bihor",
+    "wof:parent_id":85687737,
+    "wof:placetype":"locality",
+    "wof:population":1257,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.79837303248752,
+    47.00475992653253,
+    21.814587753892,
+    47.01569250429827
+],
+  "geometry": {"coordinates":[[[21.80628894170366,47.01554957066389],[21.80608720631153,47.01466234864381],[21.81259162937886,47.01394746032832],[21.81238979648322,47.01306025131026],[21.81369064063597,47.01291722962083],[21.81328695864397,47.01114281425737],[21.814587753892,47.01099978255269],[21.81418406447074,47.00922536888851],[21.81158255256616,47.00951140550956],[21.81138076350106,47.00862419162712],[21.81008001919434,47.00876718373416],[21.80947476832324,47.00610552786509],[21.80817408135636,47.00624849598353],[21.80797236983602,47.00536127262063],[21.80537101919907,47.00564715645532],[21.80516935892888,47.00475992653253],[21.80126734873591,47.00518862686943],[21.80167055055699,47.00696310249953],[21.80036982520784,47.00710597698668],[21.80077301955845,47.00888045431338],[21.799472245316,47.00902331877921],[21.79967383437594,47.00991055877699],[21.79837303248752,47.0100534104289],[21.79877619437309,47.01182789309354],[21.80007703876635,47.01168503585711],[21.80027865409789,47.01257227293945],[21.80157951334826,47.01242939730281],[21.80178115869205,47.01331663062018],[21.80308203279861,47.01317373658316],[21.80348539227617,47.01494819471577],[21.80478630249377,47.01480527948377],[21.80498801663072,47.01569250429827],[21.80628894170366,47.01554957066389]]],"type":"Polygon"}
+}

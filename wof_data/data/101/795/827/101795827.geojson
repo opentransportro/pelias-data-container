@@ -1,0 +1,114 @@
+{
+  "id": 101795827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000083,
+    "geom:area_square_m":738598.502854,
+    "geom:bbox":"23.7859438814,43.8437260011,23.8043803426,43.8508541736",
+    "geom:latitude":43.847324,
+    "geom:longitude":23.794575,
+    "gn:population":3609,
+    "iso:country":"RO",
+    "lbl:latitude":43.847287,
+    "lbl:longitude":23.794575,
+    "mps:latitude":43.847287,
+    "mps:longitude":23.794575,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0413\u0438\u0433\u0445\u0435\u0440\u0430"
+    ],
+    "name:dut_x_preferred":[
+        "Gighera"
+    ],
+    "name:eng_x_preferred":[
+        "Gighera"
+    ],
+    "name:fre_x_preferred":[
+        "Gighera"
+    ],
+    "name:ita_x_preferred":[
+        "Gighera"
+    ],
+    "name:por_x_preferred":[
+        "Gighera"
+    ],
+    "name:rum_x_preferred":[
+        "Gighera"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0436\u0438\u0433\u0435\u0440\u0430"
+    ],
+    "name:vie_x_preferred":[
+        "Gighera"
+    ],
+    "name:vol_x_preferred":[
+        "Gighera"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Dolj",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Gighera",
+    "qs:la_lc":"*RO28072463",
+    "qs:level":"locality",
+    "qs:loc":"Gighera",
+    "qs:loc_alt":"Gighera",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a074fe-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":677286,
+        "gp:id":872853,
+        "qs:id":185324,
+        "qs_pg:id":185324,
+        "wd:id":"Q2081901"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"4395b91a97e602f754f47e678ece211b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101795827,
+            "region_id":85687581
+        }
+    ],
+    "wof:id":101795827,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514499945,
+    "wof:name":"Gighera",
+    "wof:parent_id":85687581,
+    "wof:placetype":"locality",
+    "wof:population":3609,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.78594388138021,
+    43.84372600111459,
+    23.80438034263068,
+    43.8508541736465
+],
+  "geometry": {"coordinates":[[[23.78845660046335,43.8508541736465],[23.80438034263068,43.84870363281613],[23.80416544097636,43.84781886796645],[23.80294059321892,43.84798437833842],[23.80251085201093,43.84621483887219],[23.80128603386589,43.84638032883066],[23.80064154141945,43.84372600111459],[23.78594388138021,43.84571064224286],[23.78680236114428,43.84924988472665],[23.78802727229919,43.84908456602426],[23.78845660046335,43.8508541736465]]],"type":"Polygon"}
+}

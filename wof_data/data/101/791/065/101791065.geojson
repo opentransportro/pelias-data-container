@@ -1,0 +1,105 @@
+{
+  "id": 101791065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000126,
+    "geom:area_square_m":1077406.468588,
+    "geom:bbox":"21.6112598646,46.0647749892,21.626290588,46.0781920958",
+    "geom:latitude":46.070423,
+    "geom:longitude":21.618275,
+    "gn:population":1020,
+    "iso:country":"RO",
+    "lbl:latitude":46.070407,
+    "lbl:longitude":21.618418,
+    "mps:latitude":46.070407,
+    "mps:longitude":21.618418,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Neudorf"
+    ],
+    "name:eng_x_preferred":[
+        "Neudorf"
+    ],
+    "name:epo_x_preferred":[
+        "Neudorf"
+    ],
+    "name:fre_x_preferred":[
+        "Neudorf"
+    ],
+    "name:ger_x_preferred":[
+        "Neudorf"
+    ],
+    "name:hun_x_preferred":[
+        "Temes\u00fajfalu"
+    ],
+    "name:rum_x_preferred":[
+        "Neudorf"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u043e\u0439\u0434\u043e\u0440\u0444"
+    ],
+    "name:unk_x_variant":[
+        "Temes\u00fajfalu"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Arad",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:id":0,
+    "qs:la":"Z\u0103brani",
+    "qs:la_lc":"*RO12012778",
+    "qs:level":"locality",
+    "qs:loc":"Neudorf",
+    "qs:loc_alt":"Neudorf",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":672290,
+        "gp:id":876502,
+        "qs:id":883758,
+        "wd:id":"Q572409"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"e1349cf99711d6a5b911bad22b5aeec7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101791065,
+            "region_id":85687691
+        }
+    ],
+    "wof:id":101791065,
+    "wof:lastmodified":1514500045,
+    "wof:name":"Neudorf",
+    "wof:parent_id":85687691,
+    "wof:placetype":"locality",
+    "wof:population":1020,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.6112598645712,
+    46.06477498915376,
+    21.62629058798893,
+    46.07819209580066
+],
+  "geometry": {"coordinates":[[[21.61632645908048,46.0779115704313],[21.61613338710094,46.07702334927478],[21.61741227286336,46.07688306629467],[21.61721918876196,46.07599484681293],[21.62233459055284,46.07543357247317],[21.62214143326548,46.07454536268301],[21.62342024839842,46.07440500849486],[21.62245448377104,46.069963957943],[21.62629058798893,46.06954284361507],[21.62532472407742,46.06510180820771],[21.62021031343096,46.06566320991686],[21.62001724674053,46.06477498915376],[21.61234557344636,46.06561661647646],[21.61253851805651,46.06650485326281],[21.6112598645712,46.06664507357692],[21.61222460930969,46.07108625590439],[21.61478211380694,46.07080577326803],[21.61536118153174,46.07347045468077],[21.61280355491266,46.07375095334044],[21.61338257460102,46.07641564180625],[21.61210369125212,46.07655587618217],[21.6122966939223,46.07744410634842],[21.61357559762985,46.07730386930172],[21.61376862889193,46.07819209580066],[21.61632645908048,46.0779115704313]]],"type":"Polygon"}
+}

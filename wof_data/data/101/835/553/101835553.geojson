@@ -1,0 +1,95 @@
+{
+  "id": 101835553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00006,
+    "geom:area_square_m":533058.610004,
+    "geom:bbox":"24.6511629602,44.4648834537,24.669108825,44.4766947329",
+    "geom:latitude":44.470374,
+    "geom:longitude":24.658098,
+    "gn:population":1259,
+    "iso:country":"RO",
+    "lbl:latitude":44.471022,
+    "lbl:longitude":24.655719,
+    "mps:latitude":44.471022,
+    "mps:longitude":24.655719,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Valea Merilor"
+    ],
+    "name:eng_x_preferred":[
+        "Valea Merilor"
+    ],
+    "name:fre_x_preferred":[
+        "Valea Merilor"
+    ],
+    "name:ita_x_preferred":[
+        "Valea Merilor"
+    ],
+    "name:rum_x_preferred":[
+        "Valea Merilor"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0430\u043b\u044f-\u041c\u0435\u0440\u0456\u043b\u043e\u0440 "
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Olt",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Scornice\u015fti",
+    "qs:la_lc":"*RO41128711",
+    "qs:level":"locality",
+    "qs:loc":"Valea Merilor",
+    "qs:loc_alt":"Valea Merilor",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":663591,
+        "gp:id":882963,
+        "qs:id":9,
+        "wd:id":"Q12087530"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"3a7748e771367eca592fb982373d1777",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101835553,
+            "region_id":85687607
+        }
+    ],
+    "wof:id":101835553,
+    "wof:lastmodified":1514500233,
+    "wof:name":"Valea Merilor",
+    "wof:parent_id":85687607,
+    "wof:placetype":"locality",
+    "wof:population":1259,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.65116296024701,
+    44.46488345365054,
+    24.66910882499076,
+    44.47669473290313
+],
+  "geometry": {"coordinates":[[[24.66910882499076,44.46660943456413],[24.66837667226622,44.46488345365054],[24.66345614805942,44.46558460605371],[24.66368840284696,44.46646661561954],[24.66245256642816,44.46664264701803],[24.66268481248801,44.46752465841655],[24.65279772838426,44.4689324080033],[24.65302983787336,44.46981444351053],[24.65116296024701,44.47008001955152],[24.6519729852086,44.47362512332063],[24.6539583711164,44.4733425720467],[24.65442269491712,44.47510662821981],[24.65565873227314,44.47493068849178],[24.65612313073842,44.47669473290313],[24.65735919778058,44.47651877216668],[24.6571269755118,44.47563675381855],[24.65836301743076,44.47546078162173],[24.65766635301924,44.47281472802894],[24.6589023332819,44.47263875073827],[24.65843790147227,44.47087471462714],[24.65967383835118,44.47069872906036],[24.65944161848012,44.46981671216281],[24.66067753024271,44.46964071513713],[24.66044530164049,44.46875870007295],[24.66538880710823,44.46805457829413],[24.66515651499327,44.46717257461285],[24.66910882499076,44.46660943456413]]],"type":"Polygon"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1259961933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.40449,44.62323,25.40449,44.62323",
+    "geom:latitude":44.62323,
+    "geom:longitude":25.40449,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"68976.0",
+    "gn:asciiname":"Jugureni",
+    "gn:country_code":"RO",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":675151,
+    "gn:latitude":44.62323,
+    "gn:longitude":25.40449,
+    "gn:modification_date":"2013-04-21",
+    "gn:name":"Jugureni",
+    "gn:population":697,
+    "gn:timezone":"Europe/Bucharest",
+    "iso:country":"RO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":675151
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"13381f7d6de4f206343a460e9c868e46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1259961933,
+            "region_id":85687637
+        }
+    ],
+    "wof:id":1259961933,
+    "wof:lastmodified":1536666239,
+    "wof:name":"Jugureni",
+    "wof:parent_id":85687637,
+    "wof:placetype":"locality",
+    "wof:population":697,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.40449,
+    44.62323,
+    25.40449,
+    44.62323
+],
+  "geometry": {"coordinates":[25.40449,44.62323],"type":"Point"}
+}

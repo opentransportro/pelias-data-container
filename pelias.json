@@ -36,8 +36,8 @@
   "imports": {
     "defaultAdminLayers": ["localadmin", "locality", "neighbourhood", "region", "postalcode"],
     "defaultCountry": {
-      "name": "Suomi",
-      "abbr": "FIN"
+      "name": "Romania",
+      "abbr": "ROM"
     },
     "adminLookup": {
       "enabled": true,
@@ -50,11 +50,7 @@
       "leveldbpath": "/tmp",
       "import": [
         {
-          "filename": "finland.osm.pbf",
-          "importVenues": true
-        },
-        {
-          "filename": "hsl_geocode_appendix.osm.pbf",
+          "filename": "romania-latest.osm.pbf",
           "importVenues": true
         }
       ]

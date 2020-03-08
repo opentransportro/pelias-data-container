@@ -1,0 +1,98 @@
+{
+  "id": 101836599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000192,
+    "geom:area_square_m":1699463.677455,
+    "geom:bbox":"24.5469640831,44.2779695353,24.5646897254,44.3082771507",
+    "geom:latitude":44.287195,
+    "geom:longitude":24.554292,
+    "gn:population":1062,
+    "iso:country":"RO",
+    "lbl:latitude":44.284277,
+    "lbl:longitude":24.555464,
+    "mps:latitude":44.284277,
+    "mps:longitude":24.555464,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "V\u00e2lcelele de Sus"
+    ],
+    "name:eng_x_preferred":[
+        "V\u00e2lcelele de Sus"
+    ],
+    "name:fre_x_preferred":[
+        "V\u00e2lcelele de Sus"
+    ],
+    "name:ita_x_preferred":[
+        "V\u00e2lcelele de Sus"
+    ],
+    "name:rum_x_preferred":[
+        "V\u00e2lcelele de Sus"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0438\u043b\u0447\u0435\u043b\u0435\u043b\u0435-\u0434\u0435-\u0421\u0443\u0441"
+    ],
+    "name:unk_x_variant":[
+        "V\u00eelcelele de Sus"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Olt",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"V\u00e2lcele",
+    "qs:la_lc":"*RO41129987",
+    "qs:level":"locality",
+    "qs:loc":"V\u00e2lcelele de Sus",
+    "qs:loc_alt":"Valcelele de Sus",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":662862,
+        "gp:id":883570,
+        "qs:id":413646,
+        "wd:id":"Q12089358"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"a24ca279874c62811c022b879abfb75d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101836599,
+            "region_id":85687607
+        }
+    ],
+    "wof:id":101836599,
+    "wof:lastmodified":1514500251,
+    "wof:name":"V\u00e2lcelele de Sus",
+    "wof:parent_id":85687607,
+    "wof:placetype":"locality",
+    "wof:population":1062,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.54696408314595,
+    44.27796953526951,
+    24.56468972544303,
+    44.30827715067653
+],
+  "geometry": {"coordinates":[[[[24.5500463860767,44.2913716982473],[24.54765803152065,44.29170997075312],[24.54696408314595,44.30827715067653],[24.55047745261351,44.30777964127822],[24.54795426246744,44.29807268180377],[24.54918679575121,44.2978980934671],[24.54895745301707,44.29701563767975],[24.55018996141484,44.29684103788753],[24.54927261177482,44.2933112138619],[24.5505050408604,44.29313661204515],[24.5500463860767,44.2913716982473]]],[[[24.54819777134469,44.27882433386532],[24.54800182353097,44.28350235142727],[24.54821214231964,44.28431198924096],[24.54944438329005,44.28413740425555],[24.55082011862214,44.28943217522692],[24.54958776883456,44.28960677906815],[24.5500463860767,44.2913716982473],[24.56236994338309,44.28962494013012],[24.56214044869637,44.28874251265574],[24.56090814144153,44.2889172510047],[24.56021976813241,44.28626995106634],[24.56391650646333,44.28574572053998],[24.56345752908101,44.28398086605125],[24.56468972544303,44.28380609964427],[24.56423074936276,44.28204124605793],[24.56299858926047,44.28221600617474],[24.56231024994906,44.27956870625729],[24.55984601829175,44.27991816384286],[24.5596166268856,44.27903572155452],[24.5583845190755,44.27921042531375],[24.55815515518265,44.27832797853478],[24.55445884570781,44.27885199282451],[24.55422954558207,44.27796953526951],[24.54819777134469,44.27882433386532]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,102 @@
+{
+  "id": 101791911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000144,
+    "geom:area_square_m":1257285.429527,
+    "geom:bbox":"26.6755724686,44.9694012367,26.6893284441,44.994448955",
+    "geom:latitude":44.984728,
+    "geom:longitude":26.682613,
+    "gn:population":2760,
+    "iso:country":"RO",
+    "lbl:latitude":44.989225,
+    "lbl:longitude":26.682717,
+    "mps:latitude":44.989225,
+    "mps:longitude":26.682717,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Movila Banului"
+    ],
+    "name:eng_x_preferred":[
+        "Movila Banului"
+    ],
+    "name:fre_x_preferred":[
+        "Movila Banului"
+    ],
+    "name:ita_x_preferred":[
+        "Movila Banului"
+    ],
+    "name:rum_x_preferred":[
+        "Movila Banului"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u043e\u0432\u0456\u043b\u0430-\u0411\u0430\u043d\u0443\u043b\u0443\u0439"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Buzau",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Movila Banului",
+    "qs:la_lc":"*RO21047774",
+    "qs:level":"locality",
+    "qs:loc":"Movila Banului",
+    "qs:loc_alt":"Movila Banului",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a231a4-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":672746,
+        "gp:id":876188,
+        "qs:id":127402,
+        "qs_pg:id":127402,
+        "wd:id":"Q3292917"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"3aeb61ffdcc65c5f6e76a2cda4dde438",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101791911,
+            "region_id":85687667
+        }
+    ],
+    "wof:id":101791911,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514500031,
+    "wof:name":"Movila Banului",
+    "wof:parent_id":85687667,
+    "wof:placetype":"locality",
+    "wof:population":2760,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.67557246857677,
+    44.96940123672732,
+    26.68932844406419,
+    44.99444895499767
+],
+  "geometry": {"coordinates":[[[26.68640762898087,44.99364756435051],[26.68587155067382,44.99189609015423],[26.68711321549989,44.99169571317185],[26.68684517470109,44.99081997739552],[26.68932844406419,44.99041918678608],[26.68772021265465,44.98516478331806],[26.68647869115483,44.98536516401356],[26.68460305068663,44.9792349302316],[26.68336164860415,44.97943527069407],[26.68255802274871,44.97680799333943],[26.6837993702519,44.97660766383854],[26.68272795074625,44.97310462019391],[26.68396921753532,44.97290429065924],[26.68289790170797,44.96940123672732],[26.6791742957468,44.97000213755598],[26.68051319527069,44.97438100587226],[26.67927188643966,44.97458129511705],[26.68195033057924,44.98333895159135],[26.68070883184873,44.98353926272063],[26.68124461663916,44.98529078265432],[26.67876152251648,44.98569137557638],[26.67902939505819,44.98656714051799],[26.67778781786376,44.98676741865557],[26.67805568323524,44.98764318569562],[26.67557246857677,44.98804370532304],[26.67637602165809,44.99067101903415],[26.67761768757771,44.99047075558531],[26.67815348120354,44.99222228297651],[26.67939517557824,44.99202199756638],[26.67993104975346,44.99377351142778],[26.6811727725833,44.99357320405477],[26.68144074443188,44.99444895499767],[26.68640762898087,44.99364756435051]]],"type":"Polygon"}
+}

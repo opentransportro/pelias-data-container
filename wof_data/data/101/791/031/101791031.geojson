@@ -1,0 +1,133 @@
+{
+  "id": 101791031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000138,
+    "geom:area_square_m":1177110.327513,
+    "geom:bbox":"20.9005586752,46.2274088183,20.9168776154,46.2410495057",
+    "geom:latitude":46.234328,
+    "geom:longitude":20.907446,
+    "gn:population":1770,
+    "iso:country":"RO",
+    "lbl:latitude":46.234062,
+    "lbl:longitude":20.90729,
+    "mps:latitude":46.234062,
+    "mps:longitude":20.90729,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Peregu Mare"
+    ],
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0631\u064a\u063a\u0648 \u0645\u0627\u0631\u064a"
+    ],
+    "name:dut_x_preferred":[
+        "Peregu Mare"
+    ],
+    "name:eng_x_preferred":[
+        "Peregul-Mare"
+    ],
+    "name:eng_x_variant":[
+        "Peregu",
+        "Peregu Mare"
+    ],
+    "name:epo_x_preferred":[
+        "Peregu Mare"
+    ],
+    "name:fre_x_preferred":[
+        "Peregu Mare"
+    ],
+    "name:ger_x_preferred":[
+        "Peregu Mare"
+    ],
+    "name:hun_x_preferred":[
+        "N\u00e9metpereg"
+    ],
+    "name:ita_x_preferred":[
+        "Peregu Mare"
+    ],
+    "name:por_x_preferred":[
+        "Peregu Mare"
+    ],
+    "name:rum_x_preferred":[
+        "Peregu Mare"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0435\u0440\u0435\u0433\u0443-\u041c\u0430\u0440\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Deutschpereg"
+    ],
+    "name:vie_x_preferred":[
+        "Peregu Mare"
+    ],
+    "name:vol_x_preferred":[
+        "Peregu Mare"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Arad",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Peregu Mare",
+    "qs:la_lc":"*RO12011637",
+    "qs:level":"locality",
+    "qs:loc":"Peregu Mare",
+    "qs:loc_alt":"Peregu Mare",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a2cfc4-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":671151,
+        "gp:id":877348,
+        "qs:id":127320,
+        "qs_pg:id":127320,
+        "wd:id":"Q1082245"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"3a4ee6daf1377af8edf69e8b6242559f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101791031,
+            "region_id":85687691
+        }
+    ],
+    "wof:id":101791031,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514500066,
+    "wof:name":"Peregu Mare",
+    "wof:parent_id":85687691,
+    "wof:placetype":"locality",
+    "wof:population":1770,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.90055867515895,
+    46.22740881827139,
+    20.91687761541709,
+    46.24104950565049
+],
+  "geometry": {"coordinates":[[[20.91687761541709,46.23399803569254],[20.91651295624615,46.23221885960129],[20.91266100936275,46.23261456013279],[20.91193203248724,46.22905616646369],[20.91064812140758,46.22918802574111],[20.91028372110566,46.22740881827139],[20.90771596448229,46.22767248053322],[20.90789811944757,46.22856208978294],[20.90147852537308,46.22922098860147],[20.90184265228339,46.23100022955055],[20.90055867515895,46.23113196816666],[20.90237957142756,46.24002814236553],[20.90109538212795,46.24015989081892],[20.90127749402649,46.24104950565049],[20.90769848702547,46.2403905967451],[20.90751627185648,46.23950099453702],[20.91393701961698,46.23884171322555],[20.91302554466137,46.23439375138366],[20.91687761541709,46.23399803569254]]],"type":"Polygon"}
+}

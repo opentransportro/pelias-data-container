@@ -1,0 +1,125 @@
+{
+  "id": 1125770015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.13333,46.78333,22.13333,46.78333",
+    "geom:latitude":46.78333,
+    "geom:longitude":22.13333,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":3493,
+    "gn:population":3493,
+    "iso:country":"RO",
+    "lbl:latitude":46.78333,
+    "lbl:longitude":22.13333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:alb_x_preferred":[
+        "Holod"
+    ],
+    "name:dut_x_preferred":[
+        "Holod"
+    ],
+    "name:eng_x_preferred":[
+        "Holod"
+    ],
+    "name:epo_x_preferred":[
+        "Holod"
+    ],
+    "name:fre_x_preferred":[
+        "Holod"
+    ],
+    "name:hun_x_preferred":[
+        "Pusztaholl\u00f3d"
+    ],
+    "name:ita_x_preferred":[
+        "Holod"
+    ],
+    "name:may_x_preferred":[
+        "Holod"
+    ],
+    "name:por_x_preferred":[
+        "Holod"
+    ],
+    "name:rum_x_preferred":[
+        "Holod"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u043e\u043b\u043e\u0434 "
+    ],
+    "name:vol_x_preferred":[
+        "Holod"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":676070,
+    "qs_pg:gn_pop":3493,
+    "qs_pg:name":"Holod",
+    "qs_pg:name_adm0":"Rom\u00e2nia",
+    "qs_pg:name_adm1":"Bihor",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":10,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":127554,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424933,
+    "qs_pg:woe_id":873736,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424933,
+    "woe:name_adm0":"Rom\u00e2nia",
+    "woe:name_adm1":"Bihor",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":676070,
+        "gp:id":873736,
+        "qs_pg:id":127554,
+        "wd:id":"Q1084993"
+    },
+    "wof:country":"RO",
+    "wof:created":1497290027,
+    "wof:geomhash":"69dc56af080d28d60de9e6a46f5dd047",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125770015,
+            "region_id":85687737
+        }
+    ],
+    "wof:id":1125770015,
+    "wof:lastmodified":1514499968,
+    "wof:name":"Holod",
+    "wof:parent_id":85687737,
+    "wof:placetype":"locality",
+    "wof:population":3493,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.13333,
+    46.78333,
+    22.13333,
+    46.78333
+],
+  "geometry": {"coordinates":[22.13333,46.78333],"type":"Point"}
+}

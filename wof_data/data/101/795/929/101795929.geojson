@@ -1,0 +1,107 @@
+{
+  "id": 101795929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000099,
+    "geom:area_square_m":878283.43201,
+    "geom:bbox":"23.8957510824,44.12040478,23.9108742315,44.1356709749",
+    "geom:latitude":44.128066,
+    "geom:longitude":23.90266,
+    "gn:population":1340,
+    "iso:country":"RO",
+    "lbl:latitude":44.127698,
+    "lbl:longitude":23.902774,
+    "mps:latitude":44.127698,
+    "mps:longitude":23.902774,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Bratovoe\u0219ti"
+    ],
+    "name:eng_x_preferred":[
+        "Bratovoe\u0219ti"
+    ],
+    "name:fre_x_preferred":[
+        "Bratovoe\u0219ti"
+    ],
+    "name:ita_x_preferred":[
+        "Bratovoe\u0219ti"
+    ],
+    "name:may_x_preferred":[
+        "Bratovoe\u0219ti"
+    ],
+    "name:por_x_preferred":[
+        "Bratovoe\u0219ti"
+    ],
+    "name:rum_x_preferred":[
+        "Bratovoe\u0219ti"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0440\u0430\u0442\u043e\u0432\u043e\u0454\u0448\u0442\u044c"
+    ],
+    "name:vie_x_preferred":[
+        "Bratovoesti"
+    ],
+    "name:vol_x_preferred":[
+        "Bratovoe\u0219ti"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Dolj",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Bratovoe\u015fti",
+    "qs:la_lc":"*RO28071199",
+    "qs:level":"locality",
+    "qs:loc":"Bratovoe\u015fti",
+    "qs:loc_alt":"Bratovoesti",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":683791,
+        "gp:id":868063,
+        "qs:id":1028193,
+        "wd:id":"Q2538619"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"72dd5faf441b06f2b43acbda9422cdf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101795929,
+            "region_id":85687581
+        }
+    ],
+    "wof:id":101795929,
+    "wof:lastmodified":1514499791,
+    "wof:name":"Bratovoe\u015fti",
+    "wof:parent_id":85687581,
+    "wof:placetype":"locality",
+    "wof:population":1340,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.89575108237744,
+    44.12040477999506,
+    23.91087423147366,
+    44.13567097487112
+],
+  "geometry": {"coordinates":[[[23.90154570514039,44.13163347893618],[23.90646792996898,44.13096614789885],[23.90624969752105,44.13008187792565],[23.90748021958291,44.12991501168483],[23.90638910043799,44.12549365747145],[23.91008035606967,44.12499301613946],[23.90964386200886,44.12322448340586],[23.91087423147366,44.12305757977543],[23.91021950287291,44.12040477999506],[23.90775886637635,44.12073855469731],[23.90819527063593,44.12250710115325],[23.90696490651391,44.12267397261229],[23.90718310388303,44.12355824690218],[23.90349191871076,44.12405878273239],[23.90327377576335,44.12317449945948],[23.90081298994824,44.12350811108138],[23.90103109661197,44.12439240034183],[23.89980067596906,44.124559187263],[23.90001877340626,44.12544347822916],[23.89755787664859,44.12577701428995],[23.89799402569258,44.1275456043324],[23.89676353143125,44.12771235646431],[23.89698160118036,44.1285966525474],[23.89575108237744,44.12876339308207],[23.89640529067475,44.13141628258779],[23.89763586392161,44.13124953307351],[23.89872648016831,44.13567097487112],[23.90241843377675,44.13517059386885],[23.90154570514039,44.13163347893618]]],"type":"Polygon"}
+}

@@ -1,0 +1,105 @@
+{
+  "id": 1125864223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.13333,44.28333,24.13333,44.28333",
+    "geom:latitude":44.28333,
+    "geom:longitude":24.13333,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":2310,
+    "gn:population":2310,
+    "iso:country":"RO",
+    "lbl:latitude":44.28333,
+    "lbl:longitude":24.13333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Voineasa"
+    ],
+    "name:eng_x_preferred":[
+        "Voineasa"
+    ],
+    "name:ita_x_preferred":[
+        "Voineasa"
+    ],
+    "name:rum_x_preferred":[
+        "Voineasa"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u043e\u0439\u043d\u044f\u0441\u0430 "
+    ],
+    "name:unk_x_variant":[
+        "Voineasa Mare"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":662531,
+    "qs_pg:gn_pop":2310,
+    "qs_pg:name":"Voineasa",
+    "qs_pg:name_adm0":"Rom\u00e2nia",
+    "qs_pg:name_adm1":"Olt",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":497807,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424933,
+    "qs_pg:woe_id":15002489,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424933,
+    "woe:name_adm0":"Rom\u00e2nia",
+    "woe:name_adm1":"Olt",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":662531,
+        "gp:id":15002489,
+        "qs_pg:id":497807,
+        "wd:id":"Q12090228"
+    },
+    "wof:country":"RO",
+    "wof:created":1497293961,
+    "wof:geomhash":"ba57a022a73b2767a840011728f9dd86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125864223,
+            "region_id":85687607
+        }
+    ],
+    "wof:id":1125864223,
+    "wof:lastmodified":1514500247,
+    "wof:name":"Voineasa",
+    "wof:parent_id":85687607,
+    "wof:placetype":"locality",
+    "wof:population":2310,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.13333,
+    44.28333,
+    24.13333,
+    44.28333
+],
+  "geometry": {"coordinates":[24.13333,44.28333],"type":"Point"}
+}

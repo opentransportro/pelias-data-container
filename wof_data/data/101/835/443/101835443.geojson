@@ -1,0 +1,127 @@
+{
+  "id": 101835443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0002,
+    "geom:area_square_m":1781664.411611,
+    "geom:bbox":"23.1518553085,43.8923909826,23.1750160162,43.907106715",
+    "geom:latitude":43.898904,
+    "geom:longitude":23.162809,
+    "gn:population":5445,
+    "iso:country":"RO",
+    "lbl:latitude":43.899203,
+    "lbl:longitude":23.160703,
+    "mps:latitude":43.899203,
+    "mps:longitude":23.160703,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Piscu Vechi"
+    ],
+    "name:eng_x_preferred":[
+        "Piscu-Vechiu"
+    ],
+    "name:eng_x_variant":[
+        "Piscul-Vechiu",
+        "Piscu Vechi"
+    ],
+    "name:fre_x_preferred":[
+        "Piscu Vechi"
+    ],
+    "name:ita_x_preferred":[
+        "Piscu Vechi"
+    ],
+    "name:may_x_preferred":[
+        "Piscu Vechi"
+    ],
+    "name:por_x_preferred":[
+        "Piscu Vechi"
+    ],
+    "name:rum_x_colloquial":[
+        "Piscu de Cimpie"
+    ],
+    "name:rum_x_preferred":[
+        "Piscu Vechi"
+    ],
+    "name:rum_x_variant":[
+        "Piscu de C\u00eempie"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0456\u0441\u043a\u0443-\u0412\u0435\u043a\u0456"
+    ],
+    "name:unk_x_variant":[
+        "Piscul-Vechiu"
+    ],
+    "name:vie_x_preferred":[
+        "Piscu Vechi"
+    ],
+    "name:vol_x_preferred":[
+        "Piscu Vechi"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Dolj",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Piscu Vechi",
+    "qs:la_lc":"*RO28073665",
+    "qs:level":"locality",
+    "qs:loc":"Piscu Vechi",
+    "qs:loc_alt":"Piscu Vechi",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a30156-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":670623,
+        "gp:id":877747,
+        "qs:id":412148,
+        "qs_pg:id":412148,
+        "wd:id":"Q2335002"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"b7cd5f587a2e3ca19a867a0e2a82f1ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101835443,
+            "region_id":85687581
+        }
+    ],
+    "wof:id":101835443,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514500078,
+    "wof:name":"Piscu Vechi",
+    "wof:parent_id":85687581,
+    "wof:placetype":"locality",
+    "wof:population":5445,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.15185530848476,
+    43.89239098262073,
+    23.17501601619961,
+    43.90710671497339
+],
+  "geometry": {"coordinates":[[[23.17501601619961,43.89887019024144],[23.17358043195969,43.89449139618733],[23.17292431597093,43.89457587962431],[23.17251353100562,43.89280331313853],[23.16883189758011,43.89327727617496],[23.16862657196566,43.89239098262073],[23.16494493885779,43.89286480610053],[23.16515021016653,43.89375110811949],[23.16146846877723,43.89422480896923],[23.1612632517776,43.89333849848754],[23.16003601075943,43.89349636681766],[23.16024120965534,43.89438268011969],[23.15533211321917,43.89501401905483],[23.15553724806426,43.89590034240854],[23.15185530848476,43.89637370211392],[23.15288083660937,43.90080534275717],[23.15410824634091,43.90064755665992],[23.15472371796767,43.9033065178578],[23.15349625390036,43.90346431241409],[23.15370140973636,43.90435063317841],[23.15247392156033,43.90450841598459],[23.15267906765212,43.90539473834144],[23.15390657394232,43.90523695271548],[23.15411174651939,43.90612327102508],[23.15533926492827,43.9059654680089],[23.15513407423663,43.90507915251925],[23.15881653913885,43.90460566451208],[23.15902178417156,43.90549197153985],[23.16024927859002,43.90533411024387],[23.16065983000692,43.90710671497339],[23.16311487330108,43.90679093738567],[23.1629095571775,43.9059046412782],[23.16413705171055,43.90574673345151],[23.16352109926027,43.90308784622607],[23.1647485334579,43.90292993229599],[23.16454321461651,43.90204363691947],[23.17190758513152,43.9010958643359],[23.17149675528066,43.89932330376803],[23.17501601619961,43.89887019024144]]],"type":"Polygon"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 101834497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000068,
+    "geom:area_square_m":593909.518315,
+    "geom:bbox":"25.4375662299,45.193149097,25.4460461464,45.2045730083",
+    "geom:latitude":45.198189,
+    "geom:longitude":25.441684,
+    "gn:population":1320,
+    "iso:country":"RO",
+    "lbl:latitude":45.197226,
+    "lbl:longitude":25.441765,
+    "mps:latitude":45.197226,
+    "mps:longitude":25.441765,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*D\u00e2mbovita",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:id":0,
+    "qs:la":"Buciumeni",
+    "qs:la_lc":"*RO27066438",
+    "qs:level":"locality",
+    "qs:loc":"Lunca",
+    "qs:loc_alt":"Lunca",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":674485,
+        "gp:id":874910,
+        "qs:id":916386,
+        "wd:id":"Q12118837"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"e7b9747a2a88c598bdeb154ce3caceff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101834497,
+            "region_id":85687637
+        }
+    ],
+    "wof:id":101834497,
+    "wof:lastmodified":1505338228,
+    "wof:name":"Lunca",
+    "wof:parent_id":85687637,
+    "wof:placetype":"locality",
+    "wof:population":1320,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.437566229911,
+    45.19314909697903,
+    25.44604614644334,
+    45.20457300833243
+],
+  "geometry": {"coordinates":[[[25.44524383077112,45.19314909697903],[25.437566229911,45.19362840946775],[25.43904759764115,45.19884646230929],[25.43779789233997,45.19903209048221],[25.43879654479048,45.20254916725816],[25.43797702114705,45.20267088854291],[25.44067383569705,45.20457300833243],[25.44054575071652,45.20412204851698],[25.44179556074073,45.20393638502725],[25.44154582394395,45.20305712759716],[25.4452951529795,45.20250005856519],[25.44429608505652,45.19898305580364],[25.44554577162711,45.19879735019953],[25.44479652344984,45.19615959360345],[25.44604614644334,45.19597388345665],[25.44524383077112,45.19314909697903]]],"type":"Polygon"}
+}

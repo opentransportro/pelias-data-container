@@ -1,0 +1,151 @@
+{
+  "id": 101791681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000278,
+    "geom:area_square_m":2394339.064247,
+    "geom:bbox":"20.7862815067,45.8598885422,20.8143235905,45.8791012837",
+    "geom:latitude":45.872173,
+    "geom:longitude":20.799549,
+    "gn:population":5605,
+    "iso:country":"RO",
+    "lbl:latitude":45.872804,
+    "lbl:longitude":20.798593,
+    "mps:latitude":45.872804,
+    "mps:longitude":20.798593,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041b\u0435\u043d\u0430\u0443\u0445\u0435\u0438\u043c"
+    ],
+    "name:cze_x_preferred":[
+        "Lenauheim"
+    ],
+    "name:dut_x_preferred":[
+        "Lenauheim"
+    ],
+    "name:eng_x_preferred":[
+        "Cetat"
+    ],
+    "name:eng_x_variant":[
+        "Cetad",
+        "Lenauheim"
+    ],
+    "name:epo_x_preferred":[
+        "Lenauheim"
+    ],
+    "name:fre_x_preferred":[
+        "Lenauheim"
+    ],
+    "name:ger_x_preferred":[
+        "Lenauheim"
+    ],
+    "name:hbs_x_preferred":[
+        "Op\u0161tina Lenauheim"
+    ],
+    "name:hun_x_preferred":[
+        "Csat\u00e1d "
+    ],
+    "name:ita_x_preferred":[
+        "Lenauheim"
+    ],
+    "name:nob_x_preferred":[
+        "Lenauheim"
+    ],
+    "name:por_x_preferred":[
+        "Lenauheim"
+    ],
+    "name:ron_x_preferred":[
+        "Lenauheim"
+    ],
+    "name:ron_x_variant":[
+        "Comuna Lenauheim"
+    ],
+    "name:rum_x_preferred":[
+        "Lenauheim"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0430\u0442\u0430\u0434"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0435\u043d\u0430\u0443\u0445\u0435\u0458\u043c"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0435\u043d\u0430\u0443\u0433\u0430\u0439\u043c"
+    ],
+    "name:unk_x_variant":[
+        "Cetat"
+    ],
+    "name:vie_x_preferred":[
+        "Lenauheim"
+    ],
+    "name:vol_x_preferred":[
+        "Lenauheim"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Timis",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Lenauheim",
+    "qs:la_lc":"*RO48157451",
+    "qs:level":"locality",
+    "qs:loc":"Lenauheim",
+    "qs:loc_alt":"Lenauheim",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a15fae-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":674895,
+        "gp:id":874581,
+        "qs:id":127502,
+        "qs_pg:id":127502,
+        "wd:id":"Q870864"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"23f1ce928e63396c6aed4fbc02a8c8f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101791681,
+            "region_id":85687655
+        }
+    ],
+    "wof:id":101791681,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514499993,
+    "wof:name":"Lenauheim",
+    "wof:parent_id":85687655,
+    "wof:placetype":"locality",
+    "wof:population":5605,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.78628150669607,
+    45.85988854217601,
+    20.81432359045192,
+    45.87910128369089
+],
+  "geometry": {"coordinates":[[[20.7991915051262,45.87910128369089],[20.80812292076882,45.87818824030757],[20.80794427496079,45.87729820501534],[20.81432359045192,45.87664558484784],[20.81360867694309,45.8730854837994],[20.81233290614318,45.87321602850744],[20.81215421709595,45.87232599842065],[20.80960269956802,45.87258703702184],[20.8090667999262,45.86991692627356],[20.80779109382388,45.87004741521781],[20.80725532353068,45.86737728859225],[20.80470401664331,45.86763820577448],[20.80452548236332,45.86674815673985],[20.80197419404317,45.86700900782847],[20.80054651818153,45.85988854217601],[20.7954445252272,45.86040998181096],[20.79562287691567,45.8613000531904],[20.79307180678933,45.86156068624013],[20.79325012545564,45.86245076162237],[20.79452568357749,45.86232045026958],[20.79488238429076,45.86410059327733],[20.79743356524256,45.86383991483012],[20.79761196760001,45.86472997998311],[20.79888757012139,45.86459961535877],[20.79942288367755,45.86726979777029],[20.79049312385814,45.86818208102352],[20.79102807920071,45.87085230688916],[20.78975231625566,45.87098257932962],[20.78993062956732,45.87187265521305],[20.78865484079972,45.87200291483549],[20.78883314138415,45.87289299225154],[20.78628150669607,45.87315347056938],[20.7873512257525,45.87849394502337],[20.79117903528692,45.87810316014208],[20.79135740932924,45.87899322852445],[20.79901300155746,45.87821123108006],[20.7991915051262,45.87910128369089]]],"type":"Polygon"}
+}

@@ -1,0 +1,121 @@
+{
+  "id": 101845087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000068,
+    "geom:area_square_m":598805.509914,
+    "geom:bbox":"24.3002757166,44.3057137824,24.3100383767,44.3185921142",
+    "geom:latitude":44.31303,
+    "geom:longitude":24.305294,
+    "gn:population":3321,
+    "iso:country":"RO",
+    "lbl:latitude":44.313157,
+    "lbl:longitude":24.30522,
+    "mps:latitude":44.313157,
+    "mps:longitude":24.30522,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Br\u00e2ncoveni"
+    ],
+    "name:eng_x_preferred":[
+        "Br\u00e2ncoveni"
+    ],
+    "name:fre_x_preferred":[
+        "Br\u00e2ncoveni"
+    ],
+    "name:ita_x_preferred":[
+        "Br\u00e2ncoveni"
+    ],
+    "name:por_x_preferred":[
+        "Br\u00e2ncoveni"
+    ],
+    "name:rum_x_colloquial":[
+        "Brancoveni",
+        "Brincoveni"
+    ],
+    "name:rum_x_preferred":[
+        "Br\u00eencoveni"
+    ],
+    "name:rum_x_variant":[
+        "Br\u00e2ncoveni"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0440\u0438\u043d\u043a\u043e\u0432\u0435\u043d\u044c"
+    ],
+    "name:unk_x_variant":[
+        "Br\u00eencoveni"
+    ],
+    "name:vie_x_preferred":[
+        "Br\u00e2ncoveni"
+    ],
+    "name:vol_x_preferred":[
+        "Br\u00e2ncoveni"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Olt",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Br\u00e2ncoveni",
+    "qs:la_lc":"*RO41126022",
+    "qs:level":"locality",
+    "qs:loc":"Br\u00e2ncoveni",
+    "qs:loc_alt":"Brancoveni",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"039e14c0-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":683679,
+        "gp:id":868147,
+        "qs:id":262251,
+        "qs_pg:id":262251,
+        "wd:id":"Q525096"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"4bf2f4f582392b4e03e5f1732e3f7dd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101845087,
+            "region_id":85687607
+        }
+    ],
+    "wof:id":101845087,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514499800,
+    "wof:name":"Br\u00e2ncoveni",
+    "wof:parent_id":85687607,
+    "wof:placetype":"locality",
+    "wof:population":3321,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.30027571664817,
+    44.30571378236357,
+    24.31003837673228,
+    44.31859211417304
+],
+  "geometry": {"coordinates":[[[24.31003837673228,44.3168504329098],[24.30868418719592,44.31155197528733],[24.30745077594048,44.31172370478157],[24.30609702850757,44.30642518105623],[24.30486371986285,44.30659687736619],[24.30463814584738,44.30571378236357],[24.30340484877246,44.3058854609634],[24.30430712745567,44.30941784542819],[24.30060697791851,44.30993283064834],[24.30150918594734,44.31346523111893],[24.30027571664817,44.31363687599719],[24.30050127354667,44.31451997590932],[24.30173476105915,44.31434832793735],[24.30196034541427,44.31523142343633],[24.3031938445024,44.31505975775127],[24.304096347224,44.31859211417304],[24.30903056861479,44.31790525572148],[24.3088048562044,44.31702218097644],[24.31003837673228,44.3168504329098]]],"type":"Polygon"}
+}

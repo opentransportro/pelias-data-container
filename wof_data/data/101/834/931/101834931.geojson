@@ -1,0 +1,99 @@
+{
+  "id": 101834931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000183,
+    "geom:area_square_m":1576591.159893,
+    "geom:bbox":"27.2466518099,45.7143593559,27.2708005353,45.7307416533",
+    "geom:latitude":45.723003,
+    "geom:longitude":27.257501,
+    "gn:population":5521,
+    "iso:country":"RO",
+    "lbl:latitude":45.722124,
+    "lbl:longitude":27.25869,
+    "mps:latitude":45.722124,
+    "mps:longitude":27.25869,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rum_x_colloquial":[
+        "Vanaetori",
+        "Vanatori",
+        "Vinaetori",
+        "Vinatori"
+    ],
+    "name:rum_x_preferred":[
+        "V\u00een\u0103tori"
+    ],
+    "name:rum_x_variant":[
+        "V\u00e2n\u0103tori"
+    ],
+    "name:unk_x_variant":[
+        "V\u00een\u0103tori"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Vrancea",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"V\u00e2n\u0103tori",
+    "qs:la_lc":"*RO52178607",
+    "qs:level":"locality",
+    "qs:loc":"V\u00e2n\u0103tori",
+    "qs:loc_alt":"Vanatori",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a5fd52-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":662841,
+        "gp:id":883588,
+        "qs:id":126635,
+        "qs_pg:id":126635,
+        "wd:id":"Q2722130"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"c646565d28f5140fdac5b5b4fe6df8da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101834931,
+            "region_id":85687705
+        }
+    ],
+    "wof:id":101834931,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1505338231,
+    "wof:name":"V\u00e2n\u0103tori",
+    "wof:parent_id":85687705,
+    "wof:placetype":"locality",
+    "wof:population":5521,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.246651809924,
+    45.71435935588084,
+    27.27080053526288,
+    45.73074165330064
+],
+  "geometry": {"coordinates":[[[27.27040260303193,45.7212354428811],[27.26530402234522,45.71931811353619],[27.26436057975712,45.7194741120818],[27.26417200347419,45.71889241604629],[27.25211764616097,45.71435935588084],[27.25261495429874,45.71589465313764],[27.25387086159867,45.71568713919044],[27.25500269591242,45.71918057731943],[27.25374671394013,45.7193881066936],[27.25402968332924,45.72026146606794],[27.24774955198535,45.72129890986935],[27.24831533941864,45.72304566236687],[27.24705925017855,45.72325311436714],[27.24790796373395,45.72587324264413],[27.246651809924,45.72608069138801],[27.24721764056505,45.72782744326076],[27.24973001435296,45.72741251552168],[27.25001298471977,45.72828588133723],[27.25252536168648,45.72787088658026],[27.25280838120489,45.72874424307565],[27.25532076134294,45.72832918129944],[27.25560383001402,45.72920252847319],[27.25686002594,45.72899497148808],[27.25742623603605,45.73074165330064],[27.2586824607688,45.73053407377176],[27.25839933114275,45.72966073752758],[27.26091171760413,45.72924554171061],[27.26006228747377,45.7266255464952],[27.26383063496849,45.72600267631577],[27.26326429518133,45.72425602796216],[27.27080053526288,45.72300993367469],[27.27023401865222,45.72126332521361],[27.27040260303193,45.7212354428811]]],"type":"Polygon"}
+}

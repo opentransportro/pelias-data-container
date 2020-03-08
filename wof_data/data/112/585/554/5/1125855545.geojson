@@ -1,0 +1,95 @@
+{
+  "id": 1125855545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.71667,45.18333,24.71667,45.18333",
+    "geom:latitude":45.18333,
+    "geom:longitude":24.71667,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":2778,
+    "gn:population":2778,
+    "iso:country":"RO",
+    "lbl:latitude":45.18333,
+    "lbl:longitude":24.71667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Valea Ia\u0219ului"
+    ],
+    "name:eng_x_preferred":[
+        "Valea Ia\u0219ului"
+    ],
+    "name:fre_x_preferred":[
+        "Valea Ia\u0219ului"
+    ],
+    "name:ita_x_preferred":[
+        "Valea Ia\u0219ului"
+    ],
+    "name:rum_x_preferred":[
+        "Valea Ia\u0219ului"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0430\u043b\u044f-\u042f\u0448\u0443\u043b\u0443\u0439"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":663733,
+    "qs_pg:gn_pop":2778,
+    "qs_pg:name":"Valea Ia\u015fului",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":126708,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":663733,
+        "qs_pg:id":126708,
+        "wd:id":"Q12087669"
+    },
+    "wof:country":"RO",
+    "wof:created":1497293602,
+    "wof:geomhash":"275f113f5cdf6ddfd35bcc25b5a6b384",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125855545,
+            "region_id":85687645
+        }
+    ],
+    "wof:id":1125855545,
+    "wof:lastmodified":1514500232,
+    "wof:name":"Valea Ia\u015fului",
+    "wof:parent_id":85687645,
+    "wof:placetype":"locality",
+    "wof:population":2778,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.71667,
+    45.18333,
+    24.71667,
+    45.18333
+],
+  "geometry": {"coordinates":[24.71667,45.18333],"type":"Point"}
+}

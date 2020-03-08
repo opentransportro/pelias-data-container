@@ -1,0 +1,102 @@
+{
+  "id": 1125808285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.8,45.88333,26.8,45.88333",
+    "geom:latitude":45.88333,
+    "geom:longitude":26.8,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2093,
+    "gn:population":2093,
+    "iso:country":"RO",
+    "lbl:latitude":45.88333,
+    "lbl:longitude":26.8,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "M\u0103t\u0103cina"
+    ],
+    "name:eng_x_preferred":[
+        "M\u0103t\u0103cina"
+    ],
+    "name:ita_x_preferred":[
+        "M\u0103t\u0103cina"
+    ],
+    "name:rum_x_preferred":[
+        "M\u0103t\u0103cina"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0435\u0442\u0435\u0447\u0438\u043d\u0430 "
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":673700,
+    "qs_pg:gn_pop":2093,
+    "qs_pg:name":"M\u0103t\u0103cina",
+    "qs_pg:name_adm0":"Rom\u00e2nia",
+    "qs_pg:name_adm1":"Vrancea",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":497625,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424933,
+    "qs_pg:woe_id":15002069,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424933,
+    "woe:name_adm0":"Rom\u00e2nia",
+    "woe:name_adm1":"Vrancea",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":673700,
+        "gp:id":15002069,
+        "qs_pg:id":497625,
+        "wd:id":"Q12122928"
+    },
+    "wof:country":"RO",
+    "wof:created":1497291551,
+    "wof:geomhash":"526667a77a522ba1bfbed8dd481b3887",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125808285,
+            "region_id":85687705
+        }
+    ],
+    "wof:id":1125808285,
+    "wof:lastmodified":1514500041,
+    "wof:name":"M\u0103t\u0103cina",
+    "wof:parent_id":85687705,
+    "wof:placetype":"locality",
+    "wof:population":2093,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.8,
+    45.88333,
+    26.8,
+    45.88333
+],
+  "geometry": {"coordinates":[26.8,45.88333],"type":"Point"}
+}

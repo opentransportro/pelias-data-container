@@ -1,0 +1,69 @@
+{
+  "id": 1259883841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.43746,45.83284,23.43746,45.83284",
+    "geom:latitude":45.83284,
+    "geom:longitude":23.43746,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1696.0",
+    "gn:asciiname":"Calene",
+    "gn:country_code":"RO",
+    "gn:dem":715,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":682984,
+    "gn:latitude":45.83284,
+    "gn:longitude":23.43746,
+    "gn:modification_date":"2013-04-21",
+    "gn:name":"C\u0103lene",
+    "gn:population":121,
+    "gn:timezone":"Europe/Bucharest",
+    "iso:country":"RO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":682984
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"24c3b89d12b4590c6a390dcdfa16b1bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1259883841,
+            "region_id":85687697
+        }
+    ],
+    "wof:id":1259883841,
+    "wof:lastmodified":1536779111,
+    "wof:name":"Calene",
+    "wof:parent_id":85687697,
+    "wof:placetype":"locality",
+    "wof:population":121,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.43746,
+    45.83284,
+    23.43746,
+    45.83284
+],
+  "geometry": {"coordinates":[23.43746,45.83284],"type":"Point"}
+}

@@ -1,0 +1,116 @@
+{
+  "id": 1125863005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.1,45.93333,24.1,45.93333",
+    "geom:latitude":45.93333,
+    "geom:longitude":24.1,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":3231,
+    "gn:population":3231,
+    "iso:country":"RO",
+    "lbl:latitude":45.93333,
+    "lbl:longitude":24.1,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Loamne\u0219"
+    ],
+    "name:eng_x_preferred":[
+        "Loamne\u0219"
+    ],
+    "name:epo_x_preferred":[
+        "Loamne\u0219"
+    ],
+    "name:fre_x_preferred":[
+        "Loamne\u0219"
+    ],
+    "name:hun_x_preferred":[
+        "Ladamos"
+    ],
+    "name:ita_x_preferred":[
+        "Loamne\u0219"
+    ],
+    "name:may_x_preferred":[
+        "Loamne\u0219"
+    ],
+    "name:por_x_preferred":[
+        "Loamne\u0219"
+    ],
+    "name:rum_x_preferred":[
+        "Loamne\u0219"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u043e\u0430\u043c\u043d\u0435\u0448"
+    ],
+    "name:unk_x_variant":[
+        "Loamn\u0103s"
+    ],
+    "name:vie_x_preferred":[
+        "Loamnes"
+    ],
+    "name:vol_x_preferred":[
+        "Loamne\u0219"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":674636,
+    "qs_pg:gn_pop":3231,
+    "qs_pg:name":"Loamne\u015f",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":127491,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":674636,
+        "qs_pg:id":127491,
+        "wd:id":"Q1077212"
+    },
+    "wof:country":"RO",
+    "wof:created":1497293913,
+    "wof:geomhash":"5878a213671db0a5fcc90b2f4dfe4c90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125863005,
+            "region_id":85687687
+        }
+    ],
+    "wof:id":1125863005,
+    "wof:lastmodified":1514499998,
+    "wof:name":"Loamne\u015f",
+    "wof:parent_id":85687687,
+    "wof:placetype":"locality",
+    "wof:population":3231,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.1,
+    45.93333,
+    24.1,
+    45.93333
+],
+  "geometry": {"coordinates":[24.1,45.93333],"type":"Point"}
+}

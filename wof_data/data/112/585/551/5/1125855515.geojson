@@ -1,0 +1,104 @@
+{
+  "id": 1125855515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.45,44.08333,23.45,44.08333",
+    "geom:latitude":44.08333,
+    "geom:longitude":23.45,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":1977,
+    "gn:population":981,
+    "iso:country":"RO",
+    "lbl:latitude":44.08333,
+    "lbl:longitude":23.45,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Cioroia\u0219i"
+    ],
+    "name:eng_x_preferred":[
+        "Cioroia\u0219i"
+    ],
+    "name:fre_x_preferred":[
+        "Cioroia\u0219i"
+    ],
+    "name:ita_x_preferred":[
+        "Cioroia\u0219i"
+    ],
+    "name:may_x_preferred":[
+        "Cioroia\u0219i"
+    ],
+    "name:por_x_preferred":[
+        "Cioroia\u0219i"
+    ],
+    "name:rum_x_preferred":[
+        "Cioroia\u0219i"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u043e\u0440\u043e\u044f\u0448\u0456"
+    ],
+    "name:vol_x_preferred":[
+        "Cioroia\u0219i"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":681645,
+    "qs_pg:gn_pop":1977,
+    "qs_pg:name":"Cioroia\u015fu",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":127826,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":681645,
+        "qs_pg:id":127826,
+        "wd:id":"Q2127277"
+    },
+    "wof:country":"RO",
+    "wof:created":1497293601,
+    "wof:geomhash":"e6e4b8c37397e54345d883cc34710b5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125855515,
+            "region_id":85687581
+        }
+    ],
+    "wof:id":1125855515,
+    "wof:lastmodified":1514499848,
+    "wof:name":"Cioroia\u015fu",
+    "wof:parent_id":85687581,
+    "wof:placetype":"locality",
+    "wof:population":981,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.45,
+    44.08333,
+    23.45,
+    44.08333
+],
+  "geometry": {"coordinates":[23.45,44.08333],"type":"Point"}
+}

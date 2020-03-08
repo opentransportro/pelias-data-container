@@ -1,0 +1,120 @@
+{
+  "id": 101788841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000186,
+    "geom:area_square_m":1565878.082874,
+    "geom:bbox":"21.8745845422,46.9904258665,21.8966061861,47.0054585984",
+    "geom:latitude":46.997181,
+    "geom:longitude":21.885635,
+    "gn:population":4484,
+    "iso:country":"RO",
+    "lbl:latitude":46.998179,
+    "lbl:longitude":21.885468,
+    "mps:latitude":46.998179,
+    "mps:longitude":21.885468,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Nojorid"
+    ],
+    "name:dut_x_preferred":[
+        "Nojorid"
+    ],
+    "name:eng_x_preferred":[
+        "Nojorid"
+    ],
+    "name:epo_x_preferred":[
+        "Nojorid"
+    ],
+    "name:fre_x_preferred":[
+        "Nojorid"
+    ],
+    "name:hun_x_preferred":[
+        "Nagy\u00fcr\u00f6gd"
+    ],
+    "name:ita_x_preferred":[
+        "Nojorid"
+    ],
+    "name:por_x_preferred":[
+        "Nojorid"
+    ],
+    "name:rum_x_preferred":[
+        "Nojorid"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u043e\u0436\u043e\u0440\u0456\u0434"
+    ],
+    "name:vie_x_preferred":[
+        "Nojorid"
+    ],
+    "name:vol_x_preferred":[
+        "Nojorid"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Bihor",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Nojorid",
+    "qs:la_lc":"*RO15030149",
+    "qs:level":"locality",
+    "qs:loc":"Nojorid",
+    "qs:loc_alt":"Nojorid",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a26b1a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":672171,
+        "gp:id":876590,
+        "qs:id":127377,
+        "qs_pg:id":127377,
+        "wd:id":"Q1194291"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"385bf66ca086c814405ee544475d6938",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101788841,
+            "region_id":85687737
+        }
+    ],
+    "wof:id":101788841,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514500047,
+    "wof:name":"Nojorid",
+    "wof:parent_id":85687737,
+    "wof:placetype":"locality",
+    "wof:population":4484,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.87458454216448,
+    46.99042586647022,
+    21.89660618608212,
+    47.00545859844505
+],
+  "geometry": {"coordinates":[[[21.88522718962344,47.0050270056002],[21.88482117134754,47.00325289863076],[21.89132331751961,47.00253329334555],[21.89030789550043,46.99809807906649],[21.89550907208229,46.9975221703184],[21.89530592925547,46.99663513577144],[21.89660618608212,46.99649112240508],[21.89559049815296,46.99205594901792],[21.89429034740147,46.9921999483193],[21.89388417638037,46.99042586647022],[21.88998381277372,46.99085775393115],[21.89018683023897,46.99174480378213],[21.88888667495098,46.99188873789052],[21.88908968001567,46.99277578957202],[21.8851891118947,46.99320750675707],[21.88498617047497,46.99232044664279],[21.87978540777004,46.9928958399712],[21.8795825600227,46.99200876763774],[21.87828237448321,46.99215257417029],[21.8780795567576,46.99126549804799],[21.8754792088215,46.99155305870795],[21.8758847682106,46.99332722120681],[21.87458454216448,46.99347098375904],[21.87478731384584,46.99435806634744],[21.87608756111092,46.9942143009871],[21.87649317332568,46.99598845760926],[21.87779345660016,46.99584467103443],[21.8798222583481,47.00471536728736],[21.88112274743554,47.004571537017],[21.88132569729601,47.00545859844505],[21.88522718962344,47.0050270056002]]],"type":"Polygon"}
+}

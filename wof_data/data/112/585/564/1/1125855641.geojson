@@ -1,0 +1,98 @@
+{
+  "id": 1125855641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.75741,46.47641,22.75741,46.47641",
+    "geom:latitude":46.47641,
+    "geom:longitude":22.75741,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":1876,
+    "gn:population":1876,
+    "iso:country":"RO",
+    "lbl:latitude":46.47641,
+    "lbl:longitude":22.75741,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Arie\u0219eni"
+    ],
+    "name:eng_x_preferred":[
+        "Arie\u0219eni"
+    ],
+    "name:fre_x_preferred":[
+        "Arie\u0219eni"
+    ],
+    "name:hun_x_preferred":[
+        "Aranyosl\u00e1pos"
+    ],
+    "name:ita_x_preferred":[
+        "Arie\u0219eni"
+    ],
+    "name:rum_x_preferred":[
+        "Arie\u0219eni"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0440\u0456\u0454\u0448\u0435\u043d\u044c"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":686167,
+    "qs_pg:gn_pop":1876,
+    "qs_pg:name":"Arie\u015feni",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":128114,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":686167,
+        "qs_pg:id":128114,
+        "wd:id":"Q15293538"
+    },
+    "wof:country":"RO",
+    "wof:created":1497293606,
+    "wof:geomhash":"c4f19c641109c9557c74e14d079a08a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125855641,
+            "region_id":85687697
+        }
+    ],
+    "wof:id":1125855641,
+    "wof:lastmodified":1514499745,
+    "wof:name":"Arie\u015feni",
+    "wof:parent_id":85687697,
+    "wof:placetype":"locality",
+    "wof:population":1876,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.75741,
+    46.47641,
+    22.75741,
+    46.47641
+],
+  "geometry": {"coordinates":[22.75741,46.47641],"type":"Point"}
+}

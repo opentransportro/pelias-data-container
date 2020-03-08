@@ -1,0 +1,110 @@
+{
+  "id": 1125862537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.43333,47.6,26.43333,47.6",
+    "geom:latitude":47.6,
+    "geom:longitude":26.43333,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":7089,
+    "gn:population":7089,
+    "iso:country":"RO",
+    "lbl:latitude":47.6,
+    "lbl:longitude":26.43333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Vere\u0219ti"
+    ],
+    "name:eng_x_preferred":[
+        "Vere\u0219ti"
+    ],
+    "name:fre_x_preferred":[
+        "Vere\u0219ti"
+    ],
+    "name:ita_x_preferred":[
+        "Vere\u0219ti"
+    ],
+    "name:may_x_preferred":[
+        "Vere\u0219ti"
+    ],
+    "name:por_x_preferred":[
+        "Vere\u0219ti"
+    ],
+    "name:rum_x_preferred":[
+        "Vere\u0219ti"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u0440\u0435\u0448\u0442\u044c "
+    ],
+    "name:unk_x_variant":[
+        "Ion Gheorghe Duca"
+    ],
+    "name:vie_x_preferred":[
+        "Veresti"
+    ],
+    "name:vol_x_preferred":[
+        "Vere\u0219ti"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":663045,
+    "qs_pg:gn_pop":7089,
+    "qs_pg:name":"Vere\u015fti",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":126671,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":663045,
+        "qs_pg:id":126671,
+        "wd:id":"Q2606046"
+    },
+    "wof:country":"RO",
+    "wof:created":1497293890,
+    "wof:geomhash":"124574b2e37c0ff7b5ee3a4a337b27b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125862537,
+            "region_id":85687773
+        }
+    ],
+    "wof:id":1125862537,
+    "wof:lastmodified":1514500238,
+    "wof:name":"Vere\u015fti",
+    "wof:parent_id":85687773,
+    "wof:placetype":"locality",
+    "wof:population":7089,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.43333,
+    47.6,
+    26.43333,
+    47.6
+],
+  "geometry": {"coordinates":[26.43333,47.6],"type":"Point"}
+}

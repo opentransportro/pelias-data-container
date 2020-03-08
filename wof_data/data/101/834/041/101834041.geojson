@@ -1,0 +1,101 @@
+{
+  "id": 101834041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000196,
+    "geom:area_square_m":1675720.947834,
+    "geom:bbox":"21.5820244157,46.16120836,21.5998786437,46.1785557866",
+    "geom:latitude":46.169813,
+    "geom:longitude":21.590856,
+    "gn:population":1579,
+    "iso:country":"RO",
+    "lbl:latitude":46.170109,
+    "lbl:longitude":21.591026,
+    "mps:latitude":46.170109,
+    "mps:longitude":21.591026,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Cuvin"
+    ],
+    "name:eng_x_preferred":[
+        "Cuvin"
+    ],
+    "name:epo_x_preferred":[
+        "Cuvin"
+    ],
+    "name:fre_x_preferred":[
+        "Cuvin"
+    ],
+    "name:hun_x_preferred":[
+        "Aradk\u00f6vi"
+    ],
+    "name:rum_x_preferred":[
+        "Cuvin"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0443\u0432\u0456\u043d"
+    ],
+    "name:unk_x_variant":[
+        "Aradk\u00f6vi"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Arad",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Z\u0103brani",
+    "qs:la_lc":"*RO12012778",
+    "qs:level":"locality",
+    "qs:loc":"Cuvin",
+    "qs:loc_alt":"Cuvin",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":679863,
+        "gp:id":870940,
+        "qs:id":998450,
+        "wd:id":"Q755810"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"9c2f87f15184e9535131617e2f764456",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101834041,
+            "region_id":85687691
+        }
+    ],
+    "wof:id":101834041,
+    "wof:lastmodified":1514499887,
+    "wof:name":"Cuvin",
+    "wof:parent_id":85687691,
+    "wof:placetype":"locality",
+    "wof:population":1579,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.58202441569165,
+    46.16120835997361,
+    21.59987864373329,
+    46.17855578659805
+],
+  "geometry": {"coordinates":[[[21.59250458606215,46.16120835997361],[21.58202441569165,46.16125721344724],[21.58230912876149,46.16256764324214],[21.58359009026617,46.16242773286837],[21.58571374222498,46.17219827363806],[21.5844325557506,46.17233821340045],[21.58578434731066,46.17855578659805],[21.58706567700034,46.17841582812639],[21.5866793686472,46.176639388936],[21.59052319894266,46.17621943749168],[21.59090963005929,46.17799586064058],[21.59987864373329,46.17701539944193],[21.59910524171403,46.17346262408017],[21.59782405388921,46.17360272529601],[21.59608456672498,46.16560889868236],[21.59864656825005,46.16532872905918],[21.59845329229836,46.16444052649598],[21.5933293470315,46.16500079368313],[21.59250458606215,46.16120835997361]]],"type":"Polygon"}
+}

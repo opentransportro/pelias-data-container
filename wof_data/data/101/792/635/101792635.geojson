@@ -1,0 +1,92 @@
+{
+  "id": 101792635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000187,
+    "geom:area_square_m":1646570.953545,
+    "geom:bbox":"26.9190161755,44.6281759003,26.9407443379,44.6428527153",
+    "geom:latitude":44.63551,
+    "geom:longitude":26.928635,
+    "gn:population":1415,
+    "iso:country":"RO",
+    "lbl:latitude":44.634883,
+    "lbl:longitude":26.927565,
+    "mps:latitude":44.634883,
+    "mps:longitude":26.927565,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "S\u0103r\u0103\u021beni"
+    ],
+    "name:eng_x_preferred":[
+        "S\u0103r\u0103\u021beni"
+    ],
+    "name:fre_x_preferred":[
+        "S\u0103r\u0103\u021beni"
+    ],
+    "name:ita_x_preferred":[
+        "S\u0103r\u0103\u021beni"
+    ],
+    "name:rum_x_preferred":[
+        "S\u0103r\u0103\u021beni"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Ialomita",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"S\u0103r\u0103\u0163eni",
+    "qs:la_lc":"*RO34180019",
+    "qs:level":"locality",
+    "qs:loc":"S\u0103r\u0103\u0163eni",
+    "qs:loc_alt":"Sarateni",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":668028,
+        "gp:id":866705,
+        "qs:id":5,
+        "wd:id":"Q12725195"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"2942ec93eda53eb09ef8444639f425ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101792635,
+            "region_id":85687621
+        }
+    ],
+    "wof:id":101792635,
+    "wof:lastmodified":1514500187,
+    "wof:name":"S\u0103r\u0103\u0163eni",
+    "wof:parent_id":85687621,
+    "wof:placetype":"locality",
+    "wof:population":1415,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.91901617551929,
+    44.62817590026185,
+    26.94074433792832,
+    44.64285271529911
+],
+  "geometry": {"coordinates":[[[26.93469057755391,44.64244646901028],[26.93442131975371,44.64157120357254],[26.93565473415953,44.64136806229521],[26.93538546951851,44.6404927989305],[26.94031897654224,44.63968010316188],[26.9395110345111,44.63705434751586],[26.94074433792832,44.63685114824835],[26.94047502809292,44.63597589684332],[26.93677514761271,44.63658544004426],[26.93650590231681,44.63571017603829],[26.93527261082971,44.6359133243734],[26.93500339438395,44.63503805510408],[26.9337701128232,44.63524118523958],[26.93188603070547,44.62911423001424],[26.93065286612403,44.62931731995167],[26.9303837733811,44.6284420305866],[26.9266842856818,44.62905120221814],[26.92641525745807,44.62817590026185],[26.91901617551929,44.6293938292041],[26.92251300836676,44.64077291614257],[26.92497986467566,44.64036690266749],[26.92524896450732,44.6412421985591],[26.92771582485642,44.64083611961507],[26.9279849713929,44.64171140657942],[26.93045183577556,44.64130526216513],[26.93072102901817,44.64218054020114],[26.93195446718261,44.64197744252556],[26.93222368928269,44.64285271529911],[26.93469057755391,44.64244646901028]]],"type":"Polygon"}
+}

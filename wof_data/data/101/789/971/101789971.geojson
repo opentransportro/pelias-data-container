@@ -1,0 +1,98 @@
+{
+  "id": 101789971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000166,
+    "geom:area_square_m":1436714.179353,
+    "geom:bbox":"27.9813266341,45.5390715436,27.9965308436,45.5593294614",
+    "geom:latitude":45.550074,
+    "geom:longitude":27.988918,
+    "gn:population":1526,
+    "iso:country":"RO",
+    "lbl:latitude":45.549869,
+    "lbl:longitude":27.989436,
+    "mps:latitude":45.549869,
+    "mps:longitude":27.989436,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Odaia Manolache"
+    ],
+    "name:eng_x_preferred":[
+        "Odaia Manolache"
+    ],
+    "name:fre_x_preferred":[
+        "Odaia Manolache"
+    ],
+    "name:ita_x_preferred":[
+        "Odaia Manolache"
+    ],
+    "name:rum_x_preferred":[
+        "Odaia Manolache"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0434\u0430\u044f-\u041c\u0430\u043d\u043e\u043b\u0430\u043a\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Odaia-Manolachi"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Galati",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Tuluce\u015fti",
+    "qs:la_lc":"*RO29077331",
+    "qs:level":"locality",
+    "qs:loc":"Odaia Manolache",
+    "qs:loc_alt":"Odaia Manolache",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":671990,
+        "gp:id":876728,
+        "qs:id":998462,
+        "wd:id":"Q12135192"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"8d3f7ed9c89d05dfcc48c0a1843b4f61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101789971,
+            "region_id":85687709
+        }
+    ],
+    "wof:id":101789971,
+    "wof:lastmodified":1514500052,
+    "wof:name":"Odaia Manolache",
+    "wof:parent_id":85687709,
+    "wof:placetype":"locality",
+    "wof:population":1526,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.98132663407625,
+    45.53907154356256,
+    27.99653084355947,
+    45.55932946139257
+],
+  "geometry": {"coordinates":[[[27.99461796215616,45.55911323395128],[27.99432436313958,45.55824216483859],[27.99557441949383,45.55802592667271],[27.99528081432521,45.55715485984803],[27.99653084355947,45.55693861095796],[27.99506290860813,45.55258327123369],[27.99631283746686,45.5523670275856],[27.99367115594885,45.54452734465025],[27.99242139187902,45.54474355238466],[27.99212795081098,45.54387246399352],[27.98837866075212,45.54452098695492],[27.98808528676085,45.54364988489334],[27.98558575270255,45.5440821519947],[27.98470581348647,45.5414688116627],[27.98345608819255,45.54168491118156],[27.98257631324083,45.53907154356256],[27.98132663407625,45.53928761640839],[27.9827928948701,45.54364324052881],[27.98154311537917,45.5438593185973],[27.98388961797338,45.55082826056145],[27.98263968319174,45.55104435581865],[27.98293303238876,45.55191546989164],[27.98168307049741,45.55213155442215],[27.98285651556796,45.5556160096445],[27.98660659466304,45.55496766404082],[27.9869000412769,45.55583876162279],[27.99065009614191,45.55519027160676],[27.99182422402237,45.55867459702182],[27.99307429798228,45.55845838828839],[27.99336787867998,45.55932946139257],[27.99461796215616,45.55911323395128]]],"type":"Polygon"}
+}

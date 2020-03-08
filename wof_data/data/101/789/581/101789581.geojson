@@ -1,0 +1,115 @@
+{
+  "id": 101789581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000164,
+    "geom:area_square_m":1406665.23077,
+    "geom:bbox":"24.7915215728,45.907147149,24.813311411,45.9196526492",
+    "geom:latitude":45.91327,
+    "geom:longitude":24.803406,
+    "gn:population":1762,
+    "iso:country":"RO",
+    "lbl:latitude":45.914301,
+    "lbl:longitude":24.803613,
+    "mps:latitude":45.914301,
+    "mps:longitude":24.803613,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Gro\u00dfschenk"
+    ],
+    "name:dut_x_preferred":[
+        "Cincu"
+    ],
+    "name:eng_x_preferred":[
+        "Cincul"
+    ],
+    "name:eng_x_variant":[
+        "Gross-Schenk",
+        "Cincu"
+    ],
+    "name:fre_x_preferred":[
+        "Cincu"
+    ],
+    "name:hun_x_preferred":[
+        "Nagysink"
+    ],
+    "name:ita_x_preferred":[
+        "Cincu"
+    ],
+    "name:rum_x_preferred":[
+        "Cincu"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0438\u043d\u043a\u0443"
+    ],
+    "name:unk_x_variant":[
+        "Gross-Schenk"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Brasov",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Cincu",
+    "qs:la_lc":"*RO19040820",
+    "qs:level":"locality",
+    "qs:loc":"Cincu",
+    "qs:loc_alt":"Cincu",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"039ec47e-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":681827,
+        "gp:id":869504,
+        "qs:id":127846,
+        "qs_pg:id":127846,
+        "wd:id":"Q15241297"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"37eba0b8b083c37f5b516e42f3982f4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101789581,
+            "region_id":85687683
+        }
+    ],
+    "wof:id":101789581,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514499846,
+    "wof:name":"Cincu",
+    "wof:parent_id":85687683,
+    "wof:placetype":"locality",
+    "wof:population":1762,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.79152157284,
+    45.90714714898519,
+    24.81331141101771,
+    45.91965264920015
+],
+  "geometry": {"coordinates":[[[24.80712996509976,45.91929577587388],[24.80688536903011,45.91841528269561],[24.80942049216429,45.91805835582903],[24.80917586741452,45.91717786805356],[24.81297843750122,45.9166423748523],[24.81199980771532,45.91312045091081],[24.81073236980973,45.91329895027206],[24.80999856424341,45.91065748343448],[24.81253331562908,45.91030048980156],[24.81204408552287,45.90853951876932],[24.81331141101771,45.90836100607811],[24.81306679194643,45.90748052194789],[24.80799752303403,45.90819446891521],[24.80824206415559,45.9090749664777],[24.80317259762569,45.90978868589883],[24.80243923904931,45.90714714898519],[24.80117191219216,45.90732553111792],[24.80141633525602,45.90820604809261],[24.79381210020796,45.90927604473183],[24.79405641662805,45.91015658052453],[24.79152157284,45.91051313228354],[24.79201015860565,45.91227421334798],[24.79454508037145,45.91191764817091],[24.79527815325406,45.91455923979282],[24.79654566141289,45.91438092454405],[24.79703446718139,45.91614197234901],[24.79830200685853,45.91596363532494],[24.79927982006654,45.91948570175208],[24.80435021596628,45.91877214930582],[24.80459477303901,45.91965264920015],[24.80712996509976,45.91929577587388]]],"type":"Polygon"}
+}

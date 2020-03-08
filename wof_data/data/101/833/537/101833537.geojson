@@ -1,0 +1,76 @@
+{
+  "id": 101833537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000159,
+    "geom:area_square_m":1343322.157809,
+    "geom:bbox":"26.9524786164,47.0135195874,26.971453099,47.0310653604",
+    "geom:latitude":47.021411,
+    "geom:longitude":26.960555,
+    "gn:population":1498,
+    "iso:country":"RO",
+    "lbl:latitude":47.021711,
+    "lbl:longitude":26.95883,
+    "mps:latitude":47.021711,
+    "mps:longitude":26.95883,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Neamt",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Dolje\u015fti",
+    "qs:la_lc":"*RO40122347",
+    "qs:level":"locality",
+    "qs:loc":"Rotunda",
+    "qs:loc_alt":"Rotunda",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":668566,
+        "qs:id":8,
+        "wd:id":"Q12148946"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"8aca84584777ff09a4b22f57783a080b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101833537,
+            "region_id":85687747
+        }
+    ],
+    "wof:id":101833537,
+    "wof:lastmodified":1505338222,
+    "wof:name":"Rotunda",
+    "wof:parent_id":85687747,
+    "wof:placetype":"locality",
+    "wof:population":1498,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.95247861639496,
+    47.01351958742697,
+    26.97145309897189,
+    47.03106536043657
+],
+  "geometry": {"coordinates":[[[26.95857956527385,47.01351958742697],[26.95247861639496,47.01964623627367],[26.95487983871368,47.02690346602736],[26.95616701145082,47.02669875660371],[26.95761236036833,47.03106536043657],[26.96018687823977,47.0306558563247],[26.95989774380604,47.02978254653522],[26.9611849692368,47.02957777555264],[26.960317580344,47.0269578488145],[26.96160473689372,47.02675307443553],[26.96131561206704,47.02587976639938],[26.96388985816833,47.02547017979333],[26.96360070582625,47.02459687812302],[26.9661748758964,47.02418723842044],[26.96530737346757,47.02156734789247],[26.96788138774485,47.02115767090572],[26.96759220514008,47.02028437889066],[26.97145309897189,47.01966976090569],[26.97058544597837,47.01704991119982],[26.96929855021222,47.01725478725177],[26.96872021663228,47.01550820518202],[26.95971197244899,47.01694185530243],[26.95857956527385,47.01351958742697]]],"type":"Polygon"}
+}

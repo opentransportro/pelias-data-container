@@ -1,0 +1,92 @@
+{
+  "id": 101793697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000061,
+    "geom:area_square_m":538912.620823,
+    "geom:bbox":"26.2532075752,44.4084172393,26.2681761405,44.4175826564",
+    "geom:latitude":44.413359,
+    "geom:longitude":26.260621,
+    "gn:population":1128,
+    "iso:country":"RO",
+    "lbl:latitude":44.41307,
+    "lbl:longitude":26.260734,
+    "mps:latitude":44.41307,
+    "mps:longitude":26.260734,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "C\u0103ld\u0103raru"
+    ],
+    "name:eng_x_preferred":[
+        "C\u0103ld\u0103raru"
+    ],
+    "name:fre_x_preferred":[
+        "C\u0103ld\u0103raru"
+    ],
+    "name:rum_x_preferred":[
+        "C\u0103ld\u0103raru"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0435\u043b\u0434\u0435\u0440\u0430\u0440\u0443 "
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Ilfov",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Cernica",
+    "qs:la_lc":"*RO36101742",
+    "qs:level":"locality",
+    "qs:loc":"C\u0103ld\u0103raru",
+    "qs:loc_alt":"Caldararu",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":682998,
+        "gp:id":868647,
+        "qs:id":111601,
+        "wd:id":"Q12109448"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"f25616d2ab2a1c834d2d865243853eb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101793697,
+            "region_id":85687611
+        }
+    ],
+    "wof:id":101793697,
+    "wof:lastmodified":1514499892,
+    "wof:name":"C\u0103ld\u0103raru",
+    "wof:parent_id":85687611,
+    "wof:placetype":"locality",
+    "wof:population":1128,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.253207575212,
+    44.40841723934659,
+    26.26817614047627,
+    44.41758265636997
+],
+  "geometry": {"coordinates":[[[26.25741309871995,44.41738768827616],[26.25715617563554,44.4165101623592],[26.26207839196763,44.41573015882079],[26.26259239133498,44.4174851810792],[26.26505352564789,44.41709507817131],[26.26351143934426,44.41183003518859],[26.26597232948478,44.41143991629497],[26.26571531613746,44.4105624108094],[26.26817614047627,44.41017224086346],[26.26766207391506,44.40841723934659],[26.26643170117518,44.40861232456336],[26.26668871138133,44.40948982959145],[26.26176707376499,44.41027003932402],[26.26151013488698,44.40939252026976],[26.25904930655122,44.40978253102469],[26.25930620976243,44.41066005709069],[26.25684531563502,44.41105001678937],[26.25710219365897,44.41192754834242],[26.25587171746423,44.41212250992101],[26.2566423609187,44.41475510595461],[26.25418127891243,44.41514500658963],[26.25443814535112,44.41602254256452],[26.253207575212,44.41621747460925],[26.25346443429248,44.41709501256622],[26.2559256027198,44.41670512694714],[26.25618250796441,44.41758265636997],[26.25741309871995,44.41738768827616]]],"type":"Polygon"}
+}

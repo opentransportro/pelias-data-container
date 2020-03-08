@@ -1,0 +1,100 @@
+{
+  "id": 101784851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000082,
+    "geom:area_square_m":688101.678104,
+    "geom:bbox":"23.1821734487,47.4298797497,23.2020206663,47.437663496",
+    "geom:latitude":47.433971,
+    "geom:longitude":23.191945,
+    "iso:country":"RO",
+    "lbl:latitude":47.43328,
+    "lbl:longitude":23.192622,
+    "mps:latitude":47.43328,
+    "mps:longitude":23.192622,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Ulciug"
+    ],
+    "name:eng_x_preferred":[
+        "Ulciug"
+    ],
+    "name:epo_x_preferred":[
+        "Ulciug"
+    ],
+    "name:fre_x_preferred":[
+        "Ulciug"
+    ],
+    "name:ger_x_preferred":[
+        "V\u00f6lcs\u00f6k"
+    ],
+    "name:hun_x_preferred":[
+        "V\u00f6lcs\u00f6k"
+    ],
+    "name:rum_x_preferred":[
+        "Ulciug"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0423\u043b\u0447\u0443\u0433"
+    ],
+    "name:unk_x_variant":[
+        "Ulcciug"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Salaj",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Cehu Silvaniei",
+    "qs:la_lc":"*RO43139740",
+    "qs:level":"locality",
+    "qs:loc":"Ulciug",
+    "qs:loc_alt":"Ulciug",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":664337,
+        "gp:id":882359,
+        "qs:id":2,
+        "wd:id":"Q606560"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"de8a79ac7ee95f945861583c189592ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101784851,
+            "region_id":85687723
+        }
+    ],
+    "wof:id":101784851,
+    "wof:lastmodified":1514500224,
+    "wof:name":"Ulciug",
+    "wof:parent_id":85687723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.18217344872431,
+    47.42987974967599,
+    23.20202066625211,
+    47.43766349601043
+],
+  "geometry": {"coordinates":[[[23.20202066625211,47.43349889445096],[23.2017923949457,47.43261519737973],[23.20048451624064,47.43277511161341],[23.20025627627183,47.43189141029842],[23.19894841164421,47.4320513057159],[23.19872020301125,47.43116760015789],[23.19610449462039,47.43148733769925],[23.1958763386923,47.43060362474614],[23.19456849493099,47.43076346687053],[23.19434037033483,47.42987974967599],[23.18910900787711,47.4305189489416],[23.1895650960484,47.4322864074536],[23.18825719446602,47.43244617441485],[23.18848523211182,47.43332990518877],[23.18456141951043,47.43380912154231],[23.18478940298218,47.43469286067943],[23.18217344872431,47.43501226622732],[23.1828573305919,47.43766349601043],[23.19724542369124,47.43590588612415],[23.19701721795093,47.43502217861788],[23.20094102607396,47.43454251097415],[23.2007127661746,47.4336588118386],[23.20202066625211,47.43349889445096]]],"type":"Polygon"}
+}

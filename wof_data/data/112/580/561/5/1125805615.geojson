@@ -1,0 +1,105 @@
+{
+  "id": 1125805615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.86667,45.55,26.86667,45.55",
+    "geom:latitude":45.55,
+    "geom:longitude":26.86667,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":2449,
+    "gn:population":2449,
+    "iso:country":"RO",
+    "lbl:latitude":45.55,
+    "lbl:longitude":26.86667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Chiojdeni"
+    ],
+    "name:eng_x_preferred":[
+        "Chiojdeni"
+    ],
+    "name:fre_x_preferred":[
+        "Chiojdeni"
+    ],
+    "name:ita_x_preferred":[
+        "Chiojdeni"
+    ],
+    "name:rum_x_preferred":[
+        "Chiojdeni"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0456\u043e\u0436\u0434\u0435\u043d\u044c"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":682079,
+    "qs_pg:gn_pop":2449,
+    "qs_pg:name":"Chiojdeni",
+    "qs_pg:name_adm0":"Rom\u00e2nia",
+    "qs_pg:name_adm1":"Vrancea",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1278170,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424933,
+    "qs_pg:woe_id":869315,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424933,
+    "woe:name_adm0":"Rom\u00e2nia",
+    "woe:name_adm1":"Vrancea",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":682079,
+        "gp:id":869315,
+        "qs_pg:id":1278170,
+        "wd:id":"Q13829989"
+    },
+    "wof:country":"RO",
+    "wof:created":1497291450,
+    "wof:geomhash":"0f18e4badaed0f6421230c49997de698",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125805615,
+            "region_id":85687705
+        }
+    ],
+    "wof:id":1125805615,
+    "wof:lastmodified":1514499843,
+    "wof:name":"Chiojdeni",
+    "wof:parent_id":85687705,
+    "wof:placetype":"locality",
+    "wof:population":2449,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.86667,
+    45.55,
+    26.86667,
+    45.55
+],
+  "geometry": {"coordinates":[26.86667,45.55],"type":"Point"}
+}

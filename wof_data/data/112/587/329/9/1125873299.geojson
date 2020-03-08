@@ -1,0 +1,105 @@
+{
+  "id": 1125873299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.38333,44.56667,28.38333,44.56667",
+    "geom:latitude":44.56667,
+    "geom:longitude":28.38333,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1870,
+    "gn:population":1870,
+    "iso:country":"RO",
+    "lbl:latitude":44.56667,
+    "lbl:longitude":28.38333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Pantelimon de Jos"
+    ],
+    "name:eng_x_preferred":[
+        "Pantelimon de Jos"
+    ],
+    "name:fre_x_preferred":[
+        "Pantelimon de Jos"
+    ],
+    "name:rum_x_preferred":[
+        "Pantelimon de Jos"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0430\u043d\u0442\u0435\u043b\u0456\u043c\u043e\u043d-\u0434\u0435-\u0416\u043e\u0441"
+    ],
+    "name:unk_x_variant":[
+        "Pantelimonul de Jos"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":671376,
+    "qs_pg:gn_pop":1870,
+    "qs_pg:name":"Pantelimon de Jos",
+    "qs_pg:name_adm0":"Rom\u00e2nia",
+    "qs_pg:name_adm1":"Constanta",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":127327,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424933,
+    "qs_pg:woe_id":877189,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424933,
+    "woe:name_adm0":"Rom\u00e2nia",
+    "woe:name_adm1":"Constanta",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":671376,
+        "gp:id":877189,
+        "qs_pg:id":127327,
+        "wd:id":"Q12138719"
+    },
+    "wof:country":"RO",
+    "wof:created":1497294409,
+    "wof:geomhash":"f92467947b33c87b0903aa9be2a31d15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125873299,
+            "region_id":85687633
+        }
+    ],
+    "wof:id":1125873299,
+    "wof:lastmodified":1514500064,
+    "wof:name":"Pantelimon de Jos",
+    "wof:parent_id":85687633,
+    "wof:placetype":"locality",
+    "wof:population":1870,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.38333,
+    44.56667,
+    28.38333,
+    44.56667
+],
+  "geometry": {"coordinates":[28.38333,44.56667],"type":"Point"}
+}

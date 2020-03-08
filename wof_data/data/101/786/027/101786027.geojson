@@ -1,0 +1,119 @@
+{
+  "id": 101786027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000126,
+    "geom:area_square_m":1087405.002095,
+    "geom:bbox":"25.7630817842,45.9114804397,25.78811972,45.9231075134",
+    "geom:latitude":45.917765,
+    "geom:longitude":25.77654,
+    "gn:population":3405,
+    "iso:country":"RO",
+    "lbl:latitude":45.917036,
+    "lbl:longitude":25.777773,
+    "mps:latitude":45.917036,
+    "mps:longitude":25.777773,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0641\u0627\u0644\u064a\u0627 \u0643\u0631\u064a\u0634\u0648\u0644\u0648\u064a"
+    ],
+    "name:dut_x_preferred":[
+        "Valea Cri\u0219ului"
+    ],
+    "name:eng_x_preferred":[
+        "Valea Cri\u0219ului"
+    ],
+    "name:epo_x_preferred":[
+        "Valea Cri\u0219ului"
+    ],
+    "name:fre_x_preferred":[
+        "Valea Cri\u0219ului"
+    ],
+    "name:hun_x_preferred":[
+        "Sepsik\u0151r\u00f6spatak"
+    ],
+    "name:ita_x_preferred":[
+        "Valea Cri\u0219ului"
+    ],
+    "name:por_x_preferred":[
+        "Valea Cri\u0219ului"
+    ],
+    "name:rum_x_preferred":[
+        "Valea Cri\u0219ului"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0430\u043b\u044f-\u041a\u0440\u0456\u0448\u0443\u043b\u0443\u0439"
+    ],
+    "name:unk_x_variant":[
+        "K\u00f6r\u00f6spatak"
+    ],
+    "name:vie_x_preferred":[
+        "Valea Crisului"
+    ],
+    "name:vol_x_preferred":[
+        "Valea Cri\u0219ului"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Covasna",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Valea Cri\u015fului",
+    "qs:la_lc":"*RO26064906",
+    "qs:level":"locality",
+    "qs:loc":"Valea Cri\u015fului",
+    "qs:loc_alt":"Valea Crisului",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":663813,
+        "gp:id":882769,
+        "qs:id":126710,
+        "qs_pg:id":126710,
+        "wd:id":"Q1096174"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"31bb851a7a49a1caa5b814ba6dc162c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101786027,
+            "region_id":85687699
+        }
+    ],
+    "wof:id":101786027,
+    "wof:lastmodified":1514500231,
+    "wof:name":"Valea Cri\u015fului",
+    "wof:parent_id":85687699,
+    "wof:placetype":"locality",
+    "wof:population":3405,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.76308178420442,
+    45.91148043970736,
+    25.78811972004979,
+    45.92310751335754
+],
+  "geometry": {"coordinates":[[[25.76334206933689,45.92310751335754],[25.77346204270464,45.92158803591946],[25.77372249282996,45.92246577967609],[25.77625244525387,45.92208575321348],[25.77599195662157,45.92120801659058],[25.77725690166346,45.9210179844315],[25.77699640473082,45.92014024995331],[25.78711552500033,45.91861948137631],[25.7868548850264,45.91774177401953],[25.78811972004979,45.91755161403881],[25.78733780813002,45.91491849413126],[25.78480824560933,45.91529877768579],[25.78454766870277,45.91442106106479],[25.78328289476798,45.91461117678335],[25.78302234805915,45.91373345517064],[25.78175758542352,45.91392355232767],[25.78123656334918,45.91216809769622],[25.77997183125785,45.91235817272519],[25.77971135588894,45.91148043970736],[25.77718190636654,45.91186053765193],[25.77770279107665,45.91361601653119],[25.77517323280927,45.91399606876689],[25.77543365309464,45.91487381320457],[25.77416884280223,45.91506382039734],[25.77442925478732,45.91594156697852],[25.76810498797312,45.91689139584707],[25.76836531465597,45.91776915883344],[25.76710041822304,45.91795908318579],[25.76762106591866,45.91971461202309],[25.76635612304023,45.91990452850916],[25.76661644405118,45.92078229436032],[25.76535147397885,45.92097219941445],[25.7656117866797,45.92184996740878],[25.76308178420442,45.92222973965477],[25.76334206933689,45.92310751335754]]],"type":"Polygon"}
+}

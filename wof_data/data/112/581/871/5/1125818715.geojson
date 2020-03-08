@@ -1,0 +1,89 @@
+{
+  "id": 1125818715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.03333,45.28333,28.03333,45.28333",
+    "geom:latitude":45.28333,
+    "geom:longitude":28.03333,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"RO",
+    "lbl:latitude":45.28333,
+    "lbl:longitude":28.03333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Ghecit"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":666621,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Sm\u00eerdanu Nou",
+    "qs_pg:name_adm0":"Rom\u00e2nia",
+    "qs_pg:name_adm1":"Tulcea",
+    "qs_pg:photos":27,
+    "qs_pg:photos_1k":5,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":27,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1167604,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424933,
+    "qs_pg:woe_id":880693,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424933,
+    "woe:name_adm0":"Rom\u00e2nia",
+    "woe:name_adm1":"Tulcea",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":666621,
+        "gp:id":880693,
+        "qs_pg:id":1167604
+    },
+    "wof:country":"RO",
+    "wof:created":1497291956,
+    "wof:geomhash":"9ed5436d28f35e5e8358b2a66c756443",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125818715,
+            "region_id":85687679
+        }
+    ],
+    "wof:id":1125818715,
+    "wof:lastmodified":1509393954,
+    "wof:name":"Sm\u00eerdanu Nou",
+    "wof:parent_id":85687679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.03333,
+    45.28333,
+    28.03333,
+    45.28333
+],
+  "geometry": {"coordinates":[28.03333,45.28333],"type":"Point"}
+}

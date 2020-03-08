@@ -1,0 +1,129 @@
+{
+  "id": 1125835505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.05,46.95,22.05,46.95",
+    "geom:latitude":46.95,
+    "geom:longitude":22.05,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3262,
+    "gn:population":3262,
+    "iso:country":"RO",
+    "lbl:latitude":46.95,
+    "lbl:longitude":22.05,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:alb_x_preferred":[
+        "Hidi\u0219elu de Sus"
+    ],
+    "name:dut_x_preferred":[
+        "Hidi\u0219elu de Sus"
+    ],
+    "name:eng_x_preferred":[
+        "Hidi\u0219elu de Sus"
+    ],
+    "name:epo_x_preferred":[
+        "Hidi\u0219elu de Sus"
+    ],
+    "name:fre_x_preferred":[
+        "Hidi\u0219elu de Sus"
+    ],
+    "name:hun_x_preferred":[
+        "Harangmez\u0151"
+    ],
+    "name:ita_x_preferred":[
+        "Hidi\u0219elu de Sus"
+    ],
+    "name:may_x_preferred":[
+        "Hidi\u0219elu de Sus"
+    ],
+    "name:por_x_preferred":[
+        "Hidi\u0219elu de Sus"
+    ],
+    "name:rum_x_preferred":[
+        "Hidi\u0219elu de Sus"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u0456\u0434\u0456\u0448\u0435\u043b\u0443-\u0434\u0435-\u0421\u0443\u0441"
+    ],
+    "name:unk_x_variant":[
+        "Hidi\u015felul-de Sus"
+    ],
+    "name:vie_x_preferred":[
+        "Hidiselu de Sus"
+    ],
+    "name:vol_x_preferred":[
+        "Hidi\u0219elu de Sus"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":676203,
+    "qs_pg:gn_pop":3262,
+    "qs_pg:name":"Hidi\u0219elu de Sus",
+    "qs_pg:name_adm0":"Rom\u00e2nia",
+    "qs_pg:name_adm1":"Bihor",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1278637,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424933,
+    "qs_pg:woe_id":873640,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424933,
+    "woe:name_adm0":"Rom\u00e2nia",
+    "woe:name_adm1":"Bihor",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":676203,
+        "gp:id":873640,
+        "qs_pg:id":1278637,
+        "wd:id":"Q1088293"
+    },
+    "wof:country":"RO",
+    "wof:created":1497292699,
+    "wof:geomhash":"8db694ff694ef29e38ba9a67cb38823b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125835505,
+            "region_id":85687737
+        }
+    ],
+    "wof:id":1125835505,
+    "wof:lastmodified":1514499967,
+    "wof:name":"Hidi\u0219elu de Sus",
+    "wof:parent_id":85687737,
+    "wof:placetype":"locality",
+    "wof:population":3262,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.05,
+    46.95,
+    22.05,
+    46.95
+],
+  "geometry": {"coordinates":[22.05,46.95],"type":"Point"}
+}

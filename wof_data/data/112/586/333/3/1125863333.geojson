@@ -1,0 +1,116 @@
+{
+  "id": 1125863333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.01667,44.1,28.01667,44.1",
+    "geom:latitude":44.1,
+    "geom:longitude":28.01667,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":2492,
+    "gn:population":2492,
+    "iso:country":"RO",
+    "lbl:latitude":44.1,
+    "lbl:longitude":28.01667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u062f\u064a\u0644\u064a\u0646\u064a"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u043e\u043b\u0433\u0430\u0440\u0435\u043d\u0438\u0434\u0436\u0435"
+    ],
+    "name:dut_x_preferred":[
+        "Deleni "
+    ],
+    "name:eng_x_preferred":[
+        "Deleni"
+    ],
+    "name:hun_x_preferred":[
+        "Deleni "
+    ],
+    "name:ita_x_preferred":[
+        "Deleni"
+    ],
+    "name:may_x_preferred":[
+        "Deleni"
+    ],
+    "name:por_x_preferred":[
+        "Deleni "
+    ],
+    "name:rum_x_preferred":[
+        "Deleni"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0435\u043b\u0435\u043d\u044c "
+    ],
+    "name:unk_x_variant":[
+        "Enigea"
+    ],
+    "name:vie_x_preferred":[
+        "Deleni"
+    ],
+    "name:vol_x_preferred":[
+        "Deleni "
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":679538,
+    "qs_pg:gn_pop":2492,
+    "qs_pg:name":"Deleni",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":127707,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":679538,
+        "qs_pg:id":127707,
+        "wd:id":"Q903487"
+    },
+    "wof:country":"RO",
+    "wof:created":1497293926,
+    "wof:geomhash":"08e76395b33b704b3d620a884fd43af3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125863333,
+            "region_id":85687633
+        }
+    ],
+    "wof:id":1125863333,
+    "wof:lastmodified":1514499903,
+    "wof:name":"Deleni",
+    "wof:parent_id":85687633,
+    "wof:placetype":"locality",
+    "wof:population":2492,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.01667,
+    44.1,
+    28.01667,
+    44.1
+],
+  "geometry": {"coordinates":[28.01667,44.1],"type":"Point"}
+}

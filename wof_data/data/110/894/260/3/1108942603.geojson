@@ -1,0 +1,91 @@
+{
+  "id": 1108942603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.1076824017,44.3883123853,26.1076824017,44.3883123853",
+    "geom:latitude":44.388312,
+    "geom:longitude":26.107682,
+    "iso:country":"RO",
+    "lbl:latitude":44.388312,
+    "lbl:longitude":26.107682,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_metro":30,
+    "name:cat_x_preferred":[
+        "Berceni"
+    ],
+    "name:dut_x_preferred":[
+        "Berceni"
+    ],
+    "name:eng_x_preferred":[
+        "Berceni"
+    ],
+    "name:fre_x_preferred":[
+        "Berceni"
+    ],
+    "name:ger_x_preferred":[
+        "Berceni"
+    ],
+    "name:ita_x_preferred":[
+        "Berceni"
+    ],
+    "name:lat_x_preferred":[
+        "Berceni"
+    ],
+    "name:rum_x_preferred":[
+        "Berceni"
+    ],
+    "name:spa_x_preferred":[
+        "Berceni"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        101751949,
+        85633745,
+        85687595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q2612157"
+    },
+    "wof:country":"RO",
+    "wof:created":1491363211,
+    "wof:geomhash":"c5c4070b056f2a7e956b9398dde625da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101751949,
+            "neighbourhood_id":1108942603,
+            "region_id":85687595
+        }
+    ],
+    "wof:id":1108942603,
+    "wof:lastmodified":1514499764,
+    "wof:name":"Berceni",
+    "wof:parent_id":101751949,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.1076824017164,
+    44.38831238531434,
+    26.1076824017164,
+    44.38831238531434
+],
+  "geometry": {"coordinates":[26.1076824017164,44.38831238531434],"type":"Point"}
+}

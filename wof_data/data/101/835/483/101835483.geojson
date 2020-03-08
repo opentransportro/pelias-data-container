@@ -1,0 +1,95 @@
+{
+  "id": 101835483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000119,
+    "geom:area_square_m":1059897.847499,
+    "geom:bbox":"24.7857388953,43.8215282801,24.802014752,43.8353568144",
+    "geom:latitude":43.829042,
+    "geom:longitude":24.794039,
+    "gn:population":1209,
+    "iso:country":"RO",
+    "lbl:latitude":43.829042,
+    "lbl:longitude":24.794717,
+    "mps:latitude":43.829042,
+    "mps:longitude":24.794717,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Olteanca"
+    ],
+    "name:eng_x_preferred":[
+        "Olteanca"
+    ],
+    "name:fre_x_preferred":[
+        "Olteanca"
+    ],
+    "name:rum_x_preferred":[
+        "Olteanca"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u043b\u0442\u044f\u043d\u043a\u0430 "
+    ],
+    "name:unk_x_variant":[
+        "Olteanca din Deal"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Teleorman",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Segarcea-Vale",
+    "qs:la_lc":"*RO47154184",
+    "qs:level":"locality",
+    "qs:loc":"Olteanca",
+    "qs:loc_alt":"Olteanca",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":671856,
+        "gp:id":876828,
+        "qs:id":411899,
+        "wd:id":"Q12135779"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"2e8e7d4bd3ee0c8bcdf9d4e472f6a8f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101835483,
+            "region_id":85687585
+        }
+    ],
+    "wof:id":101835483,
+    "wof:lastmodified":1514500054,
+    "wof:name":"Olteanca",
+    "wof:parent_id":85687585,
+    "wof:placetype":"locality",
+    "wof:population":1209,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.78573889532595,
+    43.82152828005121,
+    24.80201475198675,
+    43.83535681438127
+],
+  "geometry": {"coordinates":[[[24.80119795186874,43.82426272679794],[24.79815301628025,43.82152828005121],[24.79826098884962,43.82194225537171],[24.79581708965833,43.82229690141725],[24.79604715565625,43.82317909742824],[24.79482517833941,43.82335640192662],[24.79505523596282,43.82423859969902],[24.79383323426299,43.82441589289692],[24.79406328351126,43.82529809243135],[24.79161922466511,43.82565264177521],[24.79184924782993,43.82653484621994],[24.78573889532595,43.82742098243875],[24.78711869892885,43.8327142744364],[24.78834088905239,43.83253705720597],[24.78857090668311,43.83341926453807],[24.78979310784149,43.83324202970624],[24.79002315251728,43.83412423250297],[24.79124536470988,43.83394698006975],[24.79147543643188,43.83482917833055],[24.79391987620409,43.83447462380667],[24.79414999268766,43.83535681438127],[24.79537222026545,43.83517951229044],[24.7951420860677,43.83429732486582],[24.79636428924994,43.83412001147246],[24.79613414667472,43.83323782581124],[24.79735632546186,43.83306050111605],[24.79712617450969,43.83217831721748],[24.80201475198675,43.83146888652198],[24.80178453952982,43.83058671383918],[24.80056242289476,43.83076409003911],[24.79895132105969,43.82458882034422],[24.80119795186874,43.82426272679794]]],"type":"Polygon"}
+}

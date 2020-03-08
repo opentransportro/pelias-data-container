@@ -1,0 +1,80 @@
+{
+  "id": 101834753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000228,
+    "geom:area_square_m":1977420.628095,
+    "geom:bbox":"27.0204520994,45.3605622979,27.0394890534,45.385279087",
+    "geom:latitude":45.372789,
+    "geom:longitude":27.028849,
+    "gn:population":2223,
+    "iso:country":"RO",
+    "lbl:latitude":45.372906,
+    "lbl:longitude":27.028704,
+    "mps:latitude":45.372906,
+    "mps:longitude":27.028704,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "D\u0103r\u00eema\u0163i"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Buzau",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Podgoria",
+    "qs:la_lc":"*RO21048682",
+    "qs:level":"locality",
+    "qs:loc":"Oreavul",
+    "qs:loc_alt":"Oreavul",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":671721,
+        "gp:id":876927,
+        "qs:id":411932,
+        "wd:id":"Q12136452"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"c0f94d753fd0f7a0ded7e612fb5a27fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101834753,
+            "region_id":85687667
+        }
+    ],
+    "wof:id":101834753,
+    "wof:lastmodified":1505338230,
+    "wof:name":"Oreavul",
+    "wof:parent_id":85687667,
+    "wof:placetype":"locality",
+    "wof:population":2223,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.0204520993654,
+    45.36056229792825,
+    27.0394890534356,
+    45.38527908700985
+],
+  "geometry": {"coordinates":[[[27.02723943486063,45.38502021649867],[27.02784510709938,45.38445303922572],[27.02770925879685,45.3840235999686],[27.02842973626616,45.38390556758168],[27.02885878374974,45.38350378924986],[27.02868188519312,45.38294459877],[27.0296200849894,45.38279087435421],[27.0394890534356,45.3735491520988],[27.03908626406519,45.37296229203088],[27.03618504120197,45.37343794200717],[27.03590841082064,45.37256360949766],[27.03465945602187,45.3727683403232],[27.03355312281991,45.36927097932613],[27.03624936649823,45.36882896076486],[27.03057557115534,45.36056229792825],[27.02953938665354,45.36073212902164],[27.03092166688799,45.36510392451794],[27.02592639523425,45.36592250578826],[27.02509721385917,45.36329938802896],[27.02135083906563,45.36391313534273],[27.02107452345399,45.36303874828059],[27.0204520993654,45.36314069205207],[27.02565909151537,45.38527908700985],[27.02723943486063,45.38502021649867]]],"type":"Polygon"}
+}

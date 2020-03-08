@@ -1,0 +1,74 @@
+{
+  "id": 1259866525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.88004,44.79214,21.88004,44.79214",
+    "geom:latitude":44.79214,
+    "geom:longitude":21.88004,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"54163.0",
+    "gn:asciiname":"Poienile Boinei",
+    "gn:cc2":"RO",
+    "gn:country_code":"RO",
+    "gn:dem":542,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":669996,
+    "gn:latitude":44.79214,
+    "gn:longitude":21.88004,
+    "gn:modification_date":"2013-04-21",
+    "gn:name":"Poienile Boinei",
+    "gn:population":53,
+    "gn:timezone":"Europe/Bucharest",
+    "iso:country":"RO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pojenile Bojne",
+        "Poienile Boinei"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":669996
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"c5a82d88cbedba4518df42ab7c35449d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1259866525,
+            "region_id":85687627
+        }
+    ],
+    "wof:id":1259866525,
+    "wof:lastmodified":1537683401,
+    "wof:name":"Poienile Boinei",
+    "wof:parent_id":85687627,
+    "wof:placetype":"locality",
+    "wof:population":53,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.88004,
+    44.79214,
+    21.88004,
+    44.79214
+],
+  "geometry": {"coordinates":[21.88004,44.79214],"type":"Point"}
+}

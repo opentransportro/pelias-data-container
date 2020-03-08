@@ -1,0 +1,98 @@
+{
+  "id": 101834909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000059,
+    "geom:area_square_m":509816.603186,
+    "geom:bbox":"25.5898759781,45.9301646431,25.6182544298,45.9361564258",
+    "geom:latitude":45.933101,
+    "geom:longitude":25.603054,
+    "gn:population":1013,
+    "iso:country":"RO",
+    "lbl:latitude":45.933432,
+    "lbl:longitude":25.602086,
+    "mps:latitude":45.933432,
+    "mps:longitude":25.602086,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Belin-Vale"
+    ],
+    "name:eng_x_preferred":[
+        "Belin-Vale"
+    ],
+    "name:fre_x_preferred":[
+        "Belin-Vale"
+    ],
+    "name:hun_x_preferred":[
+        "B\u00f6l\u00f6npatak"
+    ],
+    "name:rum_x_preferred":[
+        "Belin-Vale"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u043b\u0456\u043d-\u0412\u0430\u043b\u0435"
+    ],
+    "name:unk_x_variant":[
+        "B\u00f6l\u00f6npatak"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Covasna",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Belin",
+    "qs:la_lc":"*RO26063866",
+    "qs:level":"locality",
+    "qs:loc":"Belin-vale",
+    "qs:loc_alt":"Belin-vale",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":685133,
+        "gp:id":867111,
+        "qs:id":409358,
+        "wd:id":"Q278749"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"7af2d0f4c6ceb605aed1eb0b8df2eaae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101834909,
+            "region_id":85687699
+        }
+    ],
+    "wof:id":101834909,
+    "wof:lastmodified":1514499763,
+    "wof:name":"Belin-vale",
+    "wof:parent_id":85687699,
+    "wof:placetype":"locality",
+    "wof:population":1013,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.58987597807709,
+    45.93016464310904,
+    25.61825442979665,
+    45.93615642581585
+],
+  "geometry": {"coordinates":[[[25.58987597807709,45.93524448087248],[25.58990722248802,45.93615642581585],[25.59901089901302,45.93480532885053],[25.59926859338572,45.93568357144329],[25.60433165624482,45.93493175997264],[25.60407388462903,45.93405353150456],[25.60660533022707,45.93367754275437],[25.60634753084025,45.93279931994721],[25.6126759105714,45.93185910301924],[25.61293380649187,45.93273730816304],[25.61546514189484,45.93236110924357],[25.61572308727756,45.93323930591646],[25.61825442979665,45.93286303988282],[25.61799644580441,45.93198485027824],[25.61673079778654,45.93217298726654],[25.6164728439519,45.93129479272346],[25.61520720736439,45.9314829111666],[25.61494928368586,45.93060471168604],[25.60862107919036,45.93154506106589],[25.60836326288444,45.93066684251733],[25.60583196460607,45.9310428701246],[25.60557419775751,45.93016464310904],[25.60430855612174,45.93035263086387],[25.60456630366434,45.93123086141082],[25.59444073293491,45.93273425126074],[25.59469833685034,45.93361250864865],[25.59343258580611,45.93380036835208],[25.59369018124869,45.93467862786804],[25.58987597807709,45.93524448087248]]],"type":"Polygon"}
+}

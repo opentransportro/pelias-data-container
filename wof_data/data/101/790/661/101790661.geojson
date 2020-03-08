@@ -1,0 +1,118 @@
+{
+  "id": 101790661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000244,
+    "geom:area_square_m":2125357.61468,
+    "geom:bbox":"27.7711238593,45.1000843602,27.7971833655,45.1181310933",
+    "geom:latitude":45.109261,
+    "geom:longitude":27.784557,
+    "gn:population":2550,
+    "iso:country":"RO",
+    "lbl:latitude":45.109416,
+    "lbl:longitude":27.784754,
+    "mps:latitude":45.109416,
+    "mps:longitude":27.784754,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Unirea "
+    ],
+    "name:eng_x_preferred":[
+        "Osmanul"
+    ],
+    "name:eng_x_variant":[
+        "Osmanu",
+        "Unirea"
+    ],
+    "name:fre_x_preferred":[
+        "Unirea"
+    ],
+    "name:ita_x_preferred":[
+        "Unirea"
+    ],
+    "name:por_x_preferred":[
+        "Unirea"
+    ],
+    "name:rum_x_preferred":[
+        "Unirea"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0423\u043d\u0456\u0440\u044f"
+    ],
+    "name:unk_x_variant":[
+        "Osmanul"
+    ],
+    "name:vie_x_preferred":[
+        "Unirea"
+    ],
+    "name:vol_x_preferred":[
+        "Unirea"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Braila",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Unirea",
+    "qs:la_lc":"*RO18044355",
+    "qs:level":"locality",
+    "qs:loc":"Unirea",
+    "qs:loc_alt":"Unirea",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a570ee-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":664203,
+        "gp:id":882458,
+        "qs:id":1279722,
+        "qs_pg:id":1279722,
+        "wd:id":"Q2716458"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"f87e9d505a1b9acf43625d6faa190eab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101790661,
+            "region_id":85687663
+        }
+    ],
+    "wof:id":101790661,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514500226,
+    "wof:name":"Unirea",
+    "wof:parent_id":85687663,
+    "wof:placetype":"locality",
+    "wof:population":2550,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.77112385928581,
+    45.10008436019308,
+    27.79718336553577,
+    45.1181310932875
+],
+  "geometry": {"coordinates":[[[27.79269864968626,45.11469699387749],[27.79155221022717,45.11120853354123],[27.79403402947077,45.11078136996281],[27.79346080844601,45.10903714525358],[27.79718336553577,45.10839631375285],[27.79661008365906,45.10665210567174],[27.79536927579426,45.10686572297942],[27.79422292543188,45.10337727096822],[27.78801911851639,45.10444506057274],[27.7865868954907,45.10008436019308],[27.77790183879557,45.10157851611973],[27.77904708974688,45.10506718882084],[27.77780626139145,45.10528059683656],[27.77923799996609,45.10964141923608],[27.77179231135443,45.1109216774658],[27.77236487313553,45.11266604134033],[27.77112385928581,45.11287937438379],[27.7714101398268,45.11375155768576],[27.77513320991579,45.11311150306312],[27.77541955625674,45.11398367300046],[27.77666058063494,45.11377028835733],[27.77809257903749,45.1181310932875],[27.78305695173992,45.11727733078055],[27.78277045646331,45.11640518874606],[27.79269864968626,45.11469699387749]]],"type":"Polygon"}
+}

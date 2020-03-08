@@ -1,0 +1,123 @@
+{
+  "id": 101782519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000091,
+    "geom:area_square_m":757877.644804,
+    "geom:bbox":"24.3889504512,47.8277699971,24.4071361265,47.8476609738",
+    "geom:latitude":47.836518,
+    "geom:longitude":24.400459,
+    "gn:population":4688,
+    "iso:country":"RO",
+    "lbl:latitude":47.835205,
+    "lbl:longitude":24.399564,
+    "mps:latitude":47.835205,
+    "mps:longitude":24.399564,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Repedea"
+    ],
+    "name:eng_x_preferred":[
+        "Ordszko"
+    ],
+    "name:epo_x_preferred":[
+        "Repedea"
+    ],
+    "name:fre_x_preferred":[
+        "Repedea"
+    ],
+    "name:hun_x_preferred":[
+        "Oroszk\u0151"
+    ],
+    "name:ita_x_preferred":[
+        "Repedea"
+    ],
+    "name:may_x_preferred":[
+        "Repedea"
+    ],
+    "name:por_x_preferred":[
+        "Repedea"
+    ],
+    "name:rum_x_preferred":[
+        "Repedea"
+    ],
+    "name:spa_x_preferred":[
+        "Repedea"
+    ],
+    "name:unk_x_variant":[
+        "Ordszko"
+    ],
+    "name:vie_x_preferred":[
+        "Repedea"
+    ],
+    "name:vol_x_preferred":[
+        "Repedea"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Maramures",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Repedea",
+    "qs:la_lc":"*RO37108598",
+    "qs:level":"locality",
+    "qs:loc":"Repedea",
+    "qs:loc_alt":"Repedea",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a3a19c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":668963,
+        "gp:id":879023,
+        "qs:id":127163,
+        "qs_pg:id":127163,
+        "wd:id":"Q1189083"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"19d852bbe4aaca1ef0ef0f703d390d07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101782519,
+            "region_id":85687761
+        }
+    ],
+    "wof:id":101782519,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514500111,
+    "wof:name":"Repedea",
+    "wof:parent_id":85687761,
+    "wof:placetype":"locality",
+    "wof:population":4688,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.38895045115794,
+    47.82776999705112,
+    24.40713612652598,
+    47.84766097377889
+],
+  "geometry": {"coordinates":[[[24.40713612652598,47.84748636256535],[24.40461594441092,47.83868313999756],[24.40330112433395,47.83885771647545],[24.40128594661837,47.8318150238677],[24.40391523486949,47.83146591075047],[24.40366334442058,47.83058557569495],[24.40497795490381,47.83041099903511],[24.40422228541752,47.82776999705112],[24.40290773937591,47.82794456329577],[24.4031595966743,47.82882490196761],[24.40184502104796,47.82899945596921],[24.40209686791474,47.82987979690699],[24.40078226270214,47.83005433866509],[24.40103409913559,47.83093468186894],[24.39183148536131,47.83215605843219],[24.39157979932077,47.83127569093722],[24.38895045115794,47.83162450728491],[24.38920209422429,47.83250488171785],[24.39051679384301,47.83233047793345],[24.39076846943908,47.83321084769381],[24.3933978873502,47.83286198603622],[24.39364961696606,47.83374234765358],[24.39496433525653,47.83356788977989],[24.3954678706026,47.83532860246203],[24.39678262376651,47.83515412193066],[24.39753807411557,47.83779517150913],[24.39885288364434,47.83762066484724],[24.39986039145862,47.84114203353647],[24.40117527884973,47.84096749726876],[24.40167914206864,47.8427281674409],[24.40299406433888,47.84255360850898],[24.40400200944617,47.84607492050384],[24.40531700959053,47.84590033195877],[24.40582109149881,47.84766097377889],[24.40713612652598,47.84748636256535]]],"type":"Polygon"}
+}

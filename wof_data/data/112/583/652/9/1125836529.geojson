@@ -1,0 +1,114 @@
+{
+  "id": 1125836529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.0755,44.523341,26.0755,44.523341",
+    "geom:latitude":44.523341,
+    "geom:longitude":26.0755,
+    "gn:gn_country":null,
+    "iso:country":"RO",
+    "lbl:latitude":44.523341,
+    "lbl:longitude":26.0755,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Mogo\u0219oaia"
+    ],
+    "name:eng_x_preferred":[
+        "Mogo\u0219oaia"
+    ],
+    "name:fre_x_preferred":[
+        "Mogo\u0219oaia"
+    ],
+    "name:hun_x_preferred":[
+        "Mogo\u0219oaia "
+    ],
+    "name:ita_x_preferred":[
+        "Mogo\u0219oaia"
+    ],
+    "name:may_x_preferred":[
+        "Mogo\u0219oaia"
+    ],
+    "name:por_x_preferred":[
+        "Mogo\u0219oaia"
+    ],
+    "name:rum_x_preferred":[
+        "Mogo\u0219oaia"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u043e\u0433\u043e\u0448\u043e\u0430\u044f"
+    ],
+    "name:vie_x_preferred":[
+        "Mogosoaia"
+    ],
+    "name:vol_x_preferred":[
+        "Mogo\u0219oaia"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Mogo\u0219oaia",
+    "qs_pg:name_adm0":"Rom\u00e2nia",
+    "qs_pg:name_adm1":"Bucuresti",
+    "qs_pg:photos":452,
+    "qs_pg:photos_1k":92,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":452,
+    "qs_pg:photos_sr":7,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1092331,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424933,
+    "qs_pg:woe_id":876047,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424933,
+    "woe:name_adm0":"Rom\u00e2nia",
+    "woe:name_adm1":"Bucuresti",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":876047,
+        "qs_pg:id":1092331,
+        "wd:id":"Q2198143"
+    },
+    "wof:country":"RO",
+    "wof:created":1497292739,
+    "wof:geomhash":"f79eb8dc7f0b63bf414bf7f93059a2e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125836529,
+            "region_id":85687595
+        }
+    ],
+    "wof:id":1125836529,
+    "wof:lastmodified":1514500028,
+    "wof:name":"Mogo\u0219oaia",
+    "wof:parent_id":85687595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.0755,
+    44.523341,
+    26.0755,
+    44.523341
+],
+  "geometry": {"coordinates":[26.0755,44.523341],"type":"Point"}
+}

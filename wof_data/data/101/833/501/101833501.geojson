@@ -1,0 +1,104 @@
+{
+  "id": 101833501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000235,
+    "geom:area_square_m":1971572.530099,
+    "geom:bbox":"21.921105173,47.2509730914,21.9478493192,47.2647466878",
+    "geom:latitude":47.257101,
+    "geom:longitude":21.936584,
+    "gn:population":1160,
+    "iso:country":"RO",
+    "lbl:latitude":47.257835,
+    "lbl:longitude":21.939003,
+    "mps:latitude":47.257835,
+    "mps:longitude":21.939003,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Mihai Bravu"
+    ],
+    "name:eng_x_preferred":[
+        "Mihai Bravu"
+    ],
+    "name:epo_x_preferred":[
+        "Mihai Bravu "
+    ],
+    "name:hun_x_preferred":[
+        "F\u00e9legyh\u00e1zi \u00dajtelep"
+    ],
+    "name:ita_x_preferred":[
+        "Mihai Bravu"
+    ],
+    "name:rum_x_preferred":[
+        "Mihai Bravu"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0456\u0445\u0430\u0439-\u0411\u0440\u0430\u0432\u0443 "
+    ],
+    "name:unk_x_variant":[
+        "Camber"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Bihor",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:id":0,
+    "qs:la":"Ro\u015fiori",
+    "qs:la_lc":"*RO15032187",
+    "qs:level":"locality",
+    "qs:loc":"Mihai Bravu",
+    "qs:loc_alt":"Mihai Bravu",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":673402,
+        "gp:id":15002084,
+        "qs_pg:id":1027698,
+        "wd:id":"Q1004706"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"1cc3843aa0ff865703e6b92b8b78fde6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101833501,
+            "region_id":85687737
+        }
+    ],
+    "wof:id":101833501,
+    "wof:lastmodified":1514500020,
+    "wof:name":"Mihai Bravu",
+    "wof:parent_id":85687737,
+    "wof:placetype":"locality",
+    "wof:population":1160,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.92110517298227,
+    47.25097309135816,
+    21.94784931915706,
+    47.26474668780463
+],
+  "geometry": {"coordinates":[[[21.94763980224889,47.26460922110994],[21.94784931915706,47.25276191960563],[21.94503269517821,47.25307397792028],[21.94482714909191,47.25218720421321],[21.93568196927566,47.25319977849756],[21.93547658246695,47.25231298389252],[21.93417012345589,47.25245757179471],[21.93396476708313,47.25157077337099],[21.93135187234839,47.25185989644422],[21.93114656788322,47.25097309135816],[21.9220013802734,47.25198450826804],[21.9224116975044,47.25375815726971],[21.92110517298227,47.25390258835995],[21.9217206515446,47.25656306309503],[21.92302724050569,47.25641862347811],[21.92343764728219,47.25819226275445],[21.92474427265648,47.25804780176941],[21.9245390433083,47.25716098546036],[21.9284588156786,47.25672751693719],[21.92886941222025,47.25850113152148],[21.93017603286717,47.25835660496045],[21.93079205933327,47.26101701100612],[21.93209873787265,47.26087246022803],[21.93250950996668,47.26264605370312],[21.93642963514816,47.2622122901941],[21.93663509909709,47.26309907693485],[21.93924852605943,47.26280981714967],[21.93945404194619,47.2636965972232],[21.94206748563397,47.26340726900867],[21.94227305346072,47.26429404241344],[21.94619323422512,47.26385992391818],[21.94639887547845,47.26474668780463],[21.94763980224889,47.26460922110994]]],"type":"Polygon"}
+}

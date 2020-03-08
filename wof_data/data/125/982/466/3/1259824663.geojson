@@ -1,0 +1,69 @@
+{
+  "id": 1259824663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.30888,47.53731,25.30888,47.53731",
+    "geom:latitude":47.53731,
+    "geom:longitude":25.30888,
+    "gn:admin1_code":"34",
+    "gn:admin2_code":"148765.0",
+    "gn:asciiname":"Delnita",
+    "gn:country_code":"RO",
+    "gn:dem":901,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":679493,
+    "gn:latitude":47.53731,
+    "gn:longitude":25.30888,
+    "gn:modification_date":"2013-04-21",
+    "gn:name":"Delni\u021ba",
+    "gn:population":116,
+    "gn:timezone":"Europe/Bucharest",
+    "iso:country":"RO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":679493
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"f54d10c6f157461d545dfda52f616774",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1259824663,
+            "region_id":85687773
+        }
+    ],
+    "wof:id":1259824663,
+    "wof:lastmodified":1536862596,
+    "wof:name":"Delnita",
+    "wof:parent_id":85687773,
+    "wof:placetype":"locality",
+    "wof:population":116,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.30888,
+    47.53731,
+    25.30888,
+    47.53731
+],
+  "geometry": {"coordinates":[25.30888,47.53731],"type":"Point"}
+}

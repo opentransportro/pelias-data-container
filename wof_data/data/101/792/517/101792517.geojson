@@ -1,0 +1,117 @@
+{
+  "id": 101792517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000165,
+    "geom:area_square_m":1457034.638624,
+    "geom:bbox":"27.3974095113,44.4722663551,27.4181463004,44.4844224173",
+    "geom:latitude":44.477586,
+    "geom:longitude":27.40736,
+    "iso:country":"RO",
+    "lbl:latitude":44.47675,
+    "lbl:longitude":27.405484,
+    "mps:latitude":44.47675,
+    "mps:longitude":27.405484,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Constantin Br\u00e2ncoveanu"
+    ],
+    "name:dut_x_preferred":[
+        "Constantin Br\u00e2ncoveanu"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03c9\u03bd\u03c3\u03c4\u03b1\u03bd\u03c4\u03af\u03bd\u03bf\u03c2 \u039c\u03c0\u03c1\u03b9\u03bd\u03ba\u03bf\u03b2\u03b5\u03ac\u03bd\u03bf\u03c5"
+    ],
+    "name:eng_x_preferred":[
+        "Constantin Br\u00e2ncoveanu"
+    ],
+    "name:fin_x_preferred":[
+        "Constantin Br\u00e2ncoveanu"
+    ],
+    "name:fra_x_preferred":[
+        "Constantin II Br\u00e2ncoveanu"
+    ],
+    "name:fre_x_preferred":[
+        "Constantin Br\u00e2ncoveanu"
+    ],
+    "name:glg_x_preferred":[
+        "Constantin Br\u00e2ncoveanu"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05e0\u05e1\u05d8\u05e0\u05d8\u05d9\u05df \u05d1\u05e8\u05e0\u05e7\u05d5\u05d1\u05d9\u05d0\u05e0\u05d5"
+    ],
+    "name:hun_x_preferred":[
+        "II. Konstantin havasalf\u00f6ldi fejedelem"
+    ],
+    "name:ind_x_preferred":[
+        "Constantin Br\u00e2ncoveanu"
+    ],
+    "name:ita_x_preferred":[
+        "Constantin Br\u00e2ncoveanu"
+    ],
+    "name:rum_x_preferred":[
+        "Constantin Br\u00e2ncoveanu"
+    ],
+    "name:spa_x_preferred":[
+        "Constantino Brancovan"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0456\u043d-\u0411\u0440\u0438\u043d\u043a\u043e\u0432\u044f\u043d\u0443"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Calarasi",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Dragalina",
+    "qs:la_lc":"*RO22093487",
+    "qs:level":"locality",
+    "qs:loc":"Constantin Br\u00e2ncoveanu",
+    "qs:loc_alt":"Constantin Brancoveanu",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":2996,
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "qs:id":3,
+        "wd:id":"Q12112446"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"52c36f63e2ad0f9a5328d42a7394bcc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101792517,
+            "region_id":85687615
+        }
+    ],
+    "wof:id":101792517,
+    "wof:lastmodified":1527714636,
+    "wof:name":"Constantin Br\u00e2ncoveanu",
+    "wof:parent_id":85687615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.39740951126339,
+    44.4722663550574,
+    27.41814630039971,
+    44.48442241731624
+],
+  "geometry": {"coordinates":[[[27.40465424062273,44.48379660047112],[27.40437884221643,44.48292268016201],[27.40560751144039,44.4827140493843],[27.40505671305982,44.48096621129014],[27.40997116863917,44.48013157361117],[27.41024663260299,44.48100547850203],[27.41638960876935,44.47996183748256],[27.41666517190748,44.48083572198118],[27.41789376055715,44.48062694667215],[27.41679150492354,44.47713141372515],[27.41802001515362,44.47692263895522],[27.41691786857535,44.47342709448071],[27.41814630039971,44.47321832024937],[27.41787077419855,44.47234443373441],[27.41295706890918,44.47317942897024],[27.41268162426076,44.47230552581129],[27.40776786044819,44.47314027485527],[27.40749249735478,44.4722663550574],[27.40135019936099,44.47330944749206],[27.40162547450944,44.4741833860125],[27.40039697316968,44.47439196488955],[27.40067224192893,44.47526590549865],[27.39821517991697,44.47568302738398],[27.39904094785243,44.47830486174246],[27.39781235199058,44.47851341223759],[27.39863816796384,44.48113524293234],[27.39740951126339,44.48134379020581],[27.3982353752786,44.48396561723882],[27.40069278621542,44.48354848577117],[27.40096813182839,44.48442241731624],[27.40465424062273,44.48379660047112]]],"type":"Polygon"}
+}

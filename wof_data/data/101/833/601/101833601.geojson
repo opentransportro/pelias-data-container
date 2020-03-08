@@ -1,0 +1,95 @@
+{
+  "id": 101833601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000033,
+    "geom:area_square_m":273959.477712,
+    "geom:bbox":"24.7768886093,47.3081346418,24.7941061837,47.3137403749",
+    "geom:latitude":47.310637,
+    "geom:longitude":24.784805,
+    "gn:population":1339,
+    "iso:country":"RO",
+    "lbl:latitude":47.310107,
+    "lbl:longitude":24.784675,
+    "mps:latitude":47.310107,
+    "mps:longitude":24.784675,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Lunca Le\u0219ului"
+    ],
+    "name:eng_x_preferred":[
+        "Lunca Le\u0219ului"
+    ],
+    "name:fre_x_preferred":[
+        "Lunca Le\u0219ului"
+    ],
+    "name:ita_x_preferred":[
+        "Lunca Le\u0219ului"
+    ],
+    "name:rum_x_preferred":[
+        "Lunca Le\u0219ului"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0443\u043d\u043a\u0430-\u041b\u0435\u0448\u0443\u043b\u0443\u0439"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Bistrita-Nasaud",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Le\u015fu",
+    "qs:la_lc":"*RO16033514",
+    "qs:level":"locality",
+    "qs:loc":"Lunca Le\u015fului",
+    "qs:loc_alt":"Lunca Lesului",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":674395,
+        "gp:id":874623,
+        "qs:id":9,
+        "wd:id":"Q12118810"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"fea3ebddfc0285707ddbae0bf02a9302",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101833601,
+            "region_id":85687753
+        }
+    ],
+    "wof:id":101833601,
+    "wof:lastmodified":1514500001,
+    "wof:name":"Lunca Le\u015fului",
+    "wof:parent_id":85687753,
+    "wof:placetype":"locality",
+    "wof:population":1339,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.77688860929482,
+    47.30813464180403,
+    24.79410618372765,
+    47.31374037490679
+],
+  "geometry": {"coordinates":[[[24.77725925818288,47.30838268737],[24.77688860929482,47.31117737539],[24.7824283100702,47.31041583149596],[24.78268276760173,47.31129544396464],[24.78658463138026,47.31075880265587],[24.78683916247797,47.31163840335444],[24.78813978843942,47.31145948839179],[24.78864892543135,47.31321867898691],[24.79125023651289,47.31286078851429],[24.79150486325574,47.31374037490679],[24.79410618372765,47.31338241537776],[24.79385151529692,47.31250283599263],[24.7925508799425,47.31268182000957],[24.79229624339564,47.31180223585403],[24.79099562080984,47.3119812008556],[24.79048642251865,47.31022202173943],[24.78788523649848,47.31057989119546],[24.78763069559329,47.30970029273328],[24.78633011131785,47.30987920069146],[24.7860756022896,47.30899959746137],[24.78347445121284,47.30935735984002],[24.78321999490186,47.30847774834155],[24.77931827030102,47.30901426506927],[24.77906388754866,47.30813464180403],[24.77725925818288,47.30838268737]]],"type":"Polygon"}
+}

@@ -1,0 +1,114 @@
+{
+  "id": 101793983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000078,
+    "geom:area_square_m":688565.034057,
+    "geom:bbox":"25.419000998,44.7024187404,25.4373402915,44.7124659402",
+    "geom:latitude":44.707454,
+    "geom:longitude":25.427836,
+    "gn:population":5722,
+    "iso:country":"RO",
+    "lbl:latitude":44.707238,
+    "lbl:longitude":25.429503,
+    "mps:latitude":44.707238,
+    "mps:longitude":25.429503,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "M\u0103t\u0103saru"
+    ],
+    "name:eng_x_preferred":[
+        "M\u0103t\u0103saru"
+    ],
+    "name:fre_x_preferred":[
+        "M\u0103t\u0103saru"
+    ],
+    "name:ita_x_preferred":[
+        "M\u0103t\u0103saru"
+    ],
+    "name:rum_x_colloquial":[
+        "Maetaesaru",
+        "Maetaesarul",
+        "Matasaru",
+        "Matasarul"
+    ],
+    "name:rum_x_preferred":[
+        "M\u0103t\u0103saru"
+    ],
+    "name:rum_x_variant":[
+        "M\u0103t\u0103sarul"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0435\u0442\u0435\u0441\u0430\u0440\u0443"
+    ],
+    "name:unk_x_variant":[
+        "M\u0103t\u0103sarul"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*D\u00e2mbovita",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"M\u0103t\u0103saru",
+    "qs:la_lc":"*RO27068048",
+    "qs:level":"locality",
+    "qs:loc":"M\u0103t\u0103saru",
+    "qs:loc_alt":"Matasaru",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a1d45c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":673691,
+        "gp:id":875494,
+        "qs:id":275252,
+        "qs_pg:id":275252,
+        "wd:id":"Q12122922"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"2759a0025b4a5431b2870847ffd097c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101793983,
+            "region_id":85687637
+        }
+    ],
+    "wof:id":101793983,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514500041,
+    "wof:name":"M\u0103t\u0103saru",
+    "wof:parent_id":85687637,
+    "wof:placetype":"locality",
+    "wof:population":5722,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.41900099795248,
+    44.7024187404449,
+    25.4373402914926,
+    44.71246594017697
+],
+  "geometry": {"coordinates":[[[25.42766520998651,44.71209545649737],[25.42741921858629,44.71121576214938],[25.42865832560614,44.71103050168466],[25.42841232603911,44.71015080928038],[25.43212954852714,44.70959495002347],[25.43163747004661,44.70783558114516],[25.43287649307069,44.70765027214003],[25.43263045072882,44.70677058893284],[25.43386944818531,44.70658526863542],[25.43362339768248,44.70570558737199],[25.4373402914926,44.70514954862909],[25.43660203619714,44.7025105266008],[25.43412422394647,44.70288121355304],[25.43437026236865,44.70376089571948],[25.42817551286862,44.70468737341935],[25.42768362893236,44.70292797400458],[25.42520575127003,44.70329844901579],[25.42495986103387,44.7024187404449],[25.421243044775,44.70297433293121],[25.42148888016936,44.70385405159465],[25.42396680151694,44.70348366453391],[25.42421268358612,44.70436337504702],[25.42669061237217,44.70399292262294],[25.42742842895603,44.70663202543938],[25.42618941335871,44.706817269076],[25.42643535416954,44.70769697053521],[25.41900099795248,44.70880814469234],[25.41949269049712,44.71056758372112],[25.42073180464422,44.71038241795009],[25.42122357422039,44.71214184456426],[25.42494098269214,44.7115862390977],[25.42518693751822,44.71246594017697],[25.42766520998651,44.71209545649737]]],"type":"Polygon"}
+}

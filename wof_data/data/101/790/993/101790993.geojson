@@ -1,0 +1,126 @@
+{
+  "id": 101790993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000185,
+    "geom:area_square_m":1596247.102249,
+    "geom:bbox":"24.0401396287,45.8235736446,24.076898303,45.8423057443",
+    "geom:latitude":45.831778,
+    "geom:longitude":24.058912,
+    "gn:population":2311,
+    "iso:country":"RO",
+    "lbl:latitude":45.830206,
+    "lbl:longitude":24.060722,
+    "mps:latitude":45.830206,
+    "mps:longitude":24.060722,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "\u0218ura Mic\u0103"
+    ],
+    "name:eng_x_preferred":[
+        "Klein Scheuern"
+    ],
+    "name:epo_x_preferred":[
+        "\u0218ura Mic\u0103"
+    ],
+    "name:fre_x_preferred":[
+        "\u0218ura Mic\u0103"
+    ],
+    "name:ger_x_preferred":[
+        "\u0218ura Mic\u0103"
+    ],
+    "name:hun_x_preferred":[
+        "Kiscs\u0171r"
+    ],
+    "name:ita_x_preferred":[
+        "\u0218ura Mic\u0103"
+    ],
+    "name:por_x_preferred":[
+        "\u0218ura Mic\u0103"
+    ],
+    "name:rum_x_colloquial":[
+        "Sura Mica"
+    ],
+    "name:rum_x_preferred":[
+        "\u015eura Mic\u0103"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0443\u0440\u0430-\u041c\u0456\u043a\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Klein Scheuern"
+    ],
+    "name:vie_x_preferred":[
+        "Sura Mica"
+    ],
+    "name:vol_x_preferred":[
+        "\u0218ura Mic\u0103"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Sibiu",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"\u015eura Mic\u0103",
+    "qs:la_lc":"*RO45145792",
+    "qs:level":"locality",
+    "qs:loc":"\u015eura Mic\u0103",
+    "qs:loc_alt":"Sura Mica",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a4da26-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":665750,
+        "gp:id":881325,
+        "qs:id":1084397,
+        "qs_pg:id":1084397,
+        "wd:id":"Q423391"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"7bb3b2db125c7188c560b8457816ceff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101790993,
+            "region_id":85687687
+        }
+    ],
+    "wof:id":101790993,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514500275,
+    "wof:name":"\u015eura Mic\u0103",
+    "wof:parent_id":85687687,
+    "wof:placetype":"locality",
+    "wof:population":2311,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.040139628661,
+    45.82357364461689,
+    24.07689830296414,
+    45.84230574432877
+],
+  "geometry": {"coordinates":[[[24.05132927848013,45.84196702430557],[24.05017099601872,45.83755413681973],[24.05397403917772,45.83704599140583],[24.054205734937,45.83792856181708],[24.05674110080662,45.83758971638656],[24.05581421959533,45.83405945281373],[24.06088455261562,45.83338163188796],[24.06134813047527,45.83514674064827],[24.06388333283979,45.83480772690478],[24.06341967658204,45.83304263089838],[24.06468722792732,45.83287310777234],[24.06375995437838,45.82934291365098],[24.07136464320598,45.82832553461094],[24.07159656448749,45.82920806586452],[24.07286400739133,45.82903844670119],[24.07309595804895,45.82992097352508],[24.07689830296414,45.82941201595065],[24.07550639314672,45.8241168938394],[24.07297173871211,45.82445617568891],[24.07273982716276,45.82357364461689],[24.06893785107695,45.82408244469184],[24.06916970386123,45.82496498533186],[24.06283283728203,45.82581269971109],[24.0630646018908,45.82669525505406],[24.05672746011925,45.82754260823867],[24.05742251868554,45.8301903146471],[24.05615501028046,45.83035974958602],[24.05638669641968,45.83124231909989],[24.05385161915018,45.83158115008962],[24.05408327586565,45.83246372473889],[24.05281570700049,45.83263312078878],[24.05304735388847,45.8335156973871],[24.04544167427952,45.83453177594686],[24.04521014500449,45.83364918023551],[24.040139628661,45.83432625142592],[24.04106549068712,45.83785667780296],[24.04486862383811,45.83734885883189],[24.04510017258451,45.83823145278217],[24.04763559847436,45.83789282498083],[24.04879368485689,45.84230574432877],[24.05132927848013,45.84196702430557]]],"type":"Polygon"}
+}

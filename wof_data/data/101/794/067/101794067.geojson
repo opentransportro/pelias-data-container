@@ -1,0 +1,98 @@
+{
+  "id": 101794067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000077,
+    "geom:area_square_m":678586.779333,
+    "geom:bbox":"25.4799693507,44.6765134004,25.4940938079,44.689485349",
+    "geom:latitude":44.682809,
+    "geom:longitude":25.486751,
+    "gn:population":1031,
+    "iso:country":"RO",
+    "lbl:latitude":44.682644,
+    "lbl:longitude":25.487821,
+    "mps:latitude":44.682644,
+    "mps:longitude":25.487821,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Coste\u0219tii din Deal"
+    ],
+    "name:eng_x_preferred":[
+        "Coste\u0219tii din Deal"
+    ],
+    "name:fre_x_preferred":[
+        "Coste\u0219tii din Deal"
+    ],
+    "name:ita_x_preferred":[
+        "Coste\u0219tii din Deal"
+    ],
+    "name:rum_x_preferred":[
+        "Coste\u0219tii din Deal"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0441\u0442\u0435\u0448\u0442\u0456\u0439-\u0434\u0456\u043d-\u0414\u044f\u043b"
+    ],
+    "name:unk_x_variant":[
+        "Coste\u015fti-Deal"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*D\u00e2mbovita",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Produle\u015fti",
+    "qs:la_lc":"*RO27068529",
+    "qs:level":"locality",
+    "qs:loc":"Coste\u015ftii din Deal",
+    "qs:loc_alt":"Costestii din Deal",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":680561,
+        "gp:id":870441,
+        "qs:id":410185,
+        "wd:id":"Q12113572"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"d7c671038ae472b52e4030191bcfc791",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101794067,
+            "region_id":85687637
+        }
+    ],
+    "wof:id":101794067,
+    "wof:lastmodified":1514499872,
+    "wof:name":"Coste\u015ftii din Deal",
+    "wof:parent_id":85687637,
+    "wof:placetype":"locality",
+    "wof:population":1031,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.47996935074605,
+    44.67651340036508,
+    25.49409380790757,
+    44.68948534903143
+],
+  "geometry": {"coordinates":[[[25.49409380790757,44.67739293433391],[25.4938470124755,44.67651340036508],[25.49013241789407,44.67707141442617],[25.49037915859924,44.67795095852239],[25.4854261906554,44.67869478572095],[25.48616625468395,44.68133344993186],[25.48492793971212,44.68151938023817],[25.48517462975491,44.68239893549082],[25.48022122388596,44.68314252373193],[25.48120779346527,44.68666078444295],[25.47996935074605,44.68684665837822],[25.48070932964197,44.68948534903143],[25.48318631730353,44.68911356626273],[25.482939611022,44.6882340108902],[25.48417807564743,44.68804810090558],[25.48393136125469,44.68716854747902],[25.48640823209593,44.68679669031104],[25.48616149134256,44.68591714220611],[25.48863829647456,44.68554523319193],[25.48839152936421,44.68466569040879],[25.4908682687884,44.68429372955165],[25.49037469200539,44.68253465319918],[25.49161301426847,44.68234865755045],[25.49136622284703,44.6814691206053],[25.49260451956178,44.6812831136852],[25.49235772003908,44.68040357868585],[25.49359599120629,44.68021756049461],[25.49285559877256,44.67757895704318],[25.49409380790757,44.67739293433391]]],"type":"Polygon"}
+}

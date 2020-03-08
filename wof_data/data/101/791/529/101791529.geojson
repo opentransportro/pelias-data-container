@@ -1,0 +1,86 @@
+{
+  "id": 101791529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000049,
+    "geom:area_square_m":429054.282463,
+    "geom:bbox":"24.2343151046,45.2008106681,24.248097474,45.2071340722",
+    "geom:latitude":45.203933,
+    "geom:longitude":24.241264,
+    "gn:population":1945,
+    "iso:country":"RO",
+    "lbl:latitude":45.20405,
+    "lbl:longitude":24.241264,
+    "mps:latitude":45.20405,
+    "mps:longitude":24.241264,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Livadia"
+    ],
+    "name:rum_x_preferred":[
+        "Livadia"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0456\u0432\u0430\u0434\u0456\u044f "
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*V\u00e2lcea",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"B\u0103ile Ol\u0103ne\u015fti",
+    "qs:la_lc":"*RO51167696",
+    "qs:level":"locality",
+    "qs:loc":"Livadia",
+    "qs:loc_alt":"Livadia",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":674666,
+        "gp:id":866654,
+        "qs:id":5,
+        "wd:id":"Q12119545"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"9b11a1ac808682bb81a2b9c054d0c702",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101791529,
+            "region_id":85687643
+        }
+    ],
+    "wof:id":101791529,
+    "wof:lastmodified":1514499996,
+    "wof:name":"Livadia",
+    "wof:parent_id":85687643,
+    "wof:placetype":"locality",
+    "wof:population":1945,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.23431510460739,
+    45.20081066814066,
+    24.24809747401508,
+    45.20713407220131
+],
+  "geometry": {"coordinates":[[[24.24503031685981,45.20627729509818],[24.24456924883538,45.2045122182592],[24.24707512360703,45.20416941589298],[24.24684456602461,45.20328688188636],[24.24809747401508,45.20311546154426],[24.24786690705099,45.20223292942364],[24.24536112210615,45.20257574889035],[24.24490009293714,45.20081066814066],[24.23738279948151,45.20183873135124],[24.23761319533946,45.2027212913589],[24.23636026983854,45.20289258629998],[24.2365906563054,45.20377514819268],[24.2353377048812,45.20394643141424],[24.23556808195593,45.20482899519169],[24.23431510460739,45.20500026669322],[24.23454547228823,45.20588283235571],[24.23830444050833,45.20536896370339],[24.23876531862265,45.20713407220131],[24.24503031685981,45.20627729509818]]],"type":"Polygon"}
+}

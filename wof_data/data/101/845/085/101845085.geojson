@@ -1,0 +1,111 @@
+{
+  "id": 101845085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000159,
+    "geom:area_square_m":1407244.651836,
+    "geom:bbox":"24.2607271819,44.174289086,24.2778538728,44.1919547333",
+    "geom:latitude":44.182464,
+    "geom:longitude":24.269341,
+    "gn:population":2187,
+    "iso:country":"RO",
+    "lbl:latitude":44.181986,
+    "lbl:longitude":24.269471,
+    "mps:latitude":44.181986,
+    "mps:longitude":24.269471,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Cezieni"
+    ],
+    "name:eng_x_preferred":[
+        "Cezieni"
+    ],
+    "name:fre_x_preferred":[
+        "Cezieni"
+    ],
+    "name:ita_x_preferred":[
+        "Cezieni"
+    ],
+    "name:por_x_preferred":[
+        "Cezieni"
+    ],
+    "name:rum_x_preferred":[
+        "Cezieni"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0435\u0437\u0456\u0454\u043d\u044c"
+    ],
+    "name:vie_x_preferred":[
+        "Cezieni"
+    ],
+    "name:vol_x_preferred":[
+        "Cezieni"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Olt",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Cezieni",
+    "qs:la_lc":"*RO41126102",
+    "qs:level":"locality",
+    "qs:loc":"Cezieni",
+    "qs:loc_alt":"Cezieni",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"039e9c24-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":682235,
+        "gp:id":869197,
+        "qs:id":424822,
+        "qs_pg:id":424822,
+        "wd:id":"Q2719266"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"7e24320827c32683eba82dfe8ada1599",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101845085,
+            "region_id":85687607
+        }
+    ],
+    "wof:id":101845085,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514499840,
+    "wof:name":"Cezieni",
+    "wof:parent_id":85687607,
+    "wof:placetype":"locality",
+    "wof:population":2187,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.26072718187652,
+    44.1742890860113,
+    24.27785387279903,
+    44.19195473327829
+],
+  "geometry": {"coordinates":[[[24.27785387279903,44.19055758715984],[24.27695631143177,44.18702453163667],[24.27572546099952,44.18719582601716],[24.27325812311261,44.1774797804199],[24.27202746531384,44.17765102638094],[24.27157901382208,44.1758844492997],[24.27034838565953,44.17605567452961],[24.26990000703711,44.1742890860113],[24.26374694866547,44.17514496269655],[24.26419514622455,44.1769115819535],[24.26173380443566,44.17725384284938],[24.26195788073881,44.17813715664249],[24.26072718187652,44.17830826829004],[24.26184761024206,44.18272483280879],[24.26307839966125,44.18255370579539],[24.26352667136365,44.18432031621018],[24.26475749043504,44.18414916846478],[24.26520583502122,44.18591576744814],[24.2664366837455,44.18574459896979],[24.26688510122358,44.18751118652],[24.26811597960165,44.18733999730733],[24.26834022020711,44.18822328602579],[24.26957111012223,44.18805207915307],[24.26979537801253,44.18893536347468],[24.27102627946476,44.18876413894111],[24.27125057464116,44.18964741886589],[24.27248148762942,44.18947617667123],[24.2727058100935,44.19035945219827],[24.27393673461773,44.19018819234202],[24.27438544329669,44.19195473327829],[24.27684734506693,44.19161215750216],[24.2766229499062,44.19072889384887],[24.27785387279903,44.19055758715984]]],"type":"Polygon"}
+}

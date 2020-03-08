@@ -1,0 +1,153 @@
+{
+  "id": 101790815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000283,
+    "geom:area_square_m":2474642.807638,
+    "geom:bbox":"28.726718159,45.0266955397,28.7492394641,45.0500235456",
+    "geom:latitude":45.037354,
+    "geom:longitude":28.737647,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":3210,
+    "gn:population":3210,
+    "iso:country":"RO",
+    "lbl:latitude":45.03697,
+    "lbl:longitude":28.734661,
+    "mps:latitude":45.03697,
+    "mps:longitude":28.734661,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0415\u043d\u0438\u043a\u044c\u043e\u0439"
+    ],
+    "name:dut_x_preferred":[
+        "Mihail Kog\u0103lniceanu"
+    ],
+    "name:eng_x_preferred":[
+        "Mihail Kog\u0103lniceanu"
+    ],
+    "name:epo_x_preferred":[
+        "Mihail Kog\u0103lniceanu"
+    ],
+    "name:hun_x_preferred":[
+        "Mihail Kog\u0103lniceanu"
+    ],
+    "name:ita_x_preferred":[
+        "Mihail Kog\u0103lniceanu"
+    ],
+    "name:may_x_preferred":[
+        "Mihail Kog\u0103lniceanu"
+    ],
+    "name:por_x_preferred":[
+        "Mihail Kog\u0103lniceanu"
+    ],
+    "name:rum_x_colloquial":[
+        "Mihail-Cogaelniceanu",
+        "Cogaelniceanu",
+        "Mihail Kogalniceanu",
+        "Mihail-Cogalniceanu",
+        "Cogalniceanu",
+        "Mihail Kogaelniceanu"
+    ],
+    "name:rum_x_preferred":[
+        "Mihail Kog\u0103lniceanu"
+    ],
+    "name:rum_x_variant":[
+        "Cog\u0103lniceanu",
+        "Mihail-Cog\u0103lniceanu"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0456\u0445\u0430\u0457\u043b-\u041a\u043e\u0433\u0435\u043b\u043d\u0456\u0447\u0430\u043d\u0443"
+    ],
+    "name:unk_x_variant":[
+        "Cog\u0103lniceanu"
+    ],
+    "name:vie_x_preferred":[
+        "Mihail Kogalniceanu"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Tulcea",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Mihail Kog\u0103lniceanu",
+    "qs:la_lc":"*RO49160877",
+    "qs:level":"locality",
+    "qs:loc":"Mihail Kog\u0103lniceanu",
+    "qs:loc_alt":"Mihail Kogalniceanu",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":673380,
+    "qs_pg:gn_pop":3210,
+    "qs_pg:name":"Mihail Kog\u0103lniceanu",
+    "qs_pg:name_adm0":"Rom\u00e2nia",
+    "qs_pg:name_adm1":"Tulcea",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":2,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":127424,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424933,
+    "qs_pg:woe_id":875721,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a1f400-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":673380,
+        "gp:id":875721,
+        "qs:id":127424,
+        "qs_pg:id":127424,
+        "wd:id":"Q1176875"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"a1a46f4cfec4263514775a50adef886e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101790815,
+            "region_id":85687679
+        }
+    ],
+    "wof:id":101790815,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1534379452,
+    "wof:name":"Mihail Kog\u0103lniceanu",
+    "wof:parent_id":85687679,
+    "wof:placetype":"locality",
+    "wof:population":3210,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125911093
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.72671815899366,
+    45.02669553974943,
+    28.74923946406324,
+    45.05002354557445
+],
+  "geometry": {"coordinates":[[[28.7423603261845,45.04629277745084],[28.73995147649748,45.03934098818695],[28.74366042792917,45.03866662255302],[28.7451661316141,45.04301144321755],[28.74763889816154,45.04256175278903],[28.74703650904092,45.04082384628725],[28.74827284364466,45.04059898747835],[28.74767046848729,45.03886108188948],[28.74890675886934,45.03863621673992],[28.74800323556303,45.03602935700559],[28.74923946406324,45.03580448959679],[28.74863714147818,45.03406658220564],[28.74740094830423,45.03429144145173],[28.74709982315647,45.03342248095544],[28.74586363876057,45.03364732161748],[28.743455222325,45.02669553974943],[28.7422191703302,45.02692033326889],[28.74252016162006,45.02778931642541],[28.74128408308718,45.02801409952247],[28.74158506903126,45.02888308494596],[28.74034896395966,45.02910785762003],[28.74064994455688,45.02997684531056],[28.73570536483379,45.03087580729579],[28.73540445488493,45.03000680329063],[28.73416830542163,45.03023150345098],[28.73326570242517,45.02762446833452],[28.72955735974551,45.02829844510012],[28.73045980377168,45.03090551691258],[28.72922361880268,45.03113015905922],[28.7295244404288,45.03199918345268],[28.72828822891893,45.03222381517264],[28.72888987376325,45.03396186668249],[28.72765361804238,45.03418649205196],[28.72795444126007,45.03505551916874],[28.72671815899366,45.03528013411051],[28.72852325079572,45.04049428326135],[28.72975963908971,45.04026964385366],[28.73096335057414,45.04374569077027],[28.73219980068353,45.04352102054133],[28.73280176567289,45.04525902497858],[28.73403824225016,45.0450343320839],[28.73433926089842,45.04590332750689],[28.73557574626727,45.04567861602476],[28.73708111270372,45.05002354557445],[28.74079078064244,45.04934926287154],[28.73988736472279,45.04674234730402],[28.7423603261845,45.04629277745084]]],"type":"Polygon"}
+}

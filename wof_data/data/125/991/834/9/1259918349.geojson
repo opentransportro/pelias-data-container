@@ -1,0 +1,73 @@
+{
+  "id": 1259918349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.02817,45.4819,27.02817,45.4819",
+    "geom:latitude":45.4819,
+    "geom:longitude":27.02817,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"177655.0",
+    "gn:asciiname":"Coroteni",
+    "gn:cc2":"RO",
+    "gn:country_code":"RO",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":682676,
+    "gn:latitude":45.4819,
+    "gn:longitude":27.02817,
+    "gn:modification_date":"2013-04-21",
+    "gn:name":"Coroteni",
+    "gn:population":937,
+    "gn:timezone":"Europe/Bucharest",
+    "iso:country":"RO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caroteni"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":682676
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"b933e526d28a832a2c85526289227f7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1259918349,
+            "region_id":85687705
+        }
+    ],
+    "wof:id":1259918349,
+    "wof:lastmodified":1537683621,
+    "wof:name":"Coroteni",
+    "wof:parent_id":85687705,
+    "wof:placetype":"locality",
+    "wof:population":937,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.02817000000001,
+    45.4819,
+    27.02817000000001,
+    45.4819
+],
+  "geometry": {"coordinates":[27.02817000000001,45.4819],"type":"Point"}
+}

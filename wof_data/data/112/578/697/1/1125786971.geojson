@@ -1,0 +1,79 @@
+{
+  "id": 1125786971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.01667,45.41667,27.01667,45.41667",
+    "geom:latitude":45.41667,
+    "geom:longitude":27.01667,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":3312,
+    "gn:population":3312,
+    "iso:country":"RO",
+    "lbl:latitude":45.41667,
+    "lbl:longitude":27.01667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Jideni"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":670330,
+    "qs_pg:gn_pop":3312,
+    "qs_pg:name":"Podgoria",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":275239,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":670330,
+        "qs_pg:id":275239
+    },
+    "wof:country":"RO",
+    "wof:created":1497290722,
+    "wof:geomhash":"d5ddb5451c0cd1d4aed87a7dd54ca881",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125786971,
+            "region_id":85687667
+        }
+    ],
+    "wof:id":1125786971,
+    "wof:lastmodified":1509392035,
+    "wof:name":"Podgoria",
+    "wof:parent_id":85687667,
+    "wof:placetype":"locality",
+    "wof:population":3312,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.01667,
+    45.41667,
+    27.01667,
+    45.41667
+],
+  "geometry": {"coordinates":[27.01667,45.41667],"type":"Point"}
+}

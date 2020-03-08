@@ -1,0 +1,99 @@
+{
+  "id": 101794957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000055,
+    "geom:area_square_m":489016.483,
+    "geom:bbox":"22.6529238336,44.387590723,22.6721089982,44.3977041931",
+    "geom:latitude":44.392882,
+    "geom:longitude":22.663069,
+    "gn:population":4966,
+    "iso:country":"RO",
+    "lbl:latitude":44.390558,
+    "lbl:longitude":22.667212,
+    "mps:latitude":44.390558,
+    "mps:longitude":22.667212,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Jiana Veche"
+    ],
+    "name:eng_x_preferred":[
+        "Jiana Veche"
+    ],
+    "name:fre_x_preferred":[
+        "Jiana Veche"
+    ],
+    "name:rum_x_preferred":[
+        "Jiana Veche"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0416\u0456\u0430\u043d\u0430-\u0412\u0435\u043a\u0435"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Mehedinti",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Jiana",
+    "qs:la_lc":"*RO38112548",
+    "qs:level":"locality",
+    "qs:loc":"Jiana Veche",
+    "qs:loc_alt":"Jiana Veche",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a13be6-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":675267,
+        "gp:id":874308,
+        "qs:id":127513,
+        "qs_pg:id":127513,
+        "wd:id":"Q12104926"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"af52af4a369dd963722919cd5c1f828b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101794957,
+            "region_id":85687599
+        }
+    ],
+    "wof:id":101794957,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514499987,
+    "wof:name":"Jiana Veche",
+    "wof:parent_id":85687599,
+    "wof:placetype":"locality",
+    "wof:population":4966,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.65292383364579,
+    44.38759072298888,
+    22.67210899817803,
+    44.39770419313146
+],
+  "geometry": {"coordinates":[[[22.66407424638987,44.39278701823486],[22.66902983112357,44.39217830078633],[22.66963112971206,44.39483951206307],[22.67210899817803,44.39453504835302],[22.67150758787602,44.39187385363743],[22.6702687124681,44.39202608458044],[22.66926662025833,44.38759072298888],[22.66678903779757,44.38789511306857],[22.66698940249165,44.38878219323186],[22.66575058374468,44.38893436892613],[22.66595093807973,44.38982145068547],[22.66471209478266,44.38997361440192],[22.66491243875714,44.39086069775715],[22.66367357090883,44.3910128494951],[22.6638739045211,44.39189993444637],[22.66015720952095,44.39235630951089],[22.66035749553009,44.39324340157435],[22.65292383364579,44.39415577031968],[22.65372461327047,44.39770419313146],[22.65620267328171,44.39740010711444],[22.65600242874802,44.39651300866819],[22.65848042778225,44.3962088692079],[22.65828015425438,44.39532177511518],[22.66075809231177,44.39501758221462],[22.66055778979359,44.39413049247554],[22.66427459651516,44.39367410086072],[22.66407424638987,44.39278701823486]]],"type":"Polygon"}
+}

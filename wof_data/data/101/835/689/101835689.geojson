@@ -1,0 +1,98 @@
+{
+  "id": 101835689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000096,
+    "geom:area_square_m":840633.717076,
+    "geom:bbox":"26.3937091918,44.6753379517,26.4123161572,44.6844824548",
+    "geom:latitude":44.680476,
+    "geom:longitude":26.401248,
+    "gn:population":2265,
+    "iso:country":"RO",
+    "lbl:latitude":44.680604,
+    "lbl:longitude":26.401248,
+    "mps:latitude":44.680604,
+    "mps:longitude":26.401248,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Fierbin\u021bii de Sus"
+    ],
+    "name:eng_x_preferred":[
+        "Fierbin\u021bii de Sus"
+    ],
+    "name:fre_x_preferred":[
+        "Fierbin\u021bii de Sus"
+    ],
+    "name:ita_x_preferred":[
+        "Fierbin\u021bii de Sus"
+    ],
+    "name:rum_x_preferred":[
+        "Fierbin\u021bii de Sus"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0424'\u0454\u0440\u0431\u0456\u043d\u0446\u0456\u0439-\u0434\u0435-\u0421\u0443\u0441"
+    ],
+    "name:unk_x_variant":[
+        "Fierbin\u0163i"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Ialomita",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Fierbin\u0163i-T\u00e2rg",
+    "qs:la_lc":"*RO34102749",
+    "qs:level":"locality",
+    "qs:loc":"Fierbin\u0163ii de Sus",
+    "qs:loc_alt":"Fierbintii de Sus",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":678284,
+        "gp:id":872111,
+        "qs:id":1278480,
+        "wd:id":"Q12165083"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"618b8d27fca66b3853e6dc172b186db2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101835689,
+            "region_id":85687621
+        }
+    ],
+    "wof:id":101835689,
+    "wof:lastmodified":1514499926,
+    "wof:name":"Fierbin\u0163ii de Sus",
+    "wof:parent_id":85687621,
+    "wof:placetype":"locality",
+    "wof:population":2265,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.39370919177031,
+    44.67533795174484,
+    26.41231615724786,
+    44.68448245481341
+],
+  "geometry": {"coordinates":[[[26.39462084520443,44.67568880236098],[26.39370919177031,44.68226523778139],[26.3939696198492,44.68314005360367],[26.39644131805761,44.68274655174696],[26.39670241001704,44.68362343195645],[26.39917411346113,44.68322986463517],[26.39943525216802,44.68410673618706],[26.40685028572602,44.68292566281286],[26.40711154326664,44.68380251144799],[26.40834737324207,44.68360561127605],[26.40860865951163,44.68448245481341],[26.41231615724786,44.68389165609659],[26.41179348730213,44.68213798888235],[26.41055769846997,44.68233492924037],[26.41029639758113,44.68145808976806],[26.40906061905912,44.68165501197728],[26.40879934689718,44.68077816740697],[26.40756357868605,44.68097507146786],[26.40730233524971,44.6800982217996],[26.40606657735015,44.68029510771254],[26.4050217827326,44.67678767945694],[26.40007896236466,44.67757502025643],[26.39981786253452,44.67669814510833],[26.39858215620455,44.67689494028843],[26.3983210850912,44.67601806004592],[26.39708538907723,44.67621483708109],[26.39682434667941,44.67533795174484],[26.39462084520443,44.67568880236098]]],"type":"Polygon"}
+}

@@ -1,0 +1,126 @@
+{
+  "id": 101845195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000132,
+    "geom:area_square_m":1137280.056398,
+    "geom:bbox":"25.8487366898,45.9501082988,25.8678090773,45.9620884891",
+    "geom:latitude":45.956309,
+    "geom:longitude":25.856865,
+    "gn:population":2466,
+    "iso:country":"RO",
+    "lbl:latitude":45.956973,
+    "lbl:longitude":25.855132,
+    "mps:latitude":45.956973,
+    "mps:longitude":25.855132,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u062f\u0648\u0643"
+    ],
+    "name:dut_x_preferred":[
+        "Bodoc"
+    ],
+    "name:eng_x_preferred":[
+        "Bodok"
+    ],
+    "name:epo_x_preferred":[
+        "Bodoc"
+    ],
+    "name:fre_x_preferred":[
+        "Bodoc"
+    ],
+    "name:hun_x_preferred":[
+        "Sepsibodok"
+    ],
+    "name:ita_x_preferred":[
+        "Bodoc"
+    ],
+    "name:may_x_preferred":[
+        "Bodoc"
+    ],
+    "name:por_x_preferred":[
+        "Bodoc"
+    ],
+    "name:rum_x_preferred":[
+        "Bodoc"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u0434\u043e\u043a"
+    ],
+    "name:unk_x_variant":[
+        "Bodok"
+    ],
+    "name:vie_x_preferred":[
+        "Bodoc"
+    ],
+    "name:vol_x_preferred":[
+        "Bodoc"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Covasna",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Bodoc",
+    "qs:la_lc":"*RO26063893",
+    "qs:level":"locality",
+    "qs:loc":"Bodoc",
+    "qs:loc_alt":"Bodoc",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"039dc952-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":684452,
+        "gp:id":867587,
+        "qs:id":629807,
+        "qs_pg:id":629807,
+        "wd:id":"Q1091912"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"77525b13936090a40c79013324038876",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101845195,
+            "region_id":85687699
+        }
+    ],
+    "wof:id":101845195,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514499778,
+    "wof:name":"Bodoc",
+    "wof:parent_id":85687699,
+    "wof:placetype":"locality",
+    "wof:population":2466,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.84873668981095,
+    45.95010829880204,
+    25.8678090772803,
+    45.9620884890719
+],
+  "geometry": {"coordinates":[[[25.85161839661674,45.9620884890719],[25.85921223829473,45.96094252763857],[25.8586879612136,45.95918759920471],[25.86628128367204,45.95804114076134],[25.86654353228369,45.95891858415536],[25.8678090772803,45.9587274516532],[25.86676007196729,45.95521768384651],[25.86549460401551,45.95540880198735],[25.86470802361328,45.95277645032519],[25.86217717926087,45.95315862006908],[25.86191504636292,45.95228115947299],[25.85685333870902,45.95304530460788],[25.85659129387005,45.95216782822689],[25.85406043058111,45.95254980361881],[25.85379843528227,45.95167231863229],[25.85253301090506,45.95186328024096],[25.85200909188029,45.95010829880204],[25.84947829618426,45.95049016267336],[25.8500021381688,45.9522451584578],[25.84873668981095,45.95243607506569],[25.85083234434177,45.95945602968663],[25.84956673387217,45.95964695998578],[25.85009071916323,45.9614019415144],[25.85135636816983,45.96121100404025],[25.85161839661674,45.9620884890719]]],"type":"Polygon"}
+}

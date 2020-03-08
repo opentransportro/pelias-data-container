@@ -1,0 +1,108 @@
+{
+  "id": 101793643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000075,
+    "geom:area_square_m":658654.459651,
+    "geom:bbox":"25.8810303653,44.4739664864,25.8973105321,44.4858435186",
+    "geom:latitude":44.480814,
+    "geom:longitude":25.890241,
+    "gn:population":1386,
+    "iso:country":"RO",
+    "lbl:latitude":44.483102,
+    "lbl:longitude":25.890364,
+    "mps:latitude":44.483102,
+    "mps:longitude":25.890364,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "B\u00e2cu"
+    ],
+    "name:eng_x_preferred":[
+        "B\u00e2cu"
+    ],
+    "name:fre_x_preferred":[
+        "B\u00e2cu"
+    ],
+    "name:rum_x_colloquial":[
+        "Bacu",
+        "Bacul",
+        "Bicu"
+    ],
+    "name:rum_x_preferred":[
+        "B\u00eecu"
+    ],
+    "name:rum_x_variant":[
+        "B\u00e2cu",
+        "B\u00e2cul"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0438\u043a\u0443 "
+    ],
+    "name:unk_x_variant":[
+        "B\u00eecu"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Giurgiu",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Joi\u0163a",
+    "qs:la_lc":"*RO30103997",
+    "qs:level":"locality",
+    "qs:loc":"B\u00e2cu",
+    "qs:loc_alt":"Bacu",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"039d9e32-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":684894,
+        "gp:id":867272,
+        "qs:id":941081,
+        "wd:id":"Q12082564"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"317e731e997011620fa84d01a6a92729",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101793643,
+            "region_id":85687591
+        }
+    ],
+    "wof:id":101793643,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514499816,
+    "wof:name":"B\u00e2cu",
+    "wof:parent_id":85687591,
+    "wof:placetype":"locality",
+    "wof:population":1386,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.88103036531641,
+    44.47396648635657,
+    25.89731053211472,
+    44.48584351864531
+],
+  "geometry": {"coordinates":[[[25.89313383746395,44.48450911379433],[25.89263044878959,44.48275202402874],[25.89509638066693,44.48237064818119],[25.89484466580677,44.4814921079543],[25.89731053211472,44.48111068073365],[25.89680706135721,44.47935360959173],[25.89557416786516,44.47954432360541],[25.89431576103277,44.47515160263566],[25.89308295003531,44.47534228489712],[25.89283131752489,44.47446373282196],[25.8903657092925,44.47484504678721],[25.89011412302762,44.47396648635657],[25.88888132579422,44.47415711806099],[25.89013927012888,44.47854992259192],[25.89137215725657,44.47835927370187],[25.89212710129539,44.48099492834024],[25.88842825588057,44.48156686226162],[25.8881766515226,44.48068830188339],[25.88694370623807,44.48087891396096],[25.88669213015453,44.48000034866544],[25.88545919545618,44.48019094274338],[25.88596232194652,44.48194807872778],[25.88103036531641,44.48271033690031],[25.88128187205325,44.4835889164184],[25.8825148902917,44.48339837028453],[25.88276642530445,44.48427694488691],[25.88399945413335,44.48408638075267],[25.88450259100455,44.48584351864531],[25.89313383746395,44.48450911379433]]],"type":"Polygon"}
+}

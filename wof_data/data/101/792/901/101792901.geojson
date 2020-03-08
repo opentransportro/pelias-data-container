@@ -1,0 +1,124 @@
+{
+  "id": 101792901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000223,
+    "geom:area_square_m":1935650.737815,
+    "geom:bbox":"21.0364014584,45.3837617932,21.0665592545,45.3957298138",
+    "geom:latitude":45.389369,
+    "geom:longitude":21.052471,
+    "gn:population":1128,
+    "iso:country":"RO",
+    "lbl:latitude":45.389126,
+    "lbl:longitude":21.055487,
+    "mps:latitude":45.389126,
+    "mps:longitude":21.055487,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Livezile"
+    ],
+    "name:eng_x_preferred":[
+        "Tolvadija"
+    ],
+    "name:epo_x_preferred":[
+        "Livezile"
+    ],
+    "name:fre_x_preferred":[
+        "Livezile"
+    ],
+    "name:hun_x_preferred":[
+        "Tolv\u00e1d"
+    ],
+    "name:ita_x_preferred":[
+        "Livezile"
+    ],
+    "name:por_x_preferred":[
+        "Livezile"
+    ],
+    "name:rum_x_colloquial":[
+        "Tolvadia",
+        "Tolvaedia"
+    ],
+    "name:rum_x_preferred":[
+        "Livezile"
+    ],
+    "name:rum_x_variant":[
+        "Tolv\u0103dia"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u043e\u043b\u0432\u0430\u0434\u0438\u0458\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0456\u0432\u0435\u0437\u0456\u043b\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Tolvadija"
+    ],
+    "name:vol_x_preferred":[
+        "Livezile"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Timis",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Banloc",
+    "qs:la_lc":"*RO48155591",
+    "qs:level":"locality",
+    "qs:loc":"Livezile",
+    "qs:loc_alt":"Livezile",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a178e0-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":674644,
+        "gp:id":874774,
+        "qs:id":1278792,
+        "wd:id":"Q1089925"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"9776cc1acde51a6342b0391b1f833c6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101792901,
+            "region_id":85687655
+        }
+    ],
+    "wof:id":101792901,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514499997,
+    "wof:name":"Livezile",
+    "wof:parent_id":85687655,
+    "wof:placetype":"locality",
+    "wof:population":1128,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.03640145840751,
+    45.38376179315713,
+    21.06655925449672,
+    45.39572981375125
+],
+  "geometry": {"coordinates":[[[21.05445707923673,45.39559655256517],[21.05427693811339,45.39470669257275],[21.05554126005421,45.39457341875391],[21.05536110670721,45.39368356027279],[21.06421106774218,45.39275023750014],[21.0640307832906,45.39186039549344],[21.06655925449672,45.39159360071517],[21.06601832786487,45.38892408376887],[21.06475415444203,45.38905748123545],[21.06385286105615,45.38460825419992],[21.06006060493581,45.38500831845363],[21.05988042846423,45.38411846261789],[21.05482408930334,45.38465165994506],[21.0546439996487,45.38376179315713],[21.04326709369786,45.3849605800749],[21.04362692403566,45.38674035750341],[21.04236275632258,45.38687348541623],[21.0425426630535,45.38776337514844],[21.04001427154844,45.38802959058251],[21.04019414623531,45.38891948431274],[21.03640145840751,45.3893187015006],[21.03658128123118,45.39020860171649],[21.04037402850349,45.38980937706225],[21.04091372079989,45.39247904942795],[21.03964941774473,45.39261214690498],[21.03982931052451,45.39350203822204],[21.03856498216624,45.39363512306301],[21.03874486271013,45.39452501588909],[21.04000921088721,45.39439192855895],[21.04018911883281,45.39528181791547],[21.04524653595257,45.39474930737686],[21.04506654873171,45.39385942798071],[21.04633086947422,45.39372626502222],[21.04597087815802,45.39194650826903],[21.04976368855426,45.39154694358882],[21.05030386525635,45.39421655482704],[21.0515681838566,45.39408332887609],[21.05174827775369,45.39497319483456],[21.05301261067973,45.39483995126642],[21.05319273198586,45.39572981375125],[21.05445707923673,45.39559655256517]]],"type":"Polygon"}
+}

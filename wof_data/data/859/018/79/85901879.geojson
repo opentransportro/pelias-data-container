@@ -1,0 +1,139 @@
+{
+  "id": 85901879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":18965486.890974,
+    "geom:bbox":"21.888067,45.297164,21.888067,45.297164",
+    "geom:latitude":45.297164,
+    "geom:longitude":21.888067,
+    "gn:latitude":45.3,
+    "gn:longitude":21.9,
+    "iso:country":"RO",
+    "lbl:latitude":45.297164,
+    "lbl:longitude":21.888067,
+    "mps:latitude":45.297096,
+    "mps:longitude":21.887067,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "name:ace_x_preferred":[
+        "Re\u015fi\u0163a"
+    ],
+    "name:ara_x_preferred":[
+        "\u0631\u064a\u0634\u064a\u062a\u0633\u0627"
+    ],
+    "name:bel_x_preferred":[
+        "\u0413\u043e\u0440\u0430\u0434 \u0420\u044d\u0448\u044b\u0446\u0430"
+    ],
+    "name:bul_x_preferred":[
+        "\u0420\u0435\u0448\u0438\u0446\u0430"
+    ],
+    "name:ces_x_preferred":[
+        "Re\u0219i\u021ba"
+    ],
+    "name:dan_x_preferred":[
+        "Re\u0219i\u021ba"
+    ],
+    "name:deu_x_preferred":[
+        "Re\u0219i\u021ba"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03ad\u03c3\u03b9\u03c4\u03c3\u03b1"
+    ],
+    "name:epo_x_preferred":[
+        "Re\u0219i\u021ba"
+    ],
+    "name:rum_x_colloquial":[
+        "Resita Montana"
+    ],
+    "name:rum_x_preferred":[
+        "Re\u0219i\u021ba Montana"
+    ],
+    "name:spa_x_preferred":[
+        "Re\u0219i\u021ba"
+    ],
+    "name:unk_x_variant":[
+        "Re\u0219i\u021ba Montana"
+    ],
+    "qs:gn_adm0_cc":"RO",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":668954,
+    "qs:gn_namadm1":"00",
+    "qs:gn_name":"Re\u015fi\u0163a Montana",
+    "qs:local_max":208,
+    "qs:local_sum":210,
+    "qs:localhoods":2,
+    "qs:name":"Re\u0219i\u021ba Montana",
+    "qs:name_adm0":"Rom\u00e2nia",
+    "qs:name_adm1":"Caras-Severin",
+    "qs:name_local":"Re\u0219i\u021ba",
+    "qs:photo_max":30,
+    "qs:photo_sum":208,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":29,
+    "qs:woe_adm0":23424933,
+    "qs:woe_adm1":2346626,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":879030,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        101792695,
+        85633745,
+        85687627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":668952,
+        "gp:id":879032,
+        "qs:id":1350797,
+        "qs_pg:id":1350797
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"9954efc218df4c18838449ecac56df43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101792695,
+            "neighbourhood_id":85901879,
+            "region_id":85687627
+        }
+    ],
+    "wof:id":85901879,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1531932588,
+    "wof:name":"Re\u0219i\u021ba Montana",
+    "wof:parent_id":101792695,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.888067,
+    45.297164,
+    21.888067,
+    45.297164
+],
+  "geometry": {"coordinates":[21.888067,45.297164],"type":"Point"}
+}

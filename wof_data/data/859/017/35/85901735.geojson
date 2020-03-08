@@ -1,0 +1,139 @@
+{
+  "id": 85901735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":7951571.925196,
+    "geom:bbox":"25.433899,45.708096,25.433899,45.708096",
+    "geom:latitude":45.708096,
+    "geom:longitude":25.433899,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "gn:latitude":45.7,
+    "gn:longitude":25.43333,
+    "iso:country":"RO",
+    "lbl:latitude":45.708096,
+    "lbl:longitude":25.433899,
+    "mps:latitude":45.699607,
+    "mps:longitude":25.44711,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:rum_x_colloquial":[
+        "Colonia Tiganilor"
+    ],
+    "name:rum_x_preferred":[
+        "Colonia \u0162iganilor"
+    ],
+    "name:unk_x_variant":[
+        "Colonia \u0162iganilor"
+    ],
+    "qs:gn_adm0_cc":"RO",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":681179,
+    "qs:gn_nam_loc":"codlea",
+    "qs:gn_namadm1":"00",
+    "qs:gn_name":"Colonia \u0162iganilor",
+    "qs:local_max":10,
+    "qs:local_sum":10,
+    "qs:localhoods":1,
+    "qs:name":"Colonia \u0162iganilor",
+    "qs:name_adm0":"Rom\u00e2nia",
+    "qs:name_adm1":"Brasov",
+    "qs:name_local":"Codlea",
+    "qs:photo_max":5,
+    "qs:photo_sum":10,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":4,
+    "qs:woe_adm0":23424933,
+    "qs:woe_adm1":2346623,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":869979,
+    "qs:woe_ver":"7.10.0",
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":681062,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Colonia \u0162iganilor",
+    "qs_pg:name_adm0":"Rom\u00e2nia",
+    "qs_pg:name_adm1":"Brasov",
+    "qs_pg:photos":10,
+    "qs_pg:photos_1k":2,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":10,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":57986,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424933,
+    "qs_pg:woe_id":870075,
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":681063,
+        "gp:id":870073,
+        "qs:id":57986,
+        "qs_pg:id":1067251
+    },
+    "wof:concordances_alt":{
+        "gn:id":681062,
+        "gp:id":870075,
+        "qs_pg:id":57986
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"847afdb5ff3b2de770490ff33bd8a270",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":-1,
+            "neighbourhood_id":85901735,
+            "region_id":85687683
+        }
+    ],
+    "wof:id":85901735,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1534379453,
+    "wof:name":"Colonia \u0162iganilor",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1126107001
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.433899,
+    45.708096,
+    25.433899,
+    45.708096
+],
+  "geometry": {"coordinates":[25.433899,45.708096],"type":"Point"}
+}

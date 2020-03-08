@@ -1,0 +1,96 @@
+{
+  "id": 1125814331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.06667,46.1,22.06667,46.1",
+    "geom:latitude":46.1,
+    "geom:longitude":22.06667,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":385,
+    "iso:country":"RO",
+    "lbl:latitude":46.1,
+    "lbl:longitude":22.06667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ron_x_preferred":[
+        "Dumbr\u0103vi\u021ba"
+    ],
+    "name:unk_x_variant":[
+        "Als\u00f3dombr\u00f3"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":678685,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Dumbr\u0103vi\u021ba",
+    "qs_pg:name_adm0":"Rom\u00e2nia",
+    "qs_pg:name_adm1":"Timis",
+    "qs_pg:photos":257,
+    "qs_pg:photos_1k":52,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":257,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":238633,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424933,
+    "qs_pg:woe_id":871809,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424933,
+    "woe:name_adm0":"Rom\u00e2nia",
+    "woe:name_adm1":"Timis",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":678685,
+        "gp:id":871809,
+        "qs_pg:id":238633
+    },
+    "wof:country":"RO",
+    "wof:created":1497291778,
+    "wof:geomhash":"ad65f9912957dc7f578de09c984942f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125814331,
+            "region_id":85687691
+        }
+    ],
+    "wof:id":1125814331,
+    "wof:lastmodified":1509393714,
+    "wof:name":"Dumbr\u0103vi\u021ba",
+    "wof:parent_id":85687691,
+    "wof:placetype":"locality",
+    "wof:population":385,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.06667,
+    46.1,
+    22.06667,
+    46.1
+],
+  "geometry": {"coordinates":[22.06667,46.1],"type":"Point"}
+}

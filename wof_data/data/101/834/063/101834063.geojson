@@ -1,0 +1,129 @@
+{
+  "id": 101834063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000296,
+    "geom:area_square_m":2534226.712988,
+    "geom:bbox":"23.9114765087,46.1666408517,23.9375877888,46.1875869136",
+    "geom:latitude":46.177715,
+    "geom:longitude":23.923166,
+    "gn:population":20371,
+    "iso:country":"RO",
+    "lbl:latitude":46.176356,
+    "lbl:longitude":23.922276,
+    "mps:latitude":46.176356,
+    "mps:longitude":23.922276,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Blasendorf"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0644\u0647"
+    ],
+    "name:hbs_x_preferred":[
+        "Op\u0161tina Blaj"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d6\u30e9\u30b8"
+    ],
+    "name:lit_x_preferred":[
+        "Bla\u017eas"
+    ],
+    "name:rum_x_colloquial":[
+        "Balazsfalva"
+    ],
+    "name:rum_x_preferred":[
+        "Blaj"
+    ],
+    "name:rum_x_variant":[
+        "Bal\u00e1zsfalva"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043b\u0430\u0439"
+    ],
+    "name:rus_x_variant":[
+        "\u0411\u043b\u0430\u0436"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u043b\u0430\u0436"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0411\u043b\u0430\u0436"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043b\u0430\u0436"
+    ],
+    "name:unk_x_variant":[
+        "Blasendorf"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u62c9\u65e5"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Alba",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Blaj",
+    "qs:la_lc":"*RO11001348",
+    "qs:level":"locality",
+    "qs:loc":"Blaj",
+    "qs:loc_alt":"Blaj",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"039db8c2-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":684612,
+        "gp:id":867463,
+        "qs:id":908602,
+        "qs_pg:id":908602,
+        "wd:id":"Q16897960"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"ea4b85d3b60e2acba28e33eeb3f6576e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101834063,
+            "region_id":85687697
+        }
+    ],
+    "wof:id":101834063,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1505338226,
+    "wof:name":"Blaj",
+    "wof:parent_id":85687697,
+    "wof:placetype":"locality",
+    "wof:population":20371,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.91147650870886,
+    46.16664085171044,
+    23.93758778877549,
+    46.18758691355151
+],
+  "geometry": {"coordinates":[[[23.93758778877549,46.17674291097705],[23.93134639929309,46.1729993879303],[23.92909221683624,46.17329641184563],[23.92857791174316,46.17133887676084],[23.92074512862115,46.16664085171044],[23.92085913284939,46.16707511860665],[23.91830787421964,46.16741101963527],[23.91853958296605,46.16829371019145],[23.91764912867387,46.16841092043438],[23.91147650870886,46.18161230937784],[23.91250367061087,46.18552541402647],[23.91377973986164,46.18535753213678],[23.91401149600125,46.18624022202346],[23.91528757805781,46.18607232173565],[23.91459227929738,46.18342425801751],[23.91842030286432,46.18292049462843],[23.91865211915029,46.1838031741716],[23.91992813264943,46.18363521943741],[23.92039183469615,46.18540056850856],[23.92549597676782,46.18472857196821],[23.9257279224131,46.18561123191762],[23.92700395998526,46.18544319157274],[23.92723593544753,46.18632584711713],[23.92851198581604,46.18615778837193],[23.92874399109695,46.18704043951163],[23.93129611025864,46.18670427001211],[23.93152816532074,46.18758691355151],[23.93408029573709,46.18725067683522],[23.93361611563631,46.18548540132349],[23.93234009393024,46.18565352089541],[23.93048392759852,46.17859234481193],[23.93431149229906,46.17808801714483],[23.93407945601376,46.17720537426214],[23.93758778877549,46.17674291097705]]],"type":"Polygon"}
+}

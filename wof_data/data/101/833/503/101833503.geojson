@@ -1,0 +1,107 @@
+{
+  "id": 101833503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00015,
+    "geom:area_square_m":1259751.492016,
+    "geom:bbox":"21.9476398022,47.2524950077,21.9657932515,47.2659411342",
+    "geom:latitude":47.258593,
+    "geom:longitude":21.954887,
+    "gn:population":1162,
+    "iso:country":"RO",
+    "lbl:latitude":47.257886,
+    "lbl:longitude":21.953806,
+    "mps:latitude":47.257886,
+    "mps:longitude":21.953806,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Ro\u0219iori"
+    ],
+    "name:dut_x_preferred":[
+        "Ro\u0219iori"
+    ],
+    "name:eng_x_preferred":[
+        "Ro\u0219iori"
+    ],
+    "name:epo_x_preferred":[
+        "Ro\u0219iori"
+    ],
+    "name:hun_x_preferred":[
+        "Biharf\u00e9legyh\u00e1za"
+    ],
+    "name:ita_x_preferred":[
+        "Ro\u0219iori"
+    ],
+    "name:may_x_preferred":[
+        "Ro\u0219iori"
+    ],
+    "name:rum_x_preferred":[
+        "Ro\u0219iori"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u043e\u0448\u0456\u043e\u0440\u0456"
+    ],
+    "name:vol_x_preferred":[
+        "Ro\u0219iori"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Bihor",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Ro\u015fiori",
+    "qs:la_lc":"*RO15032187",
+    "qs:level":"locality",
+    "qs:loc":"Ro\u015fiori",
+    "qs:loc_alt":"Rosiori",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":668616,
+        "gp:id":879254,
+        "qs:id":2,
+        "wd:id":"Q1022809"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"12810c456d27e1a711611a55f64e0897",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101833503,
+            "region_id":85687737
+        }
+    ],
+    "wof:id":101833503,
+    "wof:lastmodified":1514500118,
+    "wof:name":"Ro\u015fiori",
+    "wof:parent_id":85687737,
+    "wof:placetype":"locality",
+    "wof:population":1162,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.94763980224889,
+    47.25249500769138,
+    21.9657932514786,
+    47.26594113422959
+],
+  "geometry": {"coordinates":[[[21.94784931915706,47.25276191960563],[21.94763980224889,47.26460922110994],[21.9503190616108,47.26431241960813],[21.95052477629253,47.26519917397263],[21.95183151335311,47.26505438368957],[21.95203725849831,47.26594113422959],[21.95334401047501,47.26579632541257],[21.95313824384635,47.26490957772307],[21.95444496777026,47.2647647560724],[21.9542391886402,47.26387801025822],[21.9555458845133,47.2637331757748],[21.95513431023551,47.2619596869223],[21.95905422955639,47.26152510647955],[21.9588483914543,47.26063836914284],[21.96276818720872,47.26020365611566],[21.96297408974198,47.26109038489693],[21.96428069665996,47.26094544633889],[21.96448662965719,47.2618321712917],[21.9657932514786,47.26168721419936],[21.96435175889638,47.25548013899532],[21.96304528739313,47.25562507612142],[21.96283941729598,47.25473834433512],[21.95761355147096,47.25531792463391],[21.95720200998898,47.25354443532524],[21.95458912355502,47.25383411999383],[21.95438340922306,47.25294736817591],[21.95046409474742,47.25338176903199],[21.95025845380366,47.25249500769138],[21.94784931915706,47.25276191960563]]],"type":"Polygon"}
+}

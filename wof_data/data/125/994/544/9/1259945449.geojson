@@ -1,0 +1,66 @@
+{
+  "id": 1259945449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.95,45.05,22.95,45.05",
+    "geom:latitude":45.05,
+    "geom:longitude":22.95,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"82430.0",
+    "gn:asciiname":"Ungureni",
+    "gn:country_code":"RO",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":664235,
+    "gn:latitude":45.05,
+    "gn:longitude":22.95,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Ungureni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bucharest",
+    "iso:country":"RO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":664235
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"67fdb19cc49b0f575b9423d261b4607a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1259945449,
+            "region_id":85687619
+        }
+    ],
+    "wof:id":1259945449,
+    "wof:lastmodified":1536690149,
+    "wof:name":"Ungureni",
+    "wof:parent_id":85687619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.95,
+    45.05,
+    22.95,
+    45.05
+],
+  "geometry": {"coordinates":[22.95,45.05],"type":"Point"}
+}

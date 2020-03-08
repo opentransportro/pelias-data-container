@@ -1,0 +1,117 @@
+{
+  "id": 1125855273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.38333,44.46667,25.38333,44.46667",
+    "geom:latitude":44.46667,
+    "geom:longitude":25.38333,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":1740,
+    "gn:population":1740,
+    "iso:country":"RO",
+    "lbl:latitude":44.46667,
+    "lbl:longitude":25.38333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "S\u00e2rbeni"
+    ],
+    "name:eng_x_preferred":[
+        "S\u00e2rbeni"
+    ],
+    "name:fre_x_preferred":[
+        "S\u00e2rbeni"
+    ],
+    "name:ita_x_preferred":[
+        "S\u00e2rbeni"
+    ],
+    "name:por_x_preferred":[
+        "S\u00e2rbeni"
+    ],
+    "name:rum_x_preferred":[
+        "S\u00e2rbeni"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0438\u0440\u0431\u0435\u043d\u044c"
+    ],
+    "name:unk_x_variant":[
+        "S\u00e2rbeni"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2rbeni"
+    ],
+    "name:vol_x_preferred":[
+        "S\u00e2rbeni"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":666863,
+    "qs_pg:gn_pop":1740,
+    "qs_pg:name":"S\u00eerbeni",
+    "qs_pg:name_adm0":"Rom\u00e2nia",
+    "qs_pg:name_adm1":"Teleorman",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1279502,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424933,
+    "qs_pg:woe_id":880515,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424933,
+    "woe:name_adm0":"Rom\u00e2nia",
+    "woe:name_adm1":"Teleorman",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":666863,
+        "gp:id":880515,
+        "qs_pg:id":1279502,
+        "wd:id":"Q2721330"
+    },
+    "wof:country":"RO",
+    "wof:created":1497293592,
+    "wof:geomhash":"dc7e071ed7976aeeb01eeb89b96f3391",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125855273,
+            "region_id":85687585
+        }
+    ],
+    "wof:id":1125855273,
+    "wof:lastmodified":1514500181,
+    "wof:name":"S\u00eerbeni",
+    "wof:parent_id":85687585,
+    "wof:placetype":"locality",
+    "wof:population":1740,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.38333,
+    44.46667,
+    25.38333,
+    44.46667
+],
+  "geometry": {"coordinates":[25.38333,44.46667],"type":"Point"}
+}

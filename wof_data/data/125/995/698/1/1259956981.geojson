@@ -1,0 +1,74 @@
+{
+  "id": 1259956981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.72897,45.14953,21.72897,45.14953",
+    "geom:latitude":45.14953,
+    "geom:longitude":21.72897,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"52035.0",
+    "gn:asciiname":"Jitin",
+    "gn:cc2":"RO",
+    "gn:country_code":"RO",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":675205,
+    "gn:latitude":45.14953,
+    "gn:longitude":21.72897,
+    "gn:modification_date":"2013-04-21",
+    "gn:name":"Jitin",
+    "gn:population":223,
+    "gn:timezone":"Europe/Bucharest",
+    "iso:country":"RO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zitin",
+        "Jitin"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":675205
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"37369045d2618b035467cae72c6d8c8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1259956981,
+            "region_id":85687627
+        }
+    ],
+    "wof:id":1259956981,
+    "wof:lastmodified":1537683491,
+    "wof:name":"Jitin",
+    "wof:parent_id":85687627,
+    "wof:placetype":"locality",
+    "wof:population":223,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.72897,
+    45.14953,
+    21.72897,
+    45.14953
+],
+  "geometry": {"coordinates":[21.72897,45.14953],"type":"Point"}
+}

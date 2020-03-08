@@ -1,0 +1,129 @@
+{
+  "id": 101793701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000064,
+    "geom:area_square_m":568845.290447,
+    "geom:bbox":"26.2739798538,44.4132900046,26.2884893431,44.4255766257",
+    "geom:latitude":44.419001,
+    "geom:longitude":26.279902,
+    "gn:population":9530,
+    "iso:country":"RO",
+    "lbl:latitude":44.420287,
+    "lbl:longitude":26.277593,
+    "mps:latitude":44.420287,
+    "mps:longitude":26.277593,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Cernica"
+    ],
+    "name:eng_x_preferred":[
+        "Cernica-Tanganul"
+    ],
+    "name:fre_x_preferred":[
+        "Cernica"
+    ],
+    "name:hun_x_preferred":[
+        "Cernica"
+    ],
+    "name:ita_x_preferred":[
+        "Cernica"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Cernica"
+    ],
+    "name:por_x_preferred":[
+        "Cernica"
+    ],
+    "name:rum_x_colloquial":[
+        "Cernica-Tanganu"
+    ],
+    "name:rum_x_preferred":[
+        "Cernica"
+    ],
+    "name:rum_x_variant":[
+        "Cernica-T\u00e2nganu"
+    ],
+    "name:rup_x_preferred":[
+        "Cernica"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0435\u0440\u043d\u0456\u043a\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Cernica-T\u00e2nganu"
+    ],
+    "name:vie_x_preferred":[
+        "Cernica"
+    ],
+    "name:vol_x_preferred":[
+        "Cernica"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Ilfov",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Pantelimon",
+    "qs:la_lc":"*RO36179515",
+    "qs:level":"locality",
+    "qs:loc":"Cernica",
+    "qs:loc_alt":"Cernica",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"039e94fe-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":682301,
+        "gp:id":869148,
+        "qs:id":908646,
+        "qs_pg:id":908646,
+        "wd:id":"Q2349589"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"d1efe1f2a6c99d5a0289aa953da60556",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101793701,
+            "region_id":85687611
+        }
+    ],
+    "wof:id":101793701,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514499838,
+    "wof:name":"Cernica",
+    "wof:parent_id":85687611,
+    "wof:placetype":"locality",
+    "wof:population":9530,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.27397985380537,
+    44.41329000462741,
+    26.28848934305654,
+    44.42557662568134
+],
+  "geometry": {"coordinates":[[[26.27526606421202,44.42557662568134],[26.27649677106098,44.42538142673402],[26.27598221972062,44.42362650117877],[26.2809048289443,44.42284558827959],[26.28013286661167,44.42021323063466],[26.28136344654246,44.42001797664585],[26.28110612892937,44.41914052455638],[26.28848934305654,44.41796871682055],[26.28823192893969,44.41709128427476],[26.28700142994899,44.41728661834526],[26.28674404416751,44.4164091807603],[26.2855135554633,44.41660449680205],[26.28525619801576,44.4157270541786],[26.28402571959919,44.4159223521919],[26.28325376375295,44.41329000462741],[26.28079289127879,44.4136805360389],[26.2810501637328,44.41455799377491],[26.27981969835128,44.41475324121637],[26.28033423908698,44.41650815913101],[26.27787321436523,44.41689862450482],[26.27813046481106,44.41777608819359],[26.27443881765936,44.41836168790257],[26.27521047145194,44.4209941014052],[26.27397985380537,44.42118928280121],[26.27526606421202,44.42557662568134]]],"type":"Polygon"}
+}

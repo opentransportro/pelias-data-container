@@ -1,0 +1,95 @@
+{
+  "id": 101835779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000217,
+    "geom:area_square_m":1910340.41289,
+    "geom:bbox":"25.5671149979,44.6723424236,25.5889313314,44.6866911654",
+    "geom:latitude":44.679525,
+    "geom:longitude":25.578042,
+    "gn:population":4430,
+    "iso:country":"RO",
+    "lbl:latitude":44.680298,
+    "lbl:longitude":25.57825,
+    "mps:latitude":44.680298,
+    "mps:longitude":25.57825,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Brani\u0219tea"
+    ],
+    "name:eng_x_preferred":[
+        "Brani\u0219tea"
+    ],
+    "name:ita_x_preferred":[
+        "Brani\u0219tea"
+    ],
+    "name:rum_x_preferred":[
+        "Brani\u0219tea"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0440\u0430\u043d\u0456\u0448\u0442\u044f "
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*D\u00e2mbovita",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Titu",
+    "qs:la_lc":"*RO27066081",
+    "qs:level":"locality",
+    "qs:loc":"Brani\u015ftea",
+    "qs:loc_alt":"Branistea",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":683863,
+        "gp:id":868011,
+        "qs:id":1028200,
+        "qs_pg:id":1028200,
+        "wd:id":"Q12084583"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"ddc17b9a6932bbde2df865aeababf180",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101835779,
+            "region_id":85687637
+        }
+    ],
+    "wof:id":101835779,
+    "wof:lastmodified":1514499790,
+    "wof:name":"Brani\u015ftea",
+    "wof:parent_id":85687637,
+    "wof:placetype":"locality",
+    "wof:population":4430,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.56711499789412,
+    44.67234242362315,
+    25.58893133135393,
+    44.68669116537205
+],
+  "geometry": {"coordinates":[[[25.57397537273465,44.67234242362315],[25.56711499789412,44.67547517175495],[25.56813039632294,44.67907605897574],[25.56936843626585,44.67888913954505],[25.57110468872378,44.68504432251314],[25.56986652118763,44.68523126569033],[25.57011457979951,44.68611057518081],[25.57259094399268,44.68573666739712],[25.57283904926089,44.68661596866235],[25.58150622031218,44.68530680640623],[25.58175446338271,44.68618608247192],[25.58423076833901,44.68581189753746],[25.5844790580677,44.68669116537205],[25.58571721775604,44.68650404754521],[25.58497232450071,44.68386624990853],[25.58621042216492,44.68367912762727],[25.58571384122979,44.68192059545908],[25.58695189510149,44.68173346532791],[25.58670360171544,44.68085420047908],[25.58794163001988,44.68066705910257],[25.58769332861539,44.67978779620859],[25.58893133135393,44.67960064358772],[25.58744162785484,44.67432505634122],[25.58620373443028,44.67451218858866],[25.58595550443482,44.67363291560929],[25.57729017246214,44.67494240768212],[25.57679399811144,44.67318380988621],[25.57555610062843,44.67337081483868],[25.57530804696177,44.67249151038811],[25.57407016036143,44.67267849730825],[25.57397537273465,44.67234242362315]]],"type":"Polygon"}
+}

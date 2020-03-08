@@ -1,0 +1,98 @@
+{
+  "id": 101787139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000053,
+    "geom:area_square_m":448882.528015,
+    "geom:bbox":"26.9074547414,46.3967657629,26.9157971062,46.4071941937",
+    "geom:latitude":46.401938,
+    "geom:longitude":26.91134,
+    "gn:population":1666,
+    "iso:country":"RO",
+    "lbl:latitude":46.401049,
+    "lbl:longitude":26.911677,
+    "mps:latitude":46.401049,
+    "mps:longitude":26.911677,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Somu\u0219ca"
+    ],
+    "name:eng_x_preferred":[
+        "Somu\u0219ca"
+    ],
+    "name:epo_x_preferred":[
+        "\u0218omu\u0219ca"
+    ],
+    "name:fre_x_preferred":[
+        "Somu\u0219ca"
+    ],
+    "name:hun_x_preferred":[
+        "Somoska"
+    ],
+    "name:rum_x_preferred":[
+        "Somu\u0219ca"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043e\u043c\u0443\u0448\u043a\u0430"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Bacau",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Cleja",
+    "qs:la_lc":"*RO14021855",
+    "qs:level":"locality",
+    "qs:loc":"Somu\u015fca",
+    "qs:loc_alt":"Somusca",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":666447,
+        "gp:id":880815,
+        "qs:id":412886,
+        "wd:id":"Q751841"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"edcbfb9b3c82ed3c255f3e4cf071bf95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101787139,
+            "region_id":85687715
+        }
+    ],
+    "wof:id":101787139,
+    "wof:lastmodified":1514500161,
+    "wof:name":"Somu\u015fca",
+    "wof:parent_id":85687715,
+    "wof:placetype":"locality",
+    "wof:population":1666,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.90745474141181,
+    46.39676576288485,
+    26.9157971062449,
+    46.40719419370043
+],
+  "geometry": {"coordinates":[[[26.91339457433725,46.40658269600544],[26.91254539021793,46.40396095648168],[26.9138180306565,46.40375710539615],[26.91353497384154,46.40288319299469],[26.91480758619639,46.40267933071686],[26.91452452197262,46.40180542063479],[26.9157971062449,46.40160154716506],[26.9146648915227,46.39810590683351],[26.91211986926896,46.39851360779096],[26.91155391119389,46.39676576288485],[26.90900893162228,46.39717338815683],[26.90929186593149,46.39804731911204],[26.90801934372001,46.39825111302707],[26.90943409783154,46.4026207639352],[26.90816147003568,46.40282456211497],[26.90872741667033,46.40457241938651],[26.90745474141181,46.404776210237],[26.90802069714618,46.40652406905542],[26.90929341116708,46.40632027047491],[26.90957642636556,46.40719419370043],[26.91339457433725,46.40658269600544]]],"type":"Polygon"}
+}

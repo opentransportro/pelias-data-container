@@ -1,0 +1,111 @@
+{
+  "id": 85901955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":2710656.882107,
+    "geom:bbox":"27.0401,45.388805,27.0401,45.388805",
+    "geom:latitude":45.388805,
+    "geom:longitude":27.0401,
+    "iso:country":"RO",
+    "lbl:latitude":45.388805,
+    "lbl:longitude":27.0401,
+    "mps:latitude":45.388806,
+    "mps:longitude":27.0401,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:rum_x_colloquial":[
+        "Flaemanda",
+        "Flaeminda",
+        "Flamanda",
+        "Flaminda"
+    ],
+    "name:rum_x_preferred":[
+        "Zidarii"
+    ],
+    "name:rum_x_variant":[
+        "Fl\u0103manda",
+        "Fl\u0103m\u00eenda"
+    ],
+    "name:unk_x_variant":[
+        "Zidarii"
+    ],
+    "qs:gn_adm0_cc":"RO",
+    "qs:gn_id":0,
+    "qs:gn_local":668873,
+    "qs:gn_nam_loc":"R\u00eemnicu S\u0103rat, Buzau, RO",
+    "qs:gn_namadm1":"11",
+    "qs:id":0,
+    "qs:local_max":2,
+    "qs:local_sum":2,
+    "qs:localhoods":1,
+    "qs:name":"Zidarii",
+    "qs:name_adm0":"Rom\u00e2nia",
+    "qs:name_adm1":"Buzau",
+    "qs:name_local":"R\u00eemnicu S\u0103rat",
+    "qs:photo_max":2,
+    "qs:photo_sum":2,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":1,
+    "qs:woe_adm0":23424933,
+    "qs:woe_adm1":2346625,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":879083,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        101834761,
+        85633745,
+        85687667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":884030
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"c9e2c900a7e7938b8ce99f10e8caf3cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101834761,
+            "neighbourhood_id":85901955,
+            "region_id":85687667
+        }
+    ],
+    "wof:id":85901955,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1531935838,
+    "wof:name":"Zidarii",
+    "wof:parent_id":101834761,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.0401,
+    45.388805,
+    27.0401,
+    45.388805
+],
+  "geometry": {"coordinates":[27.0401,45.388805],"type":"Point"}
+}

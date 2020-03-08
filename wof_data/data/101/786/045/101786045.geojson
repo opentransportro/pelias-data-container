@@ -1,0 +1,118 @@
+{
+  "id": 101786045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000119,
+    "geom:area_square_m":1007420.788778,
+    "geom:bbox":"27.2068983791,46.675255973,27.2303109763,46.6864327159",
+    "geom:latitude":46.680534,
+    "geom:longitude":27.219056,
+    "gn:population":3291,
+    "iso:country":"RO",
+    "lbl:latitude":46.679616,
+    "lbl:longitude":27.218878,
+    "mps:latitude":46.679616,
+    "mps:longitude":27.218878,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041f\u043b\u043e\u043f\u0430\u043d\u0430"
+    ],
+    "name:dut_x_preferred":[
+        "Plopana"
+    ],
+    "name:eng_x_preferred":[
+        "Plopana-Sat"
+    ],
+    "name:fre_x_preferred":[
+        "Plopana"
+    ],
+    "name:hun_x_preferred":[
+        "Plopana"
+    ],
+    "name:rum_x_colloquial":[
+        "Plopana Targ",
+        "Plopana-Tirg",
+        "Targul Plopana"
+    ],
+    "name:rum_x_preferred":[
+        "Plopana"
+    ],
+    "name:rum_x_variant":[
+        "Plopana T\u00e2rg",
+        "Plopana-T\u00eerg",
+        "T\u00e2rgul Plopana"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043b\u043e\u043f\u0430\u043d\u0430"
+    ],
+    "name:unk_x_variant":[
+        "T\u00e2rgul Plopana"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Bacau",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Plopana",
+    "qs:la_lc":"*RO14024427",
+    "qs:level":"locality",
+    "qs:loc":"Plopana",
+    "qs:loc_alt":"Plopana",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a30dea-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":670472,
+        "gp:id":877875,
+        "qs:id":1279145,
+        "qs_pg:id":1279145,
+        "wd:id":"Q15732446"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"6beae740ded848dc901ffea232a6900c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101786045,
+            "region_id":85687715
+        }
+    ],
+    "wof:id":101786045,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514500084,
+    "wof:name":"Plopana",
+    "wof:parent_id":85687715,
+    "wof:placetype":"locality",
+    "wof:population":3291,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.20689837909913,
+    46.67525597296867,
+    27.23031097627336,
+    46.68643271586967
+],
+  "geometry": {"coordinates":[[[27.21869246409756,46.68194616443225],[27.22380502323074,46.68111543668539],[27.22409559082121,46.68198815291356],[27.2292080842679,46.68115716738396],[27.22862680509468,46.67941176508089],[27.22990486689349,46.67920398883388],[27.22903298208075,46.67658588542918],[27.23031097627336,46.67637810596483],[27.23002035314818,46.67550540563661],[27.22618640220799,46.67612868677622],[27.22589585003186,46.67525597296867],[27.22206187679927,46.67587910615003],[27.22235237036182,46.67675183185418],[27.2185182576236,46.67737484086513],[27.21822782268015,46.67650210326684],[27.21439368768733,46.67712496431454],[27.21497445265805,46.67887046171717],[27.21369635060523,46.67907805975528],[27.21427712581749,46.68082355877283],[27.21299897568991,46.68103114961832],[27.2132893622495,46.6819039007238],[27.20689837909913,46.68294164795475],[27.20805965768744,46.68643271586967],[27.21828574845455,46.68477201200045],[27.21770477170816,46.683026544624],[27.2189829535107,46.68281889652297],[27.21869246409756,46.68194616443225]]],"type":"Polygon"}
+}

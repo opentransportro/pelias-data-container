@@ -1,0 +1,95 @@
+{
+  "id": 101787207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000036,
+    "geom:area_square_m":309210.799133,
+    "geom:bbox":"26.3925238091,46.6296118233,26.4078788629,46.6363628094",
+    "geom:latitude":46.633017,
+    "geom:longitude":26.40083,
+    "gn:population":1018,
+    "iso:country":"RO",
+    "lbl:latitude":46.632869,
+    "lbl:longitude":26.40083,
+    "mps:latitude":46.632869,
+    "mps:longitude":26.40083,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Bol\u0103t\u0103u"
+    ],
+    "name:eng_x_preferred":[
+        "Bol\u0103t\u0103u"
+    ],
+    "name:fre_x_preferred":[
+        "Bol\u0103t\u0103u"
+    ],
+    "name:rum_x_preferred":[
+        "Bol\u0103t\u0103u"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u043b\u0435\u0442\u0435\u0443"
+    ],
+    "name:unk_x_variant":[
+        "B\u0103l\u0103t\u0103u"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Bacau",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Zeme\u015f",
+    "qs:la_lc":"*RO14026289",
+    "qs:level":"locality",
+    "qs:loc":"Bol\u0103t\u0103u",
+    "qs:loc_alt":"Bolatau",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":684295,
+        "gp:id":869297,
+        "qs:id":8,
+        "wd:id":"Q12083767"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"4cff339cf13815abe3f88c72d88ab2dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101787207,
+            "region_id":85687715
+        }
+    ],
+    "wof:id":101787207,
+    "wof:lastmodified":1514499781,
+    "wof:name":"Bol\u0103t\u0103u",
+    "wof:parent_id":85687715,
+    "wof:placetype":"locality",
+    "wof:population":1018,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.39252380910784,
+    46.62961182326831,
+    26.40787886292793,
+    46.63636280940193
+],
+  "geometry": {"coordinates":[[[26.40787886292793,46.63223778727735],[26.40704930461436,46.62961182326831],[26.40449033306732,46.63000766828389],[26.40476680127387,46.63088299866416],[26.39836912379576,46.63187236464904],[26.39864550508361,46.63274771246387],[26.39608633464997,46.63314336022944],[26.39636268821954,46.63401871413117],[26.39252380910784,46.63461208334024],[26.39307643307558,46.63636280940193],[26.3969154306356,46.63576941750529],[26.39663905354763,46.6348940665564],[26.40559627647156,46.63350898094075],[26.40531977297485,46.63263365499267],[26.40787886292793,46.63223778727735]]],"type":"Polygon"}
+}

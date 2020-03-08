@@ -1,0 +1,132 @@
+{
+  "id": 101792909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000186,
+    "geom:area_square_m":1616422.613465,
+    "geom:bbox":"21.3957780157,45.2459079694,21.4193555969,45.2592549512",
+    "geom:latitude":45.252729,
+    "geom:longitude":21.407566,
+    "gn:population":3289,
+    "iso:country":"RO",
+    "lbl:latitude":45.252729,
+    "lbl:longitude":21.407566,
+    "mps:latitude":45.252729,
+    "mps:longitude":21.407566,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Jamu Mare"
+    ],
+    "name:eng_x_preferred":[
+        "Jamul-Mare"
+    ],
+    "name:epo_x_preferred":[
+        "Jamu Mare"
+    ],
+    "name:fre_x_preferred":[
+        "Jamu Mare"
+    ],
+    "name:ger_x_preferred":[
+        "Jamu Mare"
+    ],
+    "name:hun_x_preferred":[
+        "Nagyzs\u00e1m"
+    ],
+    "name:ita_x_preferred":[
+        "Jamu Mare"
+    ],
+    "name:por_x_preferred":[
+        "Jamu Mare"
+    ],
+    "name:rum_x_colloquial":[
+        "Nagyzsam"
+    ],
+    "name:rum_x_preferred":[
+        "Jamu Mare"
+    ],
+    "name:rum_x_variant":[
+        "Nagyzs\u00e1m"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0416\u0430\u043c\u0443-\u041c\u0430\u0440\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Nagyzs\u00e1m"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0645\u0648 \u0645\u0627\u0631\u06d2"
+    ],
+    "name:vie_x_preferred":[
+        "Jamu Mare"
+    ],
+    "name:vol_x_preferred":[
+        "Jamu Mare"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Timis",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Jamu Mare",
+    "qs:la_lc":"*RO48157362",
+    "qs:level":"locality",
+    "qs:loc":"Jamu Mare",
+    "qs:loc_alt":"Jamu Mare",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a13876-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":675295,
+        "gp:id":874287,
+        "qs:id":127517,
+        "qs_pg:id":127517,
+        "wd:id":"Q1020863"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"0c9f031a35b78890f13e8a4a39ee856c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101792909,
+            "region_id":85687655
+        }
+    ],
+    "wof:id":101792909,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514499987,
+    "wof:name":"Jamu Mare",
+    "wof:parent_id":85687655,
+    "wof:placetype":"locality",
+    "wof:population":3289,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.39577801565986,
+    45.2459079693603,
+    21.41935559687363,
+    45.25925495115865
+],
+  "geometry": {"coordinates":[[[21.4057117495916,45.25884272460212],[21.4055266478781,45.25795349837307],[21.40678718642528,45.2578160619496],[21.40660207286169,45.25692683726317],[21.4129045831545,45.25623944197474],[21.41308979484035,45.2571286538618],[21.41561079884622,45.25685358517615],[21.41542554791448,45.25596437841068],[21.41668602185837,45.25582682403279],[21.41557456193766,45.2504915774411],[21.41935559687363,45.25007887002937],[21.41879979539965,45.24741125604476],[21.41753951489034,45.24754883256077],[21.41735428290752,45.24665962330255],[21.41609401638971,45.24679718219681],[21.41590881179923,45.2459079693603],[21.4096074929675,45.24659552511696],[21.40997771377937,45.24837397536965],[21.39989499763936,45.24947332232],[21.40026493565182,45.25125180943598],[21.39774412197562,45.25152650577758],[21.3979290633925,45.25241575292546],[21.39666862851067,45.25255308105778],[21.39703849540336,45.25433157741952],[21.39577801565986,45.25446889560141],[21.39633281538704,45.25713664019588],[21.39759335400794,45.25699931434337],[21.39777832241526,45.25788855795309],[21.39903887504681,45.25775121447822],[21.39922387085215,45.25864045451482],[21.40174499851804,45.25836571725381],[21.40193004135085,45.25925495115865],[21.4057117495916,45.25884272460212]]],"type":"Polygon"}
+}

@@ -1,0 +1,95 @@
+{
+  "id": 101845167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0001,
+    "geom:area_square_m":868053.564619,
+    "geom:bbox":"25.9402454601,45.277043699,25.9645157854,45.2886161613",
+    "geom:latitude":45.283774,
+    "geom:longitude":25.951943,
+    "gn:population":1294,
+    "iso:country":"RO",
+    "lbl:latitude":45.285042,
+    "lbl:longitude":25.952127,
+    "mps:latitude":45.285042,
+    "mps:longitude":25.952127,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Schiule\u0219ti"
+    ],
+    "name:eng_x_preferred":[
+        "Schiule\u0219ti"
+    ],
+    "name:fre_x_preferred":[
+        "Schiule\u0219ti"
+    ],
+    "name:ita_x_preferred":[
+        "Schiule\u0219ti"
+    ],
+    "name:rum_x_preferred":[
+        "Schiule\u0219ti"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043a\u0456\u0443\u043b\u0435\u0448\u0442\u044c"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Prahova",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Izvoarele",
+    "qs:la_lc":"*RO42133795",
+    "qs:level":"locality",
+    "qs:loc":"Schiule\u015fti",
+    "qs:loc_alt":"Schiulesti",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":667627,
+        "gp:id":879987,
+        "qs:id":425620,
+        "wd:id":"Q12153511"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"cb6b66e2ca47fbf444e61d4dc375a584",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101845167,
+            "region_id":85687661
+        }
+    ],
+    "wof:id":101845167,
+    "wof:lastmodified":1514500137,
+    "wof:name":"Schiule\u015fti",
+    "wof:parent_id":85687661,
+    "wof:placetype":"locality",
+    "wof:population":1294,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.94024546013168,
+    45.27704369898453,
+    25.96451578539836,
+    45.28861616127284
+],
+  "geometry": {"coordinates":[[[25.94377950700232,45.28861616127284],[25.95628197744895,45.286698464415],[25.95576477859686,45.28494306568234],[25.96451578539836,45.2835998472616],[25.96425707158357,45.28272217045924],[25.96300696966932,45.28291409964038],[25.96274828523241,45.28203641783688],[25.95899798886171,45.28261210602614],[25.95848076403377,45.28085671680833],[25.95598060223119,45.2812404208367],[25.95572204319694,45.28036271696141],[25.95447196930365,45.28055454325437],[25.95343791503262,45.27704369898453],[25.94843784016189,45.27781079969833],[25.94895469672616,45.27956625303369],[25.95020476434894,45.27937449297184],[25.95046322736204,45.28025221391221],[25.95171330587385,45.28006043552563],[25.95248881521115,45.28269357896914],[25.94623806550095,45.28365237600968],[25.94649649685459,45.28453010523924],[25.94024546013168,45.28548855014867],[25.94050380897818,45.28636629558429],[25.94175405047093,45.28617463265465],[25.94201242869144,45.28705237309623],[25.94326268108244,45.28686069184027],[25.94377950700232,45.28861616127284]]],"type":"Polygon"}
+}

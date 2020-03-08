@@ -1,0 +1,125 @@
+{
+  "id": 101793979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000159,
+    "geom:area_square_m":1407197.031411,
+    "geom:bbox":"28.1695544783,44.2745491397,28.1881433411,44.2906737681",
+    "geom:latitude":44.282973,
+    "geom:longitude":28.17807,
+    "gn:population":6983,
+    "iso:country":"RO",
+    "lbl:latitude":44.283808,
+    "lbl:longitude":28.17821,
+    "mps:latitude":44.283808,
+    "mps:longitude":28.17821,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u064a\u0631\u062a\u0634\u064a\u0627 \u0641\u0648\u062f\u0627"
+    ],
+    "name:dut_x_preferred":[
+        "Mircea Voda"
+    ],
+    "name:eng_x_preferred":[
+        "Celibichioi"
+    ],
+    "name:eng_x_variant":[
+        "Celebichioi",
+        "Mircea Vod\u0103"
+    ],
+    "name:fre_x_preferred":[
+        "Mircea Voda"
+    ],
+    "name:hun_x_preferred":[
+        "Mircea Vod\u0103"
+    ],
+    "name:ita_x_preferred":[
+        "Mircea Vod\u0103"
+    ],
+    "name:por_x_preferred":[
+        "Mircea Vod\u0103"
+    ],
+    "name:rum_x_colloquial":[
+        "Mircea Voda",
+        "Mircea Vodae"
+    ],
+    "name:rum_x_preferred":[
+        "Mircea Vod\u0103"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0456\u0440\u0447\u0430-\u0412\u043e\u0434\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Celebichioi"
+    ],
+    "name:vol_x_preferred":[
+        "Mircea Vod\u0103"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Constanta",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Mircea Vod\u0103",
+    "qs:la_lc":"*RO25062280",
+    "qs:level":"locality",
+    "qs:loc":"Mircea Vod\u0103",
+    "qs:loc_alt":"Mircea Voda",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a20a6c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":673154,
+        "gp:id":875894,
+        "qs:id":1289949,
+        "qs_pg:id":1289949,
+        "wd:id":"Q1068870"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"2e7d1a422b9ee4001cfa8a16ff2e46cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101793979,
+            "region_id":85687633
+        }
+    ],
+    "wof:id":101793979,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514500023,
+    "wof:name":"Mircea Vod\u0103",
+    "wof:parent_id":85687633,
+    "wof:placetype":"locality",
+    "wof:population":6983,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.16955447833504,
+    44.27454913969223,
+    28.18814334110021,
+    44.29067376814692
+],
+  "geometry": {"coordinates":[[[28.18354036983902,44.29023830568349],[28.1832543688547,44.28936675628444],[28.18814334110021,44.28849567478812],[28.18785728275697,44.28762413915138],[28.18541284769958,44.28805970082044],[28.18341100438431,44.28195884786601],[28.18585519824262,44.28152334050554],[28.18442548481482,44.27716557448798],[28.18320347815825,44.2773833159456],[28.18348938049559,44.2782548765403],[28.17860120201868,44.27912571450611],[28.17831536858034,44.27825413840151],[28.17709332045007,44.27847180817099],[28.17680751579513,44.27760022643372],[28.17558547659712,44.27781787798864],[28.1750139364068,44.27607470149462],[28.17379192336779,44.27629233095911],[28.17322046384595,44.27454913969223],[28.16955447833504,44.27520191880637],[28.17155442711038,44.28130313891563],[28.17033229476715,44.2815207304057],[28.17090377823371,44.28326392810993],[28.17212594503809,44.28304632886761],[28.17412662186393,44.28914743842034],[28.17779343439202,44.28849447323512],[28.17807934331165,44.28936604166074],[28.17930161479194,44.28914835403901],[28.17958755250993,44.29001991683072],[28.18080983292509,44.28980221098948],[28.1810957994424,44.29067376814692],[28.18354036983902,44.29023830568349]]],"type":"Polygon"}
+}

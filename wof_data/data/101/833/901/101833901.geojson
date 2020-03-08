@@ -1,0 +1,95 @@
+{
+  "id": 101833901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00008,
+    "geom:area_square_m":666585.026685,
+    "geom:bbox":"25.4999516602,47.695149305,25.5251501347,47.7016659023",
+    "geom:latitude":47.6985,
+    "geom:longitude":25.51093,
+    "gn:population":1004,
+    "iso:country":"RO",
+    "lbl:latitude":47.698209,
+    "lbl:longitude":25.510739,
+    "mps:latitude":47.698209,
+    "mps:longitude":25.510739,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Dem\u0103cu\u0219a"
+    ],
+    "name:eng_x_preferred":[
+        "Dem\u0103cu\u0219a"
+    ],
+    "name:fre_x_preferred":[
+        "Dem\u0103cu\u0219a"
+    ],
+    "name:rum_x_preferred":[
+        "Dem\u0103cu\u0219a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0435\u043c\u0435\u043a\u0443\u0448\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Demakusza"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Suceava",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Moldovi\u0163a",
+    "qs:la_lc":"*RO46149539",
+    "qs:level":"locality",
+    "qs:loc":"Demacu\u015fa",
+    "qs:loc_alt":"Demacusa",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":679484,
+        "gp:id":871243,
+        "qs:id":410403,
+        "wd:id":"Q12128897"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"58a86db180f3a61b8042f1aa82066a3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101833901,
+            "region_id":85687773
+        }
+    ],
+    "wof:id":101833901,
+    "wof:lastmodified":1514499903,
+    "wof:name":"Demacu\u015fa",
+    "wof:parent_id":85687773,
+    "wof:placetype":"locality",
+    "wof:population":1004,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.49995166019863,
+    47.69514930499849,
+    25.52515013474488,
+    47.70166590228519
+],
+  "geometry": {"coordinates":[[[25.52515013474488,47.70026122632282],[25.52444196876553,47.69669879563173],[25.52430628131083,47.69671829449294],[25.52457650510672,47.69759554639603],[25.51803635923545,47.69853514407839],[25.51776624060773,47.69765787361627],[25.51645820656751,47.69784574268266],[25.51618812075174,47.69696846716982],[25.51488009911498,47.69715631693936],[25.51461004610996,47.69627903637632],[25.51199401901454,47.69665468173611],[25.51172401985303,47.69577739241385],[25.50518390630083,47.69671621450448],[25.50491402408875,47.69583890529964],[25.50360599653669,47.69602661924944],[25.50333614712866,47.69514930499849],[25.50202813198962,47.69533699965427],[25.5025678004979,47.69709163423283],[25.49995166019863,47.69746699161237],[25.50049129161374,47.69922163566838],[25.50179940815576,47.69903395735776],[25.50260900665444,47.70166590228519],[25.50522534011117,47.70129047665148],[25.50495542009236,47.70041317043024],[25.50887979244618,47.69984992619339],[25.50914977558728,47.70072722128793],[25.51830648964165,47.69941241320078],[25.51857663182727,47.70028968098296],[25.52250087146626,47.69972594686135],[25.52277108854167,47.7006032021676],[25.52515013474488,47.70026122632282]]],"type":"Polygon"}
+}

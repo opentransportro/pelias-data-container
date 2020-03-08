@@ -1,0 +1,98 @@
+{
+  "id": 101791851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00013,
+    "geom:area_square_m":1137590.867352,
+    "geom:bbox":"27.7375177844,44.8620794176,27.7495760466,44.8792951131",
+    "geom:latitude":44.869714,
+    "geom:longitude":27.743517,
+    "gn:population":1606,
+    "iso:country":"RO",
+    "lbl:latitude":44.86898,
+    "lbl:longitude":27.742799,
+    "mps:latitude":44.86898,
+    "mps:longitude":27.742799,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Spiru Haret"
+    ],
+    "name:eng_x_preferred":[
+        "Spiru Haret"
+    ],
+    "name:fre_x_preferred":[
+        "Spiru Haret"
+    ],
+    "name:ita_x_preferred":[
+        "Spiru Haret"
+    ],
+    "name:rum_x_preferred":[
+        "Spiru Haret"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043f\u0456\u0440\u0443-\u0425\u0430\u0440\u0435\u0442"
+    ],
+    "name:unk_x_variant":[
+        "Georm\u0103neasa"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Braila",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Berte\u015ftii de Jos",
+    "qs:la_lc":"*RO18042842",
+    "qs:level":"locality",
+    "qs:loc":"Spiru Haret",
+    "qs:loc_alt":"Spiru Haret",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":666340,
+        "gp:id":880895,
+        "qs:id":967863,
+        "wd:id":"Q12157058"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"62f682700baaa5326d14d301fd9117cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101791851,
+            "region_id":85687663
+        }
+    ],
+    "wof:id":101791851,
+    "wof:lastmodified":1514500162,
+    "wof:name":"Spiru Haret",
+    "wof:parent_id":85687663,
+    "wof:placetype":"locality",
+    "wof:population":1606,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.73751778441022,
+    44.86207941764781,
+    27.74957604658778,
+    44.87929511314258
+],
+  "geometry": {"coordinates":[[[27.74957604658778,44.87886926700418],[27.74673654458906,44.87014461780052],[27.74797240377188,44.8699317115225],[27.74712072640165,44.86731429542317],[27.74835652376674,44.86710138618571],[27.74750489755201,44.86448396647029],[27.74874063310767,44.86427105427379],[27.74845676313305,44.86339858151752],[27.74722104538876,44.86361148985543],[27.74693720484458,44.86273901155249],[27.74570149653965,44.8629519014969],[27.74541768542463,44.86207941764781],[27.73800336671167,44.86335642892891],[27.73885451428652,44.86597394484687],[27.73761871177123,44.86618674075612],[27.73875366656182,44.86967675379026],[27.73751778441022,44.86988955059087],[27.73893665020233,44.87425204821585],[27.74017262145372,44.87403923212668],[27.7404564472925,44.87491172273303],[27.74169242799212,44.87469888824683],[27.74197628327454,44.87557137330754],[27.7432122734221,44.87535852042379],[27.74349615814936,44.87623099993834],[27.74473215774378,44.87601812865654],[27.7452999977167,44.87776307490464],[27.74653602457943,44.87755018136465],[27.74710394670331,44.87929511314258],[27.74957604658778,44.87886926700418]]],"type":"Polygon"}
+}

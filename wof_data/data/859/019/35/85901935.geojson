@@ -1,0 +1,141 @@
+{
+  "id": 85901935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1234788.4459,
+    "geom:bbox":"23.794739,46.578121,23.794739,46.578121",
+    "geom:latitude":46.578121,
+    "geom:longitude":23.794739,
+    "gn:latitude":46.56667,
+    "gn:longitude":23.78333,
+    "iso:country":"RO",
+    "lbl:latitude":46.578121,
+    "lbl:longitude":23.794739,
+    "mps:latitude":46.575764,
+    "mps:longitude":23.796319,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:epo_x_preferred":[
+        "C\u0103tina"
+    ],
+    "name:fra_x_preferred":[
+        "C\u0103tina"
+    ],
+    "name:hbs_x_preferred":[
+        "Op\u0161tina C\u0103tina"
+    ],
+    "name:hun_x_preferred":[
+        "Katona k\u00f6zs\u00e9g"
+    ],
+    "name:ita_x_preferred":[
+        "C\u0103tina"
+    ],
+    "name:msa_x_preferred":[
+        "C\u0103tina"
+    ],
+    "name:nld_x_preferred":[
+        "C\u0103tina"
+    ],
+    "name:por_x_preferred":[
+        "C\u0103tina"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna C\u0103tina"
+    ],
+    "name:rum_x_colloquial":[
+        "Valea Calda",
+        "Valea Caldae"
+    ],
+    "name:rum_x_preferred":[
+        "Valea Cald\u0103"
+    ],
+    "name:spa_x_preferred":[
+        "C\u0103tina"
+    ],
+    "name:unk_x_variant":[
+        "Valea Cald\u0103"
+    ],
+    "qs:gn_adm0_cc":"RO",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":664460,
+    "qs:gn_nam_loc":"turda",
+    "qs:gn_namadm1":"00",
+    "qs:gn_name":"Valea Cald\u0103",
+    "qs:local_max":626,
+    "qs:local_sum":692,
+    "qs:localhoods":4,
+    "qs:name":"Valea Cald\u0103",
+    "qs:name_adm0":"Rom\u00e2nia",
+    "qs:name_adm1":"Cluj",
+    "qs:name_local":"Turda",
+    "qs:photo_max":3,
+    "qs:photo_sum":5,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":3,
+    "qs:woe_adm0":23424933,
+    "qs:woe_adm1":2346627,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":882275,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        101752021,
+        85633745,
+        85687727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":663864,
+        "gp:id":882720,
+        "qs:id":1167614,
+        "qs_pg:id":1167614
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"0b3486bbb44cf33ca8714a3b9424403a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101752021,
+            "neighbourhood_id":85901935,
+            "region_id":85687727
+        }
+    ],
+    "wof:id":85901935,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1531932603,
+    "wof:name":"Valea Cald\u0103",
+    "wof:parent_id":101752021,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.794739,
+    46.578121,
+    23.794739,
+    46.578121
+],
+  "geometry": {"coordinates":[23.794739,46.578121],"type":"Point"}
+}

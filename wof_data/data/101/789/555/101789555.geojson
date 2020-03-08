@@ -1,0 +1,114 @@
+{
+  "id": 101789555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000174,
+    "geom:area_square_m":1506608.732987,
+    "geom:bbox":"28.0394015813,45.3996031675,28.0608850911,45.4148327835",
+    "geom:latitude":45.406342,
+    "geom:longitude":28.049894,
+    "iso:country":"RO",
+    "lbl:latitude":45.406938,
+    "lbl:longitude":28.048104,
+    "mps:latitude":45.406938,
+    "mps:longitude":28.048104,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "I.C. Br\u0103tianu"
+    ],
+    "name:eng_x_preferred":[
+        "I. C. Br\u0103tianu"
+    ],
+    "name:fre_x_preferred":[
+        "I. C. Br\u0103tianu"
+    ],
+    "name:hbs_x_preferred":[
+        "Op\u0161tina I.C.Br\u00e3tianu"
+    ],
+    "name:hun_x_preferred":[
+        "I.C. Br\u0103tianu"
+    ],
+    "name:ita_x_preferred":[
+        "I. C. Br\u0103tianu"
+    ],
+    "name:may_x_preferred":[
+        "I. C. Br\u0103tianu"
+    ],
+    "name:msa_x_preferred":[
+        "I. C. Br\u0103tianu"
+    ],
+    "name:nld_x_preferred":[
+        "I.C. Br\u0103tianu"
+    ],
+    "name:por_x_preferred":[
+        "I. C. Br\u0103tianu"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna I.C. Br\u0103tianu"
+    ],
+    "name:rum_x_preferred":[
+        "I. C. Br\u0103tianu"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406.\u041a. \u0411\u0440\u0435\u0442\u0456\u0430\u043d\u0443"
+    ],
+    "name:vol_x_preferred":[
+        "I. C. Br\u0103tianu"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Tulcea",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"I.C.Br\u0103tianu",
+    "qs:la_lc":"*RO49161525",
+    "qs:level":"locality",
+    "qs:loc":"I.C.Bratianu",
+    "qs:loc_alt":"I.C.Bratianu",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":48,
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "qs:id":8,
+        "wd:id":"Q916208"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"b8584052da144ea6880fc8f58434b29f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101789555,
+            "region_id":85687679
+        }
+    ],
+    "wof:id":101789555,
+    "wof:lastmodified":1527715899,
+    "wof:name":"I.C.Bratianu",
+    "wof:parent_id":85687679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.03940158134822,
+    45.3996031674854,
+    28.0608850910819,
+    45.41483278350307
+],
+  "geometry": {"coordinates":[[[28.04761248234325,45.41439925310999],[28.04673285976651,45.41178620840122],[28.05171945246508,45.41091901940291],[28.05142619645488,45.41004801701285],[28.0551659944893,45.40939748320238],[28.05487269606823,45.40852649105466],[28.05736581461485,45.40809273648159],[28.05707249196297,45.40722175059125],[28.05831901992474,45.40700485529027],[28.05802569121761,45.40613387167099],[28.05927219224873,45.40591696568981],[28.05897885748743,45.40504598434177],[28.06022533158898,45.40482906768045],[28.05963866207674,45.40308710781056],[28.0608850910819,45.40287018445645],[28.0600051231782,45.40025724374397],[28.05875874867343,45.40047415513982],[28.0584654684335,45.3996031674854],[28.04974072891423,45.40112110873929],[28.05003388197957,45.40199212428735],[28.04255508342351,45.40329266872982],[28.04314120781538,45.40503474248635],[28.03940158134822,45.40568484060123],[28.04115991791184,45.41091109244854],[28.04240657788552,45.4106943838467],[28.0435791171501,45.41417850155125],[28.04482584109161,45.41396176234423],[28.04511902436838,45.41483278350307],[28.04761248234325,45.41439925310999]]],"type":"Polygon"}
+}

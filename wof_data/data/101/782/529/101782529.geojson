@@ -1,0 +1,116 @@
+{
+  "id": 101782529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000096,
+    "geom:area_square_m":797739.852379,
+    "geom:bbox":"24.1826195972,47.8606340164,24.2059866188,47.8695531886",
+    "geom:latitude":47.864974,
+    "geom:longitude":24.193377,
+    "gn:population":4330,
+    "iso:country":"RO",
+    "lbl:latitude":47.864995,
+    "lbl:longitude":24.194528,
+    "mps:latitude":47.864995,
+    "mps:longitude":24.194528,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Bistra"
+    ],
+    "name:eng_x_preferred":[
+        "Bistra"
+    ],
+    "name:epo_x_preferred":[
+        "Bistra "
+    ],
+    "name:fre_x_preferred":[
+        "Bistra "
+    ],
+    "name:ger_x_preferred":[
+        "Bistra "
+    ],
+    "name:hun_x_preferred":[
+        "Petrovabisztra"
+    ],
+    "name:ita_x_preferred":[
+        "Bistra"
+    ],
+    "name:may_x_preferred":[
+        "Bistra"
+    ],
+    "name:por_x_preferred":[
+        "Bistra "
+    ],
+    "name:rum_x_preferred":[
+        "Bistra"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0438\u0441\u0442\u0440\u0430 "
+    ],
+    "name:vol_x_preferred":[
+        "Bistra "
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Maramures",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Petrova",
+    "qs:la_lc":"*RO37108455",
+    "qs:level":"locality",
+    "qs:loc":"Bistra",
+    "qs:loc_alt":"Bistra",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":684677,
+        "gp:id":867424,
+        "qs:id":275368,
+        "qs_pg:id":275368,
+        "wd:id":"Q866731"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"9e9116bd2657f6ee3b89647ab4fa772e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101782529,
+            "region_id":85687761
+        }
+    ],
+    "wof:id":101782529,
+    "wof:lastmodified":1514499772,
+    "wof:name":"Bistra",
+    "wof:parent_id":85687761,
+    "wof:placetype":"locality",
+    "wof:population":4330,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.18261959718507,
+    47.86063401641525,
+    24.20598661876267,
+    47.8695531886184
+],
+  "geometry": {"coordinates":[[[24.18731295883799,47.86639458198897],[24.19126129536005,47.86587855508242],[24.19150976433895,47.8667594428432],[24.1928258820729,47.86658739896188],[24.19307438354542,47.86746828211528],[24.19833886067858,47.86677993545294],[24.19858745937614,47.86766080371376],[24.2025357978174,47.86714436813435],[24.20228713439508,47.86626351016037],[24.20491927679956,47.86591914792194],[24.20467058115611,47.86503829562542],[24.20598661876267,47.86486609432347],[24.20573791247296,47.86398524427511],[24.20442189643745,47.86415744214708],[24.20342726679871,47.86063401641525],[24.20211132902574,47.86080618482976],[24.2028572201632,47.86344876618847],[24.19890916464317,47.86396520784695],[24.19866058805491,47.86308433828992],[24.19734457509531,47.86325645059867],[24.19709603099744,47.86237557643238],[24.19314800877311,47.86289180862838],[24.19289954030739,47.86201092299939],[24.1876354848531,47.86269899850834],[24.18738711359106,47.86181809799456],[24.18607110128642,47.86199007409226],[24.18631945097445,47.86287097803137],[24.18368735920376,47.86321488985146],[24.18393567665214,47.86409579946093],[24.18261959718507,47.86426773518241],[24.18410960151726,47.8695531886184],[24.18542581045892,47.86938123234603],[24.18517742754483,47.86850032981397],[24.18780977824491,47.86815637688863],[24.18731295883799,47.86639458198897]]],"type":"Polygon"}
+}

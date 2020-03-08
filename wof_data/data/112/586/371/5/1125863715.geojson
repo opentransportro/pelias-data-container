@@ -1,0 +1,79 @@
+{
+  "id": 1125863715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.68028,44.7975,22.68028,44.7975",
+    "geom:latitude":44.7975,
+    "geom:longitude":22.68028,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":1131,
+    "gn:population":1131,
+    "iso:country":"RO",
+    "lbl:latitude":44.7975,
+    "lbl:longitude":22.68028,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "B\u00eelv\u0103ne\u015fti"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":684842,
+    "qs_pg:gn_pop":1131,
+    "qs_pg:name":"B\u00e2lv\u0103ne\u015fti",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":127985,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":684842,
+        "qs_pg:id":127985
+    },
+    "wof:country":"RO",
+    "wof:created":1497293940,
+    "wof:geomhash":"28b63f7d734c517a3df8f26d28bf1789",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125863715,
+            "region_id":85687599
+        }
+    ],
+    "wof:id":1125863715,
+    "wof:lastmodified":1509396823,
+    "wof:name":"B\u00e2lv\u0103ne\u015fti",
+    "wof:parent_id":85687599,
+    "wof:placetype":"locality",
+    "wof:population":1131,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.68028,
+    44.7975,
+    22.68028,
+    44.7975
+],
+  "geometry": {"coordinates":[22.68028,44.7975],"type":"Point"}
+}

@@ -1,0 +1,95 @@
+{
+  "id": 1125862471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.31667,44.73333,24.31667,44.73333",
+    "geom:latitude":44.73333,
+    "geom:longitude":24.31667,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":2790,
+    "gn:population":2790,
+    "iso:country":"RO",
+    "lbl:latitude":44.73333,
+    "lbl:longitude":24.31667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Vulture\u0219ti"
+    ],
+    "name:eng_x_preferred":[
+        "Vulture\u0219ti"
+    ],
+    "name:fre_x_preferred":[
+        "Vulture\u0219ti"
+    ],
+    "name:ita_x_preferred":[
+        "Vulture\u0219ti"
+    ],
+    "name:rum_x_preferred":[
+        "Vulture\u0219ti"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0443\u043b\u0442\u0443\u0440\u0435\u0448\u0442\u044c "
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":662397,
+    "qs_pg:gn_pop":2790,
+    "qs_pg:name":"Vulture\u015fti",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":126598,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":662397,
+        "qs_pg:id":126598,
+        "wd:id":"Q12092796"
+    },
+    "wof:country":"RO",
+    "wof:created":1497293888,
+    "wof:geomhash":"3b24ae974c4f9ce08f5d88a8f969afde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125862471,
+            "region_id":85687607
+        }
+    ],
+    "wof:id":1125862471,
+    "wof:lastmodified":1514500251,
+    "wof:name":"Vulture\u015fti",
+    "wof:parent_id":85687607,
+    "wof:placetype":"locality",
+    "wof:population":2790,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.31667,
+    44.73333,
+    24.31667,
+    44.73333
+],
+  "geometry": {"coordinates":[24.31667,44.73333],"type":"Point"}
+}

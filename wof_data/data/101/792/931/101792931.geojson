@@ -1,0 +1,80 @@
+{
+  "id": 101792931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000055,
+    "geom:area_square_m":478985.357939,
+    "geom:bbox":"26.1910286139,44.8066445269,26.2023473715,44.8194161721",
+    "geom:latitude":44.812744,
+    "geom:longitude":26.19717,
+    "gn:population":1189,
+    "iso:country":"RO",
+    "lbl:latitude":44.813076,
+    "lbl:longitude":26.198028,
+    "mps:latitude":44.813076,
+    "mps:longitude":26.198028,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Palanga"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Prahova",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"R\u00e2fov",
+    "qs:la_lc":"*RO42135020",
+    "qs:level":"locality",
+    "qs:loc":"Palanca",
+    "qs:loc_alt":"Palanca",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":671473,
+        "gp:id":877119,
+        "qs:id":411993,
+        "wd:id":"Q12137508"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"e3e78f5912c8c7efccc6237de8f361c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101792931,
+            "region_id":85687661
+        }
+    ],
+    "wof:id":101792931,
+    "wof:lastmodified":1505337970,
+    "wof:name":"Palanca",
+    "wof:parent_id":85687661,
+    "wof:placetype":"locality",
+    "wof:population":1189,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.19102861390564,
+    44.80664452688808,
+    26.20234737145859,
+    44.81941617211004
+],
+  "geometry": {"coordinates":[[[26.20234737145859,44.81902714308484],[26.20182931740771,44.81727244217689],[26.20059003518475,44.81746695693425],[26.19981308852908,44.81483488367451],[26.20105231620425,44.8146403795273],[26.19975752715101,44.81025357834505],[26.19851839037614,44.81044806481145],[26.19825948268084,44.80957069652413],[26.19702035641689,44.80976516481928],[26.19650260931246,44.80801041666007],[26.19526351173755,44.8082048632499],[26.19500467232524,44.8073274833784],[26.19376558526295,44.80752191179857],[26.19350677466792,44.80664452688808],[26.19102861390564,44.80703333275522],[26.19128738814521,44.80791072473369],[26.19252649053601,44.80771632558378],[26.1940794684869,44.81298062466237],[26.19531867229136,44.81278618966894],[26.19661320417447,44.81717304652341],[26.19785249122555,44.81697857921483],[26.1981114477245,44.81785594253643],[26.19935074529002,44.8176614570541],[26.19986872660229,44.81941617211004],[26.20234737145859,44.81902714308484]]],"type":"Polygon"}
+}

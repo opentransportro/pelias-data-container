@@ -1,0 +1,88 @@
+{
+  "id": 101792473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000085,
+    "geom:area_square_m":748508.219762,
+    "geom:bbox":"22.5905692052,44.3400011498,22.6040323421,44.3515771917",
+    "geom:latitude":44.345289,
+    "geom:longitude":22.59682,
+    "gn:population":1420,
+    "iso:country":"RO",
+    "lbl:latitude":44.344817,
+    "lbl:longitude":22.596718,
+    "mps:latitude":44.344817,
+    "mps:longitude":22.596718,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rum_x_preferred":[
+        "Balta Verde"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Mehedinti",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:id":0,
+    "qs:la":"Gogo\u015fu",
+    "qs:la_lc":"*RO38111863",
+    "qs:level":"locality",
+    "qs:loc":"Balta Verde",
+    "qs:loc_alt":"Balta Verde",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"039d5f3a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":685579,
+        "gp:id":866809,
+        "qs:id":967470,
+        "qs_pg:id":128054,
+        "wd:id":"Q12080693"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"6faaef53aeda5b7c7376735a70300b3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101792473,
+            "region_id":85687599
+        }
+    ],
+    "wof:id":101792473,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1505337966,
+    "wof:name":"Balta Verde",
+    "wof:parent_id":85687599,
+    "wof:placetype":"locality",
+    "wof:population":1420,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.59056920515218,
+    44.3400011497929,
+    22.60403234210963,
+    44.35157719174492
+],
+  "geometry": {"coordinates":[[[22.60235281725352,44.34474027213224],[22.60195463389596,44.34296574174493],[22.60319260340634,44.34281434704513],[22.60279441566593,44.34103981750388],[22.60403234210963,44.34088841356095],[22.60383324195016,44.3400011497929],[22.5926918592537,44.3413632304634],[22.59289079211749,44.3422505188974],[22.59165281268156,44.34240179030132],[22.59205066580427,44.34417636917254],[22.59328868242272,44.34402509228966],[22.59408456135867,44.34757422517248],[22.59160837348577,44.3478767861294],[22.59180732651583,44.34876407193423],[22.59056920515218,44.34891533305927],[22.59116605761812,44.35157719174492],[22.59488057141937,44.35112333952105],[22.59468155660977,44.35023606267134],[22.59963408483424,44.34963073112561],[22.59903686644202,44.34696892651812],[22.60027492798827,44.34681756503403],[22.60007585299513,44.34593029725517],[22.60131389005858,44.34577892378479],[22.60111480467236,44.34489165758845],[22.60235281725352,44.34474027213224]]],"type":"Polygon"}
+}

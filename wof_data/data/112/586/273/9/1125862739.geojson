@@ -1,0 +1,101 @@
+{
+  "id": 1125862739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.2,45.61667,27.2,45.61667",
+    "geom:latitude":45.61667,
+    "geom:longitude":27.2,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":2077,
+    "gn:population":2077,
+    "iso:country":"RO",
+    "lbl:latitude":45.61667,
+    "lbl:longitude":27.2,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Slobozia Cior\u0103\u0219ti"
+    ],
+    "name:eng_x_preferred":[
+        "Slobozia Cior\u0103\u0219ti"
+    ],
+    "name:fre_x_preferred":[
+        "Slobozia Cior\u0103\u0219ti"
+    ],
+    "name:ita_x_preferred":[
+        "Slobozia Cior\u0103\u0219ti"
+    ],
+    "name:por_x_preferred":[
+        "Slobozia Cior\u0103\u0219ti"
+    ],
+    "name:rum_x_preferred":[
+        "Slobozia Cior\u0103\u0219ti"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043b\u043e\u0431\u043e\u0437\u0456\u044f-\u0427\u043e\u0440\u0435\u0448\u0442\u044c"
+    ],
+    "name:unk_x_variant":[
+        "Cior\u0103\u015fti"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":666673,
+    "qs_pg:gn_pop":2077,
+    "qs_pg:name":"Slobozia-Cior\u0103\u015fti",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":126971,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":666673,
+        "qs_pg:id":126971,
+        "wd:id":"Q2300133"
+    },
+    "wof:country":"RO",
+    "wof:created":1497293900,
+    "wof:geomhash":"48395da46da5662c5c6b5fce6b5ae500",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125862739,
+            "region_id":85687705
+        }
+    ],
+    "wof:id":1125862739,
+    "wof:lastmodified":1514500157,
+    "wof:name":"Slobozia-Cior\u0103\u015fti",
+    "wof:parent_id":85687705,
+    "wof:placetype":"locality",
+    "wof:population":2077,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.2,
+    45.61667,
+    27.2,
+    45.61667
+],
+  "geometry": {"coordinates":[27.2,45.61667],"type":"Point"}
+}

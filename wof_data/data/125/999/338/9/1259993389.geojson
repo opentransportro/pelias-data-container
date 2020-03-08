@@ -1,0 +1,74 @@
+{
+  "id": 1259993389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.81944,46.05298,23.81944,46.05298",
+    "geom:latitude":46.05298,
+    "geom:longitude":23.81944,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"6164.0",
+    "gn:asciiname":"Maghierat",
+    "gn:cc2":"RO",
+    "gn:country_code":"RO",
+    "gn:dem":351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":674174,
+    "gn:latitude":46.05298,
+    "gn:longitude":23.81944,
+    "gn:modification_date":"2013-04-21",
+    "gn:name":"M\u0103ghierat",
+    "gn:population":12,
+    "gn:timezone":"Europe/Bucharest",
+    "iso:country":"RO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maghiarat",
+        "M\u0103ghierat"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":674174
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"d71987de00710d44c7f37f8884a1ceee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1259993389,
+            "region_id":85687697
+        }
+    ],
+    "wof:id":1259993389,
+    "wof:lastmodified":1537683472,
+    "wof:name":"Maghierat",
+    "wof:parent_id":85687697,
+    "wof:placetype":"locality",
+    "wof:population":12,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.81944,
+    46.05298,
+    23.81944,
+    46.05298
+],
+  "geometry": {"coordinates":[23.81944,46.05298],"type":"Point"}
+}

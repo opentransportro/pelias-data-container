@@ -1,0 +1,112 @@
+{
+  "id": 101792463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000235,
+    "geom:area_square_m":2085943.989802,
+    "geom:bbox":"25.215211043,44.00010795,25.2394671595,44.0176695992",
+    "geom:latitude":44.010086,
+    "geom:longitude":25.227249,
+    "gn:population":4243,
+    "iso:country":"RO",
+    "lbl:latitude":44.010705,
+    "lbl:longitude":25.227433,
+    "mps:latitude":44.010705,
+    "mps:longitude":25.227433,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Buzescu"
+    ],
+    "name:eng_x_preferred":[
+        "Buzescu"
+    ],
+    "name:fre_x_preferred":[
+        "Buzescu"
+    ],
+    "name:ita_x_preferred":[
+        "Buzescu"
+    ],
+    "name:por_x_preferred":[
+        "Buzescu"
+    ],
+    "name:rum_x_preferred":[
+        "Buzescu"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0443\u0437\u0435\u0441\u043a\u0443"
+    ],
+    "name:vie_x_preferred":[
+        "Buzescu"
+    ],
+    "name:vol_x_preferred":[
+        "Buzescu"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Teleorman",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:id":0,
+    "qs:la":"Buzescu",
+    "qs:la_lc":"*RO47152332",
+    "qs:level":"locality",
+    "qs:loc":"Buzescu",
+    "qs:loc_alt":"Buzescu",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"039e4878-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":683111,
+        "gp:id":868568,
+        "qs:id":1028155,
+        "qs_pg:id":1028155,
+        "wd:id":"Q2720421"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"12e590bacd707535e24e23c8cb7e5807",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101792463,
+            "region_id":85687585
+        }
+    ],
+    "wof:id":101792463,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514499814,
+    "wof:name":"Buzescu",
+    "wof:parent_id":85687585,
+    "wof:placetype":"locality",
+    "wof:population":4243,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.21521104303343,
+    44.00010795000753,
+    25.23946715947028,
+    44.01766959924316
+],
+  "geometry": {"coordinates":[[[25.23946715947028,44.00432942445343],[25.23922902407213,44.00344860300743],[25.23800441234403,44.00363126308366],[25.2370520384967,44.00010795000753],[25.23582749082914,44.00029058258804],[25.23606555203224,44.0011714162527],[25.23116722106192,44.00190181488762],[25.23164323049184,44.00366350398195],[25.229193952424,44.00402862949011],[25.22943193614259,44.00490947840854],[25.22208382912248,44.00600452712052],[25.22232171598682,44.00688539413875],[25.2161980141845,44.00779755298413],[25.21643582193059,44.00867843484315],[25.21521104303343,44.00886082644274],[25.21758947451599,44.01766959924316],[25.23473823495078,44.01511434408087],[25.2345000996288,44.01423351878157],[25.23694977608324,44.01386825723631],[25.23504475777565,44.00682165561943],[25.23626944355692,44.00663902918956],[25.23603134205911,44.00575820082656],[25.2384806573171,44.00539291106281],[25.23824252999248,44.00451208778645],[25.23946715947028,44.00432942445343]]],"type":"Polygon"}
+}

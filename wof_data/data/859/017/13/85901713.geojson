@@ -1,0 +1,139 @@
+{
+  "id": 85901713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00006,
+    "geom:area_square_m":528590.624259,
+    "geom:bbox":"26.0695199694,44.4362501932,26.0815429688,44.4430761695",
+    "geom:latitude":44.439863,
+    "geom:longitude":26.075477,
+    "iso:country":"RO",
+    "lbl:latitude":44.440606,
+    "lbl:longitude":26.073447,
+    "mps:latitude":44.439663,
+    "mps:longitude":26.075964,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:note":"??",
+    "mz:tier_locality":4,
+    "mz:tier_metro":30,
+    "name:ara_x_preferred":[
+        "\u0645\u0627\u0631\u064a\u0627 \u062a\u0627\u0646\u0627\u0633\u064a"
+    ],
+    "name:dan_x_preferred":[
+        "Maria T\u0103nase"
+    ],
+    "name:deu_x_preferred":[
+        "Maria T\u0103nase"
+    ],
+    "name:fra_x_preferred":[
+        "Maria T\u0103nase"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e8\u05d9\u05d4 \u05d8\u05e0\u05d0\u05e1\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Maria T\u0103nase"
+    ],
+    "name:ita_x_preferred":[
+        "Maria T\u0103nase"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30ea\u30a2\u30fb\u30bf\u30ca\u30bb"
+    ],
+    "name:pol_x_preferred":[
+        "Maria T\u0103nase"
+    ],
+    "name:rum_x_colloquial":[
+        "Caeraemidari",
+        "Caramidari"
+    ],
+    "name:rum_x_preferred":[
+        "C\u0103r\u0103midari"
+    ],
+    "name:spa_x_preferred":[
+        "Maria T\u0103nase"
+    ],
+    "name:unk_x_variant":[
+        "C\u0103r\u0103midari"
+    ],
+    "qs:gn_adm0_cc":"RO",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":683506,
+    "qs:gn_namadm1":"00",
+    "qs:gn_name":"C\u0103r\u0103midari",
+    "qs:local_max":15664,
+    "qs:local_sum":56136,
+    "qs:localhoods":29,
+    "qs:name":"C\u0103r\u0103midari",
+    "qs:name_adm0":"Rom\u00e2nia",
+    "qs:name_adm1":"Bucuresti",
+    "qs:name_local":"Bucure\u0219ti",
+    "qs:photo_max":255,
+    "qs:photo_sum":350,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":7,
+    "qs:woe_adm0":23424933,
+    "qs:woe_adm1":2346624,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":868274,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        101751949,
+        85633745,
+        85687595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":682736,
+        "gp:id":868838,
+        "qs:id":1117285,
+        "qs_pg:id":1117285
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"276423d0814daa73701825ddf2719b9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101751949,
+            "neighbourhood_id":85901713,
+            "region_id":85687595
+        }
+    ],
+    "wof:id":85901713,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1497316811,
+    "wof:name":"C\u0103r\u0103midari",
+    "wof:parent_id":101751949,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.06951996935891,
+    44.43625019317518,
+    26.08154296879076,
+    44.44307616952325
+],
+  "geometry": {"coordinates":[[[26.07604980470023,44.44307616952325],[26.07879638672534,44.44179383249646],[26.08154296878206,44.44307616948818],[26.08154296879076,44.44162421760002],[26.08154296878621,44.43966321610019],[26.08032451240467,44.43795665713635],[26.07993742869309,44.43806508246844],[26.07916003004158,44.43770216350005],[26.07604980470023,44.43625019317518],[26.07330322267512,44.4375324011048],[26.07133417834871,44.4366131770894],[26.07055663606496,44.43770216026194],[26.06977911857194,44.43879109501417],[26.06998667429957,44.4396632069754],[26.06951996935891,44.44162415177534],[26.06952001635466,44.44162421760002],[26.07055664061483,44.44307616948232],[26.07330322267512,44.44179383249629],[26.07604980470023,44.44307616952325]]],"type":"Polygon"}
+}

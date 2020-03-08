@@ -1,0 +1,121 @@
+{
+  "id": 101791073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000158,
+    "geom:area_square_m":1356722.210998,
+    "geom:bbox":"21.4502617597,46.0953847441,21.4689421869,46.1090699786",
+    "geom:latitude":46.102573,
+    "geom:longitude":21.459328,
+    "gn:population":1570,
+    "iso:country":"RO",
+    "lbl:latitude":46.102285,
+    "lbl:longitude":21.459328,
+    "mps:latitude":46.102285,
+    "mps:longitude":21.459328,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Frumu\u0219eni"
+    ],
+    "name:ara_x_preferred":[
+        "\u0641\u0631\u0648\u0645\u0648\u0634\u064a\u0646\u064a"
+    ],
+    "name:dut_x_preferred":[
+        "Frumu\u0219eni"
+    ],
+    "name:eng_x_preferred":[
+        "Frumu\u0219eni"
+    ],
+    "name:epo_x_preferred":[
+        "Frumu\u0219eni"
+    ],
+    "name:fre_x_preferred":[
+        "Frumu\u0219eni"
+    ],
+    "name:ger_x_preferred":[
+        "Frumu\u0219eni"
+    ],
+    "name:hun_x_preferred":[
+        "Sz\u00e9pfalu"
+    ],
+    "name:ita_x_preferred":[
+        "Frumu\u0219eni"
+    ],
+    "name:mac_x_preferred":[
+        "\u0424\u0440\u0443\u043c\u0443\u0448\u0435\u043d\u0438"
+    ],
+    "name:may_x_preferred":[
+        "Frumu\u0219eni"
+    ],
+    "name:por_x_preferred":[
+        "Frumu\u0219eni"
+    ],
+    "name:rum_x_preferred":[
+        "Frumu\u0219eni"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0424\u0440\u0443\u043c\u0443\u0448\u0435\u043d\u044c"
+    ],
+    "name:vol_x_preferred":[
+        "Frumu\u0219eni"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Arad",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:id":0,
+    "qs:la":"Frumu\u015feni",
+    "qs:la_lc":"*RO12012920",
+    "qs:level":"locality",
+    "qs:loc":"Frumu\u015feni",
+    "qs:loc_alt":"Frumuseni",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8306315,
+        "wd:id":"Q1082237"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"ee62af17a9d03142c56afbf08c28bea1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101791073,
+            "region_id":85687691
+        }
+    ],
+    "wof:id":101791073,
+    "wof:lastmodified":1514499930,
+    "wof:name":"Frumu\u015feni",
+    "wof:parent_id":85687691,
+    "wof:placetype":"locality",
+    "wof:population":1570,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.45026175966211,
+    46.09538474412057,
+    21.46894218686435,
+    46.1090699786173
+],
+  "geometry": {"coordinates":[[[21.45652457809842,46.10804307068975],[21.46548408264505,46.107074108897],[21.46529334246759,46.10618558289576],[21.46785310683481,46.10590860398855],[21.46766233397153,46.10502008228525],[21.46894218686435,46.10488157247983],[21.4685606247445,46.10310453140607],[21.46728081267787,46.10324303593057],[21.46651786780916,46.09968893142673],[21.4652381314695,46.09982741006382],[21.46428473560343,46.09538474412057],[21.46300509538725,46.0955231942354],[21.46319573787588,46.09641173202897],[21.45295824010566,46.09751880232858],[21.45314872746417,46.09840736024154],[21.4518689932421,46.09854567769753],[21.45205946832175,46.09943423726514],[21.45333922295447,46.09929591717253],[21.45391075822215,46.10196158207447],[21.4513511205713,46.10223822275321],[21.45154160776536,46.10312678103099],[21.45026175966211,46.10326508101491],[21.45121421554359,46.10770787086591],[21.45505404838514,46.10729288537141],[21.45543521019516,46.1090699786173],[21.45671518349172,46.10893161418363],[21.45652457809842,46.10804307068975]]],"type":"Polygon"}
+}

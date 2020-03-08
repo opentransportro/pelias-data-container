@@ -1,0 +1,123 @@
+{
+  "id": 101791469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000099,
+    "geom:area_square_m":858042.355147,
+    "geom:bbox":"22.5028532585,45.497424436,22.5284071737,45.5131551529",
+    "geom:latitude":45.50566,
+    "geom:longitude":22.516157,
+    "gn:population":1263,
+    "iso:country":"RO",
+    "lbl:latitude":45.507292,
+    "lbl:longitude":22.514028,
+    "mps:latitude":45.507292,
+    "mps:longitude":22.514028,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Marga "
+    ],
+    "name:eng_x_preferred":[
+        "Marga"
+    ],
+    "name:epo_x_preferred":[
+        "Marga"
+    ],
+    "name:fre_x_preferred":[
+        "Marga"
+    ],
+    "name:hun_x_preferred":[
+        "M\u00e1rga"
+    ],
+    "name:ind_x_preferred":[
+        "Marga"
+    ],
+    "name:ita_x_preferred":[
+        "Marga"
+    ],
+    "name:may_x_preferred":[
+        "Marga"
+    ],
+    "name:por_x_preferred":[
+        "Marga"
+    ],
+    "name:rum_x_preferred":[
+        "Marga"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0440\u0433\u0430"
+    ],
+    "name:vie_x_preferred":[
+        "Marga"
+    ],
+    "name:vol_x_preferred":[
+        "Marga"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Caras-Severin",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Marga",
+    "qs:la_lc":"*RO23053210",
+    "qs:level":"locality",
+    "qs:loc":"Marga",
+    "qs:loc_alt":"Marga",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a1c688-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":673829,
+        "gp:id":875389,
+        "qs:id":127449,
+        "qs_pg:id":127449,
+        "wd:id":"Q75509"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"f303a9491a8947e8b1cd1392714e794f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101791469,
+            "region_id":85687627
+        }
+    ],
+    "wof:id":101791469,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514500013,
+    "wof:name":"Marga",
+    "wof:parent_id":85687627,
+    "wof:placetype":"locality",
+    "wof:population":1263,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.50285325846829,
+    45.49742443603407,
+    22.5284071736699,
+    45.51315515294783
+],
+  "geometry": {"coordinates":[[[22.51699769019069,45.50602626804005],[22.52078903259746,45.50557364278473],[22.52099360970186,45.50646022675573],[22.52352117941291,45.50615839553672],[22.52331656303664,45.50527181721202],[22.52458031890495,45.50512088180523],[22.52376186099104,45.50157456877622],[22.52628919696161,45.5012726753103],[22.5258799411551,45.49949952347407],[22.5284071736699,45.49919758098741],[22.52799787380053,45.49742443603407],[22.52420713344674,45.49787731020706],[22.52441172019144,45.49876389170487],[22.52062086486086,45.49921663864421],[22.52082540132699,45.500103227507],[22.51956175079027,45.50025411581862],[22.5201753529492,45.50291388426069],[22.51638418726009,45.50336648411712],[22.51658867962857,45.50425307985972],[22.51406116541216,45.50455474334024],[22.5142656271164,45.50544134362411],[22.51173804870729,45.5057429524241],[22.51194247974291,45.50662955724869],[22.50941483714087,45.50693111136565],[22.50961923750378,45.5078177207302],[22.50709153070864,45.50811922016152],[22.50729590039424,45.50900583406576],[22.50476812940565,45.50930727880802],[22.50497246841019,45.51019389725138],[22.50370855393226,45.51034459981827],[22.504117218462,45.51211783904341],[22.50285325846829,45.51226853216588],[22.50305758399134,45.51315515294783],[22.51064136840193,45.51225075104162],[22.51002806404495,45.50959093615717],[22.51634741842179,45.50883689543821],[22.5159383954815,45.50706370822337],[22.51720220838524,45.50691286047788],[22.51699769019069,45.50602626804005]]],"type":"Polygon"}
+}

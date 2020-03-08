@@ -1,0 +1,95 @@
+{
+  "id": 101791569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000101,
+    "geom:area_square_m":878075.839325,
+    "geom:bbox":"24.8764522074,45.2237376663,24.8941269961,45.2381883423",
+    "geom:latitude":45.230253,
+    "geom:longitude":24.886475,
+    "gn:population":1114,
+    "iso:country":"RO",
+    "lbl:latitude":45.229951,
+    "lbl:longitude":24.886475,
+    "mps:latitude":45.229951,
+    "mps:longitude":24.886475,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Sl\u0103nic"
+    ],
+    "name:eng_x_preferred":[
+        "Sl\u0103nic"
+    ],
+    "name:fre_x_preferred":[
+        "Sl\u0103nic"
+    ],
+    "name:rum_x_preferred":[
+        "Sl\u0103nic"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043b\u0435\u043d\u0456\u043a "
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Arges",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Aninoasa",
+    "qs:la_lc":"*RO13013999",
+    "qs:level":"locality",
+    "qs:loc":"Sl\u0103nic",
+    "qs:loc_alt":"Slanic",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":666776,
+        "gp:id":880577,
+        "qs:id":43289,
+        "qs_pg:id":43289,
+        "wd:id":"Q12153607"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"71c3a4df701a83e5f134a009e5af2057",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101791569,
+            "region_id":85687645
+        }
+    ],
+    "wof:id":101791569,
+    "wof:lastmodified":1514500158,
+    "wof:name":"Sl\u0103nic",
+    "wof:parent_id":85687645,
+    "wof:placetype":"locality",
+    "wof:population":1114,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.87645220743997,
+    45.22373766629153,
+    24.89412699613092,
+    45.23818834229257
+],
+  "geometry": {"coordinates":[[[24.89412699613092,45.23800919329932],[24.89099235067482,45.22655913151067],[24.89224412304662,45.22638001065383],[24.89152092748918,45.22373766629153],[24.88901748863702,45.22409587332407],[24.8894995335578,45.22585745080119],[24.88324062111866,45.22675274159383],[24.88348156432818,45.2276335448359],[24.87972607338844,45.22817055103911],[24.87996697004007,45.22905136284714],[24.87746323548936,45.22940929934254],[24.87770410443812,45.23029011641142],[24.87645220743997,45.23046906568743],[24.87693393767523,45.23223070239544],[24.88068972013309,45.23169379019572],[24.880930656879,45.23257459662068],[24.88218258874616,45.23239559288209],[24.88266453004337,45.23415719508557],[24.88892426936667,45.23326192058715],[24.88916534937954,45.23414270314299],[24.89166923211553,45.23378448277833],[24.89287497131039,45.23818834229257],[24.89412699613092,45.23800919329932]]],"type":"Polygon"}
+}

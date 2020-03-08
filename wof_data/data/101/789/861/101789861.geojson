@@ -1,0 +1,101 @@
+{
+  "id": 101789861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000121,
+    "geom:area_square_m":1037498.150484,
+    "geom:bbox":"25.7020457052,46.1202355723,25.7132149888,46.1472057326",
+    "geom:latitude":46.134676,
+    "geom:longitude":25.707898,
+    "gn:population":1047,
+    "iso:country":"RO",
+    "lbl:latitude":46.136407,
+    "lbl:longitude":25.706883,
+    "mps:latitude":46.136407,
+    "mps:longitude":25.706883,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Herculian"
+    ],
+    "name:eng_x_preferred":[
+        "Herculian"
+    ],
+    "name:epo_x_preferred":[
+        "Herculian"
+    ],
+    "name:fre_x_preferred":[
+        "Herculian"
+    ],
+    "name:hun_x_preferred":[
+        "Magyarherm\u00e1ny"
+    ],
+    "name:rum_x_preferred":[
+        "Herculian"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u0435\u0440\u043a\u0443\u043b\u0456\u0430\u043d"
+    ],
+    "name:unk_x_variant":[
+        "Magyarherm\u00e0ny"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Covasna",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"B\u0103\u0163ani",
+    "qs:la_lc":"*RO26063802",
+    "qs:level":"locality",
+    "qs:loc":"Herculian",
+    "qs:loc_alt":"Herculian",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":676239,
+        "gp:id":873612,
+        "qs:id":411021,
+        "wd:id":"Q713958"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"6b7503bff7be06dfb6ed21d1039a477f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101789861,
+            "region_id":85687699
+        }
+    ],
+    "wof:id":101789861,
+    "wof:lastmodified":1514499966,
+    "wof:name":"Herculian",
+    "wof:parent_id":85687699,
+    "wof:placetype":"locality",
+    "wof:population":1047,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.70204570516972,
+    46.1202355723471,
+    25.7132149888302,
+    46.14720573263048
+],
+  "geometry": {"coordinates":[[[25.70670876967972,46.14701642455015],[25.70618664960244,46.14526087638626],[25.70745692798198,46.14507156038906],[25.70693481305858,46.14331601374698],[25.71074548329642,46.14274799679544],[25.7094400968536,46.13835915920129],[25.71071020689755,46.13816980796366],[25.70966601831503,46.1346587268431],[25.71220605865187,46.13428000777861],[25.7119450001357,46.13340224113011],[25.7132149888302,46.1332128625744],[25.71008291275047,46.12267959581516],[25.70881315755526,46.12286893146154],[25.7080304447984,46.1202355723471],[25.70676073996202,46.12042488220698],[25.70806521902921,46.12481382489307],[25.70679540892166,46.12500313756152],[25.70810006609469,46.12939206290753],[25.70683015069289,46.12958137838569],[25.70787399690983,46.13309250761199],[25.70406396913421,46.1336604065516],[25.70432489984273,46.13453819606343],[25.7030548551113,46.1347274691509],[25.70331577737181,46.13560526082972],[25.70204570516972,46.13579452242442],[25.70282847965922,46.1384278997399],[25.70409861026684,46.13823862741992],[25.70540355217696,46.14262754358219],[25.70413332421163,46.14281683378027],[25.70465533918866,46.14457239754324],[25.70338506426663,46.14476167982343],[25.70390708438867,46.14651724510838],[25.70517739826266,46.1463279556757],[25.70543844433809,46.14720573263048],[25.70670876967972,46.14701642455015]]],"type":"Polygon"}
+}

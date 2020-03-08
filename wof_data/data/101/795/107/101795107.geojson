@@ -1,0 +1,129 @@
+{
+  "id": 101795107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000099,
+    "geom:area_square_m":868175.894826,
+    "geom:bbox":"21.56085003,44.7662263082,21.585377327,44.7781179545",
+    "geom:latitude":44.77169,
+    "geom:longitude":21.57173,
+    "gn:population":3187,
+    "iso:country":"RO",
+    "lbl:latitude":44.769487,
+    "lbl:longitude":21.570523,
+    "mps:latitude":44.769487,
+    "mps:longitude":21.570523,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Pojejena"
+    ],
+    "name:eng_x_preferred":[
+        "Pojejena de Jos"
+    ],
+    "name:epo_x_preferred":[
+        "Pojejena"
+    ],
+    "name:fre_x_preferred":[
+        "Pojejena"
+    ],
+    "name:hun_x_preferred":[
+        "Als\u00f3pozsg\u00e1s"
+    ],
+    "name:ita_x_preferred":[
+        "Pojejena"
+    ],
+    "name:por_x_preferred":[
+        "Pojejena"
+    ],
+    "name:rum_x_colloquial":[
+        "Rumunska Pozezena"
+    ],
+    "name:rum_x_preferred":[
+        "Pojejena"
+    ],
+    "name:rum_x_variant":[
+        "Rumunska Po\u017ee\u017eena"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u043e\u0436\u0435\u0436\u0435\u043d\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u0436\u0435\u0436\u0435\u043d\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Rumunska Po\u017ee\u017eena"
+    ],
+    "name:vie_x_preferred":[
+        "Pojejena"
+    ],
+    "name:vol_x_preferred":[
+        "Pojejena"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Caras-Severin",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Pojejena",
+    "qs:la_lc":"*RO23053513",
+    "qs:level":"locality",
+    "qs:loc":"Pojejena",
+    "qs:loc_alt":"Pojejena",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a33dc4-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":669980,
+        "gp:id":878272,
+        "qs:id":1027529,
+        "qs_pg:id":1027529,
+        "wd:id":"Q673020"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"db3be00105a5504bd132d69470a3a893",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101795107,
+            "region_id":85687627
+        }
+    ],
+    "wof:id":101795107,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514500091,
+    "wof:name":"Pojejena",
+    "wof:parent_id":85687627,
+    "wof:placetype":"locality",
+    "wof:population":3187,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.56085003001022,
+    44.76622630823277,
+    21.58537732696971,
+    44.77811795451197
+],
+  "geometry": {"coordinates":[[[21.58537732696971,44.77783918272519],[21.58519192487813,44.77694998985879],[21.5839424306206,44.777089380647],[21.58338632810739,44.7744217880479],[21.58213688576564,44.77456115624739],[21.58195155284398,44.77367195404821],[21.58070212410217,44.77381130477971],[21.58051681804886,44.77292209896831],[21.57926740290753,44.77306143223217],[21.57908212372018,44.77217222280893],[21.57783272217955,44.77231153860583],[21.57764746985708,44.77142232557094],[21.57639808191783,44.77156162390168],[21.57621285645814,44.77067240725574],[21.57371410223169,44.77095095407691],[21.57297343068643,44.7673940565054],[21.57547203168349,44.76711553014326],[21.57528684475335,44.76622630823277],[21.56529246078969,44.76734003545766],[21.56566253590267,44.76911851912769],[21.56316380781016,44.76939681208188],[21.56334881860312,44.77028605744954],[21.56085003001022,44.7705642958806],[21.56158999690132,44.77412128727303],[21.56908675590427,44.77328633174648],[21.56890163767952,44.77239710080994],[21.57389928937999,44.77184017583818],[21.57408448423445,44.77272939654665],[21.57533390243623,44.77259012547484],[21.57570435357906,44.77436855861851],[21.5769538045422,44.77422926752195],[21.57713906083342,44.77511847995652],[21.57838852540004,44.77497917139272],[21.57875909942896,44.77675758798642],[21.58000859675803,44.7766182593956],[21.58019391449818,44.77750746355412],[21.58269293080446,44.77722875652563],[21.58287829457674,44.77811795451197],[21.58537732696971,44.77783918272519]]],"type":"Polygon"}
+}

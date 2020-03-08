@@ -1,0 +1,98 @@
+{
+  "id": 101845119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000175,
+    "geom:area_square_m":1536782.028514,
+    "geom:bbox":"27.3426966891,44.7162004389,27.3635468828,44.7309738583",
+    "geom:latitude":44.72406,
+    "geom:longitude":27.353338,
+    "gn:population":1228,
+    "iso:country":"RO",
+    "lbl:latitude":44.722931,
+    "lbl:longitude":27.354049,
+    "mps:latitude":44.722931,
+    "mps:longitude":27.354049,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0421\u043c\u0438\u0440\u043d\u0430"
+    ],
+    "name:dut_x_preferred":[
+        "Smirna"
+    ],
+    "name:eng_x_preferred":[
+        "Smirna"
+    ],
+    "name:fre_x_preferred":[
+        "Smirna"
+    ],
+    "name:ita_x_preferred":[
+        "Smirna"
+    ],
+    "name:rum_x_preferred":[
+        "Smirna"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043c\u0456\u0440\u043d\u0430 "
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Ialomita",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Grivi\u0163a",
+    "qs:la_lc":"*RO34093735",
+    "qs:level":"locality",
+    "qs:loc":"Smirna",
+    "qs:loc_alt":"Smirna",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":666617,
+        "gp:id":880695,
+        "qs:id":8,
+        "wd:id":"Q12154029"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"2c5918099d96c74c1c43b62deb0b2d50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101845119,
+            "region_id":85687621
+        }
+    ],
+    "wof:id":101845119,
+    "wof:lastmodified":1514500158,
+    "wof:name":"Smirna",
+    "wof:parent_id":85687621,
+    "wof:placetype":"locality",
+    "wof:population":1228,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.34269668914021,
+    44.71620043890204,
+    27.3635468828403,
+    44.73097385829368
+],
+  "geometry": {"coordinates":[[[27.36231290173333,44.72756050996804],[27.3635468828403,44.72735224340852],[27.36327020118335,44.72647840541759],[27.36203623788168,44.72668666821232],[27.36065308828984,44.72231743477147],[27.35941920586265,44.72252566422026],[27.35858950522169,44.71990409313617],[27.35982333424585,44.7196958749775],[27.35871715381506,44.71620043890204],[27.35624963001965,44.7166168305929],[27.35652612257309,44.71749069960276],[27.34912324914313,44.71873954867669],[27.34884686338955,44.71786565709715],[27.34637920944346,44.71828181640507],[27.34803747983347,44.72352518637439],[27.34433561743674,44.72414938409048],[27.34405926420646,44.72327548191907],[27.34282531161341,44.72348351501148],[27.34393072110214,44.72697912888685],[27.34269668914021,44.72718716249443],[27.3432494260677,44.7289349671023],[27.34695160440918,44.72831080013088],[27.34722804325935,44.72918468868778],[27.34846210424377,44.72897660021368],[27.34818564758353,44.7281027154184],[27.35188772828064,44.72747837411811],[27.35299383647623,44.73097385829368],[27.35793011506513,44.73014113963768],[27.3576534998171,44.72926728611264],[27.36258957689807,44.72843435007962],[27.36231290173333,44.72756050996804]]],"type":"Polygon"}
+}

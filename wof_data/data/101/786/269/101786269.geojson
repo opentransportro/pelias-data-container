@@ -1,0 +1,102 @@
+{
+  "id": 101786269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000158,
+    "geom:area_square_m":1326464.221846,
+    "geom:bbox":"24.0817920913,47.1878580361,24.1098995013,47.1996592825",
+    "geom:latitude":47.192926,
+    "geom:longitude":24.096623,
+    "gn:population":1130,
+    "iso:country":"RO",
+    "lbl:latitude":47.19191,
+    "lbl:longitude":24.096622,
+    "mps:latitude":47.19191,
+    "mps:longitude":24.096622,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Criste\u0219tii Ciceului"
+    ],
+    "name:eng_x_preferred":[
+        "Criste\u0219tii Ciceului"
+    ],
+    "name:epo_x_preferred":[
+        "Criste\u0219tii Ciceului"
+    ],
+    "name:fre_x_preferred":[
+        "Criste\u0219tii Ciceului"
+    ],
+    "name:hun_x_preferred":[
+        "Csics\u00f3kereszt\u00far"
+    ],
+    "name:rum_x_preferred":[
+        "Criste\u0219tii Ciceului"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0440\u0456\u0441\u0442\u0435\u0448\u0442\u0456\u0439-\u0427\u0438\u0447\u0435\u0443\u043b\u0443\u0439"
+    ],
+    "name:unk_x_variant":[
+        "Criste\u015ftii-Ciceului"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Bistrita-Nasaud",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:id":0,
+    "qs:la":"Uriu",
+    "qs:la_lc":"*RO16035269",
+    "qs:level":"locality",
+    "qs:loc":"Criste\u015ftii Ciceului",
+    "qs:loc_alt":"Cristestii Ciceului",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":680171,
+        "gp:id":870717,
+        "qs:id":1278329,
+        "wd:id":"Q533139"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"8771be9f7062373d0e83f72f5d4ffbe6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101786269,
+            "region_id":85687753
+        }
+    ],
+    "wof:id":101786269,
+    "wof:lastmodified":1514499881,
+    "wof:name":"Criste\u015ftii Ciceului",
+    "wof:parent_id":85687753,
+    "wof:placetype":"locality",
+    "wof:population":1130,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.081792091333,
+    47.18785803608375,
+    24.10989950132216,
+    47.19965928249462
+],
+  "geometry": {"coordinates":[[[24.09778173095157,47.19860716555382],[24.10168098973622,47.19809535358115],[24.10192300544662,47.19897688423936],[24.10452251478188,47.19863559197029],[24.10428045725553,47.19775406798328],[24.10558017951229,47.19758340189975],[24.10388592421037,47.19141272391374],[24.10518549247365,47.19124206565715],[24.10494347705617,47.19036053879017],[24.10884207314837,47.18984848090395],[24.10860000552356,47.18896696284929],[24.10989950132216,47.18879624918316],[24.10965742329063,47.18791473326991],[24.09926140943548,47.18927998136087],[24.09901950907192,47.18839843757496],[24.09642047076966,47.18873958772969],[24.09617862268624,47.18785803608375],[24.0935795955404,47.18819911749131],[24.09382140182385,47.18908067580247],[24.08732359542438,47.1899331243693],[24.08756530767391,47.19081469814665],[24.08496608970432,47.19115557558604],[24.08569116387127,47.19380030975333],[24.081792091333,47.19431153947107],[24.08203374094552,47.19519312513546],[24.08333346035761,47.19502272742227],[24.0835751413544,47.19590430856476],[24.08747431637534,47.19539301229116],[24.08771607057759,47.19627458224829],[24.08901580117612,47.19610411577821],[24.08877402606487,47.19522254915319],[24.0939727882195,47.19454054137174],[24.09421464696214,47.1954220946663],[24.09681402388156,47.19508099097288],[24.09753978845566,47.19772562369798],[24.09624004110435,47.19789619330777],[24.0967238947635,47.19965928249462],[24.0980236839344,47.19948870621653],[24.09778173095157,47.19860716555382]]],"type":"Polygon"}
+}

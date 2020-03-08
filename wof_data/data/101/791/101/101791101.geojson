@@ -1,0 +1,118 @@
+{
+  "id": 101791101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000131,
+    "geom:area_square_m":1127333.419124,
+    "geom:bbox":"23.6452554712,45.8797145516,23.666273292,45.9001568959",
+    "geom:latitude":45.888294,
+    "geom:longitude":23.657392,
+    "gn:population":2959,
+    "iso:country":"RO",
+    "lbl:latitude":45.887101,
+    "lbl:longitude":23.659303,
+    "mps:latitude":45.887101,
+    "mps:longitude":23.659303,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "C\u00e2lnic"
+    ],
+    "name:eng_x_preferred":[
+        "Kelling"
+    ],
+    "name:fre_x_preferred":[
+        "C\u00e2lnic"
+    ],
+    "name:hun_x_preferred":[
+        "Kelnek"
+    ],
+    "name:ita_x_preferred":[
+        "C\u00e2lnic"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30eb\u30cb\u30af"
+    ],
+    "name:rum_x_colloquial":[
+        "Calnic",
+        "Cilnic"
+    ],
+    "name:rum_x_preferred":[
+        "C\u00eelnic"
+    ],
+    "name:rum_x_variant":[
+        "C\u00e2lnic"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0438\u043b\u043d\u0456\u043a"
+    ],
+    "name:unk_x_variant":[
+        "Kelling"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Alba",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"C\u00e2lnic",
+    "qs:la_lc":"*RO11004106",
+    "qs:level":"locality",
+    "qs:loc":"Calnic",
+    "qs:loc_alt":"Calnic",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"039ebe0c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":681902,
+        "gp:id":869448,
+        "qs:id":1350570,
+        "qs_pg:id":1350570,
+        "wd:id":"Q5137511"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"c132973bc93e9248ef62852bc44d8ffe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101791101,
+            "region_id":85687697
+        }
+    ],
+    "wof:id":101791101,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514499830,
+    "wof:name":"Calnic",
+    "wof:parent_id":85687697,
+    "wof:placetype":"locality",
+    "wof:population":2959,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.64525547119069,
+    45.87971455155935,
+    23.6662732920467,
+    45.90015689594389
+],
+  "geometry": {"coordinates":[[[23.6662732920467,45.89540969087432],[23.66604756931162,45.89452616266567],[23.6647776065779,45.89469094256509],[23.6627467090849,45.88673910691404],[23.66401649412165,45.88657435497998],[23.66356524902596,45.88480727345137],[23.66229550346856,45.88497201917244],[23.66206991496688,45.88408847350775],[23.66080018222999,45.8842532009931],[23.66057462300301,45.8833696510269],[23.65422595426122,45.88419304598727],[23.65400050326468,45.88330947930046],[23.65273076851088,45.88347410979992],[23.65250534678461,45.88259053881393],[23.64996589601657,45.88291974821681],[23.6497405232991,45.88203616982889],[23.64847080728674,45.882200748733],[23.64802012991186,45.8804335821672],[23.64675044646708,45.88059813973638],[23.64652514180648,45.87971455155935],[23.64525547119069,45.87987909089742],[23.64593135452935,45.88252986115282],[23.64720108436313,45.88236531250772],[23.64765176036383,45.88413248050153],[23.64892152276929,45.88396791052077],[23.65027389790578,45.88926936721805],[23.65535335222944,45.88861086149768],[23.65557886042433,45.889494421015],[23.65684872645886,45.88932975365185],[23.6582020943639,45.8946310670284],[23.65947207196109,45.89446636589815],[23.65969768641162,45.89534991083866],[23.66350763692049,45.89485570733211],[23.66486187951409,45.90015689594389],[23.66613196767372,45.89999211252893],[23.66500330956507,45.89557447388131],[23.6662732920467,45.89540969087432]]],"type":"Polygon"}
+}

@@ -1,0 +1,123 @@
+{
+  "id": 101791663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000089,
+    "geom:area_square_m":768193.783447,
+    "geom:bbox":"20.9117423379,45.816288003,20.9282955417,45.8267026444",
+    "geom:latitude":45.82131,
+    "geom:longitude":20.920499,
+    "gn:population":1113,
+    "iso:country":"RO",
+    "lbl:latitude":45.821729,
+    "lbl:longitude":20.920625,
+    "mps:latitude":45.821729,
+    "mps:longitude":20.920625,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Iecea Mic\u0103"
+    ],
+    "name:eng_x_preferred":[
+        "Iecea Mic\u0103"
+    ],
+    "name:epo_x_preferred":[
+        "Iecea Mic\u0103"
+    ],
+    "name:fre_x_preferred":[
+        "Iecea Mic\u0103"
+    ],
+    "name:ger_x_preferred":[
+        "Iecea Mic\u0103"
+    ],
+    "name:hun_x_preferred":[
+        "Kisj\u00e9csa"
+    ],
+    "name:rum_x_colloquial":[
+        "Iecea Mica",
+        "Iecea Micae",
+        "Iecia-Mica",
+        "Iecia-Micae",
+        "Jecia-Mica",
+        "Jecia-Micae"
+    ],
+    "name:rum_x_preferred":[
+        "Iecea Mic\u0103"
+    ],
+    "name:rum_x_variant":[
+        "Iecia-Mic\u0103",
+        "Jecia-Mic\u0103"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u043b\u0430 \u0408\u0435\u0447\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0404\u0447\u0430-\u041c\u0456\u043a\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Klein-Jetscha"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Timis",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"C\u0103rpini\u015f",
+    "qs:la_lc":"*RO48156213",
+    "qs:level":"locality",
+    "qs:loc":"Iecea Mic\u0103",
+    "qs:loc_alt":"Iecea Mica",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a10b62-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":675738,
+        "gp:id":873966,
+        "qs:id":411142,
+        "wd:id":"Q848594"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"0a1394d8417c2a6314f7b296042c1c54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101791663,
+            "region_id":85687655
+        }
+    ],
+    "wof:id":101791663,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514499979,
+    "wof:name":"Iecea Mic\u0103",
+    "wof:parent_id":85687655,
+    "wof:placetype":"locality",
+    "wof:population":1113,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.9117423378795,
+    45.81628800302411,
+    20.92829554173102,
+    45.82670264441145
+],
+  "geometry": {"coordinates":[[[20.92264463337966,45.82643898360539],[20.92246437626483,45.82554914538912],[20.92373882628732,45.82541729458131],[20.9235585565882,45.82452745791102],[20.92610739946275,45.82426371548792],[20.92592709693628,45.82337388286095],[20.92720148978867,45.8232419912465],[20.92702117468252,45.82235216016591],[20.92829554173102,45.82222025578267],[20.92793489402749,45.82044059576293],[20.92666056746447,45.8205724951514],[20.92648027535171,45.8196826612176],[20.92520596347094,45.81981454284357],[20.92484544271707,45.81803486712869],[20.92229688324716,45.81829857459894],[20.92211667484304,45.81740873032243],[20.91829385469049,45.81780416955263],[20.91811371466599,45.8169143168393],[20.91556518060827,45.81717786167752],[20.91538508872071,45.81628800302411],[20.91411083360367,45.81641975005147],[20.91429090525048,45.81730961119905],[20.9117423378795,45.81757306444672],[20.91192237669696,45.81846292963183],[20.91319668340014,45.8183312081469],[20.91337675011368,45.81922106988816],[20.91465107150765,45.81908933064341],[20.91483116611909,45.81997918894029],[20.91610550220389,45.81984743193539],[20.91664589270886,45.82251699364076],[20.91537149589021,45.82264875812984],[20.91573175402272,45.82442846617249],[20.91700619133445,45.82429669669324],[20.91718635213579,45.82518654679421],[20.91846080413995,45.8250547595523],[20.91864099284874,45.82594460620749],[20.91991545954482,45.82581280120218],[20.92009567616333,45.82670264441145],[20.92264463337966,45.82643898360539]]],"type":"Polygon"}
+}

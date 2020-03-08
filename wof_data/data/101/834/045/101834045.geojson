@@ -1,0 +1,132 @@
+{
+  "id": 101834045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000101,
+    "geom:area_square_m":866402.870605,
+    "geom:bbox":"21.3796281464,46.2202080953,21.3948525524,46.2307638988",
+    "geom:latitude":46.225492,
+    "geom:longitude":21.385918,
+    "gn:population":2840,
+    "iso:country":"RO",
+    "lbl:latitude":46.224806,
+    "lbl:longitude":21.385157,
+    "mps:latitude":46.224806,
+    "mps:longitude":21.385157,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Livada"
+    ],
+    "name:ara_x_preferred":[
+        "\u0644\u064a\u0641\u0627\u062f\u0627"
+    ],
+    "name:dut_x_preferred":[
+        "Livada"
+    ],
+    "name:eng_x_preferred":[
+        "Livada"
+    ],
+    "name:epo_x_preferred":[
+        "Livada "
+    ],
+    "name:fre_x_preferred":[
+        "Livada"
+    ],
+    "name:hun_x_preferred":[
+        "Fakert"
+    ],
+    "name:ita_x_preferred":[
+        "Livada"
+    ],
+    "name:mac_x_preferred":[
+        "\u041b\u0438\u0432\u0430\u0434\u0430"
+    ],
+    "name:may_x_preferred":[
+        "Livada"
+    ],
+    "name:por_x_preferred":[
+        "Livada "
+    ],
+    "name:rum_x_preferred":[
+        "Livada"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0456\u0432\u0430\u0434\u0430 "
+    ],
+    "name:unk_x_variant":[
+        "Fachert"
+    ],
+    "name:vie_x_preferred":[
+        "Livada"
+    ],
+    "name:vol_x_preferred":[
+        "Livada"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Arad",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Livada",
+    "qs:la_lc":"*RO12009333",
+    "qs:level":"locality",
+    "qs:loc":"Livada",
+    "qs:loc_alt":"Livada",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a1749e-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":674685,
+        "gp:id":874738,
+        "qs:id":1278780,
+        "qs_pg:id":1278780,
+        "wd:id":"Q995708"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"3845598a37da88a8d4944399c6deeae5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101834045,
+            "region_id":85687691
+        }
+    ],
+    "wof:id":101834045,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514499996,
+    "wof:name":"Livada",
+    "wof:parent_id":85687691,
+    "wof:placetype":"locality",
+    "wof:population":2840,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.37962814644192,
+    46.22020809525122,
+    21.39485255235809,
+    46.23076389880833
+],
+  "geometry": {"coordinates":[[[21.38879020331581,46.22020809525122],[21.37962814644192,46.22031561430396],[21.38145264195373,46.22884913729581],[21.38016969354521,46.22898664374753],[21.38054973442701,46.23076389880833],[21.3843986852221,46.23035131754568],[21.38420859905591,46.22946269839497],[21.3893403684113,46.22891238535362],[21.38953053678301,46.22980099397392],[21.39209642705322,46.22952573995241],[21.39228664466754,46.23041434233517],[21.39485255235809,46.230139021556],[21.39447204307214,46.22836182635592],[21.39318913328663,46.22849948916348],[21.39261849207452,46.22583368117938],[21.39005277803273,46.22610894487758],[21.38879020331581,46.22020809525122]]],"type":"Polygon"}
+}

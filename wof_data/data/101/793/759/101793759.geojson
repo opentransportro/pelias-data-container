@@ -1,0 +1,101 @@
+{
+  "id": 101793759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000185,
+    "geom:area_square_m":1636721.038282,
+    "geom:bbox":"26.4059280324,44.310599588,26.4341720488,44.324363905",
+    "geom:latitude":44.316446,
+    "geom:longitude":26.418183,
+    "gn:population":3180,
+    "iso:country":"RO",
+    "lbl:latitude":44.316152,
+    "lbl:longitude":26.417219,
+    "mps:latitude":44.316152,
+    "mps:longitude":26.417219,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "G\u0103lbina\u0219i "
+    ],
+    "name:eng_x_preferred":[
+        "G\u0103lbina\u0219i"
+    ],
+    "name:fre_x_preferred":[
+        "G\u0103lbina\u0219i"
+    ],
+    "name:ita_x_preferred":[
+        "G\u0103lbina\u0219i"
+    ],
+    "name:may_x_preferred":[
+        "G\u0103lbina\u0219i"
+    ],
+    "name:por_x_preferred":[
+        "G\u0103lbina\u0219i"
+    ],
+    "name:rum_x_preferred":[
+        "G\u0103lbina\u0219i"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0435\u043b\u0431\u0456\u043d\u0430\u0448\u0456"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Calarasi",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:id":0,
+    "qs:la":"Vasila\u0163i",
+    "qs:la_lc":"*RO22105829",
+    "qs:level":"locality",
+    "qs:loc":"G\u0103lbina\u015fi",
+    "qs:loc_alt":"Galbinasi",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":677673,
+        "gp:id":872564,
+        "wd:id":"Q2288662"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"9f5c516321984990ad6154b3940148ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101793759,
+            "region_id":85687615
+        }
+    ],
+    "wof:id":101793759,
+    "wof:lastmodified":1514499962,
+    "wof:name":"G\u0103lbina\u015fi",
+    "wof:parent_id":85687615,
+    "wof:placetype":"locality",
+    "wof:population":3180,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.40592803244414,
+    44.31059958804144,
+    26.43417204883326,
+    44.32436390502295
+],
+  "geometry": {"coordinates":[[[26.42318642046502,44.32024791489124],[26.42215128964841,44.31673945403429],[26.43320304712756,44.31496694952921],[26.4329441313248,44.3140898622201],[26.43417204883326,44.31389284841538],[26.4333953115277,44.31126158780063],[26.42480010204702,44.31264030627085],[26.42454133467163,44.31176319159806],[26.42208552788725,44.31215697380668],[26.42182680647136,44.31127985053098],[26.42059890945018,44.31147671639042],[26.42034021627944,44.31059958804144],[26.41174484945884,44.31197721898553],[26.41226199831647,44.31373152351932],[26.41103402310409,44.31392827707981],[26.41129259560512,44.31480543055659],[26.41006459511624,44.31500217316437],[26.41058173626146,44.31675648253895],[26.40689758312686,44.31734664464142],[26.40715611632652,44.31822380759155],[26.40592803244414,44.31842050285786],[26.4064450949756,44.32017483117954],[26.40767321430485,44.31997812886112],[26.40896614349236,44.32436390502295],[26.41265072199639,44.32377365827813],[26.41239206192222,44.32289651671465],[26.41362022190799,44.32269974236385],[26.41336155464137,44.32182260278404],[26.42318642046502,44.32024791489124]]],"type":"Polygon"}
+}

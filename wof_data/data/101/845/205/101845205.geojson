@@ -1,0 +1,95 @@
+{
+  "id": 101845205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000138,
+    "geom:area_square_m":1197271.574141,
+    "geom:bbox":"27.072106639,45.4934647374,27.0983939025,45.5048279176",
+    "geom:latitude":45.500763,
+    "geom:longitude":27.083589,
+    "gn:population":1351,
+    "iso:country":"RO",
+    "lbl:latitude":45.50175,
+    "lbl:longitude":27.083788,
+    "mps:latitude":45.50175,
+    "mps:longitude":27.083788,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Obreji\u021ba"
+    ],
+    "name:eng_x_preferred":[
+        "Obreji\u021ba"
+    ],
+    "name:fre_x_preferred":[
+        "Obreji\u021ba"
+    ],
+    "name:ita_x_preferred":[
+        "Obreji\u021ba"
+    ],
+    "name:por_x_preferred":[
+        "Obreji\u021ba"
+    ],
+    "name:rum_x_preferred":[
+        "Obreji\u021ba"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Vrancea",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"T\u00e2mboe\u015fti",
+    "qs:la_lc":"*RO52178046",
+    "qs:level":"locality",
+    "qs:loc":"Obreji\u0163a",
+    "qs:loc_alt":"Obrejita",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":672045,
+        "gp:id":876685,
+        "qs:id":1,
+        "wd:id":"Q3880618"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"99de79750ab15f815d2848a5f13432df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101845205,
+            "region_id":85687705
+        }
+    ],
+    "wof:id":101845205,
+    "wof:lastmodified":1514500050,
+    "wof:name":"Obreji\u0163a",
+    "wof:parent_id":85687705,
+    "wof:placetype":"locality",
+    "wof:population":1351,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.07210663903516,
+    45.49346473736398,
+    27.09839390246839,
+    45.50482791762005
+],
+  "geometry": {"coordinates":[[[27.0818433787245,45.50482791762005],[27.0906053183428,45.50339005276231],[27.09088388370736,45.50426410584396],[27.09839390246839,45.50303105136271],[27.09727926577892,45.4995349206464],[27.09102130825966,45.5005624270101],[27.09074277063502,45.49968837136163],[27.08949117255349,45.49989382452543],[27.08893416905011,45.49814570086113],[27.08142462720679,45.49937806409855],[27.08058954212925,45.49675579834678],[27.07933797813195,45.49696112913671],[27.07822476726176,45.49346473736398],[27.07572176238995,45.49387532427971],[27.07627827061509,45.49562353852099],[27.0750267185918,45.49582881741071],[27.07558323597937,45.49757703288174],[27.07308003274869,45.4979875615229],[27.0733582717171,45.49886167446169],[27.07210663903516,45.4990669204185],[27.07238487102711,45.49994103556179],[27.07363652223927,45.49973578581159],[27.07447134313668,45.50235811032661],[27.07321963633001,45.50256337145845],[27.07377620431123,45.50431158744482],[27.0787831296318,45.50349042392634],[27.07906150509154,45.50436451435712],[27.08156495463879,45.50395383637039],[27.0818433787245,45.50482791762005]]],"type":"Polygon"}
+}

@@ -1,0 +1,116 @@
+{
+  "id": 1125825803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.08333,44.76667,25.08333,44.76667",
+    "geom:latitude":44.76667,
+    "geom:longitude":25.08333,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":3713,
+    "gn:population":3713,
+    "iso:country":"RO",
+    "lbl:latitude":44.76667,
+    "lbl:longitude":25.08333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:alb_x_preferred":[
+        "C\u0103teasca"
+    ],
+    "name:ara_x_preferred":[
+        "\u0643\u0627\u062a\u064a\u0627\u0633\u0643\u0627"
+    ],
+    "name:dut_x_preferred":[
+        "C\u0103teasca"
+    ],
+    "name:eng_x_preferred":[
+        "C\u0103teasca"
+    ],
+    "name:fre_x_preferred":[
+        "C\u0103teasca"
+    ],
+    "name:ita_x_preferred":[
+        "C\u0103teasca"
+    ],
+    "name:mac_x_preferred":[
+        "\u041a\u0430\u0442\u0435\u0430\u0441\u043a\u0430"
+    ],
+    "name:may_x_preferred":[
+        "C\u0103teasca"
+    ],
+    "name:por_x_preferred":[
+        "C\u0103teasca"
+    ],
+    "name:rum_x_preferred":[
+        "C\u0103teasca"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0435\u0442\u044f\u0441\u043a\u0430"
+    ],
+    "name:vie_x_preferred":[
+        "Cateasca"
+    ],
+    "name:vol_x_preferred":[
+        "C\u0103teasca"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":682560,
+    "qs_pg:gn_pop":3713,
+    "qs_pg:name":"C\u0103teasca",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1028118,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":682560,
+        "qs_pg:id":1028118,
+        "wd:id":"Q2348282"
+    },
+    "wof:country":"RO",
+    "wof:created":1497292271,
+    "wof:geomhash":"ad87fb3a395882677ee8aa230b3d56af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125825803,
+            "region_id":85687645
+        }
+    ],
+    "wof:id":1125825803,
+    "wof:lastmodified":1514499898,
+    "wof:name":"C\u0103teasca",
+    "wof:parent_id":85687645,
+    "wof:placetype":"locality",
+    "wof:population":3713,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.08333,
+    44.76667,
+    25.08333,
+    44.76667
+],
+  "geometry": {"coordinates":[25.08333,44.76667],"type":"Point"}
+}

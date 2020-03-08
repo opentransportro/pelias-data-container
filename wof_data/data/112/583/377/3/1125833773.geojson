@@ -1,0 +1,117 @@
+{
+  "id": 1125833773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.794643,45.12414,21.794643,45.12414",
+    "geom:latitude":45.12414,
+    "geom:longitude":21.794643,
+    "gn:gn_country":null,
+    "iso:country":"RO",
+    "lbl:latitude":45.12414,
+    "lbl:longitude":21.794643,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Ciudanovi\u021ba"
+    ],
+    "name:eng_x_preferred":[
+        "Ciudanovi\u021ba"
+    ],
+    "name:epo_x_preferred":[
+        "Ciudanovi\u021ba"
+    ],
+    "name:fre_x_preferred":[
+        "Ciudanovi\u021ba"
+    ],
+    "name:hun_x_preferred":[
+        "Csudafalva"
+    ],
+    "name:ita_x_preferred":[
+        "Ciudanovi\u021ba"
+    ],
+    "name:may_x_preferred":[
+        "Ciudanovi\u021ba"
+    ],
+    "name:por_x_preferred":[
+        "Ciudanovi\u021ba"
+    ],
+    "name:rum_x_preferred":[
+        "Ciudanovi\u021ba"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0443\u0434\u0430\u043d\u043e\u0432\u0456\u0446\u0430"
+    ],
+    "name:vie_x_preferred":[
+        "Ciudanovita"
+    ],
+    "name:vol_x_preferred":[
+        "Ciudanovi\u021ba"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Ciudanovi\u021ba",
+    "qs_pg:name_adm0":"Rom\u00e2nia",
+    "qs_pg:name_adm1":"Caras-Severin",
+    "qs_pg:photos":26,
+    "qs_pg:photos_1k":5,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":26,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1091561,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424933,
+    "qs_pg:woe_id":869768,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424933,
+    "woe:name_adm0":"Rom\u00e2nia",
+    "woe:name_adm1":"Caras-Severin",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":869768,
+        "qs_pg:id":1091561,
+        "wd:id":"Q75693"
+    },
+    "wof:country":"RO",
+    "wof:created":1497292616,
+    "wof:geomhash":"599627b9cf213f4ff64329a54b54b8ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125833773,
+            "region_id":85687627
+        }
+    ],
+    "wof:id":1125833773,
+    "wof:lastmodified":1514499850,
+    "wof:name":"Ciudanovi\u021ba",
+    "wof:parent_id":85687627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.794643,
+    45.12414,
+    21.794643,
+    45.12414
+],
+  "geometry": {"coordinates":[21.794643,45.12414],"type":"Point"}
+}

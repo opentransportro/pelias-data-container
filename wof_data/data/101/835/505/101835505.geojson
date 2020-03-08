@@ -1,0 +1,111 @@
+{
+  "id": 101835505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000138,
+    "geom:area_square_m":1230847.555631,
+    "geom:bbox":"24.7080260963,43.8821762651,24.7276039621,43.8962615912",
+    "geom:latitude":43.889789,
+    "geom:longitude":24.716359,
+    "gn:population":1102,
+    "iso:country":"RO",
+    "lbl:latitude":43.889609,
+    "lbl:longitude":24.716359,
+    "mps:latitude":43.889609,
+    "mps:longitude":24.716359,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Uda-Clocociov"
+    ],
+    "name:eng_x_preferred":[
+        "Uda-Clocociovul"
+    ],
+    "name:fre_x_preferred":[
+        "Uda-Clocociov"
+    ],
+    "name:ita_x_preferred":[
+        "Uda-Clocociov"
+    ],
+    "name:por_x_preferred":[
+        "Uda-Clocociov"
+    ],
+    "name:rum_x_preferred":[
+        "Uda-Clocociov"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0423\u0434\u0430-\u041a\u043b\u043e\u043a\u043e\u0447\u043e\u0432"
+    ],
+    "name:unk_x_variant":[
+        "Uda-Clocociovul"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0688\u0627-\u06a9\u0644\u0648\u06a9\u0648\u06a9\u06cc\u0648\u0648"
+    ],
+    "name:vol_x_preferred":[
+        "Uda-Clocociov"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Teleorman",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Uda-Clocociov",
+    "qs:la_lc":"*RO47155154",
+    "qs:level":"locality",
+    "qs:loc":"Uda-Clocociov",
+    "qs:loc_alt":"Uda-Clocociov",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a56144-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":664382,
+        "gp:id":882329,
+        "qs:id":1279704,
+        "wd:id":"Q2549918"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"5babe96f284a4407303eee437c7c9510",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101835505,
+            "region_id":85687585
+        }
+    ],
+    "wof:id":101835505,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514500223,
+    "wof:name":"Uda-Clocociov",
+    "wof:parent_id":85687585,
+    "wof:placetype":"locality",
+    "wof:population":1102,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.70802609628612,
+    43.8821762650673,
+    24.72760396214636,
+    43.89626159121826
+],
+  "geometry": {"coordinates":[[[24.72245850287544,43.88509309413143],[24.71878823759295,43.8821762650673],[24.7189635305042,43.88285091322507],[24.71529329717464,43.88338011646329],[24.71552251839353,43.88426247676188],[24.71429907618199,43.8844388520377],[24.71452828893797,43.88532121409776],[24.71208134897603,43.88567392751088],[24.71231053549525,43.88655629447067],[24.70986353332739,43.88690895627172],[24.71009269360587,43.88779132813067],[24.70886916475075,43.88796764046026],[24.70955664810117,43.89061475719211],[24.70833305925265,43.89079106446184],[24.70924976291707,43.89432054672136],[24.70802609628612,43.8944968520691],[24.70848446840915,43.89626159121826],[24.7097081706026,43.89608527959359],[24.7094789621047,43.89520291384548],[24.71926819735341,43.89379192487161],[24.71949754808918,43.8946742655038],[24.72194482576054,43.89432136723821],[24.72171543946922,43.89343903288699],[24.72660984363881,43.89273307523592],[24.72638039556068,43.89185075207206],[24.72760396214636,43.89167422961799],[24.72737450561277,43.89079190821769],[24.72370383916143,43.89132142273684],[24.72347444526804,43.89043909053453],[24.72225089421539,43.89061556328772],[24.72087483310997,43.88532152229777],[24.72245850287544,43.88509309413143]]],"type":"Polygon"}
+}

@@ -1,0 +1,125 @@
+{
+  "id": 101793859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000102,
+    "geom:area_square_m":898086.029137,
+    "geom:bbox":"22.037814365,44.8649004483,22.0467637067,44.88694003",
+    "geom:latitude":44.876432,
+    "geom:longitude":22.042791,
+    "gn:population":1939,
+    "iso:country":"RO",
+    "lbl:latitude":44.87592,
+    "lbl:longitude":22.043537,
+    "mps:latitude":44.87592,
+    "mps:longitude":22.043537,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "B\u0103nia"
+    ],
+    "name:eng_x_preferred":[
+        "Banja"
+    ],
+    "name:epo_x_preferred":[
+        "B\u0103nia"
+    ],
+    "name:fre_x_preferred":[
+        "B\u0103nia"
+    ],
+    "name:hun_x_preferred":[
+        "B\u00e1nya "
+    ],
+    "name:ita_x_preferred":[
+        "B\u0103nia"
+    ],
+    "name:may_x_preferred":[
+        "B\u0103nia"
+    ],
+    "name:por_x_preferred":[
+        "B\u0103nia"
+    ],
+    "name:rum_x_colloquial":[
+        "Baenia",
+        "Bania"
+    ],
+    "name:rum_x_preferred":[
+        "B\u0103nia"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u043d\u0456\u044f "
+    ],
+    "name:unk_x_variant":[
+        "Banja"
+    ],
+    "name:vol_x_preferred":[
+        "B\u0103nia"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Caras-Severin",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:id":0,
+    "qs:la":"B\u0103nia",
+    "qs:la_lc":"*RO23051305",
+    "qs:level":"locality",
+    "qs:loc":"B\u0103nia",
+    "qs:loc_alt":"Bania",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"039d68cc-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":685457,
+        "gp:id":866877,
+        "qs:id":1288301,
+        "qs_pg:id":1288301,
+        "wd:id":"Q853209"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"8ce236e69dd92be8dc1db9d5f6c2d86d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101793859,
+            "region_id":85687627
+        }
+    ],
+    "wof:id":101793859,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514499826,
+    "wof:name":"B\u0103nia",
+    "wof:parent_id":85687627,
+    "wof:placetype":"locality",
+    "wof:population":1939,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.03781436495643,
+    44.86490044834591,
+    22.04676370673161,
+    44.8869400299659
+],
+  "geometry": {"coordinates":[[[22.04503523047828,44.8857620493913],[22.04464858913821,44.88398582192042],[22.04589949373781,44.88384087331178],[22.0455128462707,44.88206464682798],[22.04676370673161,44.88191968863748],[22.04657037590988,44.88103157643218],[22.0453195346148,44.88117653195496],[22.04473964795039,44.87851218081329],[22.04599043175443,44.87836723329264],[22.04463751046598,44.87215039457362],[22.04588815434727,44.87200545080663],[22.04530839418612,44.86934108304217],[22.04655897479819,44.86919613236171],[22.0463657183505,44.86830801026463],[22.04511515689256,44.8684529582784],[22.04434228817456,44.86490044834591],[22.04059079883302,44.86533517092278],[22.04155661754442,44.86977584560555],[22.04030601373046,44.86992073663356],[22.04185158872167,44.87702578091023],[22.04060082583391,44.87717067835098],[22.04079403975237,44.87805880665962],[22.03954325190006,44.87820369185096],[22.04012288444557,44.88086807825363],[22.03887203329725,44.88101295652694],[22.03906524107379,44.8819010858204],[22.03781436495643,44.88204595184322],[22.0383939790662,44.88471034120232],[22.04089584050757,44.88442057824238],[22.04108909964555,44.88530870052267],[22.0423400408294,44.88516379399925],[22.04272662159536,44.8869400299659],[22.04397759531429,44.88679510319025],[22.04378428173567,44.88590698841762],[22.04503523047828,44.8857620493913]]],"type":"Polygon"}
+}

@@ -1,0 +1,135 @@
+{
+  "id": 101834065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000182,
+    "geom:area_square_m":1559023.024008,
+    "geom:bbox":"23.8268850038,46.1819892964,23.8454461874,46.2015355794",
+    "geom:latitude":46.191882,
+    "geom:longitude":23.837072,
+    "iso:country":"RO",
+    "lbl:latitude":46.191389,
+    "lbl:longitude":23.83876,
+    "mps:latitude":46.191389,
+    "mps:longitude":23.83876,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u062a\u0634\u064a\u0631\u062f\u064a\u0627 \u063a\u0631\u064a\u0646\u0648\u0627\u0633\u0627"
+    ],
+    "name:dut_x_preferred":[
+        "Bucerdea Gr\u00e2noas\u0103"
+    ],
+    "name:eng_x_preferred":[
+        "Bucerdea Gr\u00e2noas\u0103"
+    ],
+    "name:epo_x_preferred":[
+        "Bucerdea Gr\u00e2noas\u0103"
+    ],
+    "name:fre_x_preferred":[
+        "Bucerdea Gr\u00e2noas\u0103"
+    ],
+    "name:ger_x_preferred":[
+        "Bucerdea Gr\u00e2noas\u0103"
+    ],
+    "name:hun_x_preferred":[
+        "Buz\u00e1sbocs\u00e1rd"
+    ],
+    "name:ita_x_preferred":[
+        "Bucerdea Gr\u00e2noas\u0103"
+    ],
+    "name:mac_x_preferred":[
+        "\u0411\u0443\u0447\u0435\u0440\u0434\u0430 \u0413\u0440\u0435\u043d\u043e\u0430\u0441\u0430"
+    ],
+    "name:may_x_preferred":[
+        "Bucerdea Gr\u00e2noas\u0103"
+    ],
+    "name:por_x_preferred":[
+        "Bucerdea Gr\u00e2noas\u0103"
+    ],
+    "name:rum_x_colloquial":[
+        "Bucerbea-Grenoasa",
+        "Bucerbea-Grenoasae",
+        "Bucerdea-Granoasa",
+        "Bucerdea-Granoasae",
+        "Bucerdea-Grinoasa",
+        "Bucerdea-Grinoasae"
+    ],
+    "name:rum_x_preferred":[
+        "Bucerdea-Gr\u00eenoas\u0103"
+    ],
+    "name:rum_x_variant":[
+        "Bucerbea-Grenoas\u0103",
+        "Bucerdea-Gr\u00e2noas\u0103",
+        "Bucerdea Gr\u00e2noas\u0103"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0443\u0447\u0435\u0440\u0434\u044f-\u0413\u0440\u0438\u043d\u043e\u0430\u0441\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Bucerbea-Grenoas\u0103"
+    ],
+    "name:vol_x_preferred":[
+        "Bucerdea Gr\u00e2noas\u0103"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Alba",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Cr\u0103ciunelu de Jos",
+    "qs:la_lc":"*RO11004188",
+    "qs:level":"locality",
+    "qs:loc":"Bucerdea Gr\u00e2noas\u0103",
+    "qs:loc_alt":"Bucerdea Granoasa",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"039e1bd2-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":683597,
+        "gp:id":868207,
+        "qs:id":409616,
+        "wd:id":"Q1092561"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"c1c48ff1e7179ae5d499908c9a71ce46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101834065,
+            "region_id":85687697
+        }
+    ],
+    "wof:id":101834065,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514499803,
+    "wof:name":"Bucerdea Gr\u00e2noas\u0103",
+    "wof:parent_id":85687697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.82688500384222,
+    46.18198929636202,
+    23.84544618736521,
+    46.20153557935828
+],
+  "geometry": {"coordinates":[[[23.8403481323968,46.18217347334041],[23.83634067911646,46.18198929636202],[23.83652857473339,46.18270917009988],[23.83397616035506,46.18304306525283],[23.8342065807077,46.18392596292477],[23.83293034286237,46.18409289085599],[23.83339117298772,46.18585868893979],[23.83211488806234,46.18602560800394],[23.83234529783306,46.18690850841608],[23.83362160274157,46.18674158617915],[23.83477389844626,46.1911560543499],[23.82966823639032,46.19182371547419],[23.82943783760561,46.19094081155106],[23.82688500384222,46.19127454447874],[23.82734573124901,46.19304036381374],[23.82989864496943,46.19270661819633],[23.83058992948088,46.19535531915619],[23.82931341620713,46.19552220909111],[23.82977428154641,46.19728801007193],[23.83232738094443,46.19695420229249],[23.83301887240287,46.19960287571456],[23.83174226628125,46.19976979673419],[23.83220326959656,46.20153557935828],[23.83347991571111,46.20136865199021],[23.83324938915644,46.20048576445322],[23.83452600815042,46.20031882504213],[23.83429547140145,46.19943593947801],[23.83812522565188,46.19893503946497],[23.83858642892216,46.2007007903419],[23.84241623900562,46.20019973432386],[23.84103238698043,46.19490252443057],[23.8435853181735,46.19456844911417],[23.84312403265096,46.19280271556812],[23.84440044758401,46.19263566143923],[23.84416979954364,46.19175279603832],[23.84544618736521,46.19158572987101],[23.8452155291443,46.19070286644336],[23.84393916130784,46.19086992943471],[23.84301670639695,46.1873384509945],[23.84174041136782,46.18750548607062],[23.8403481323968,46.18217347334041]]],"type":"Polygon"}
+}

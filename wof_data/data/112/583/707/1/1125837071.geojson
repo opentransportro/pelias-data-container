@@ -1,0 +1,109 @@
+{
+  "id": 1125837071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.21667,44.98333,29.21667,44.98333",
+    "geom:latitude":44.98333,
+    "geom:longitude":29.21667,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":703,
+    "iso:country":"RO",
+    "lbl:latitude":44.98333,
+    "lbl:longitude":29.21667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Dunav\u0103\u021bu de Jos"
+    ],
+    "name:eng_x_preferred":[
+        "Dunav\u0103\u021bu de Jos"
+    ],
+    "name:fre_x_preferred":[
+        "Dunav\u0103\u021bu de Jos"
+    ],
+    "name:rum_x_preferred":[
+        "Dunav\u0103\u021bu de Jos"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0438\u0436\u043d\u0456\u0439 \u0414\u0443\u043d\u0430\u0432\u0435\u0446\u044c"
+    ],
+    "name:unk_x_variant":[
+        "Dun\u0103v\u0103\u0163ul-de-Jos"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":678633,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Dunav\u0103\u021bu de Jos",
+    "qs_pg:name_adm0":"Rom\u00e2nia",
+    "qs_pg:name_adm1":"Tulcea",
+    "qs_pg:photos":74,
+    "qs_pg:photos_1k":15,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":74,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":894661,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424933,
+    "qs_pg:woe_id":871844,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424933,
+    "woe:name_adm0":"Rom\u00e2nia",
+    "woe:name_adm1":"Tulcea",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":678633,
+        "gp:id":871844,
+        "qs_pg:id":894661,
+        "wd:id":"Q12133728"
+    },
+    "wof:country":"RO",
+    "wof:created":1497292760,
+    "wof:geomhash":"1b008aac8b5a215330fc4693745563ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125837071,
+            "region_id":85687679
+        }
+    ],
+    "wof:id":1125837071,
+    "wof:lastmodified":1514499920,
+    "wof:name":"Dunav\u0103\u021bu de Jos",
+    "wof:parent_id":85687679,
+    "wof:placetype":"locality",
+    "wof:population":703,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.21667,
+    44.98333,
+    29.21667,
+    44.98333
+],
+  "geometry": {"coordinates":[29.21667,44.98333],"type":"Point"}
+}

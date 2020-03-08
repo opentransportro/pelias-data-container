@@ -1,0 +1,102 @@
+{
+  "id": 101787215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000091,
+    "geom:area_square_m":768004.080336,
+    "geom:bbox":"24.647673411,46.8463246949,24.6650304658,46.8605962826",
+    "geom:latitude":46.853394,
+    "geom:longitude":24.655511,
+    "gn:population":1040,
+    "iso:country":"RO",
+    "lbl:latitude":46.853535,
+    "lbl:longitude":24.656103,
+    "mps:latitude":46.853535,
+    "mps:longitude":24.656103,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Goreni"
+    ],
+    "name:eng_x_preferred":[
+        "Goreni"
+    ],
+    "name:epo_x_preferred":[
+        "Goreni"
+    ],
+    "name:fre_x_preferred":[
+        "Goreni"
+    ],
+    "name:hun_x_preferred":[
+        "Dedr\u00e1dsz\u00e9plak"
+    ],
+    "name:rum_x_preferred":[
+        "Goreni"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u0440\u0435\u043d\u044c"
+    ],
+    "name:unk_x_variant":[
+        "Dedr\u00e0dsz\u00e8plok"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Mures",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:id":0,
+    "qs:la":"Bato\u015f",
+    "qs:la_lc":"*RO39115520",
+    "qs:level":"locality",
+    "qs:loc":"Goreni",
+    "qs:loc_alt":"Goreni",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":676915,
+        "gp:id":873112,
+        "qs:id":1278591,
+        "wd:id":"Q729545"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"6f51be7d30ffe57fbbf0ab02e0d26766",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101787215,
+            "region_id":85687719
+        }
+    ],
+    "wof:id":101787215,
+    "wof:lastmodified":1514499951,
+    "wof:name":"Goreni",
+    "wof:parent_id":85687719,
+    "wof:placetype":"locality",
+    "wof:population":1040,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.64767341097524,
+    46.84632469485672,
+    24.66503046575167,
+    46.86059628261557
+],
+  "geometry": {"coordinates":[[[24.66503046575167,46.84825672607224],[24.66478147397675,46.84737648822858],[24.66220202642552,46.84773087572034],[24.66195308617739,46.84685062976087],[24.65937364824606,46.84720494893008],[24.65912475952325,46.84632469485672],[24.65654533121869,46.84667894570475],[24.65704303769297,46.84843946627706],[24.65575327100714,46.84861657549328],[24.65600211986492,46.84949683730287],[24.65471232496026,46.84967393457214],[24.65496116409162,46.85055419853836],[24.65238151004212,46.85090835381152],[24.65312796906278,46.85354915865014],[24.64925824568689,46.85408030707828],[24.65000461711378,46.8567211313275],[24.64871463244305,46.8568981603259],[24.64896342387442,46.85777843596748],[24.64767341097524,46.85795545301505],[24.64841978813479,46.86059628261557],[24.65099992871296,46.86024221261289],[24.65050225152606,46.85848167450081],[24.65824224083701,46.85741913661258],[24.65799329572167,46.85653888619834],[24.65928324620018,46.85636174617088],[24.65878534721344,46.85460124839204],[24.66007524903949,46.85442409984125],[24.65932841952286,46.85178335394733],[24.66061825228064,46.85160620029785],[24.65987145777387,46.84896545327717],[24.66503046575167,46.84825672607224]]],"type":"Polygon"}
+}

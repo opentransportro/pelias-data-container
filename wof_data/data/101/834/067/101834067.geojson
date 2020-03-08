@@ -1,0 +1,104 @@
+{
+  "id": 101834067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000121,
+    "geom:area_square_m":1035608.114213,
+    "geom:bbox":"23.7360629904,46.2854346171,23.7605318088,46.3008247627",
+    "geom:latitude":46.292416,
+    "geom:longitude":23.747697,
+    "gn:population":1023,
+    "iso:country":"RO",
+    "lbl:latitude":46.293421,
+    "lbl:longitude":23.750571,
+    "mps:latitude":46.293421,
+    "mps:longitude":23.750571,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "S\u00e2ncrai"
+    ],
+    "name:eng_x_preferred":[
+        "S\u00e2ncrai"
+    ],
+    "name:epo_x_preferred":[
+        "S\u00e2ncrai"
+    ],
+    "name:ger_x_preferred":[
+        "S\u00e2ncrai"
+    ],
+    "name:hun_x_preferred":[
+        "Enyedszentkir\u00e1ly"
+    ],
+    "name:ita_x_preferred":[
+        "S\u00e2ncrai"
+    ],
+    "name:rum_x_preferred":[
+        "S\u00e2ncrai"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0438\u043d\u043a\u0440\u0430\u0439"
+    ],
+    "name:unk_x_variant":[
+        "S\u00eencrai"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Alba",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Aiud",
+    "qs:la_lc":"*RO11001213",
+    "qs:level":"locality",
+    "qs:loc":"S\u00e2ncrai",
+    "qs:loc_alt":"Sancrai",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":667071,
+        "gp:id":880373,
+        "qs:id":3,
+        "wd:id":"Q844633"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"c4fdae187cd6d84ada2f49d5f44d580b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101834067,
+            "region_id":85687697
+        }
+    ],
+    "wof:id":101834067,
+    "wof:lastmodified":1514500176,
+    "wof:name":"S\u00e2ncrai",
+    "wof:parent_id":85687697,
+    "wof:placetype":"locality",
+    "wof:population":1023,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.73606299039187,
+    46.28543461712115,
+    23.76053180875113,
+    46.30082476272531
+],
+  "geometry": {"coordinates":[[[23.76053180875113,46.29669227748224],[23.75800464414624,46.29702047012898],[23.75754480635544,46.29525443666603],[23.75626577418512,46.29542049784345],[23.75511645163158,46.29100537753072],[23.75383751285307,46.29117140762497],[23.75337789257878,46.28940534484025],[23.74826222708009,46.29006928738045],[23.74803251202866,46.2891862415442],[23.7467535979614,46.28935218588657],[23.74652391279665,46.28846913569748],[23.74268718820684,46.28896686772515],[23.74176878658227,46.28543461712115],[23.7392110954242,46.28576633691574],[23.7394406409602,46.28664940767413],[23.73816176461457,46.28681524785731],[23.73862084482164,46.2885813921331],[23.73606299039187,46.28891303939224],[23.73652202930242,46.29067919156347],[23.73780100028023,46.29051336923601],[23.7389488692325,46.29492871306473],[23.74022793362894,46.29476285967235],[23.7395391225935,46.29211366642716],[23.74337609213865,46.29161604319813],[23.74360574635,46.29249909931201],[23.74488474207322,46.29233319123381],[23.74511442617427,46.29321624299547],[23.74639343488604,46.29305031650091],[23.74731234958341,46.29658249900365],[23.7460332604457,46.29674843815548],[23.74626299348273,46.29763148397399],[23.75649566807789,46.2963035183368],[23.75718540852984,46.29895257267873],[23.75590628881054,46.29911863127086],[23.75635059496221,46.30082476272531],[23.76053180875113,46.29669227748224]]],"type":"Polygon"}
+}

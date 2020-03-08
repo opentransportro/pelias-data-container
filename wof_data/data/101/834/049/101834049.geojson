@@ -1,0 +1,126 @@
+{
+  "id": 101834049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000077,
+    "geom:area_square_m":659130.085616,
+    "geom:bbox":"21.3818342801,46.2734793611,21.4014580056,46.2812315492",
+    "geom:latitude":46.277709,
+    "geom:longitude":21.392938,
+    "gn:population":4412,
+    "iso:country":"RO",
+    "lbl:latitude":46.276838,
+    "lbl:longitude":21.395242,
+    "mps:latitude":46.276838,
+    "mps:longitude":21.395242,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Zimandu Nou"
+    ],
+    "name:ara_x_preferred":[
+        "\u0632\u064a\u0645\u0627\u0646\u062f\u0648 \u0646\u0648"
+    ],
+    "name:dut_x_preferred":[
+        "Zimandu Nou"
+    ],
+    "name:eng_x_preferred":[
+        "Zimandul-Nou"
+    ],
+    "name:epo_x_preferred":[
+        "Zimandu Nou"
+    ],
+    "name:fre_x_preferred":[
+        "Zimandu Nou"
+    ],
+    "name:hun_x_preferred":[
+        "Zim\u00e1nd\u00fajfalu"
+    ],
+    "name:ita_x_preferred":[
+        "Zimandu Nou"
+    ],
+    "name:por_x_preferred":[
+        "Zimandu Nou"
+    ],
+    "name:rum_x_preferred":[
+        "Zimandu Nou"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0456\u043c\u0430\u043d\u0434\u0443-\u041d\u043e\u0443"
+    ],
+    "name:unk_x_variant":[
+        "Zimandul-Nou"
+    ],
+    "name:vie_x_preferred":[
+        "Zimandu Nou"
+    ],
+    "name:vol_x_preferred":[
+        "Zimandu Nou"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Arad",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Zimandu Nou",
+    "qs:la_lc":"*RO12012876",
+    "qs:level":"locality",
+    "qs:loc":"Zimandu Nou",
+    "qs:loc_alt":"Zimandu Nou",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a63cea-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":662197,
+        "gp:id":884037,
+        "qs:id":126589,
+        "qs_pg:id":126589,
+        "wd:id":"Q1082229"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"0350cb066576249c0e1e4d9a7ddd0e90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101834049,
+            "region_id":85687691
+        }
+    ],
+    "wof:id":101834049,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514500259,
+    "wof:name":"Zimandu Nou",
+    "wof:parent_id":85687691,
+    "wof:placetype":"locality",
+    "wof:population":4412,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.3818342800638,
+    46.27347936110806,
+    21.40145800557684,
+    46.28123154917733
+],
+  "geometry": {"coordinates":[[[21.40145800557684,46.2793348961585],[21.40128642674142,46.27853520987867],[21.40000234708742,46.2786729742121],[21.39943052111897,46.27600730546595],[21.40071453898651,46.27586954905132],[21.40052392606884,46.27498099350356],[21.39923992879483,46.27511874727907],[21.39904934463681,46.27423018812271],[21.39776536201788,46.27436792387243],[21.39757480661694,46.27347936110806],[21.39243889914661,46.27403013968814],[21.39262937217308,46.27491871300498],[21.39006134163787,46.27519401524978],[21.39025178163405,46.27608259287263],[21.38896773686935,46.27622022355104],[21.3893486001466,46.27799738116556],[21.38421219696932,46.27854777109417],[21.38440255844881,46.27943635899538],[21.3818342800638,46.27971146690004],[21.38215987512604,46.28123154917733],[21.40145800557684,46.2793348961585]]],"type":"Polygon"}
+}

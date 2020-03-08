@@ -1,0 +1,104 @@
+{
+  "id": 101789761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000076,
+    "geom:area_square_m":648411.384485,
+    "geom:bbox":"24.1356445785,46.2193965132,24.1499219674,46.2320866678",
+    "geom:latitude":46.226294,
+    "geom:longitude":24.143085,
+    "gn:population":1026,
+    "iso:country":"RO",
+    "lbl:latitude":46.226041,
+    "lbl:longitude":24.143193,
+    "mps:latitude":46.226041,
+    "mps:longitude":24.143193,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0424\u0435\u0438\u0441\u0430"
+    ],
+    "name:dut_x_preferred":[
+        "Feisa"
+    ],
+    "name:eng_x_preferred":[
+        "Feisa"
+    ],
+    "name:epo_x_preferred":[
+        "Feisa"
+    ],
+    "name:fre_x_preferred":[
+        "Feisa"
+    ],
+    "name:hun_x_preferred":[
+        "K\u00fck\u00fcll\u0151fajsz"
+    ],
+    "name:ita_x_preferred":[
+        "Feisa"
+    ],
+    "name:rum_x_preferred":[
+        "Feisa"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0424\u0435\u0439\u0441\u0430"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Alba",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Jidvei",
+    "qs:la_lc":"*RO11005103",
+    "qs:level":"locality",
+    "qs:loc":"Feisa",
+    "qs:loc_alt":"Feisa",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":678370,
+        "gp:id":872050,
+        "qs:id":180513,
+        "wd:id":"Q251676"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"ed771ae29b0d83ee2385a78b7462582a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101789761,
+            "region_id":85687697
+        }
+    ],
+    "wof:id":101789761,
+    "wof:lastmodified":1514499924,
+    "wof:name":"Feisa",
+    "wof:parent_id":85687697,
+    "wof:placetype":"locality",
+    "wof:population":1026,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.1356445784869,
+    46.21939651322532,
+    24.14992196738081,
+    46.23208666779868
+],
+  "geometry": {"coordinates":[[[24.14807680606282,46.23191595752343],[24.14736900483314,46.22926981409461],[24.14992196738081,46.22892836740414],[24.14968601379809,46.22804632362158],[24.14840955611646,46.22821705132344],[24.14817363250887,46.22733500306163],[24.14689718748542,46.22750571231177],[24.1452461425676,46.22133131723956],[24.14652244798287,46.22116063070831],[24.1460507711916,46.21939651322532],[24.14349823283879,46.21973785810479],[24.14396982986727,46.22150198856696],[24.13886450622823,46.22218452183824],[24.1400432752871,46.22659489131217],[24.13876682644042,46.22676550283865],[24.13923836431138,46.22852964849238],[24.13668536496897,46.22887083890396],[24.13692110903537,46.22975291637124],[24.1356445784869,46.22992349201087],[24.13588031262202,46.23080557149058],[24.14481601312883,46.22961119996143],[24.14505189694518,46.23049325549596],[24.14632841639104,46.23032256691948],[24.14680025400537,46.23208666779868],[24.14807680606282,46.23191595752343]]],"type":"Polygon"}
+}

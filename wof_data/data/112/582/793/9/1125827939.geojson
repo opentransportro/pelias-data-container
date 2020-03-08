@@ -1,0 +1,105 @@
+{
+  "id": 1125827939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.41667,47.03333,26.41667,47.03333",
+    "geom:latitude":47.03333,
+    "geom:longitude":26.41667,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":5122,
+    "gn:population":5122,
+    "iso:country":"RO",
+    "lbl:latitude":47.03333,
+    "lbl:longitude":26.41667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Bode\u0219ti"
+    ],
+    "name:eng_x_preferred":[
+        "Bode\u0219ti"
+    ],
+    "name:ita_x_preferred":[
+        "Bode\u0219ti"
+    ],
+    "name:rum_x_preferred":[
+        "Bode\u0219ti"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u0434\u0435\u0448\u0442\u044c "
+    ],
+    "name:unk_x_variant":[
+        "Bode\u015fti Precista"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":684461,
+    "qs_pg:gn_pop":5122,
+    "qs_pg:name":"Bode\u0219ti",
+    "qs_pg:name_adm0":"Rom\u00e2nia",
+    "qs_pg:name_adm1":"Neamt",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":1277939,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424933,
+    "qs_pg:woe_id":867574,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424933,
+    "woe:name_adm0":"Rom\u00e2nia",
+    "woe:name_adm1":"Neamt",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":684461,
+        "gp:id":867574,
+        "qs_pg:id":1277939,
+        "wd:id":"Q15963805"
+    },
+    "wof:country":"RO",
+    "wof:created":1497292362,
+    "wof:geomhash":"93de17823ef7df2bfa4a460ea6552102",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125827939,
+            "region_id":85687747
+        }
+    ],
+    "wof:id":1125827939,
+    "wof:lastmodified":1514499778,
+    "wof:name":"Bode\u0219ti",
+    "wof:parent_id":85687747,
+    "wof:placetype":"locality",
+    "wof:population":5122,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.41667,
+    47.03333,
+    26.41667,
+    47.03333
+],
+  "geometry": {"coordinates":[26.41667,47.03333],"type":"Point"}
+}

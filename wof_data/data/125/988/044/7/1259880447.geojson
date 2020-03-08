@@ -1,0 +1,75 @@
+{
+  "id": 1259880447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.1236,46.69163,27.1236,46.69163",
+    "geom:latitude":46.69163,
+    "geom:longitude":27.1236,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"26353.0",
+    "gn:asciiname":"Ciuturesti",
+    "gn:cc2":"RO",
+    "gn:country_code":"RO",
+    "gn:dem":254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":681354,
+    "gn:latitude":46.69163,
+    "gn:longitude":27.1236,
+    "gn:modification_date":"2013-04-21",
+    "gn:name":"Ciuture\u0219ti",
+    "gn:population":747,
+    "gn:timezone":"Europe/Bucharest",
+    "iso:country":"RO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alexandri",
+        "Alecsandri",
+        "Ciuture\u015fti"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":681354
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"ae5d00201516d44f1d3fb9a209b69c3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1259880447,
+            "region_id":85687715
+        }
+    ],
+    "wof:id":1259880447,
+    "wof:lastmodified":1537683597,
+    "wof:name":"Ciuturesti",
+    "wof:parent_id":85687715,
+    "wof:placetype":"locality",
+    "wof:population":747,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.1236,
+    46.69163,
+    27.1236,
+    46.69163
+],
+  "geometry": {"coordinates":[27.1236,46.69163],"type":"Point"}
+}

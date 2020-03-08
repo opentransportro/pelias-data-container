@@ -1,0 +1,132 @@
+{
+  "id": 85901907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":18007191.670028,
+    "geom:bbox":"21.319173,46.179533,21.319173,46.179533",
+    "geom:latitude":46.179533,
+    "geom:longitude":21.319173,
+    "iso:country":"RO",
+    "lbl:latitude":46.179533,
+    "lbl:longitude":21.319173,
+    "mps:latitude":46.178947,
+    "mps:longitude":21.321979,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":1,
+    "name:epo_x_preferred":[
+        "Subcetate"
+    ],
+    "name:hbs_x_preferred":[
+        "Op\u0161tina Subcetate"
+    ],
+    "name:ita_x_preferred":[
+        "Subcetate"
+    ],
+    "name:msa_x_preferred":[
+        "Subcetate"
+    ],
+    "name:nld_x_preferred":[
+        "Subcetate"
+    ],
+    "name:por_x_preferred":[
+        "Subcetate"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Subcetate"
+    ],
+    "name:rum_x_preferred":[
+        "Subcetate"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0443\u0431\u0447\u0435\u0442\u0430\u0442\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Subcetate"
+    ],
+    "name:vie_x_preferred":[
+        "Subcetate"
+    ],
+    "name:vol_x_preferred":[
+        "Subcetate"
+    ],
+    "qs:gn_adm0_cc":"RO",
+    "qs:gn_id":0,
+    "qs:gn_local":686254,
+    "qs:gn_nam_loc":"Arad, Arad, RO",
+    "qs:gn_namadm1":"02",
+    "qs:id":0,
+    "qs:local_max":710,
+    "qs:local_sum":1140,
+    "qs:localhoods":4,
+    "qs:name":"Subcetate",
+    "qs:name_adm0":"Rom\u00e2nia",
+    "qs:name_adm1":"Arad",
+    "qs:name_local":"Arad",
+    "qs:photo_max":145,
+    "qs:photo_sum":710,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":54,
+    "qs:woe_adm0":23424933,
+    "qs:woe_adm1":2346616,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":866307,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":117,
+    "wof:belongsto":[
+        102191581,
+        101751999,
+        85633745,
+        85687691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":881249
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"489ccd245448168feb4c1cbffe61c2c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101751999,
+            "neighbourhood_id":85901907,
+            "region_id":85687691
+        }
+    ],
+    "wof:id":85901907,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1531932595,
+    "wof:name":"Subcetate",
+    "wof:parent_id":101751999,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.319173,
+    46.179533,
+    21.319173,
+    46.179533
+],
+  "geometry": {"coordinates":[21.319173,46.179533],"type":"Point"}
+}

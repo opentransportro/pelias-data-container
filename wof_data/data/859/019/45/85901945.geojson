@@ -1,0 +1,104 @@
+{
+  "id": 85901945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":30031774.047903,
+    "geom:bbox":"21.933088,47.057906,21.933088,47.057906",
+    "geom:latitude":47.057906,
+    "geom:longitude":21.933088,
+    "gn:id":"",
+    "iso:country":"RO",
+    "lbl:latitude":47.057906,
+    "lbl:longitude":21.933088,
+    "mps:latitude":47.042513,
+    "mps:longitude":21.912716,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "name:rum_x_preferred":[
+        "Victoria"
+    ],
+    "name:unk_x_variant":[
+        "Victoria"
+    ],
+    "qs:gn_adm0_cc":"RO",
+    "qs:gn_id":0,
+    "qs:gn_local":671768,
+    "qs:gn_nam_loc":"Oradea",
+    "qs:gn_namadm1":"00",
+    "qs:local_max":3535,
+    "qs:local_sum":4576,
+    "qs:localhoods":2,
+    "qs:name":"Victoria",
+    "qs:name_adm0":"Rom\u00e2nia",
+    "qs:name_adm1":"Bihor",
+    "qs:name_local":"Oradea",
+    "qs:photo_max":562,
+    "qs:photo_sum":3535,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":105,
+    "qs:woe_adm0":23424933,
+    "qs:woe_adm1":2346619,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":876890,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        101752025,
+        85633745,
+        85687737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":883474,
+        "qs:id":1093290,
+        "qs_pg:id":1093290
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"32334684cb74b19ed574245c5402b6a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101752025,
+            "neighbourhood_id":85901945,
+            "region_id":85687737
+        }
+    ],
+    "wof:id":85901945,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1531932606,
+    "wof:name":"Victoria",
+    "wof:parent_id":101752025,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.933088,
+    47.057906,
+    21.933088,
+    47.057906
+],
+  "geometry": {"coordinates":[21.933088,47.057906],"type":"Point"}
+}

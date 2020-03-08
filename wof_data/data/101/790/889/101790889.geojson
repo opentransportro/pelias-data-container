@@ -1,0 +1,109 @@
+{
+  "id": 101790889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000031,
+    "geom:area_square_m":269377.834295,
+    "geom:bbox":"25.2979289384,45.6011647351,25.3150557388,45.6093048625",
+    "geom:latitude":45.60529,
+    "geom:longitude":25.306577,
+    "gn:population":4926,
+    "iso:country":"RO",
+    "lbl:latitude":45.605002,
+    "lbl:longitude":25.306577,
+    "mps:latitude":45.605002,
+    "mps:longitude":25.306577,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Poiana M\u0103rului"
+    ],
+    "name:eng_x_preferred":[
+        "Marulin"
+    ],
+    "name:fre_x_preferred":[
+        "Poiana M\u0103rului"
+    ],
+    "name:hun_x_preferred":[
+        "Alm\u00e1smez\u0151"
+    ],
+    "name:ita_x_preferred":[
+        "Poiana M\u0103rului"
+    ],
+    "name:rum_x_colloquial":[
+        "Poiana Maerului",
+        "Poiana Marului"
+    ],
+    "name:rum_x_preferred":[
+        "Poiana M\u0103rului"
+    ],
+    "name:unk_x_variant":[
+        "Marulin"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Brasov",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Poiana M\u0103rului",
+    "qs:la_lc":"*RO19041621",
+    "qs:level":"locality",
+    "qs:loc":"Poiana M\u0103rului",
+    "qs:loc_alt":"Poiana Marului",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a335ea-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":670059,
+        "gp:id":878207,
+        "qs:id":908890,
+        "qs_pg:id":908890,
+        "wd:id":"Q15273072"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"11b7ae54f060d04d205559e315b2f4ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101790889,
+            "region_id":85687683
+        }
+    ],
+    "wof:id":101790889,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514500089,
+    "wof:name":"Poiana M\u0103rului",
+    "wof:parent_id":85687683,
+    "wof:placetype":"locality",
+    "wof:population":4926,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.29792893837157,
+    45.60116473512386,
+    25.3150557388214,
+    45.60930486245195
+],
+  "geometry": {"coordinates":[[[25.30346655728505,45.60912064467311],[25.30321610820204,45.60824130775694],[25.30573446646906,45.60787283425975],[25.30548398968324,45.60699350282999],[25.30674313833953,45.60680924711266],[25.30649265294494,45.60592991773677],[25.30775177492052,45.60574565051843],[25.30750128091881,45.60486632319618],[25.3150557388214,45.60376042688796],[25.31480514077919,45.60288111878839],[25.31228705668508,45.60324980375447],[25.31203650730026,45.60237048740623],[25.30825938148263,45.60292339256006],[25.30775842867968,45.60116473512386],[25.30649940973387,45.60134900011076],[25.30725079740006,45.60398699449405],[25.30473262221756,45.60435550026551],[25.30498306755811,45.6052348358329],[25.30372394949376,45.60541906975084],[25.30397438622481,45.60629840737147],[25.30271524148043,45.60648262978782],[25.30296566960084,45.60736196946198],[25.29792893837157,45.60809872351052],[25.29817930059761,45.60897807553317],[25.30195691768415,45.60842552210352],[25.30220734767306,45.60930486245195],[25.30346655728505,45.60912064467311]]],"type":"Polygon"}
+}

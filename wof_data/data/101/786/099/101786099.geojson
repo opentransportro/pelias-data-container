@@ -1,0 +1,98 @@
+{
+  "id": 101786099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000049,
+    "geom:area_square_m":408882.940801,
+    "geom:bbox":"23.1684559645,47.3508314349,23.1854339874,47.357730347",
+    "geom:latitude":47.35503,
+    "geom:longitude":23.178686,
+    "gn:population":1252,
+    "iso:country":"RO",
+    "lbl:latitude":47.354331,
+    "lbl:longitude":23.182223,
+    "mps:latitude":47.354331,
+    "mps:longitude":23.182223,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Deja"
+    ],
+    "name:eng_x_preferred":[
+        "Deja"
+    ],
+    "name:epo_x_preferred":[
+        "Deja"
+    ],
+    "name:fre_x_preferred":[
+        "Deja"
+    ],
+    "name:hun_x_preferred":[
+        "D\u00e9sh\u00e1za"
+    ],
+    "name:rum_x_preferred":[
+        "Deja"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0435\u0436\u0430"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Salaj",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"S\u0103l\u0103\u0163ig",
+    "qs:la_lc":"*RO43142550",
+    "qs:level":"locality",
+    "qs:loc":"Deja",
+    "qs:loc_alt":"Deja",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":679549,
+        "gp:id":871192,
+        "qs:id":410385,
+        "wd:id":"Q733860"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"88ea46720242e69135ba1425c0e82966",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101786099,
+            "region_id":85687723
+        }
+    ],
+    "wof:id":101786099,
+    "wof:lastmodified":1514499903,
+    "wof:name":"Deja",
+    "wof:parent_id":85687723,
+    "wof:placetype":"locality",
+    "wof:population":1252,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.16845596450418,
+    47.35083143493233,
+    23.18543398744333,
+    47.35773034704607
+],
+  "geometry": {"coordinates":[[[23.17305582117376,47.35773034704607],[23.18481034685158,47.35629383678298],[23.18412802918715,47.35364247656287],[23.18543398744333,47.35348279554694],[23.18475169512419,47.35083143493233],[23.1834458007454,47.35099110652254],[23.18367320031336,47.35187489762706],[23.1797554097883,47.35235382800312],[23.18021011089905,47.35412142578753],[23.17629212734454,47.35460023427459],[23.17606483572115,47.35371642650574],[23.1747588479991,47.35387599491901],[23.17498611832559,47.35475980582788],[23.16845596450418,47.35555742902085],[23.16868313824352,47.35644125453655],[23.17129526411452,47.35612224589693],[23.17152249035894,47.35700606404504],[23.17282856372253,47.35684653312728],[23.17305582117376,47.35773034704607]]],"type":"Polygon"}
+}

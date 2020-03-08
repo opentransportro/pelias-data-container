@@ -1,0 +1,76 @@
+{
+  "id": 1125863683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.65,46.68333,26.65,46.68333",
+    "geom:latitude":46.68333,
+    "geom:longitude":26.65,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":7165,
+    "gn:population":7165,
+    "iso:country":"RO",
+    "lbl:latitude":46.68333,
+    "lbl:longitude":26.65,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":684619,
+    "qs_pg:gn_pop":7165,
+    "qs_pg:name":"Bl\u0103ge\u015fti",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":127968,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":684619,
+        "qs_pg:id":127968
+    },
+    "wof:country":"RO",
+    "wof:created":1497293938,
+    "wof:geomhash":"21c88d480bdba6ca0a22d8350b9e7f11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125863683,
+            "region_id":85687715
+        }
+    ],
+    "wof:id":1125863683,
+    "wof:lastmodified":1509396821,
+    "wof:name":"Bl\u0103ge\u015fti",
+    "wof:parent_id":85687715,
+    "wof:placetype":"locality",
+    "wof:population":7165,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.65,
+    46.68333,
+    26.65,
+    46.68333
+],
+  "geometry": {"coordinates":[26.65,46.68333],"type":"Point"}
+}

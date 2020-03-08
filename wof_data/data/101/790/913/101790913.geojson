@@ -1,0 +1,98 @@
+{
+  "id": 101790913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00016,
+    "geom:area_square_m":1376790.077935,
+    "geom:bbox":"24.9336802463,45.7223363142,24.9505529317,45.7378601799",
+    "geom:latitude":45.730142,
+    "geom:longitude":24.941196,
+    "gn:population":3213,
+    "iso:country":"RO",
+    "lbl:latitude":45.729717,
+    "lbl:longitude":24.940513,
+    "mps:latitude":45.729717,
+    "mps:longitude":24.940513,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Telechi-Reci"
+    ],
+    "name:eng_x_variant":[
+        "Telechi Rece",
+        "Telechi-Recea",
+        "Vaida-Recea"
+    ],
+    "name:rum_x_preferred":[
+        "Recea"
+    ],
+    "name:unk_x_variant":[
+        "Vaida-Recea"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Brasov",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Recea",
+    "qs:la_lc":"*RO19041738",
+    "qs:level":"locality",
+    "qs:loc":"Recea",
+    "qs:loc_alt":"Recea",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a39a94-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":669051,
+        "gp:id":878959,
+        "qs:id":1279292,
+        "qs_pg:id":1279292,
+        "wd:id":"Q1043874"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"80975c3a49f58b4f42d8c0146b827a25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101790913,
+            "region_id":85687683
+        }
+    ],
+    "wof:id":101790913,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1505337956,
+    "wof:name":"Recea",
+    "wof:parent_id":85687683,
+    "wof:placetype":"locality",
+    "wof:population":3213,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.93368024627665,
+    45.72233631415963,
+    24.95055293165871,
+    45.73786017992285
+],
+  "geometry": {"coordinates":[[[24.94041370478158,45.7366200368869],[24.94420287934628,45.73608010704385],[24.94444841352094,45.7369603550037],[24.94823757871819,45.73642028006498],[24.94700972152771,45.73201907745164],[24.94953560133877,45.73165898619828],[24.94929002225513,45.73077874840732],[24.95055293165871,45.7305986836551],[24.95030734359699,45.72971844789771],[24.94904445348448,45.72989850928025],[24.94879889502664,45.7290182688173],[24.94627313096476,45.7293783398552],[24.94430934307655,45.72233631415963],[24.94178385774438,45.72269627132488],[24.94202925658254,45.72357653594662],[24.93824091472487,45.72411636933475],[24.93799557374768,45.72323609461245],[24.93420722256593,45.72377578294436],[24.93494310280249,45.72641663340175],[24.93368024627665,45.72659650961879],[24.9358882696813,45.73451901922346],[24.9371512998581,45.73433911270763],[24.93813298872522,45.73786017992285],[24.94065918106054,45.73750029495284],[24.94041370478158,45.7366200368869]]],"type":"Polygon"}
+}

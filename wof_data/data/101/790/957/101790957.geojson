@@ -1,0 +1,115 @@
+{
+  "id": 101790957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000154,
+    "geom:area_square_m":1326917.563994,
+    "geom:bbox":"24.568660147,45.7210379983,24.5872457293,45.732839136",
+    "geom:latitude":45.726796,
+    "geom:longitude":24.577922,
+    "gn:population":1133,
+    "iso:country":"RO",
+    "lbl:latitude":45.726331,
+    "lbl:longitude":24.577922,
+    "mps:latitude":45.726331,
+    "mps:longitude":24.577922,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cze_x_preferred":[
+        "C\u00e2r\u021bi\u0219oara"
+    ],
+    "name:dut_x_preferred":[
+        "C\u00e2r\u021bi\u0219oara"
+    ],
+    "name:eng_x_preferred":[
+        "C\u00e2r\u021bi\u0219oara"
+    ],
+    "name:epo_x_preferred":[
+        "C\u00e2r\u021bi\u0219oara"
+    ],
+    "name:fre_x_preferred":[
+        "C\u00e2r\u021bi\u0219oara"
+    ],
+    "name:ger_x_preferred":[
+        "C\u00e2r\u021bi\u0219oara"
+    ],
+    "name:hun_x_preferred":[
+        "Kercis\u00f3ra"
+    ],
+    "name:ita_x_preferred":[
+        "C\u00e2r\u021bi\u0219oara"
+    ],
+    "name:may_x_preferred":[
+        "C\u00e2r\u021bi\u0219oara"
+    ],
+    "name:por_x_preferred":[
+        "C\u00e2r\u021bi\u0219oara"
+    ],
+    "name:rum_x_preferred":[
+        "C\u00e2r\u021bi\u0219oara"
+    ],
+    "name:unk_x_variant":[
+        "Streza-C\u00eer\u0163i\u015foara"
+    ],
+    "name:vol_x_preferred":[
+        "C\u00e2r\u021bi\u0219oara"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Sibiu",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"C\u00e2r\u0163i\u015foara",
+    "qs:la_lc":"*RO45144535",
+    "qs:level":"locality",
+    "qs:loc":"C\u00e2\u0163tisoara",
+    "qs:loc_alt":"Cartisoara",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":681517,
+        "qs:id":127823,
+        "wd:id":"Q1077860"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"09385f25a86c84247b915ea9a1beb14b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101790957,
+            "region_id":85687687
+        }
+    ],
+    "wof:id":101790957,
+    "wof:lastmodified":1514499891,
+    "wof:name":"C\u00e2\u0163tisoara",
+    "wof:parent_id":85687687,
+    "wof:placetype":"locality",
+    "wof:population":1133,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.56866014701802,
+    45.72103799825101,
+    24.58724572929634,
+    45.73283913601847
+],
+  "geometry": {"coordinates":[[[24.57641586722383,45.73019876523989],[24.58020750128901,45.7296718931068],[24.58092619444966,45.73231563871229],[24.58724572929634,45.73143716870163],[24.58460989834589,45.72174355874603],[24.58334621912223,45.72191924659199],[24.58310667792983,45.72103799825101],[24.57931565460115,45.72156496180719],[24.57955513767399,45.72244622001671],[24.57576399057126,45.72297305826885],[24.57552456562206,45.72209179019308],[24.57426085470905,45.72226736961659],[24.57402145919855,45.72138609695662],[24.56896662013105,45.72208825130457],[24.5699239525236,45.72561338677184],[24.56866014701802,45.72578890095815],[24.56889948588992,45.72667018487402],[24.57016331077523,45.7264946674004],[24.57136025298706,45.73090105111203],[24.57009633119048,45.7310765850246],[24.57057513976088,45.73283913601847],[24.57563093825166,45.73213688392519],[24.57539145139572,45.73125562223095],[24.57665536339391,45.73108002494064],[24.57641586722383,45.73019876523989]]],"type":"Polygon"}
+}

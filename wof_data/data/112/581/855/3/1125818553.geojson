@@ -1,0 +1,106 @@
+{
+  "id": 1125818553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.6,44.11667,28.6,44.11667",
+    "geom:latitude":44.11667,
+    "geom:longitude":28.6,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":542,
+    "iso:country":"RO",
+    "lbl:latitude":44.11667,
+    "lbl:longitude":28.6,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Lazu"
+    ],
+    "name:eng_x_preferred":[
+        "Lazu"
+    ],
+    "name:rum_x_preferred":[
+        "Lazu"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430\u0437\u0443 "
+    ],
+    "name:unk_x_variant":[
+        "Laz Mahate"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":674960,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Lazu",
+    "qs_pg:name_adm0":"Rom\u00e2nia",
+    "qs_pg:name_adm1":"Constanta",
+    "qs_pg:photos":30,
+    "qs_pg:photos_1k":6,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":30,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1167572,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424933,
+    "qs_pg:woe_id":874537,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424933,
+    "woe:name_adm0":"Rom\u00e2nia",
+    "woe:name_adm1":"Constanta",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":674960,
+        "gp:id":874537,
+        "qs_pg:id":1167572,
+        "wd:id":"Q12116964"
+    },
+    "wof:country":"RO",
+    "wof:created":1497291949,
+    "wof:geomhash":"1b2217cf2ac7628e4b1a7b6ff3c87cd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125818553,
+            "region_id":85687633
+        }
+    ],
+    "wof:id":1125818553,
+    "wof:lastmodified":1514499991,
+    "wof:name":"Lazu",
+    "wof:parent_id":85687633,
+    "wof:placetype":"locality",
+    "wof:population":542,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.6,
+    44.11667,
+    28.6,
+    44.11667
+],
+  "geometry": {"coordinates":[28.6,44.11667],"type":"Point"}
+}

@@ -1,0 +1,95 @@
+{
+  "id": 1125855575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.3,45.25,26.3,45.25",
+    "geom:latitude":45.25,
+    "geom:longitude":26.3,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":4315,
+    "gn:population":4315,
+    "iso:country":"RO",
+    "lbl:latitude":45.25,
+    "lbl:longitude":26.3,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Calvini"
+    ],
+    "name:eng_x_preferred":[
+        "Calvini"
+    ],
+    "name:fre_x_preferred":[
+        "Calvini"
+    ],
+    "name:ita_x_preferred":[
+        "Calvini"
+    ],
+    "name:rum_x_preferred":[
+        "Calvini"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u043b\u0432\u0456\u043d\u044c"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":682873,
+    "qs_pg:gn_pop":4315,
+    "qs_pg:name":"Calvini",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":127879,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":682873,
+        "qs_pg:id":127879,
+        "wd:id":"Q12107760"
+    },
+    "wof:country":"RO",
+    "wof:created":1497293603,
+    "wof:geomhash":"92fba2606961ba3fc25fbc1b07ad5a67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125855575,
+            "region_id":85687667
+        }
+    ],
+    "wof:id":1125855575,
+    "wof:lastmodified":1514499830,
+    "wof:name":"Calvini",
+    "wof:parent_id":85687667,
+    "wof:placetype":"locality",
+    "wof:population":4315,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.3,
+    45.25,
+    26.3,
+    45.25
+],
+  "geometry": {"coordinates":[26.3,45.25],"type":"Point"}
+}

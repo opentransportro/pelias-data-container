@@ -1,0 +1,116 @@
+{
+  "id": 1125775271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.91667,44.58333,24.91667,44.58333",
+    "geom:latitude":44.58333,
+    "geom:longitude":24.91667,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":6281,
+    "gn:population":6281,
+    "iso:country":"RO",
+    "lbl:latitude":44.58333,
+    "lbl:longitude":24.91667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:alb_x_preferred":[
+        "Buzoe\u0219ti"
+    ],
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u0632\u0648\u064a\u0634\u062a"
+    ],
+    "name:dut_x_preferred":[
+        "Buzoe\u0219ti"
+    ],
+    "name:eng_x_preferred":[
+        "Buzoe\u0219ti"
+    ],
+    "name:fre_x_preferred":[
+        "Buzoe\u0219ti"
+    ],
+    "name:ita_x_preferred":[
+        "Buzoe\u0219ti"
+    ],
+    "name:mac_x_preferred":[
+        "\u0411\u0443\u0437\u043e\u0435\u0448\u0442\u0438"
+    ],
+    "name:may_x_preferred":[
+        "Buzoe\u0219ti"
+    ],
+    "name:por_x_preferred":[
+        "Buzoe\u0219ti"
+    ],
+    "name:rum_x_preferred":[
+        "Buzoe\u0219ti"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0443\u0437\u043e\u0454\u0448\u0442\u044c"
+    ],
+    "name:vie_x_preferred":[
+        "Buzoesti"
+    ],
+    "name:vol_x_preferred":[
+        "Buzoe\u0219ti"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":683100,
+    "qs_pg:gn_pop":6281,
+    "qs_pg:name":"Buzoe\u015fti",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":1028153,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":683100,
+        "qs_pg:id":1028153,
+        "wd:id":"Q1896983"
+    },
+    "wof:country":"RO",
+    "wof:created":1497290231,
+    "wof:geomhash":"d196ba31fd66774b7b11570898766d94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125775271,
+            "region_id":85687645
+        }
+    ],
+    "wof:id":1125775271,
+    "wof:lastmodified":1514499814,
+    "wof:name":"Buzoe\u015fti",
+    "wof:parent_id":85687645,
+    "wof:placetype":"locality",
+    "wof:population":6281,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.91667,
+    44.58333,
+    24.91667,
+    44.58333
+],
+  "geometry": {"coordinates":[24.91667,44.58333],"type":"Point"}
+}

@@ -1,0 +1,126 @@
+{
+  "id": 101795109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000083,
+    "geom:area_square_m":728479.780237,
+    "geom:bbox":"21.9392772117,44.6410536573,21.9582439107,44.6501083721",
+    "geom:latitude":44.646341,
+    "geom:longitude":21.948626,
+    "gn:population":1619,
+    "iso:country":"RO",
+    "lbl:latitude":44.646126,
+    "lbl:longitude":21.947691,
+    "mps:latitude":44.646126,
+    "mps:longitude":21.947691,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cze_x_preferred":[
+        "Berz\u00e1ska"
+    ],
+    "name:dut_x_preferred":[
+        "Berzasca"
+    ],
+    "name:eng_x_preferred":[
+        "Berzaska"
+    ],
+    "name:epo_x_preferred":[
+        "Berzasca"
+    ],
+    "name:fre_x_preferred":[
+        "Berzasca"
+    ],
+    "name:hun_x_preferred":[
+        "Bersz\u00e1szk\u00f3"
+    ],
+    "name:ita_x_preferred":[
+        "Berzasca"
+    ],
+    "name:may_x_preferred":[
+        "Berzasca"
+    ],
+    "name:por_x_preferred":[
+        "Berzasca"
+    ],
+    "name:rum_x_preferred":[
+        "Berzasca"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0435\u0440\u0437\u0430\u0441\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u0440\u0437\u0430\u0441\u043a\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Berzaska"
+    ],
+    "name:vie_x_preferred":[
+        "Berzasca"
+    ],
+    "name:vol_x_preferred":[
+        "Berzasca"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Caras-Severin",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Berzasca",
+    "qs:la_lc":"*RO23051449",
+    "qs:level":"locality",
+    "qs:loc":"Berzasca",
+    "qs:loc_alt":"Berzasca",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"039d95d6-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":684976,
+        "gp:id":867219,
+        "qs:id":9,
+        "wd:id":"Q793732"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"68aaeb0641115530b213fb55af9af2c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101795109,
+            "region_id":85687627
+        }
+    ],
+    "wof:id":101795109,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514499766,
+    "wof:name":"Berzasca",
+    "wof:parent_id":85687627,
+    "wof:placetype":"locality",
+    "wof:population":1619,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.93927721171502,
+    44.64105365731461,
+    21.95824391065395,
+    44.65010837214925
+],
+  "geometry": {"coordinates":[[[21.95824391065395,44.64996456505941],[21.95748141339305,44.64641063341355],[21.9549896397242,44.64669821170384],[21.9547990731237,44.64580972080819],[21.95355319672819,44.64595348504781],[21.95298160126816,44.6432879979327],[21.94924410871505,44.64371917789128],[21.9486727551195,44.64105365731461],[21.94742696981206,44.64119734638427],[21.94761739413974,44.64208585696036],[21.94637158417487,44.64222953380732],[21.94656199742712,44.6431180459208],[21.94531616280284,44.64326171054461],[21.94550656497847,44.64415022419553],[21.93927721171502,44.64486833768473],[21.93984818097289,44.64753391149867],[21.94358598077872,44.64710306432227],[21.94415719190511,44.64976860469824],[21.95537079663842,44.6484751902255],[21.95556138695281,44.64936367785151],[21.95680733356181,44.64921988824324],[21.95699795075973,44.65010837214925],[21.95824391065395,44.64996456505941]]],"type":"Polygon"}
+}

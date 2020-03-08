@@ -1,0 +1,123 @@
+{
+  "id": 101789615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000073,
+    "geom:area_square_m":628465.905728,
+    "geom:bbox":"24.6502729336,46.1985295489,24.6631555179,46.2126207378",
+    "geom:latitude":46.205151,
+    "geom:longitude":24.655973,
+    "gn:population":3147,
+    "iso:country":"RO",
+    "lbl:latitude":46.202017,
+    "lbl:longitude":24.654265,
+    "mps:latitude":46.202017,
+    "mps:longitude":24.654265,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041b\u0430\u0441\u043b\u0435\u0430"
+    ],
+    "name:dut_x_preferred":[
+        "Laslea"
+    ],
+    "name:eng_x_preferred":[
+        "Laslea"
+    ],
+    "name:epo_x_preferred":[
+        "Laslea"
+    ],
+    "name:fre_x_preferred":[
+        "Laslea"
+    ],
+    "name:ger_x_preferred":[
+        "Laslea"
+    ],
+    "name:hun_x_preferred":[
+        "Sz\u00e1szszentl\u00e1szl\u00f3"
+    ],
+    "name:ita_x_preferred":[
+        "Laslea"
+    ],
+    "name:por_x_preferred":[
+        "Laslea"
+    ],
+    "name:rum_x_preferred":[
+        "Laslea"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430\u0441\u043b\u044f"
+    ],
+    "name:vie_x_preferred":[
+        "Laslea"
+    ],
+    "name:vol_x_preferred":[
+        "Laslea"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Sibiu",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Laslea",
+    "qs:la_lc":"*RO45144731",
+    "qs:level":"locality",
+    "qs:loc":"Laslea",
+    "qs:loc_alt":"Laslea",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a1546e-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":675003,
+        "gp:id":874504,
+        "qs:id":506447,
+        "qs_pg:id":506447,
+        "wd:id":"Q1019416"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"b0ea123c0a104969f15528d30cc8646e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101789615,
+            "region_id":85687687
+        }
+    ],
+    "wof:id":101789615,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514499991,
+    "wof:name":"Laslea",
+    "wof:parent_id":85687687,
+    "wof:placetype":"locality",
+    "wof:population":3147,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.65027293355911,
+    46.19852954885005,
+    24.66315551791803,
+    46.21262073782498
+],
+  "geometry": {"coordinates":[[[24.66006429965427,46.21244390800666],[24.65933149882682,46.20980184525922],[24.66315551791803,46.20927129502132],[24.66242263212689,46.20662925088959],[24.65987341241316,46.20698294607297],[24.65962917747811,46.20610225540571],[24.65707996724711,46.20645588322094],[24.65634744340588,46.20381378335617],[24.65762199288412,46.20363698709696],[24.65640122796583,46.19923347833628],[24.65512677747597,46.19941025782123],[24.6548826753554,46.19852954885005],[24.6510593381276,46.19905978627025],[24.65154743394328,46.20082122304802],[24.65027293355911,46.20099794523708],[24.65124917022627,46.20452081675705],[24.65252374981037,46.20434408115261],[24.65350023135807,46.20786691865572],[24.65477488262616,46.20769015446848],[24.6555074119542,46.21033225901073],[24.65678211510863,46.21015546959222],[24.65702633207707,46.21103616517519],[24.65830104750717,46.21085935723534],[24.65878955214248,46.21262073782498],[24.66006429965427,46.21244390800666]]],"type":"Polygon"}
+}

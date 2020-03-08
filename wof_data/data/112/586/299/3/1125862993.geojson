@@ -1,0 +1,113 @@
+{
+  "id": 1125862993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.75855,44.68391,24.75855,44.68391",
+    "geom:latitude":44.68391,
+    "geom:longitude":24.75855,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":3350,
+    "gn:population":3350,
+    "iso:country":"RO",
+    "lbl:latitude":44.68391,
+    "lbl:longitude":24.75855,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:alb_x_preferred":[
+        "Lunca Corbului"
+    ],
+    "name:ara_x_preferred":[
+        "\u0644\u0648\u0646\u0643\u0627 \u0643\u0648\u0631\u0628\u0648\u0644\u0648\u064a"
+    ],
+    "name:dut_x_preferred":[
+        "Lunca Corbului"
+    ],
+    "name:eng_x_preferred":[
+        "Lunca Corbului"
+    ],
+    "name:fre_x_preferred":[
+        "Lunca Corbului"
+    ],
+    "name:ita_x_preferred":[
+        "Lunca Corbului"
+    ],
+    "name:mac_x_preferred":[
+        "\u041b\u0443\u043d\u043a\u0430 \u041a\u043e\u043b\u0431\u0443\u0440\u0443\u0458"
+    ],
+    "name:por_x_preferred":[
+        "Lunca Corbului"
+    ],
+    "name:rum_x_preferred":[
+        "Lunca Corbului"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0443\u043d\u043a\u0430-\u041a\u043e\u0440\u0431\u0443\u043b\u0443\u0439"
+    ],
+    "name:vie_x_preferred":[
+        "Lunca Corbului"
+    ],
+    "name:vol_x_preferred":[
+        "Lunca Corbului"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":674421,
+    "qs_pg:gn_pop":3350,
+    "qs_pg:name":"Lunca Corbului",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":127484,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":674421,
+        "qs_pg:id":127484,
+        "wd:id":"Q2348396"
+    },
+    "wof:country":"RO",
+    "wof:created":1497293912,
+    "wof:geomhash":"1e35eb4e205a7657c985ea5770bd8583",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125862993,
+            "region_id":85687645
+        }
+    ],
+    "wof:id":1125862993,
+    "wof:lastmodified":1514500001,
+    "wof:name":"Lunca Corbului",
+    "wof:parent_id":85687645,
+    "wof:placetype":"locality",
+    "wof:population":3350,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.75855,
+    44.68391,
+    24.75855,
+    44.68391
+],
+  "geometry": {"coordinates":[24.75855,44.68391],"type":"Point"}
+}

@@ -1,0 +1,136 @@
+{
+  "id": 101910925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000112,
+    "geom:area_square_m":998139.856304,
+    "geom:bbox":"28.5611133622,43.7454760824,28.5781134576,43.7585894427",
+    "geom:latitude":43.75291,
+    "geom:longitude":28.570445,
+    "gn:population":282,
+    "iso:country":"RO",
+    "lbl:latitude":43.754302,
+    "lbl:longitude":28.570574,
+    "mps:latitude":43.754302,
+    "mps:longitude":28.570574,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0418\u043b\u0430\u043d\u043b\u044a\u043a"
+    ],
+    "name:deu_x_preferred":[
+        "Vama Veche"
+    ],
+    "name:dut_x_preferred":[
+        "Vama Veche"
+    ],
+    "name:eng_x_preferred":[
+        "Vama Veche"
+    ],
+    "name:epo_x_preferred":[
+        "Vama Veche"
+    ],
+    "name:fra_x_preferred":[
+        "Vama Veche"
+    ],
+    "name:fre_x_preferred":[
+        "Vama Veche"
+    ],
+    "name:ger_x_preferred":[
+        "Vama Veche"
+    ],
+    "name:hbs_x_preferred":[
+        "Vama Veche"
+    ],
+    "name:hun_x_preferred":[
+        "Vama Veche"
+    ],
+    "name:ita_x_preferred":[
+        "Vama Veche"
+    ],
+    "name:nld_x_preferred":[
+        "Vama Veche"
+    ],
+    "name:ron_x_preferred":[
+        "Vama Veche"
+    ],
+    "name:rum_x_preferred":[
+        "Vama Veche"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0430\u043c\u0430 \u0412\u0435\u043a\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0430\u043c\u0430-\u0412\u0435\u043a\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Ilanl\u00e2c"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Constanta",
+    "qs:a1r":"5",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:id":0,
+    "qs:la":"Limanu",
+    "qs:la_lc":"*RO25060632",
+    "qs:level":"locality",
+    "qs:loc":"Vama Veche",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet perfect local_admin match geoplanet",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "wd:latitude":43.752222,
+    "wd:longitude":28.571111,
+    "wd:population":400,
+    "wd:wordcount":780,
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":663216,
+        "gp:id":883295,
+        "qs:id":550692,
+        "qs_pg:id":550692,
+        "wd:id":"Q936239",
+        "wk:page":"Vama Veche"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"6cb0fcc459d19060d0e77216d57776d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101910925,
+            "region_id":85687633
+        }
+    ],
+    "wof:id":101910925,
+    "wof:lastmodified":1527715930,
+    "wof:name":"Vama Veche",
+    "wof:parent_id":85687633,
+    "wof:placetype":"locality",
+    "wof:population":400,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.56111336223699,
+    43.74547608239919,
+    28.57811345760859,
+    43.75858944273494
+],
+  "geometry": {"coordinates":[[[28.56646893759654,43.75858944273494],[28.57251980160993,43.75747941439903],[28.57280746868747,43.75835015462491],[28.57401763352851,43.75812810256372],[28.57344227744204,43.75638662808296],[28.57465240061561,43.75616456964417],[28.57407705712313,43.75442309568285],[28.57528713863297,43.75420103086725],[28.57499946743053,43.75333029505475],[28.57620952399623,43.75310821996806],[28.57563418268069,43.75136675067893],[28.57684419758903,43.75114466921622],[28.57655652747661,43.75027393573924],[28.57776651744439,43.75005184400629],[28.57690352600412,43.74743964435152],[28.57811345760859,43.74721755013718],[28.57753815408608,43.74547608239919],[28.57632825590269,43.74569816882592],[28.57661588520136,43.74656890749753],[28.56814625067625,43.74812314316478],[28.56843377448831,43.74899390726989],[28.56722377709343,43.74921588817341],[28.56808636738879,43.75182818126598],[28.56687631162174,43.75205015968174],[28.56716384800615,43.75292092430533],[28.56595376729797,43.75314289244824],[28.56624129846574,43.75401365914786],[28.56261095684408,43.75467949025796],[28.56232347583568,43.75380871188179],[28.56111336223699,43.75403062336085],[28.56255079868174,43.758384516543],[28.56618136563281,43.75771868122365],[28.56646893759654,43.75858944273494]]],"type":"Polygon"}
+}

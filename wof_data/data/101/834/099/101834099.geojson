@@ -1,0 +1,158 @@
+{
+  "id": 101834099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000039,
+    "geom:area_square_m":336956.161111,
+    "geom:bbox":"25.924866746,46.2620379643,25.9399267803,46.269588486",
+    "geom:latitude":46.267021,
+    "geom:longitude":25.933029,
+    "gn:population":4272,
+    "iso:country":"RO",
+    "lbl:latitude":46.266401,
+    "lbl:longitude":25.933771,
+    "mps:latitude":46.266401,
+    "mps:longitude":25.933771,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bre_x_preferred":[
+        "S\u00e2nmartin"
+    ],
+    "name:cos_x_preferred":[
+        "S\u00e2nmartin"
+    ],
+    "name:dan_x_preferred":[
+        "S\u00e2nmartin"
+    ],
+    "name:dut_x_preferred":[
+        "S\u00e2nmartin"
+    ],
+    "name:eng_x_preferred":[
+        "S\u00e2nmartin"
+    ],
+    "name:epo_x_preferred":[
+        "S\u00e2nmartin "
+    ],
+    "name:fre_x_preferred":[
+        "S\u00e2nmartin"
+    ],
+    "name:ger_x_preferred":[
+        "S\u00e2nmartin"
+    ],
+    "name:hun_x_preferred":[
+        "Cs\u00edkszentm\u00e1rton"
+    ],
+    "name:ind_x_preferred":[
+        "S\u00e2nmartin"
+    ],
+    "name:ita_x_preferred":[
+        "S\u00e2nmartin"
+    ],
+    "name:nds_x_preferred":[
+        "S\u00e2nmartin"
+    ],
+    "name:por_x_preferred":[
+        "S\u00e2nmartin "
+    ],
+    "name:rum_x_colloquial":[
+        "Csikszentmarton",
+        "Sanmaertin",
+        "Sanmartin",
+        "Sinmartin"
+    ],
+    "name:rum_x_preferred":[
+        "S\u00eenmartin"
+    ],
+    "name:rum_x_variant":[
+        "Csikszentm\u00e0rton",
+        "S\u00e2nm\u0103rtin",
+        "S\u00e2nmartin"
+    ],
+    "name:spa_x_preferred":[
+        "S\u00e2nmartin"
+    ],
+    "name:swe_x_preferred":[
+        "S\u00e2nmartin"
+    ],
+    "name:tah_x_preferred":[
+        "S\u00e2nmartin"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0438\u043d\u043c\u0430\u0440\u0442\u0456\u043d "
+    ],
+    "name:unk_x_variant":[
+        "S\u00e2nm\u0103rtin"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2nmartin"
+    ],
+    "name:vol_x_preferred":[
+        "S\u00e2nmartin "
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Harghita",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"S\u00e2nmartin",
+    "qs:la_lc":"*RO32085788",
+    "qs:level":"locality",
+    "qs:loc":"S\u00e2nmartin",
+    "qs:loc_alt":"Sanmartin",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a463d4-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":667008,
+        "gp:id":880420,
+        "qs:id":908949,
+        "qs_pg:id":908949,
+        "wd:id":"Q876091"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"ba59f615489f3208ae28dce78f304910",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101834099,
+            "region_id":85687733
+        }
+    ],
+    "wof:id":101834099,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514500178,
+    "wof:name":"S\u00e2nmartin",
+    "wof:parent_id":85687733,
+    "wof:placetype":"locality",
+    "wof:population":4272,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.92486674601372,
+    46.2620379642554,
+    25.9399267803114,
+    46.269588486033
+],
+  "geometry": {"coordinates":[[[25.93985173498481,46.26857239093817],[25.9312185767144,46.2620379642554],[25.93223570621626,46.26539549487086],[25.93096330054334,46.26558755843359],[25.93122899456552,46.266464582536],[25.92486674601372,46.26742469216765],[25.92513235363458,46.26830173303017],[25.92640483921355,46.26810973765021],[25.92667047760233,46.26898677344548],[25.93303288058547,46.26802655197019],[25.93329862785959,46.26890356814204],[25.93457110346787,46.26871147493137],[25.93483688151366,46.269588486033],[25.9399267803114,46.26881994771162],[25.93985173498481,46.26857239093817]]],"type":"Polygon"}
+}

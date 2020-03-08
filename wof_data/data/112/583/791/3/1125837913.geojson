@@ -1,0 +1,141 @@
+{
+  "id": 1125837913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.131949,46.302509,23.131949,46.302509",
+    "geom:latitude":46.302509,
+    "geom:longitude":23.131949,
+    "gn:gn_country":null,
+    "iso:country":"RO",
+    "lbl:latitude":46.302509,
+    "lbl:longitude":23.131949,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:alb_x_preferred":[
+        "Ro\u0219ia Montan\u0103"
+    ],
+    "name:ara_x_preferred":[
+        "\u0631\u0648\u0634\u064a\u0627 \u0645\u0648\u0646\u062a\u0627\u0646\u0627"
+    ],
+    "name:bar_x_preferred":[
+        "Ro\u0219ia Montan\u0103"
+    ],
+    "name:dut_x_preferred":[
+        "Ro\u0219ia Montan\u0103"
+    ],
+    "name:eng_x_preferred":[
+        "Ro\u0219ia Montan\u0103"
+    ],
+    "name:epo_x_preferred":[
+        "Ro\u0219ia Montan\u0103"
+    ],
+    "name:fre_x_preferred":[
+        "Ro\u0219ia Montan\u0103"
+    ],
+    "name:ger_x_preferred":[
+        "Ro\u0219ia Montan\u0103"
+    ],
+    "name:glg_x_preferred":[
+        "Ro\u0219ia Montan\u0103"
+    ],
+    "name:hun_x_preferred":[
+        "Verespatak"
+    ],
+    "name:ita_x_preferred":[
+        "Ro\u0219ia Montan\u0103"
+    ],
+    "name:mac_x_preferred":[
+        "\u0420\u043e\u0448\u0458\u0430 \u041c\u043e\u043d\u0442\u0430\u043d\u0430"
+    ],
+    "name:may_x_preferred":[
+        "Ro\u0219ia Montan\u0103"
+    ],
+    "name:oci_x_preferred":[
+        "Ro\u0219ia Montan\u0103"
+    ],
+    "name:por_x_preferred":[
+        "Ro\u0219ia Montan\u0103"
+    ],
+    "name:rum_x_preferred":[
+        "Ro\u0219ia Montan\u0103"
+    ],
+    "name:spa_x_preferred":[
+        "Ro\u0219ia Montan\u0103"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u043e\u0448\u0456\u044f-\u041c\u043e\u043d\u0442\u0430\u043d\u0435"
+    ],
+    "name:vie_x_preferred":[
+        "Rosia Montana"
+    ],
+    "name:vol_x_preferred":[
+        "Ro\u0219ia Montan\u0103"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Ro\u0219ia Montan\u0103",
+    "qs_pg:name_adm0":"Rom\u00e2nia",
+    "qs_pg:name_adm1":"Alba",
+    "qs_pg:photos":86,
+    "qs_pg:photos_1k":17,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":86,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":895470,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424933,
+    "qs_pg:woe_id":15002273,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424933,
+    "woe:name_adm0":"Rom\u00e2nia",
+    "woe:name_adm1":"Alba",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":15002273,
+        "qs_pg:id":895470,
+        "wd:id":"Q857008"
+    },
+    "wof:country":"RO",
+    "wof:created":1497292793,
+    "wof:geomhash":"669375c6acd9f97f52479d6695503736",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125837913,
+            "region_id":85687697
+        }
+    ],
+    "wof:id":1125837913,
+    "wof:lastmodified":1514500119,
+    "wof:name":"Ro\u0219ia Montan\u0103",
+    "wof:parent_id":85687697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.131949,
+    46.302509,
+    23.131949,
+    46.302509
+],
+  "geometry": {"coordinates":[23.131949,46.302509],"type":"Point"}
+}

@@ -1,0 +1,119 @@
+{
+  "id": 101786287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000119,
+    "geom:area_square_m":997321.471446,
+    "geom:bbox":"24.009035598,47.236080722,24.0283581642,47.2545969948",
+    "geom:latitude":47.244681,
+    "geom:longitude":24.017064,
+    "gn:population":4285,
+    "iso:country":"RO",
+    "lbl:latitude":47.244886,
+    "lbl:longitude":24.016259,
+    "mps:latitude":47.244886,
+    "mps:longitude":24.016259,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Ciceu-Giurge\u0219ti"
+    ],
+    "name:dut_x_preferred":[
+        "Ciceu-Giurge\u0219ti"
+    ],
+    "name:eng_x_preferred":[
+        "Ciceu-Giurge\u0219ti"
+    ],
+    "name:epo_x_preferred":[
+        "Ciceu-Giurge\u0219ti"
+    ],
+    "name:fre_x_preferred":[
+        "Ciceu-Giurge\u0219ti"
+    ],
+    "name:hun_x_preferred":[
+        "Csics\u00f3gy\u00f6rgyfalva"
+    ],
+    "name:ita_x_preferred":[
+        "Ciceu-Giurge\u0219ti"
+    ],
+    "name:may_x_preferred":[
+        "Ciceu-Giurge\u0219ti"
+    ],
+    "name:por_x_preferred":[
+        "Ciceu-Giurge\u0219ti"
+    ],
+    "name:rum_x_preferred":[
+        "Ciceu-Giurge\u0219ti"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0438\u0447\u0435\u0443-\u0414\u0436\u0443\u0440\u0434\u0436\u0435\u0448\u0442\u044c"
+    ],
+    "name:vie_x_preferred":[
+        "Ciceu-Giurgesti"
+    ],
+    "name:vol_x_preferred":[
+        "Ciceu-Giurge\u0219ti"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Bistrita-Nasaud",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Ciceu-Giurge\u015fti",
+    "qs:la_lc":"*RO16032955",
+    "qs:level":"locality",
+    "qs:loc":"Ciceu-Giurge\u015fti",
+    "qs:loc_alt":"Ciceu-Giurgesti",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":681951,
+        "gp:id":869413,
+        "qs:id":1028084,
+        "qs_pg:id":1028084,
+        "wd:id":"Q872775"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"4e60b60054ce47944109c92366d5f91d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101786287,
+            "region_id":85687753
+        }
+    ],
+    "wof:id":101786287,
+    "wof:lastmodified":1514499845,
+    "wof:name":"Ciceu-Giurge\u015fti",
+    "wof:parent_id":85687753,
+    "wof:placetype":"locality",
+    "wof:population":4285,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.00903559795222,
+    47.23608072201972,
+    24.02835816419065,
+    47.25459699479291
+],
+  "geometry": {"coordinates":[[[24.02117830341416,47.2533759356408],[24.01973227228609,47.24808565797315],[24.02233462832555,47.24774629195321],[24.02209361778512,47.24686458151308],[24.02599703155227,47.24635542586282],[24.02575596854058,47.24547372420733],[24.02835816419065,47.24513421603109],[24.02787598565124,47.24337082246177],[24.02267173155337,47.24404975005507],[24.02243074186845,47.24316803820466],[24.02112968020117,47.24333772792136],[24.02088872194656,47.24245601156576],[24.01828661762522,47.24279533772528],[24.01780481637422,47.24103188818015],[24.01520276537536,47.24137113888236],[24.01375786410813,47.23608072201972],[24.01115603420658,47.23641987071443],[24.01139678302405,47.23730161645273],[24.01009583564667,47.23747117080552],[24.01033657393839,47.23835291868022],[24.00903559795222,47.23852246080901],[24.00927632571705,47.23940421082017],[24.01057732267611,47.23923466537298],[24.01154042209555,47.24276164032256],[24.01023934123737,47.2429311990457],[24.01120252392514,47.24645816836039],[24.00990135151335,47.24662772481656],[24.01014215232925,47.24750946750999],[24.01404570958073,47.24700074154498],[24.01428658379041,47.24788247309641],[24.0155877752353,47.24771286336284],[24.01582868087917,47.24859459041136],[24.01712988566044,47.24842496181094],[24.01881666482547,47.25459699479291],[24.02011800884361,47.25442732739293],[24.01987698803038,47.25354561526547],[24.02117830341416,47.2533759356408]]],"type":"Polygon"}
+}

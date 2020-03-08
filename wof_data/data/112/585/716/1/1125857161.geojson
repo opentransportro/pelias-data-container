@@ -1,0 +1,140 @@
+{
+  "id": 1125857161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.23333,45.2,24.23333,45.2",
+    "geom:latitude":45.2,
+    "geom:longitude":24.23333,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":4562,
+    "gn:population":4562,
+    "iso:country":"RO",
+    "lbl:latitude":45.2,
+    "lbl:longitude":24.23333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:chi_x_preferred":[
+        "\u4f2f\u4f0a\u840a\u5967\u52d2\u5167\u4ec0\u8482"
+    ],
+    "name:dut_x_preferred":[
+        "B\u0103ile Ol\u0103ne\u0219ti"
+    ],
+    "name:eng_x_preferred":[
+        "B\u0103ile Ol\u0103ne\u0219ti"
+    ],
+    "name:epo_x_preferred":[
+        "B\u0103ile Ol\u0103ne\u0219ti"
+    ],
+    "name:fre_x_preferred":[
+        "B\u0103ile Ol\u0103ne\u0219ti"
+    ],
+    "name:ger_x_preferred":[
+        "B\u0103ile Ol\u0103ne\u0219ti"
+    ],
+    "name:hun_x_preferred":[
+        "Cser\u00e9pf\u00fcrd\u0151"
+    ],
+    "name:ind_x_preferred":[
+        "B\u0103ile Ol\u0103ne\u0219ti"
+    ],
+    "name:ita_x_preferred":[
+        "B\u0103ile Ol\u0103ne\u0219ti"
+    ],
+    "name:lit_x_preferred":[
+        "Beile Olene\u0161tis"
+    ],
+    "name:may_x_preferred":[
+        "B\u0103ile Ol\u0103ne\u0219ti"
+    ],
+    "name:min_x_preferred":[
+        "B\u0103ile Ol\u0103ne\u0219ti"
+    ],
+    "name:per_x_preferred":[
+        "\u0628\u06cc\u0644\u0647 \u0627\u0648\u0644\u0627\u0646\u0634\u062a"
+    ],
+    "name:pol_x_preferred":[
+        "B\u0103ile Ol\u0103ne\u0219ti"
+    ],
+    "name:por_x_preferred":[
+        "B\u0103ile Ol\u0103ne\u0219ti"
+    ],
+    "name:rum_x_preferred":[
+        "B\u0103ile Ol\u0103ne\u0219ti"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u044d\u0438\u00ad\u043b\u0435-\u041e\u043b\u044d\u00ad\u043d\u0435\u0448\u00ad\u0442\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "B\u0103ile Ol\u0103ne\u0219ti"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0411\u044d\u0438\u043b\u0435-\u041e\u043b\u044d\u043d\u0435\u0448\u0442\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u0457\u043b\u0435-\u041e\u043b\u0435\u043d\u0435\u0448\u0442\u044c"
+    ],
+    "name:vie_x_preferred":[
+        "Baile Olanesti"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":685789,
+    "qs_pg:gn_pop":4562,
+    "qs_pg:name":"B\u0103ile Ol\u0103ne\u015fti",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":275384,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":685789,
+        "qs_pg:id":275384,
+        "wd:id":"Q855721"
+    },
+    "wof:country":"RO",
+    "wof:created":1497293668,
+    "wof:geomhash":"8c309850a0bf052283c577af2ed79963",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125857161,
+            "region_id":85687643
+        }
+    ],
+    "wof:id":1125857161,
+    "wof:lastmodified":1514499821,
+    "wof:name":"B\u0103ile Ol\u0103ne\u015fti",
+    "wof:parent_id":85687643,
+    "wof:placetype":"locality",
+    "wof:population":4562,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.23333,
+    45.2,
+    24.23333,
+    45.2
+],
+  "geometry": {"coordinates":[24.23333,45.2],"type":"Point"}
+}

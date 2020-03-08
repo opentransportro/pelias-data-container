@@ -1,0 +1,101 @@
+{
+  "id": 101834891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000133,
+    "geom:area_square_m":1139021.799598,
+    "geom:bbox":"23.7545978048,46.2963560476,23.7762182559,46.3128620167",
+    "geom:latitude":46.305814,
+    "geom:longitude":23.762673,
+    "gn:population":1504,
+    "iso:country":"RO",
+    "lbl:latitude":46.301796,
+    "lbl:longitude":23.760134,
+    "mps:latitude":46.301796,
+    "mps:longitude":23.760134,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Ciumbrud"
+    ],
+    "name:eng_x_preferred":[
+        "Ciumbrud"
+    ],
+    "name:epo_x_preferred":[
+        "Ciumbrud"
+    ],
+    "name:fre_x_preferred":[
+        "Ciumbrud"
+    ],
+    "name:hun_x_preferred":[
+        "Csombord"
+    ],
+    "name:ita_x_preferred":[
+        "Ciumbrud"
+    ],
+    "name:rum_x_preferred":[
+        "Ciumbrud"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0443\u043c\u0431\u0440\u0443\u0434"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Alba",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Aiud",
+    "qs:la_lc":"*RO11001213",
+    "qs:level":"locality",
+    "qs:loc":"Ciumbrud",
+    "qs:loc_alt":"Ciumbrud",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":681432,
+        "gp:id":869795,
+        "qs:id":409993,
+        "wd:id":"Q720811"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"70e63269ec570b7dfe49b10f8be30ef0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101834891,
+            "region_id":85687697
+        }
+    ],
+    "wof:id":101834891,
+    "wof:lastmodified":1514499851,
+    "wof:name":"Ciumbrud",
+    "wof:parent_id":85687697,
+    "wof:placetype":"locality",
+    "wof:population":1504,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.75459780475109,
+    46.29635604755316,
+    23.77621825593036,
+    46.31286201669207
+],
+  "geometry": {"coordinates":[[[23.76053180875113,46.29669227748224],[23.75635059496221,46.30082476272531],[23.75797585826587,46.30706575856402],[23.75541723543444,46.30739788699702],[23.75587716709288,46.30916391487227],[23.75459780475109,46.30932996253927],[23.75551770520684,46.31286201669207],[23.75679714802749,46.31269595635285],[23.75633713795548,46.31092993799109],[23.76401340370245,46.30993329356863],[23.76424352454785,46.31081628433003],[23.76552289732894,46.31065012035646],[23.76575304809955,46.31153310675779],[23.77214990557258,46.31070204218452],[23.77238016673755,46.31158501154027],[23.77621825593036,46.31108618020016],[23.77598793441967,46.31020322036051],[23.77470859860819,46.3103695095582],[23.77447830702681,46.30948654535496],[23.77319898419211,46.30965281612453],[23.77296872253794,46.30876984755838],[23.77168941268059,46.30893609990005],[23.77122895903562,46.30717015285239],[23.76994968226876,46.30733638359607],[23.76971949027461,46.30645340511501],[23.76332310000561,46.30728431414457],[23.76263288455601,46.30463532401063],[23.76391211653572,46.30446918222412],[23.76345198169918,46.30270318918946],[23.76473116632746,46.30253703848615],[23.7631208624191,46.29635604755316],[23.76053180875113,46.29669227748224]]],"type":"Polygon"}
+}

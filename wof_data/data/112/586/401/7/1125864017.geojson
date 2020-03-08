@@ -1,0 +1,110 @@
+{
+  "id": 1125864017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.78333,44.11667,26.78333,44.11667",
+    "geom:latitude":44.11667,
+    "geom:longitude":26.78333,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":4616,
+    "gn:population":4616,
+    "iso:country":"RO",
+    "lbl:latitude":44.11667,
+    "lbl:longitude":26.78333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Span\u021bov"
+    ],
+    "name:eng_x_preferred":[
+        "Span\u021bov"
+    ],
+    "name:fre_x_preferred":[
+        "Span\u021bov"
+    ],
+    "name:ita_x_preferred":[
+        "Span\u021bov"
+    ],
+    "name:rum_x_preferred":[
+        "Span\u021bov"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043f\u0430\u043d\u0446\u043e\u0432"
+    ],
+    "name:unk_x_variant":[
+        "Span\u0163ov"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":666385,
+    "qs_pg:gn_pop":4616,
+    "qs_pg:name":"Span\u021bov",
+    "qs_pg:name_adm0":"Rom\u00e2nia",
+    "qs_pg:name_adm1":"Calarasi",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":255922,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424933,
+    "qs_pg:woe_id":880858,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424933,
+    "woe:name_adm0":"Rom\u00e2nia",
+    "woe:name_adm1":"Calarasi",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":666385,
+        "gp:id":880858,
+        "qs_pg:id":255922,
+        "wd:id":"Q12154949"
+    },
+    "wof:country":"RO",
+    "wof:created":1497293954,
+    "wof:geomhash":"9b04c59c475013125b8a2e3228a503a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125864017,
+            "region_id":85687615
+        }
+    ],
+    "wof:id":1125864017,
+    "wof:lastmodified":1514500161,
+    "wof:name":"Span\u021bov",
+    "wof:parent_id":85687615,
+    "wof:placetype":"locality",
+    "wof:population":4616,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.78333,
+    44.11667,
+    26.78333,
+    44.11667
+],
+  "geometry": {"coordinates":[26.78333,44.11667],"type":"Point"}
+}

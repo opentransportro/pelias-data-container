@@ -1,0 +1,107 @@
+{
+  "id": 1125863255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.23333,44.96667,23.23333,44.96667",
+    "geom:latitude":44.96667,
+    "geom:longitude":23.23333,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":5126,
+    "gn:population":5126,
+    "iso:country":"RO",
+    "lbl:latitude":44.96667,
+    "lbl:longitude":23.23333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Dr\u0103gu\u021be\u0219ti"
+    ],
+    "name:eng_x_preferred":[
+        "Dr\u0103gu\u021be\u0219ti"
+    ],
+    "name:fre_x_preferred":[
+        "Dr\u0103gu\u021be\u0219ti"
+    ],
+    "name:ita_x_preferred":[
+        "Dr\u0103gu\u021be\u0219ti"
+    ],
+    "name:may_x_preferred":[
+        "Dr\u0103gu\u021be\u0219ti"
+    ],
+    "name:por_x_preferred":[
+        "Dr\u0103gu\u021be\u0219ti"
+    ],
+    "name:rum_x_preferred":[
+        "Dr\u0103gu\u021be\u0219ti"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0440\u0435\u0433\u0443\u0446\u0435\u0448\u0442\u044c"
+    ],
+    "name:vie_x_preferred":[
+        "Dragutesti"
+    ],
+    "name:vol_x_preferred":[
+        "Dr\u0103gu\u021be\u0219ti"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":678871,
+    "qs_pg:gn_pop":5126,
+    "qs_pg:name":"Dr\u0103gu\u0163e\u015fti",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":127685,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":678871,
+        "qs_pg:id":127685,
+        "wd:id":"Q2717762"
+    },
+    "wof:country":"RO",
+    "wof:created":1497293923,
+    "wof:geomhash":"56fd2e7c271e724e23a29d742a61fad6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125863255,
+            "region_id":85687619
+        }
+    ],
+    "wof:id":1125863255,
+    "wof:lastmodified":1514499916,
+    "wof:name":"Dr\u0103gu\u0163e\u015fti",
+    "wof:parent_id":85687619,
+    "wof:placetype":"locality",
+    "wof:population":5126,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.23333,
+    44.96667,
+    23.23333,
+    44.96667
+],
+  "geometry": {"coordinates":[23.23333,44.96667],"type":"Point"}
+}

@@ -1,0 +1,120 @@
+{
+  "id": 85901719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":12207720.010789,
+    "geom:bbox":"24.386212,45.113428,24.386212,45.113428",
+    "geom:latitude":45.113428,
+    "geom:longitude":24.386212,
+    "gn:latitude":45.11667,
+    "gn:longitude":24.36667,
+    "iso:country":"RO",
+    "lbl:latitude":45.113428,
+    "lbl:longitude":24.386212,
+    "mps:latitude":45.119604,
+    "mps:longitude":24.368771,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":1,
+    "name:deu_x_preferred":[
+        "Cet\u0103\u021buia"
+    ],
+    "name:hbs_x_preferred":[
+        "Cet\u0103\u021buia"
+    ],
+    "name:ron_x_preferred":[
+        "Cet\u0103\u021buia"
+    ],
+    "name:rum_x_colloquial":[
+        "Cetatuia"
+    ],
+    "name:rum_x_preferred":[
+        "Cet\u0103\u021buia"
+    ],
+    "name:unk_x_variant":[
+        "Cet\u0103\u021buia"
+    ],
+    "qs:gn_adm0_cc":"RO",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":668872,
+    "qs:gn_nam_loc":"R\u00eemnicu V\u00eelcea, Valcea, RO",
+    "qs:gn_namadm1":"00",
+    "qs:gn_name":"Cet\u0103\u0163uia",
+    "qs:local_max":440,
+    "qs:local_sum":594,
+    "qs:localhoods":3,
+    "qs:name":"Cet\u0103\u021buia",
+    "qs:name_adm0":"Rom\u00e2nia",
+    "qs:name_adm1":"Valcea",
+    "qs:name_local":"R\u00eemnicu V\u00eelcea",
+    "qs:photo_max":390,
+    "qs:photo_sum":440,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":13,
+    "qs:woe_adm0":23424933,
+    "qs:woe_adm1":2346652,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":879084,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":88,
+    "wof:belongsto":[
+        102191581,
+        101753949,
+        85633745,
+        85687643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":682240,
+        "gp:id":869193,
+        "qs:id":1167547,
+        "qs_pg:id":1167547
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"e5bae5e141569cec8008dbcc8f869bac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101753949,
+            "neighbourhood_id":85901719,
+            "region_id":85687643
+        }
+    ],
+    "wof:id":85901719,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1531932551,
+    "wof:name":"Cet\u0103\u021buia",
+    "wof:parent_id":101753949,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.386212,
+    45.113428,
+    24.386212,
+    45.113428
+],
+  "geometry": {"coordinates":[24.386212,45.113428],"type":"Point"}
+}

@@ -1,0 +1,115 @@
+{
+  "id": 101793889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000098,
+    "geom:area_square_m":858138.571067,
+    "geom:bbox":"21.4828287292,45.0334795928,21.4987796581,45.0460078606",
+    "geom:latitude":45.040662,
+    "geom:longitude":21.491023,
+    "gn:population":1215,
+    "iso:country":"RO",
+    "lbl:latitude":45.040837,
+    "lbl:longitude":21.491144,
+    "mps:latitude":45.040837,
+    "mps:longitude":21.491144,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0412\u0440\u0430\u043d\u0438"
+    ],
+    "name:dut_x_preferred":[
+        "Vrani"
+    ],
+    "name:eng_x_preferred":[
+        "Vrani"
+    ],
+    "name:epo_x_preferred":[
+        "Vrani"
+    ],
+    "name:fre_x_preferred":[
+        "Vrani"
+    ],
+    "name:hun_x_preferred":[
+        "Als\u00f3var\u00e1ny"
+    ],
+    "name:ita_x_preferred":[
+        "Vrani"
+    ],
+    "name:por_x_preferred":[
+        "Vrani"
+    ],
+    "name:rum_x_preferred":[
+        "Vrani"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0440\u0430\u043d\u044c"
+    ],
+    "name:vie_x_preferred":[
+        "Vrani"
+    ],
+    "name:vol_x_preferred":[
+        "Vrani"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Caras-Severin",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Vrani",
+    "qs:la_lc":"*RO23054573",
+    "qs:level":"locality",
+    "qs:loc":"Vrani",
+    "qs:loc_alt":"Vrani",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":862909,
+        "qs:id":129749,
+        "qs_pg:id":129749,
+        "wd:id":"Q977930"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"4940951ace7d90387de95eff1c8d490d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101793889,
+            "region_id":85687627
+        }
+    ],
+    "wof:id":101793889,
+    "wof:lastmodified":1514500249,
+    "wof:name":"Vrani",
+    "wof:parent_id":85687627,
+    "wof:placetype":"locality",
+    "wof:population":1215,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.48282872915058,
+    45.03347959284332,
+    21.4987796580703,
+    45.04600786063446
+],
+  "geometry": {"coordinates":[[[21.49128857090443,45.04573113851995],[21.49110323673847,45.04484194130202],[21.49235883622578,45.04470356031254],[21.49217349039697,45.04381436462228],[21.49468463375194,45.04353756278073],[21.49449925684718,45.04264837117967],[21.4957548007153,45.04250995032874],[21.49556941215161,45.04162076025551],[21.49682493101011,45.04148232697202],[21.49663953078908,45.04059313842697],[21.49789502463841,45.04045469271131],[21.49752420863842,45.03867631764274],[21.4987796580703,45.03853786205798],[21.49859424229317,45.03764867553446],[21.4973388122703,45.03778712855757],[21.49696804279512,45.03600874728471],[21.49571264599155,45.03614718019202],[21.49515660814359,45.03347959284332],[21.4926459141895,45.03375639831626],[21.49301652071171,45.03553480115903],[21.49176112653089,45.03567318652864],[21.49213172523781,45.03745159035731],[21.48836539268353,45.03786667187154],[21.48855064543216,45.03875587991598],[21.48729517065078,45.03889421299414],[21.48748041173599,45.03978342256516],[21.48622491195079,45.03992174320916],[21.48641014137138,45.04081095430644],[21.48389908619816,45.04108755573122],[21.48408428453911,45.04197677091435],[21.48282872915058,45.04211505169405],[21.48356952231995,45.04567191233582],[21.48859202097674,45.04511865829517],[21.48877731630887,45.04600786063446],[21.49128857090443,45.04573113851995]]],"type":"Polygon"}
+}

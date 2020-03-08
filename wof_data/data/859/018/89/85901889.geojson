@@ -1,0 +1,104 @@
+{
+  "id": 85901889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":17968264.166088,
+    "geom:bbox":"22.655189,44.630901,22.655189,44.630901",
+    "geom:latitude":44.630901,
+    "geom:longitude":22.655189,
+    "iso:country":"RO",
+    "lbl:latitude":44.630901,
+    "lbl:longitude":22.655189,
+    "mps:latitude":44.629244,
+    "mps:longitude":22.648635,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Skela Kladovska"
+    ],
+    "name:rum_x_preferred":[
+        "Schela Cladovei"
+    ],
+    "name:unk_x_variant":[
+        "Schela Cladovei"
+    ],
+    "qs:gn_adm0_cc":"RO",
+    "qs:gn_id":0,
+    "qs:gn_local":678817,
+    "qs:gn_nam_loc":"Drobeta-Turnu Severin, Mehedinti, RO",
+    "qs:gn_namadm1":"26",
+    "qs:id":0,
+    "qs:local_max":187,
+    "qs:local_sum":187,
+    "qs:localhoods":1,
+    "qs:name":"Schela Cladovei",
+    "qs:name_adm0":"Rom\u00e2nia",
+    "qs:name_adm1":"Mehedinti",
+    "qs:name_local":"Drobeta-Turnu Severin",
+    "qs:photo_max":57,
+    "qs:photo_sum":187,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":22,
+    "qs:woe_adm0":23424933,
+    "qs:woe_adm1":2346639,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":871703,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        101751951,
+        85633745,
+        85687599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":879934
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"b35ac46cb8b4cc10248ed38962cb0bf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101751951,
+            "neighbourhood_id":85901889,
+            "region_id":85687599
+        }
+    ],
+    "wof:id":85901889,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1531932591,
+    "wof:name":"Schela Cladovei",
+    "wof:parent_id":101751951,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.655189,
+    44.630901,
+    22.655189,
+    44.630901
+],
+  "geometry": {"coordinates":[22.655189,44.630901],"type":"Point"}
+}

@@ -1,0 +1,113 @@
+{
+  "id": 101793899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000046,
+    "geom:area_square_m":399129.849418,
+    "geom:bbox":"22.2619698982,45.0882583195,22.270689195,45.0992032372",
+    "geom:latitude":45.093224,
+    "geom:longitude":22.266941,
+    "gn:population":2842,
+    "iso:country":"RO",
+    "lbl:latitude":45.092639,
+    "lbl:longitude":22.265917,
+    "mps:latitude":45.092639,
+    "mps:longitude":22.265917,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Luncavi\u021ba"
+    ],
+    "name:eng_x_preferred":[
+        "Luncavi\u021ba"
+    ],
+    "name:epo_x_preferred":[
+        "Luncavi\u021ba"
+    ],
+    "name:fre_x_preferred":[
+        "Luncavi\u021ba"
+    ],
+    "name:hun_x_preferred":[
+        "Nagylank\u00e1s"
+    ],
+    "name:ita_x_preferred":[
+        "Luncavi\u021ba"
+    ],
+    "name:may_x_preferred":[
+        "Luncavi\u021ba"
+    ],
+    "name:por_x_preferred":[
+        "Luncavi\u021ba"
+    ],
+    "name:rum_x_preferred":[
+        "Luncavi\u021ba"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0443\u043d\u043a\u0430\u0432\u0456\u0446\u0430"
+    ],
+    "name:vol_x_preferred":[
+        "Luncavi\u021ba"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Caras-Severin",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Luncavi\u0163a",
+    "qs:la_lc":"*RO23053130",
+    "qs:level":"locality",
+    "qs:loc":"Luncavi\u0163a",
+    "qs:loc_alt":"Luncavita",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":674350,
+        "gp:id":875003,
+        "qs:id":127480,
+        "qs_pg:id":127480,
+        "wd:id":"Q771716"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"cd33335b487729d505604609f0dd1b49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101793899,
+            "region_id":85687627
+        }
+    ],
+    "wof:id":101793899,
+    "wof:lastmodified":1514500002,
+    "wof:name":"Luncavi\u0163a",
+    "wof:parent_id":85687627,
+    "wof:placetype":"locality",
+    "wof:population":2842,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.26196989823887,
+    45.0882583195347,
+    22.27068919501772,
+    45.09920323722116
+],
+  "geometry": {"coordinates":[[[22.27068919501772,45.09890779922779],[22.27029290888333,45.09713289691808],[22.26903775694677,45.09728061793248],[22.26824536129936,45.09373078921368],[22.26950043598305,45.0935830791322],[22.2693023384569,45.09269562194254],[22.27055738785236,45.0925478996258],[22.26976500329386,45.08899807082605],[22.26851003113478,45.08914578221118],[22.2683119749974,45.0882583195347],[22.26705701617044,45.08840601322026],[22.26725505300021,45.08929347862897],[22.26600006889066,45.08944116007967],[22.26619809468787,45.09032862712314],[22.26368806992735,45.09062395058629],[22.26388606538046,45.09151142199676],[22.26263102472882,45.09165906400807],[22.26322500280156,45.09432147985359],[22.26196989823887,45.0944691150915],[22.26216788816612,45.09535658757846],[22.26593324187013,45.09491362876213],[22.26632936243811,45.09668855405278],[22.2675845070159,45.09654086571038],[22.26817880790389,45.09920323722116],[22.27068919501772,45.09890779922779]]],"type":"Polygon"}
+}

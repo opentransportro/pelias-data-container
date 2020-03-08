@@ -1,0 +1,95 @@
+{
+  "id": 101845173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000039,
+    "geom:area_square_m":339256.46015,
+    "geom:bbox":"26.910777715,45.1370884081,26.9247369672,45.1434950137",
+    "geom:latitude":45.14041,
+    "geom:longitude":26.917493,
+    "gn:population":2522,
+    "iso:country":"RO",
+    "lbl:latitude":45.140786,
+    "lbl:longitude":26.914479,
+    "mps:latitude":45.140786,
+    "mps:longitude":26.914479,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Scurte\u0219ti"
+    ],
+    "name:eng_x_preferred":[
+        "Scurte\u0219ti"
+    ],
+    "name:fre_x_preferred":[
+        "Scurte\u0219ti"
+    ],
+    "name:ita_x_preferred":[
+        "Scurte\u0219ti"
+    ],
+    "name:rum_x_preferred":[
+        "Scurte\u0219ti"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043a\u0443\u0440\u0442\u0435\u0448\u0442\u044c "
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Buzau",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Vadu Pa\u015fii",
+    "qs:la_lc":"*RO21049956",
+    "qs:level":"locality",
+    "qs:loc":"Scurte\u015fti",
+    "qs:loc_alt":"Scurtesti",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":667557,
+        "gp:id":880031,
+        "qs:id":412714,
+        "wd:id":"Q12153460"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"1a7e1bd693b493798c940c804818542d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101845173,
+            "region_id":85687667
+        }
+    ],
+    "wof:id":101845173,
+    "wof:lastmodified":1514500138,
+    "wof:name":"Scurte\u015fti",
+    "wof:parent_id":85687667,
+    "wof:placetype":"locality",
+    "wof:population":2522,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.91077771499414,
+    45.13708840812717,
+    26.92473696719202,
+    45.14349501365115
+],
+  "geometry": {"coordinates":[[[26.91408469580404,45.14329185674222],[26.91381185273252,45.14241695124008],[26.91878887210498,45.14160419169184],[26.91906178825298,45.14247908231278],[26.92030604104195,45.14227585200769],[26.92003310662608,45.14140096510766],[26.92376576140924,45.14079119728513],[26.92349278345768,45.13991631996879],[26.92473696719202,45.13971303839338],[26.92391804613004,45.13708840812717],[26.92267391718724,45.1372916785387],[26.92294686134767,45.13816656059566],[26.91921437095397,45.1387762949289],[26.91948727158262,45.13965118656836],[26.91575465323592,45.14026079996194],[26.9152089728359,45.13851099278293],[26.91147639094874,45.13912045175368],[26.91202196174385,45.14087028124925],[26.91077771499414,45.14107341232045],[26.91132329428024,45.14282324293919],[26.91256757756997,45.14262010442928],[26.91284040237116,45.14349501365115],[26.91408469580404,45.14329185674222]]],"type":"Polygon"}
+}

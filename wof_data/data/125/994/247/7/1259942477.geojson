@@ -1,0 +1,69 @@
+{
+  "id": 1259942477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.24519,44.69043,23.24519,44.69043",
+    "geom:latitude":44.69043,
+    "geom:longitude":23.24519,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"79157.0",
+    "gn:asciiname":"Gura Menti",
+    "gn:country_code":"RO",
+    "gn:dem":166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":676519,
+    "gn:latitude":44.69043,
+    "gn:longitude":23.24519,
+    "gn:modification_date":"2013-04-21",
+    "gn:name":"Gura Men\u021bi",
+    "gn:population":199,
+    "gn:timezone":"Europe/Bucharest",
+    "iso:country":"RO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":676519
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"4e8880592e321bc039055eb447ce0cd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1259942477,
+            "region_id":85687619
+        }
+    ],
+    "wof:id":1259942477,
+    "wof:lastmodified":1536694522,
+    "wof:name":"Gura Menti",
+    "wof:parent_id":85687619,
+    "wof:placetype":"locality",
+    "wof:population":199,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.24519,
+    44.69043,
+    23.24519,
+    44.69043
+],
+  "geometry": {"coordinates":[23.24519,44.69043],"type":"Point"}
+}

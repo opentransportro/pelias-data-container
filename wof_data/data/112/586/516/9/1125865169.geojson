@@ -1,0 +1,98 @@
+{
+  "id": 1125865169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.05806,44.29083,26.05806,44.29083",
+    "geom:latitude":44.29083,
+    "geom:longitude":26.05806,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":9537,
+    "gn:population":7817,
+    "iso:country":"RO",
+    "lbl:latitude":44.29083,
+    "lbl:longitude":26.05806,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "1 Decembrie"
+    ],
+    "name:eng_x_preferred":[
+        "1 Decembrie"
+    ],
+    "name:fre_x_preferred":[
+        "1 Decembrie"
+    ],
+    "name:hun_x_preferred":[
+        "1 Decembrie"
+    ],
+    "name:ita_x_preferred":[
+        "1 Decembrie"
+    ],
+    "name:rum_x_preferred":[
+        "1 Decembrie"
+    ],
+    "name:unk_x_variant":[
+        "Cop\u0103cenii de Sus"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":856315,
+    "qs_pg:gn_pop":9537,
+    "qs_pg:name":"Prim Decembrie",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":129746,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":856315,
+        "qs_pg:id":129746,
+        "wd:id":"Q12719730"
+    },
+    "wof:country":"RO",
+    "wof:created":1497294001,
+    "wof:geomhash":"f2d43b19caac277731283449b0d48f50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125865169,
+            "region_id":85687611
+        }
+    ],
+    "wof:id":1125865169,
+    "wof:lastmodified":1514500098,
+    "wof:name":"Prim Decembrie",
+    "wof:parent_id":85687611,
+    "wof:placetype":"locality",
+    "wof:population":7817,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.05806,
+    44.29083,
+    26.05806,
+    44.29083
+],
+  "geometry": {"coordinates":[26.05806,44.29083],"type":"Point"}
+}

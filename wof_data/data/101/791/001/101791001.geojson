@@ -1,0 +1,121 @@
+{
+  "id": 101791001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000126,
+    "geom:area_square_m":1087430.229779,
+    "geom:bbox":"23.8331384861,45.8759383932,23.8597908077,45.8869877687",
+    "geom:latitude":45.880187,
+    "geom:longitude":23.847185,
+    "gn:population":1506,
+    "iso:country":"RO",
+    "lbl:latitude":45.881043,
+    "lbl:longitude":23.843854,
+    "mps:latitude":45.881043,
+    "mps:longitude":23.843854,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Apoldu de Jos"
+    ],
+    "name:eng_x_preferred":[
+        "Apoldul-de-Jos"
+    ],
+    "name:epo_x_preferred":[
+        "Apoldu de Jos"
+    ],
+    "name:fre_x_preferred":[
+        "Apoldu de Jos"
+    ],
+    "name:hun_x_preferred":[
+        "Kisapold"
+    ],
+    "name:ita_x_preferred":[
+        "Apoldu de Jos"
+    ],
+    "name:por_x_preferred":[
+        "Apoldu de Jos"
+    ],
+    "name:rum_x_preferred":[
+        "Apoldu de Jos"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043f\u043e\u043b\u0434\u0443-\u0434\u0435-\u0416\u043e\u0441"
+    ],
+    "name:unk_x_variant":[
+        "Apoldul-de-Jos"
+    ],
+    "name:vie_x_preferred":[
+        "Apoldu de Jos"
+    ],
+    "name:vol_x_preferred":[
+        "Apoldu de Jos"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Sibiu",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:id":0,
+    "qs:la":"Apoldu de Jos",
+    "qs:la_lc":"*RO45143922",
+    "qs:level":"locality",
+    "qs:loc":"Apoldu de Jos",
+    "qs:loc_alt":"Apoldu de Jos",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"039d20ec-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":686270,
+        "gp:id":866298,
+        "qs:id":1277782,
+        "qs_pg:id":1277782,
+        "wd:id":"Q1077533"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"69feafdcef194caea17879c9367c9c5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101791001,
+            "region_id":85687687
+        }
+    ],
+    "wof:id":101791001,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514499740,
+    "wof:name":"Apoldu de Jos",
+    "wof:parent_id":85687687,
+    "wof:placetype":"locality",
+    "wof:population":1506,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.83313848612784,
+    45.87593839323682,
+    23.85979080766799,
+    45.88698776865732
+],
+  "geometry": {"coordinates":[[[23.84697339940311,45.88367084014038],[23.84651619191061,45.88190468946277],[23.85032382265871,45.88140379422032],[23.85078114831572,45.88316992601773],[23.85458883414651,45.8826688758445],[23.85436010740784,45.8817858199958],[23.85562930230475,45.88161877618643],[23.85540056553833,45.8807357222704],[23.85793889491788,45.88040159560057],[23.85725262446482,45.87775244544781],[23.85979080766799,45.87741827720754],[23.85956203080508,45.87653523102171],[23.85702388697592,45.87686939296549],[23.85679515915047,45.8759863392674],[23.85044977535534,45.87682146388613],[23.85022115562685,45.87593839323682],[23.84641390033346,45.87643927719319],[23.84664246099555,45.87732235728078],[23.84283508359147,45.87782311463849],[23.84260658199958,45.87694002511523],[23.83879920064095,45.87744063699893],[23.8394845571508,45.88008993022777],[23.83313848612784,45.88092402820445],[23.83336685912622,45.88180713923902],[23.8359053479308,45.88147353911194],[23.83613376997278,45.88235664264624],[23.83867227016435,45.88202297576225],[23.83890074125173,45.88290607179465],[23.8414392528237,45.8825723381525],[23.84258195006788,45.88698776865732],[23.84512063059537,45.88665394308924],[23.84466344393229,45.88488778711258],[23.84593273428936,45.88472085794376],[23.8457041357496,45.88383778128042],[23.84697339940311,45.88367084014038]]],"type":"Polygon"}
+}

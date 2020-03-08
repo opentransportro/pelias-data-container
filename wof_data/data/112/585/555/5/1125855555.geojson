@@ -1,0 +1,107 @@
+{
+  "id": 1125855555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.45,44.83333,24.45,44.83333",
+    "geom:latitude":44.83333,
+    "geom:longitude":24.45,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":1362,
+    "gn:population":1362,
+    "iso:country":"RO",
+    "lbl:latitude":44.83333,
+    "lbl:longitude":24.45,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:alb_x_preferred":[
+        "Ciom\u0103ge\u0219ti"
+    ],
+    "name:dut_x_preferred":[
+        "Ciom\u0103ge\u0219ti"
+    ],
+    "name:eng_x_preferred":[
+        "Ciom\u0103ge\u0219ti"
+    ],
+    "name:fre_x_preferred":[
+        "Ciom\u0103ge\u0219ti"
+    ],
+    "name:ita_x_preferred":[
+        "Ciom\u0103ge\u0219ti"
+    ],
+    "name:por_x_preferred":[
+        "Ciom\u0103ge\u0219ti"
+    ],
+    "name:rum_x_preferred":[
+        "Ciom\u0103ge\u0219ti"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u043e\u043c\u0435\u0434\u0436\u0435\u0448\u0442\u044c"
+    ],
+    "name:unk_x_variant":[
+        "Fedele\u015fti-Ciom\u0103gesti"
+    ],
+    "name:vol_x_preferred":[
+        "Ciom\u0103ge\u0219ti"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":681686,
+    "qs_pg:gn_pop":1362,
+    "qs_pg:name":"Ciom\u0103ge\u015fti",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":127829,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":681686,
+        "qs_pg:id":127829,
+        "wd:id":"Q2535277"
+    },
+    "wof:country":"RO",
+    "wof:created":1497293603,
+    "wof:geomhash":"3ce8d1c92b97d601a69097fe26ff708a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125855555,
+            "region_id":85687645
+        }
+    ],
+    "wof:id":1125855555,
+    "wof:lastmodified":1514499848,
+    "wof:name":"Ciom\u0103ge\u015fti",
+    "wof:parent_id":85687645,
+    "wof:placetype":"locality",
+    "wof:population":1362,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.45,
+    44.83333,
+    24.45,
+    44.83333
+],
+  "geometry": {"coordinates":[24.45,44.83333],"type":"Point"}
+}

@@ -1,0 +1,95 @@
+{
+  "id": 101835065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000071,
+    "geom:area_square_m":601922.465599,
+    "geom:bbox":"26.1917631536,46.5225068834,26.2055929787,46.5399863629",
+    "geom:latitude":46.531367,
+    "geom:longitude":26.198664,
+    "gn:population":893,
+    "iso:country":"RO",
+    "lbl:latitude":46.531155,
+    "lbl:longitude":26.198664,
+    "mps:latitude":46.531155,
+    "mps:longitude":26.198664,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Camenca"
+    ],
+    "name:eng_x_preferred":[
+        "Camenca"
+    ],
+    "name:fre_x_preferred":[
+        "Camenca"
+    ],
+    "name:rum_x_preferred":[
+        "Camenca"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u043c\u0435\u043d\u043a\u0430 "
+    ],
+    "name:unk_x_variant":[
+        "Cam\u00e2nca"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Bacau",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Lunca de Jos",
+    "qs:la_lc":"*RO32084656",
+    "qs:level":"locality",
+    "qs:loc":"Camenca",
+    "qs:loc_alt":"Camenca",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":682857,
+        "gp:id":868742,
+        "qs:id":2,
+        "wd:id":"Q12108154"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"a04a70626b5d5f4c4e13170a6a54c333",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101835065,
+            "region_id":85687715
+        }
+    ],
+    "wof:id":101835065,
+    "wof:lastmodified":1514499830,
+    "wof:name":"Camenca",
+    "wof:parent_id":85687715,
+    "wof:placetype":"locality",
+    "wof:population":893,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.19176315358271,
+    46.52250688341195,
+    26.20559297870267,
+    46.5399863628673
+],
+  "geometry": {"coordinates":[[[26.19392278754793,46.52250688341195],[26.19176315358271,46.5241713256172],[26.19283649560367,46.52762742279629],[26.19411422551775,46.52743209131961],[26.1946585003941,46.529184180176],[26.195936261285,46.52898882609486],[26.19784172553926,46.53512106519003],[26.19911961591237,46.53492566987018],[26.19966417778738,46.53667771763605],[26.20094209914333,46.53648229970622],[26.20203144057194,46.5399863628673],[26.20458741564283,46.53959545171426],[26.2043150235146,46.5387194455638],[26.20559297870267,46.53852397098183],[26.20532057844582,46.53764796710459],[26.2040426429615,46.53784343795797],[26.20268091380166,46.53346337809717],[26.20395875077742,46.53326792588524],[26.20368641996231,46.53239191327469],[26.20240860268592,46.53258736175894],[26.20186401516543,46.53083532471607],[26.20058622886341,46.53103075059119],[26.19976949344084,46.52840267293112],[26.19849175780871,46.52859807247233],[26.19794736475149,46.52684600597064],[26.19666966009208,46.52704138290665],[26.19558109151905,46.52353721754127],[26.19430345721935,46.52373256442326],[26.19392278754793,46.52250688341195]]],"type":"Polygon"}
+}

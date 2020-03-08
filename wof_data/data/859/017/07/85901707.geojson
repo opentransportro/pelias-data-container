@@ -1,0 +1,110 @@
+{
+  "id": 85901707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":13974530.243743,
+    "geom:bbox":"22.808425,46.949931,22.808425,46.949931",
+    "geom:latitude":46.949931,
+    "geom:longitude":22.808425,
+    "gn:latitude":46.95,
+    "gn:longitude":22.81667,
+    "iso:country":"RO",
+    "lbl:latitude":46.949931,
+    "lbl:longitude":22.808425,
+    "mps:latitude":46.952298,
+    "mps:longitude":22.807086,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:rum_x_colloquial":[
+        "Calea Lata",
+        "Calea Latae"
+    ],
+    "name:rum_x_preferred":[
+        "Calea Lat\u0103"
+    ],
+    "name:unk_x_variant":[
+        "Calea Lat\u0103"
+    ],
+    "qs:gn_adm0_cc":"RO",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":681486,
+    "qs:gn_nam_loc":"Ciucea, Cluj, RO",
+    "qs:gn_namadm1":"00",
+    "qs:gn_name":"Calea Lat\u0103",
+    "qs:local_max":34,
+    "qs:local_sum":34,
+    "qs:localhoods":1,
+    "qs:name":"Calea Lat\u0103",
+    "qs:name_adm0":"Rom\u00e2nia",
+    "qs:name_adm1":"Cluj",
+    "qs:name_local":"Ciucea",
+    "qs:photo_max":13,
+    "qs:photo_sum":34,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":11,
+    "qs:woe_adm0":23424933,
+    "qs:woe_adm1":2346627,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":869758,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":682986,
+        "gp:id":868656,
+        "qs:id":994412,
+        "qs_pg:id":994412
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"ef1a77724b32241b72d47cfb5bded6f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":-1,
+            "neighbourhood_id":85901707,
+            "region_id":85687727
+        }
+    ],
+    "wof:id":85901707,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1531932548,
+    "wof:name":"Calea Lat\u0103",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.808425,
+    46.949931,
+    22.808425,
+    46.949931
+],
+  "geometry": {"coordinates":[22.808425,46.949931],"type":"Point"}
+}

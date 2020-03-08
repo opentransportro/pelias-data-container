@@ -1,0 +1,87 @@
+{
+  "id": 101793887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000065,
+    "geom:area_square_m":568765.626585,
+    "geom:bbox":"22.2563753039,45.0339754216,22.2691119926,45.0425535142",
+    "geom:latitude":45.038878,
+    "geom:longitude":22.262734,
+    "gn:population":891,
+    "iso:country":"RO",
+    "lbl:latitude":45.038352,
+    "lbl:longitude":22.262856,
+    "mps:latitude":45.038352,
+    "mps:longitude":22.262856,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rum_x_preferred":[
+        "Mehadica"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Caras-Severin",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Mehadica",
+    "qs:la_lc":"*RO23053327",
+    "qs:level":"locality",
+    "qs:loc":"Mehadica",
+    "qs:loc_alt":"Mehadica",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a1db5a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":673617,
+        "gp:id":875550,
+        "qs:id":411562,
+        "qs_pg:id":411562,
+        "wd:id":"Q1075754"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"2be6123cadf57fac2eb3f86d0d92ca4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101793887,
+            "region_id":85687627
+        }
+    ],
+    "wof:id":101793887,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1505337976,
+    "wof:name":"Mehadica",
+    "wof:parent_id":85687627,
+    "wof:placetype":"locality",
+    "wof:population":891,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.25637530389002,
+    45.03397542160553,
+    22.26911199262202,
+    45.04255351422131
+],
+  "geometry": {"coordinates":[[[22.26825366244424,45.04181529317418],[22.26785810962349,45.04004029617465],[22.26911199262202,45.03989261256356],[22.2689142093343,45.03900511514291],[22.26766034559898,45.03915279602558],[22.26746258983042,45.03826529477703],[22.26620873939891,45.03841295797963],[22.26522018069028,45.03397542160553],[22.26145888256877,45.03441828059431],[22.26165652002362,45.03530579824888],[22.25914891964771,45.03560096827312],[22.25954414226305,45.03737601119076],[22.25829029461903,45.03752357922815],[22.25868551170885,45.03929862320257],[22.25743161958201,45.03944618173983],[22.25762922123704,45.04033370480539],[22.25637530389002,45.04048125111603],[22.25677049341806,45.04225629940356],[22.26178628120692,45.04166600263193],[22.26198396541673,45.04255351422131],[22.26825366244424,45.04181529317418]]],"type":"Polygon"}
+}

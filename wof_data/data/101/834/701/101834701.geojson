@@ -1,0 +1,94 @@
+{
+  "id": 101834701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000368,
+    "geom:area_square_m":3198388.173299,
+    "geom:bbox":"25.9843479145,45.2878859609,26.0250635637,45.3047612216",
+    "geom:latitude":45.294301,
+    "geom:longitude":26.009321,
+    "iso:country":"RO",
+    "lbl:latitude":45.294958,
+    "lbl:longitude":26.011018,
+    "mps:latitude":45.294958,
+    "mps:longitude":26.011018,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "M\u0103neciu-P\u0103m\u00e2nteni"
+    ],
+    "name:eng_x_preferred":[
+        "M\u0103neciu-P\u0103m\u00e2nteni"
+    ],
+    "name:fre_x_preferred":[
+        "M\u0103neciu-P\u0103m\u00e2nteni"
+    ],
+    "name:ita_x_preferred":[
+        "M\u0103neciu-P\u0103m\u00e2nteni"
+    ],
+    "name:rum_x_preferred":[
+        "M\u0103neciu-P\u0103m\u00e2nteni"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0435\u043d\u0435\u0447\u0443-\u041f\u0435\u043c\u0438\u043d\u0442\u0435\u043d\u044c"
+    ],
+    "name:unk_x_variant":[
+        "M\u0103neciul P\u0103m\u00e2nteni"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Prahova",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"M\u0103neciu",
+    "qs:la_lc":"*RO42134096",
+    "qs:level":"locality",
+    "qs:loc":"M\u0103neciu-P\u0103m\u00e2nteni",
+    "qs:loc_alt":"Maneciu-Pamanteni",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":673199,
+        "gp:id":875317,
+        "qs:id":4,
+        "wd:id":"Q12122612"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"705f7a1ed852c8e637ce71bc3b62ad2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101834701,
+            "region_id":85687661
+        }
+    ],
+    "wof:id":101834701,
+    "wof:lastmodified":1514500038,
+    "wof:name":"M\u0103neciu-P\u0103m\u00e2nteni",
+    "wof:parent_id":85687661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.98434791446005,
+    45.28788596086235,
+    26.02506356368019,
+    45.30476122156955
+],
+  "geometry": {"coordinates":[[[26.02342989305919,45.28837698340726],[26.01758775767058,45.28828201595985],[26.01439756151973,45.28877342624548],[26.01423610443118,45.28822753280747],[25.99322354063554,45.28788596086235],[25.99361739026313,45.28921937398945],[25.98611629880617,45.29037284574792],[25.98559808629523,45.28861762911259],[25.98434791446005,45.28880981555233],[25.98466711520695,45.28989102629424],[25.99495657086953,45.29451810853567],[25.99642322357494,45.29429254279165],[25.9967248701783,45.29531329796038],[26.01623683962805,45.30408766759643],[26.0175612160844,45.30388371929143],[26.01782094536458,45.30476122156955],[26.02032179635864,45.3043760198974],[26.01954252900663,45.30174352996289],[26.02329357926601,45.30116564847606],[26.02381319189914,45.30292062192456],[26.02506356368019,45.30272795807457],[26.02428410498771,45.30009550635339],[26.02303378912762,45.30028815954688],[26.0222544834179,45.29765568394032],[26.02350474336345,45.29746304140178],[26.02298522286554,45.29570805741736],[26.02173500019256,45.29590069285314],[26.02095585621532,45.29326819519821],[26.0234561819625,45.29288293084358],[26.02319645159764,45.29200543578708],[26.02444658415368,45.29181278497708],[26.02342989305919,45.28837698340726]]],"type":"Polygon"}
+}

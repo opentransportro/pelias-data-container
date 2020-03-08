@@ -1,0 +1,98 @@
+{
+  "id": 101788473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000071,
+    "geom:area_square_m":608504.891504,
+    "geom:bbox":"26.5603869868,46.1944066394,26.5796987337,46.207027731",
+    "geom:latitude":46.201929,
+    "geom:longitude":26.570798,
+    "gn:population":1036,
+    "iso:country":"RO",
+    "lbl:latitude":46.201489,
+    "lbl:longitude":26.573066,
+    "mps:latitude":46.201489,
+    "mps:longitude":26.573066,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Ferestr\u0103u-Oituz"
+    ],
+    "name:eng_x_preferred":[
+        "Ferestr\u0103u-Oituz"
+    ],
+    "name:fre_x_preferred":[
+        "Ferestr\u0103u-Oituz"
+    ],
+    "name:hun_x_preferred":[
+        "F\u0171r\u00e9szfalva"
+    ],
+    "name:rum_x_preferred":[
+        "Ferestr\u0103u-Oituz"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0424\u0435\u0440\u0435\u0441\u0442\u0440\u0435\u0443-\u041e\u0439\u0442\u0443\u0437"
+    ],
+    "name:unk_x_variant":[
+        "Fierastraul"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Bacau",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Oituz",
+    "qs:la_lc":"*RO14023797",
+    "qs:level":"locality",
+    "qs:loc":"Ferestr\u0103u-Oituz",
+    "qs:loc_alt":"Ferestrau-Oituz",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":678337,
+        "gp:id":872070,
+        "qs:id":6,
+        "wd:id":"Q12165609"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"eec6c7ebc00e7120988f6f02621e552a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101788473,
+            "region_id":85687715
+        }
+    ],
+    "wof:id":101788473,
+    "wof:lastmodified":1514499925,
+    "wof:name":"Ferestr\u0103u-Oituz",
+    "wof:parent_id":85687715,
+    "wof:placetype":"locality",
+    "wof:population":1036,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.56038698676207,
+    46.19440663937576,
+    26.57969873365812,
+    46.20702773103625
+],
+  "geometry": {"coordinates":[[[26.57969873365812,46.20228265643743],[26.57942285064797,46.20140754947113],[26.57815385219641,46.20160730100434],[26.57649891409341,46.19635660487381],[26.57776779682547,46.19615687596024],[26.5772162052445,46.19440663937576],[26.57467850846876,46.19480606710545],[26.57550579757464,46.19743144233286],[26.57423687866191,46.1976311449738],[26.57451264566316,46.19850627079927],[26.57324369901585,46.198705962188],[26.5735194583558,46.19958109027289],[26.57098150114342,46.19998043552255],[26.5712572335313,46.20085556963579],[26.56618114058529,46.20165409493984],[26.56645680743236,46.202529242617],[26.56391867169964,46.20292842266616],[26.56419431158213,46.20380357637015],[26.56038698676207,46.20440224506717],[26.5612138024793,46.20702773103625],[26.56755959106385,46.20602981823976],[26.56728387771818,46.20515467659692],[26.56855299079825,46.20495505273277],[26.56827726978332,46.20407991334963],[26.57969873365812,46.20228265643743]]],"type":"Polygon"}
+}

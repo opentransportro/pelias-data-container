@@ -1,0 +1,126 @@
+{
+  "id": 101795111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000087,
+    "geom:area_square_m":768386.747751,
+    "geom:bbox":"21.6718402041,44.6736641266,21.6902324416,44.6842866",
+    "geom:latitude":44.679026,
+    "geom:longitude":21.67908,
+    "gn:population":1331,
+    "iso:country":"RO",
+    "lbl:latitude":44.678711,
+    "lbl:longitude":21.677547,
+    "mps:latitude":44.678711,
+    "mps:longitude":21.677547,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Coronini"
+    ],
+    "name:eng_x_preferred":[
+        "Koronini"
+    ],
+    "name:eng_x_variant":[
+        "Coronini"
+    ],
+    "name:epo_x_preferred":[
+        "Coronini"
+    ],
+    "name:fre_x_preferred":[
+        "Coronini"
+    ],
+    "name:ger_x_preferred":[
+        "Coronini"
+    ],
+    "name:hun_x_preferred":[
+        "L\u00e1szl\u00f3v\u00e1ra"
+    ],
+    "name:ita_x_preferred":[
+        "Coronini"
+    ],
+    "name:por_x_preferred":[
+        "Coronini"
+    ],
+    "name:rum_x_preferred":[
+        "Pescari"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0440\u043e\u043d\u0456\u043d\u044c"
+    ],
+    "name:unk_x_variant":[
+        "Koronini"
+    ],
+    "name:vie_x_preferred":[
+        "Coronini"
+    ],
+    "name:vol_x_preferred":[
+        "Coronini"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Caras-Severin",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Coronini",
+    "qs:la_lc":"*RO23053489",
+    "qs:level":"locality",
+    "qs:loc":"Coronini",
+    "qs:loc_alt":"Coronini",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a2d56e-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":671086,
+        "gp:id":877391,
+        "qs:id":1350781,
+        "qs_pg:id":1350781,
+        "wd:id":"Q1069554"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"ca5602d59771a43df12cc4e2512c1e3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101795111,
+            "region_id":85687627
+        }
+    ],
+    "wof:id":101795111,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514499871,
+    "wof:name":"Coronini",
+    "wof:parent_id":85687627,
+    "wof:placetype":"locality",
+    "wof:population":1331,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.67184020412844,
+    44.67366412661391,
+    21.69023244160405,
+    44.68428659996601
+],
+  "geometry": {"coordinates":[[[21.6752660144183,44.68222759843303],[21.68773809283704,44.6808224510259],[21.68792461027874,44.68171149596083],[21.68917180650664,44.68157089682973],[21.6889852700096,44.68068185446981],[21.69023244160405,44.68054124303853],[21.68985935374178,44.67876316026968],[21.68861222025498,44.67890376655077],[21.6884257069961,44.67801472099183],[21.68094290328577,44.67885803086494],[21.68001102470521,44.67441270986421],[21.67876396650507,44.67455319658393],[21.67857763305631,44.67366412661391],[21.67483648218047,44.67408548981462],[21.67520904250563,44.67586364412091],[21.6739619429689,44.67600407391649],[21.67414821568156,44.67689315204302],[21.67290109152043,44.67703356953541],[21.67308735291431,44.67792264916824],[21.67184020412844,44.67806305435704],[21.67314411708884,44.68428659996601],[21.67439139927978,44.68414617677581],[21.67420508373067,44.68325710459834],[21.67545234128903,44.6831166691033],[21.6752660144183,44.68222759843303]]],"type":"Polygon"}
+}

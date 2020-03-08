@@ -1,0 +1,95 @@
+{
+  "id": 101793749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000234,
+    "geom:area_square_m":2075873.82338,
+    "geom:bbox":"27.1503000741,44.2685716434,27.1719156847,44.2867910579",
+    "geom:latitude":44.276635,
+    "geom:longitude":27.161528,
+    "gn:population":3863,
+    "iso:country":"RO",
+    "lbl:latitude":44.275439,
+    "lbl:longitude":27.161322,
+    "mps:latitude":44.275439,
+    "mps:longitude":27.161322,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Independen\u021ba"
+    ],
+    "name:eng_x_preferred":[
+        "Independen\u021ba"
+    ],
+    "name:ita_x_preferred":[
+        "Independen\u021ba"
+    ],
+    "name:rum_x_preferred":[
+        "Independen\u021ba"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406\u043d\u0434\u0435\u043f\u0435\u043d\u0434\u0435\u043d\u0446\u0430 "
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Calarasi",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Independen\u0163a",
+    "qs:la_lc":"*RO22093771",
+    "qs:level":"locality",
+    "qs:loc":"Independen\u0163a",
+    "qs:loc_alt":"Independenta",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":675614,
+        "gp:id":874055,
+        "qs:id":127529,
+        "qs_pg:id":127529,
+        "wd:id":"Q12074444"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"2d360c292b79d893498561445eff5aea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101793749,
+            "region_id":85687615
+        }
+    ],
+    "wof:id":101793749,
+    "wof:lastmodified":1514499982,
+    "wof:name":"Independen\u0163a",
+    "wof:parent_id":85687615,
+    "wof:placetype":"locality",
+    "wof:population":3863,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.15030007412361,
+    44.2685716434375,
+    27.17191568469423,
+    44.28679105792071
+],
+  "geometry": {"coordinates":[[[27.169861298461,44.2859682311751],[27.16932093675291,44.28421854600219],[27.16809573775771,44.2844242669612],[27.16701521591642,44.28092486231839],[27.17191568469423,44.28010195080412],[27.16921444757065,44.27135347191205],[27.16798951711689,44.27155918465917],[27.16771947117644,44.27068432411284],[27.16649455034906,44.27089001877312],[27.16622453285606,44.27001515291954],[27.16499962165642,44.27022082949344],[27.16472963260964,44.26934595833308],[27.15615515653508,44.2707852650849],[27.15588530088223,44.26991036658279],[27.15466036178361,44.2701159205094],[27.15439053457328,44.2692410167038],[27.15316560510962,44.26944655254601],[27.15289580634033,44.2685716434375],[27.15044595882898,44.26898266454049],[27.15152507964268,44.27248232055581],[27.15030007412361,44.27268782417116],[27.15083966522536,44.27443764973509],[27.15206470573798,44.27423213877694],[27.15449356524954,44.28210624003293],[27.16184458819936,44.28087267324696],[27.16265472024895,44.28349727817596],[27.16142951691535,44.28370291970322],[27.16169956535032,44.28457778842323],[27.1604743366471,44.28478341920874],[27.16074437853979,44.28565828997159],[27.16442009355586,44.28504134334111],[27.16496031524673,44.28679105792071],[27.169861298461,44.2859682311751]]],"type":"Polygon"}
+}

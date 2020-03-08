@@ -1,0 +1,111 @@
+{
+  "id": 1125841375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.31667,47.28333,24.31667,47.28333",
+    "geom:latitude":47.28333,
+    "geom:longitude":24.31667,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":5457,
+    "gn:population":5457,
+    "iso:country":"RO",
+    "lbl:latitude":47.28333,
+    "lbl:longitude":24.31667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Nimigea de Sus"
+    ],
+    "name:eng_x_preferred":[
+        "Nimigea de Sus"
+    ],
+    "name:epo_x_preferred":[
+        "Nimigea de Sus"
+    ],
+    "name:fre_x_preferred":[
+        "Nimigea de Sus"
+    ],
+    "name:hun_x_preferred":[
+        "Ol\u00e1hnemegye"
+    ],
+    "name:ita_x_preferred":[
+        "Nimigea de Sus"
+    ],
+    "name:rum_x_preferred":[
+        "Nimigea de Sus"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0456\u043c\u0456\u0434\u0436\u0430-\u0434\u0435-\u0421\u0443\u0441"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":672216,
+    "qs_pg:gn_pop":5457,
+    "qs_pg:name":"Nimigea de Sus",
+    "qs_pg:name_adm0":"Rom\u00e2nia",
+    "qs_pg:name_adm1":"Bistrita-Nasaud",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":1279009,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424933,
+    "qs_pg:woe_id":876555,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424933,
+    "woe:name_adm0":"Rom\u00e2nia",
+    "woe:name_adm1":"Bistrita-Nasaud",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":672216,
+        "gp:id":876555,
+        "qs_pg:id":1279009,
+        "wd:id":"Q3890604"
+    },
+    "wof:country":"RO",
+    "wof:created":1497292951,
+    "wof:geomhash":"5ef2dba523821b1c5e1b5ffeb3f0379e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125841375,
+            "region_id":85687753
+        }
+    ],
+    "wof:id":1125841375,
+    "wof:lastmodified":1514500046,
+    "wof:name":"Nimigea de Sus",
+    "wof:parent_id":85687753,
+    "wof:placetype":"locality",
+    "wof:population":5457,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.31667,
+    47.28333,
+    24.31667,
+    47.28333
+],
+  "geometry": {"coordinates":[24.31667,47.28333],"type":"Point"}
+}

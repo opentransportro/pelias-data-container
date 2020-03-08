@@ -1,0 +1,105 @@
+{
+  "id": 101795105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000064,
+    "geom:area_square_m":558826.265382,
+    "geom:bbox":"21.7400859582,44.7517734656,21.7534464485,44.7626816694",
+    "geom:latitude":44.758222,
+    "geom:longitude":21.74823,
+    "gn:population":1022,
+    "iso:country":"RO",
+    "lbl:latitude":44.758125,
+    "lbl:longitude":21.750002,
+    "mps:latitude":44.758125,
+    "mps:longitude":21.750002,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Padina Matei"
+    ],
+    "name:eng_x_preferred":[
+        "Padina Matej"
+    ],
+    "name:fre_x_preferred":[
+        "Padina Matei"
+    ],
+    "name:hun_x_preferred":[
+        "M\u00e1t\u00e9v\u00f6lgye"
+    ],
+    "name:rum_x_preferred":[
+        "Padina Matei"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0430\u0434\u0456\u043d\u0430-\u041c\u0430\u0442\u0435\u0439"
+    ],
+    "name:unk_x_variant":[
+        "Padina Matej"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Caras-Severin",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"G\u00e2rnic",
+    "qs:la_lc":"*RO23052909",
+    "qs:level":"locality",
+    "qs:loc":"Padina Matei",
+    "qs:loc_alt":"Padina Matei",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a2ab84-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":671551,
+        "gp:id":877046,
+        "qs:id":43202,
+        "qs_pg:id":43202,
+        "wd:id":"Q1188719"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"49c432e95716268bb578b35129254153",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101795105,
+            "region_id":85687627
+        }
+    ],
+    "wof:id":101795105,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514500064,
+    "wof:name":"Padina Matei",
+    "wof:parent_id":85687627,
+    "wof:placetype":"locality",
+    "wof:population":1022,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.74008595818174,
+    44.75177346563112,
+    21.75344644850293,
+    44.76268166937069
+],
+  "geometry": {"coordinates":[[[21.74583255831828,44.76254036068451],[21.74564468331778,44.76165150085041],[21.75313757902239,44.76080335147338],[21.75219774781931,44.75635911411285],[21.75344644850293,44.75621771672218],[21.75250671713536,44.75177346563112],[21.7512581119899,44.75191485004996],[21.75144602352827,44.75280370499888],[21.75019739364791,44.75294507711874],[21.75038529389224,44.75383393359323],[21.74788797903034,44.75411663833904],[21.74807584887071,44.75500549893292],[21.74682716388884,44.75514683155814],[21.74757864492801,44.758702273631],[21.74008595818174,44.7595500188213],[21.7406493069272,44.76221663584164],[21.74439584766242,44.76179280694311],[21.74458370354671,44.76268166937069],[21.74583255831828,44.76254036068451]]],"type":"Polygon"}
+}

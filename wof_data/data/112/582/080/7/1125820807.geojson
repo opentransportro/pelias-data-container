@@ -1,0 +1,101 @@
+{
+  "id": 1125820807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.03333,47.76667,23.03333,47.76667",
+    "geom:latitude":47.76667,
+    "geom:longitude":23.03333,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3941,
+    "gn:population":3941,
+    "iso:country":"RO",
+    "lbl:latitude":47.76667,
+    "lbl:longitude":23.03333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Culciu Mic"
+    ],
+    "name:eng_x_preferred":[
+        "Culciu Mic"
+    ],
+    "name:epo_x_preferred":[
+        "Culciu Mic"
+    ],
+    "name:fre_x_preferred":[
+        "Culciu Mic"
+    ],
+    "name:hun_x_preferred":[
+        "Kiskolcs"
+    ],
+    "name:rum_x_preferred":[
+        "Culciu Mic"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0443\u043b\u0447\u0443-\u041c\u0456\u043a"
+    ],
+    "name:unk_x_variant":[
+        "Culciul Mic"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":679972,
+    "qs_pg:gn_pop":3941,
+    "qs_pg:name":"Culciu Mic",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1028019,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":679972,
+        "qs_pg:id":1028019,
+        "wd:id":"Q724046"
+    },
+    "wof:country":"RO",
+    "wof:created":1497292056,
+    "wof:geomhash":"2a979726d10eb1fdf4ead33956135f37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125820807,
+            "region_id":85687757
+        }
+    ],
+    "wof:id":1125820807,
+    "wof:lastmodified":1514499886,
+    "wof:name":"Culciu Mic",
+    "wof:parent_id":85687757,
+    "wof:placetype":"locality",
+    "wof:population":3941,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.03333,
+    47.76667,
+    23.03333,
+    47.76667
+],
+  "geometry": {"coordinates":[23.03333,47.76667],"type":"Point"}
+}

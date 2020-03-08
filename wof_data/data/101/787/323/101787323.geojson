@@ -1,0 +1,125 @@
+{
+  "id": 101787323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000133,
+    "geom:area_square_m":1117060.282064,
+    "geom:bbox":"23.9712388038,47.0195274925,23.9961352948,47.0341460203",
+    "geom:latitude":47.025467,
+    "geom:longitude":23.987262,
+    "gn:population":2614,
+    "iso:country":"RO",
+    "lbl:latitude":47.02415,
+    "lbl:longitude":23.990185,
+    "mps:latitude":47.02415,
+    "mps:longitude":23.990185,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Fize\u0219u Gherlii"
+    ],
+    "name:eng_x_preferred":[
+        "Fize\u0219u Gherlii"
+    ],
+    "name:epo_x_preferred":[
+        "Fize\u0219u Gherlii"
+    ],
+    "name:fre_x_preferred":[
+        "Fize\u0219u Gherlii"
+    ],
+    "name:ger_x_preferred":[
+        "Fize\u0219u Gherlii"
+    ],
+    "name:hun_x_preferred":[
+        "\u00d6rd\u00f6ng\u00f6sf\u00fczes"
+    ],
+    "name:ita_x_preferred":[
+        "Fize\u0219u Gherlii"
+    ],
+    "name:may_x_preferred":[
+        "Fize\u0219u Gherlii"
+    ],
+    "name:por_x_preferred":[
+        "Fize\u0219u Gherlii"
+    ],
+    "name:rum_x_preferred":[
+        "Fize\u0219u Gherlii"
+    ],
+    "name:spa_x_preferred":[
+        "Fize\u0219u Gherlii"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0424\u0456\u0437\u0435\u0448\u0443-\u0413\u0435\u0440\u043b\u0456\u0439"
+    ],
+    "name:unk_x_variant":[
+        "Fize\u015ful-Gherlei"
+    ],
+    "name:vie_x_preferred":[
+        "Fizesu Gherlii"
+    ],
+    "name:vol_x_preferred":[
+        "Fize\u0219u Gherlii"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Cluj",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Fize\u015fu Gherlii",
+    "qs:la_lc":"*RO24057644",
+    "qs:level":"locality",
+    "qs:loc":"Fize\u015fu Gherlii",
+    "qs:loc_alt":"Fizesu Gherlii",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":678089,
+        "gp:id":872258,
+        "qs:id":127658,
+        "qs_pg:id":127658,
+        "wd:id":"Q212296"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"88e00a9d7bbecee1751cc50e874062eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101787323,
+            "region_id":85687727
+        }
+    ],
+    "wof:id":101787323,
+    "wof:lastmodified":1514499928,
+    "wof:name":"Fize\u015fu Gherlii",
+    "wof:parent_id":85687727,
+    "wof:placetype":"locality",
+    "wof:population":2614,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.97123880383089,
+    47.01952749253229,
+    23.99613529480848,
+    47.03414602031523
+],
+  "geometry": {"coordinates":[[[23.99507830868481,47.03397676011133],[23.99483929164057,47.03309484363655],[23.99613529480848,47.03292557125076],[23.9954182433375,47.03027982458173],[23.99412230247157,47.03044908708614],[23.99292752703263,47.0260394690801],[23.99551919358527,47.02570096153119],[23.99432446861886,47.02129134675795],[23.99562018679143,47.02112208623913],[23.99538125200786,47.02024016301294],[23.994085554592,47.0204094202391],[23.99384665088559,47.01952749253229],[23.99125527495607,47.01986595398529],[23.99149413714974,47.02074788827639],[23.98760695447021,47.02125547429171],[23.98736815454936,47.02037353012582],[23.98607243267969,47.02054269122857],[23.98631121184178,47.02142463868495],[23.98112816600059,47.02210114153161],[23.98136687243618,47.02298310096222],[23.972296106952,47.02416640824146],[23.97253467835162,47.02504838950881],[23.97123880383089,47.02521737479663],[23.97147736477149,47.02609935816633],[23.97277326005872,47.02593036958996],[23.97301185207493,47.02681234848592],[23.97430776060156,47.0266433411461],[23.97454638369476,47.02752531556791],[23.97584230545965,47.02735628946408],[23.97560366159888,47.02647431833134],[23.98467475770747,47.02529072533474],[23.98491354692749,47.02617267343754],[23.98620940843239,47.02600352353545],[23.98644822873439,47.02688546716024],[23.98774410346778,47.02671629849237],[23.98869957093223,47.03024404795349],[23.98999552119187,47.0300748506429],[23.99047335838941,47.0318387116651],[23.99176934264511,47.03166949229364],[23.99224726267721,47.03343334198058],[23.99354328092994,47.03326410054655],[23.99378227720479,47.03414602031523],[23.99507830868481,47.03397676011133]]],"type":"Polygon"}
+}

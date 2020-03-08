@@ -1,0 +1,76 @@
+{
+  "id": 1125862721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.9,45.08333,23.9,45.08333",
+    "geom:latitude":45.08333,
+    "geom:longitude":23.9,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":3076,
+    "gn:population":3076,
+    "iso:country":"RO",
+    "lbl:latitude":45.08333,
+    "lbl:longitude":23.9,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":665938,
+    "qs_pg:gn_pop":3076,
+    "qs_pg:name":"Stroe\u015fti",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":126905,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":665938,
+        "qs_pg:id":126905
+    },
+    "wof:country":"RO",
+    "wof:created":1497293899,
+    "wof:geomhash":"05ebbd0a735013262f5e909524348a65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125862721,
+            "region_id":85687643
+        }
+    ],
+    "wof:id":1125862721,
+    "wof:lastmodified":1509396751,
+    "wof:name":"Stroe\u015fti",
+    "wof:parent_id":85687643,
+    "wof:placetype":"locality",
+    "wof:population":3076,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.9,
+    45.08333,
+    23.9,
+    45.08333
+],
+  "geometry": {"coordinates":[23.9,45.08333],"type":"Point"}
+}

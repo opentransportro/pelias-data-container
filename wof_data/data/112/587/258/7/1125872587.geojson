@@ -1,0 +1,128 @@
+{
+  "id": 1125872587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.3,47.01667,23.3,47.01667",
+    "geom:latitude":47.01667,
+    "geom:longitude":23.3,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":1758,
+    "gn:population":1758,
+    "iso:country":"RO",
+    "lbl:latitude":47.01667,
+    "lbl:longitude":23.3,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "S\u00e2nmihaiu Alma\u0219ului"
+    ],
+    "name:eng_x_preferred":[
+        "S\u00e2nmihaiu Alma\u0219ului"
+    ],
+    "name:epo_x_preferred":[
+        "S\u00e2nmihaiu Alma\u0219ului"
+    ],
+    "name:fre_x_preferred":[
+        "S\u00e2nmihaiu Alma\u0219ului"
+    ],
+    "name:hun_x_preferred":[
+        "Alm\u00e1sszentmih\u00e1ly"
+    ],
+    "name:ita_x_preferred":[
+        "S\u00e2nmihaiu Alma\u0219ului"
+    ],
+    "name:may_x_preferred":[
+        "S\u00e2nmihaiu Alma\u0219ului"
+    ],
+    "name:por_x_preferred":[
+        "S\u00e2nmihaiu Alma\u0219ului"
+    ],
+    "name:rum_x_preferred":[
+        "S\u00e2nmihaiu Alma\u0219ului"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0438\u043d\u043c\u0438\u0445\u0430\u044e-\u0410\u043b\u043c\u0430\u0448\u0443\u043b\u0443\u0439"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0438\u043d\u043c\u0456\u0445\u0430\u044e-\u0410\u043b\u043c\u0430\u0448\u0443\u043b\u0443\u0439"
+    ],
+    "name:unk_x_variant":[
+        "S\u00e2nmihaiul-Alma\u015fului"
+    ],
+    "name:vol_x_preferred":[
+        "S\u00e2nmihaiu Alma\u0219ului"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":666989,
+    "qs_pg:gn_pop":1758,
+    "qs_pg:name":"S\u00eenmihaiu Alma\u0219ului",
+    "qs_pg:name_adm0":"Rom\u00e2nia",
+    "qs_pg:name_adm1":"Salaj",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":5,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":111940,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424933,
+    "qs_pg:woe_id":880429,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424933,
+    "woe:name_adm0":"Rom\u00e2nia",
+    "woe:name_adm1":"Salaj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":666989,
+        "gp:id":880429,
+        "qs_pg:id":111940,
+        "wd:id":"Q1081428"
+    },
+    "wof:country":"RO",
+    "wof:created":1497294374,
+    "wof:geomhash":"2a8d07cb1064c435468343fdf43decf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125872587,
+            "region_id":85687723
+        }
+    ],
+    "wof:id":1125872587,
+    "wof:lastmodified":1514500181,
+    "wof:name":"S\u00eenmihaiu Alma\u0219ului",
+    "wof:parent_id":85687723,
+    "wof:placetype":"locality",
+    "wof:population":1758,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.3,
+    47.01667,
+    23.3,
+    47.01667
+],
+  "geometry": {"coordinates":[23.3,47.01667],"type":"Point"}
+}

@@ -1,0 +1,109 @@
+{
+  "id": 101793651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000088,
+    "geom:area_square_m":778415.875232,
+    "geom:bbox":"25.5310882105,44.4848232507,25.5493532202,44.4944175225",
+    "geom:latitude":44.489283,
+    "geom:longitude":25.539339,
+    "gn:population":1482,
+    "iso:country":"RO",
+    "lbl:latitude":44.488634,
+    "lbl:longitude":25.539201,
+    "mps:latitude":44.488634,
+    "mps:longitude":25.539201,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "V\u00e2n\u0103torii Mari"
+    ],
+    "name:eng_x_preferred":[
+        "V\u00e2n\u0103torii Mari"
+    ],
+    "name:fre_x_preferred":[
+        "V\u00e2n\u0103torii Mari"
+    ],
+    "name:rum_x_colloquial":[
+        "Vanaetorii-Mari",
+        "Vanatorii-Mari",
+        "Vinaetorii Mari",
+        "Vinatorii Mari"
+    ],
+    "name:rum_x_preferred":[
+        "V\u00een\u0103torii Mari"
+    ],
+    "name:rum_x_variant":[
+        "V\u00e2n\u0103torii-Mari",
+        "V\u00e2n\u0103torii Mari"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0438\u043d\u0435\u0442\u043e\u0440\u0456\u0439-\u041c\u0430\u0440\u0456"
+    ],
+    "name:unk_x_variant":[
+        "V\u00een\u0103torii Mari"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Giurgiu",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"V\u00e2n\u0103torii Mici",
+    "qs:la_lc":"*RO30105972",
+    "qs:level":"locality",
+    "qs:loc":"V\u00e2natorii Mari",
+    "qs:loc_alt":"Vanatorii Mari",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a5feba-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":662826,
+        "gp:id":883596,
+        "qs:id":1279842,
+        "wd:id":"Q12089405"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"645c1cd7c80a12f72a7e1134e3c6b0ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101793651,
+            "region_id":85687591
+        }
+    ],
+    "wof:id":101793651,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514500251,
+    "wof:name":"V\u00e2natorii Mari",
+    "wof:parent_id":85687591,
+    "wof:placetype":"locality",
+    "wof:population":1482,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.53108821052103,
+    44.48482325072058,
+    25.54935322016411,
+    44.49441752250954
+],
+  "geometry": {"coordinates":[[[25.53676320689061,44.49404465868525],[25.53651703761824,44.49316509366423],[25.53898532584435,44.49279217821089],[25.53873913049864,44.49191261848131],[25.54367554764974,44.49116662596322],[25.5434292900843,44.49028707826011],[25.54836551892777,44.48954086578556],[25.54811919915448,44.4886613301112],[25.54935322016411,44.48847474388936],[25.54910689240666,44.48759521014046],[25.54787288946841,44.48778179299416],[25.54762658986937,44.48690225443426],[25.54515859838301,44.48727536964179],[25.54491234501154,44.48639582290377],[25.54367835646497,44.48658235525818],[25.54318591611587,44.48482325072058],[25.53454804635646,44.48612852160556],[25.53504023369339,44.4878876732688],[25.53380618716835,44.48807408891565],[25.53405227787971,44.48895366595048],[25.53281820603394,44.48914007037359],[25.53355648441334,44.49177880292677],[25.53108821052103,44.49215158819464],[25.53158037418945,44.4939107494863],[25.53404872039846,44.49353795075649],[25.53429485351256,44.49441752250954],[25.53676320689061,44.49404465868525]]],"type":"Polygon"}
+}

@@ -1,0 +1,115 @@
+{
+  "id": 101795045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00018,
+    "geom:area_square_m":1586797.831712,
+    "geom:bbox":"24.3116368177,44.3948765459,24.3327594054,44.4181775378",
+    "geom:latitude":44.402907,
+    "geom:longitude":24.323315,
+    "gn:population":2528,
+    "iso:country":"RO",
+    "lbl:latitude":44.40161,
+    "lbl:longitude":24.324355,
+    "mps:latitude":44.40161,
+    "mps:longitude":24.324355,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Sl\u0103tioara"
+    ],
+    "name:eng_x_preferred":[
+        "Sl\u0103tioara"
+    ],
+    "name:fre_x_preferred":[
+        "Sl\u0103tioara"
+    ],
+    "name:ita_x_preferred":[
+        "Sl\u0103tioara"
+    ],
+    "name:por_x_preferred":[
+        "Sl\u0103tioara"
+    ],
+    "name:rum_x_colloquial":[
+        "Slaetioara",
+        "Slatioara"
+    ],
+    "name:rum_x_preferred":[
+        "Sl\u0103tioara"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043b\u0435\u0442\u0456\u043e\u0430\u0440\u0430"
+    ],
+    "name:vie_x_preferred":[
+        "Slatioara"
+    ],
+    "name:vol_x_preferred":[
+        "Sl\u0103tioara"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Olt",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Sl\u0103tioara",
+    "qs:la_lc":"*RO41125374",
+    "qs:level":"locality",
+    "qs:loc":"Sl\u0103tioara",
+    "qs:loc_alt":"Slatioara",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a47f18-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":666753,
+        "gp:id":880596,
+        "qs:id":1290529,
+        "qs_pg:id":1290529,
+        "wd:id":"Q2719518"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"4f13ffaa62436a7928d624e74716f07a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101795045,
+            "region_id":85687607
+        }
+    ],
+    "wof:id":101795045,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514500158,
+    "wof:name":"Sl\u0103tioara",
+    "wof:parent_id":85687607,
+    "wof:placetype":"locality",
+    "wof:population":2528,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.31163681767794,
+    44.3948765459063,
+    24.33275940542097,
+    44.41817753784414
+],
+  "geometry": {"coordinates":[[[24.33066221898616,44.41731748367795],[24.33043552231618,44.41643454739904],[24.32796433249064,44.41677860678874],[24.32615138671275,44.40971501934791],[24.32738683864551,44.40954302184491],[24.32693365863236,44.40777711801638],[24.32816906730869,44.40760511208492],[24.32771588792133,44.40583920919772],[24.32895125334517,44.40566719483837],[24.32849807458632,44.40390129289193],[24.32973339676136,44.40372927010498],[24.32905364351564,44.40108041661711],[24.33275940542097,44.40056428837261],[24.33207957134766,44.39791545098444],[24.32713876145368,44.39860355539946],[24.3262327386106,44.39507170402544],[24.32129211429168,44.39575952447137],[24.32106570491936,44.3948765459063],[24.31241948331262,44.39607964625947],[24.31287205544544,44.39784564553753],[24.31163681767794,44.39801746465753],[24.31208939039146,44.39978346487345],[24.31455993238001,44.39943979957457],[24.31478626923132,44.40032279149784],[24.31602154849708,44.4001509337794],[24.31624791291938,44.40103392127992],[24.31748320379199,44.40086204581371],[24.31770959578711,44.4017450288913],[24.31894489826641,44.40157313567647],[24.3193977466961,44.40333909166662],[24.32063307906498,44.40316717759697],[24.32131247625927,44.4058160923787],[24.32254785680311,44.40564415434602],[24.32481330124671,44.41447375353715],[24.32357773781342,44.41464572264277],[24.32448410280682,44.41817753784414],[24.33066221898616,44.41731748367795]]],"type":"Polygon"}
+}

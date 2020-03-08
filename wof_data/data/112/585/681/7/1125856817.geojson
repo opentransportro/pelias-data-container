@@ -1,0 +1,116 @@
+{
+  "id": 1125856817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.44972,45.99806,21.44972,45.99806",
+    "geom:latitude":45.99806,
+    "geom:longitude":21.44972,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":3935,
+    "gn:population":3935,
+    "iso:country":"RO",
+    "lbl:latitude":45.99806,
+    "lbl:longitude":21.44972,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Ma\u0219loc"
+    ],
+    "name:eng_x_preferred":[
+        "Ma\u0219loc"
+    ],
+    "name:epo_x_preferred":[
+        "Ma\u0219loc"
+    ],
+    "name:fre_x_preferred":[
+        "Ma\u0219loc"
+    ],
+    "name:ger_x_preferred":[
+        "Ma\u0219loc"
+    ],
+    "name:hun_x_preferred":[
+        "M\u00e1slak"
+    ],
+    "name:ita_x_preferred":[
+        "Ma\u0219loc"
+    ],
+    "name:por_x_preferred":[
+        "Ma\u0219loc"
+    ],
+    "name:rum_x_preferred":[
+        "Ma\u0219loc"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0448\u043b\u043e\u043a"
+    ],
+    "name:unk_x_variant":[
+        "Blumental"
+    ],
+    "name:vie_x_preferred":[
+        "Masloc"
+    ],
+    "name:vol_x_preferred":[
+        "Ma\u0219loc"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":673706,
+    "qs_pg:gn_pop":3935,
+    "qs_pg:name":"Ma\u015floc",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":275253,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":673706,
+        "qs_pg:id":275253,
+        "wd:id":"Q1084767"
+    },
+    "wof:country":"RO",
+    "wof:created":1497293655,
+    "wof:geomhash":"bf607c163bdbedac95ea973628deab76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125856817,
+            "region_id":85687655
+        }
+    ],
+    "wof:id":1125856817,
+    "wof:lastmodified":1514500015,
+    "wof:name":"Ma\u015floc",
+    "wof:parent_id":85687655,
+    "wof:placetype":"locality",
+    "wof:population":3935,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.44972,
+    45.99806,
+    21.44972,
+    45.99806
+],
+  "geometry": {"coordinates":[21.44972,45.99806],"type":"Point"}
+}

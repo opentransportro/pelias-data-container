@@ -1,0 +1,114 @@
+{
+  "id": 85901721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":4199810.046107,
+    "geom:bbox":"21.221185,45.755928,21.221185,45.755928",
+    "geom:latitude":45.755928,
+    "geom:longitude":21.221185,
+    "gn:latitude":45.72739,
+    "gn:longitude":21.26696,
+    "iso:country":"RO",
+    "lbl:latitude":45.755928,
+    "lbl:longitude":21.221185,
+    "mps:latitude":45.758079,
+    "mps:longitude":21.201493,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":2,
+    "name:hun_x_historical":[
+        "V\u00f6r\u00f6s Cs\u00e1rda"
+    ],
+    "name:hun_x_preferred":[
+        "V\u00f6r\u00f6s Cs\u00e1rda"
+    ],
+    "name:rum_x_colloquial":[
+        "Ciarda Rosie"
+    ],
+    "name:rum_x_preferred":[
+        "Ciarda Ro\u0219ie"
+    ],
+    "name:unk_x_variant":[
+        "Ciarda Ro\u0219ie"
+    ],
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":0,
+    "qs:gn_namadm1":"00",
+    "qs:gn_name":"Ciarda Ro\u015fie",
+    "qs:local_max":5226,
+    "qs:local_sum":9148,
+    "qs:localhoods":5,
+    "qs:name":"Ciarda Ro\u0219ie",
+    "qs:name_adm0":"Rom\u00e2nia",
+    "qs:name_adm1":"Timis",
+    "qs:name_local":"Timi\u0219oara",
+    "qs:photo_max":45,
+    "qs:photo_sum":209,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":16,
+    "qs:woe_adm0":23424933,
+    "qs:woe_adm1":2346649,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":881802,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        101751973,
+        85633745,
+        85687655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":681965,
+        "gp:id":869402,
+        "qs:id":238630,
+        "qs_pg:id":238630
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"4f56458a2b187868b86fa584bb7190ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101751973,
+            "neighbourhood_id":85901721,
+            "region_id":85687655
+        }
+    ],
+    "wof:id":85901721,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1531932552,
+    "wof:name":"Ciarda Ro\u0219ie",
+    "wof:parent_id":101751973,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.221185,
+    45.755928,
+    21.221185,
+    45.755928
+],
+  "geometry": {"coordinates":[21.221185,45.755928],"type":"Point"}
+}

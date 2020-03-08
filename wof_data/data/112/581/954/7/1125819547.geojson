@@ -1,0 +1,109 @@
+{
+  "id": 1125819547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.11667,46.96667,26.11667,46.96667",
+    "geom:latitude":46.96667,
+    "geom:longitude":26.11667,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":289,
+    "iso:country":"RO",
+    "lbl:latitude":46.96667,
+    "lbl:longitude":26.11667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Potoci"
+    ],
+    "name:eng_x_preferred":[
+        "Potoci"
+    ],
+    "name:fre_x_preferred":[
+        "Potoci"
+    ],
+    "name:ita_x_preferred":[
+        "Potoci"
+    ],
+    "name:rum_x_preferred":[
+        "Potoci"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u0442\u043e\u0447"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":669746,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Potoci",
+    "qs_pg:name_adm0":"Rom\u00e2nia",
+    "qs_pg:name_adm1":"Neamt",
+    "qs_pg:photos":23,
+    "qs_pg:photos_1k":5,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":23,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":506563,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424933,
+    "qs_pg:woe_id":878458,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424933,
+    "woe:name_adm0":"Rom\u00e2nia",
+    "woe:name_adm1":"Neamt",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":669746,
+        "gp:id":878458,
+        "qs_pg:id":506563,
+        "wd:id":"Q12142879"
+    },
+    "wof:country":"RO",
+    "wof:created":1497291989,
+    "wof:geomhash":"0a9f4e2455e597144b7d4b2bc853cd0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125819547,
+            "region_id":85687747
+        }
+    ],
+    "wof:id":1125819547,
+    "wof:lastmodified":1514500096,
+    "wof:name":"Potoci",
+    "wof:parent_id":85687747,
+    "wof:placetype":"locality",
+    "wof:population":289,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.11667,
+    46.96667,
+    26.11667,
+    46.96667
+],
+  "geometry": {"coordinates":[26.11667,46.96667],"type":"Point"}
+}

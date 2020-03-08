@@ -1,0 +1,95 @@
+{
+  "id": 1125819825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.98333,46.73333,26.98333,46.73333",
+    "geom:latitude":46.73333,
+    "geom:longitude":26.98333,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":1896,
+    "gn:population":1896,
+    "iso:country":"RO",
+    "lbl:latitude":46.73333,
+    "lbl:longitude":26.98333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "D\u0103miene\u0219ti"
+    ],
+    "name:eng_x_preferred":[
+        "D\u0103miene\u0219ti"
+    ],
+    "name:fre_x_preferred":[
+        "D\u0103miene\u0219ti"
+    ],
+    "name:hun_x_preferred":[
+        "Dem\u00e9nfalva"
+    ],
+    "name:rum_x_preferred":[
+        "D\u0103miene\u0219ti"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0435\u043c'\u0454\u043d\u0435\u0448\u0442\u044c"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":679788,
+    "qs_pg:gn_pop":1896,
+    "qs_pg:name":"D\u0103miene\u015fti",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":127725,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":679788,
+        "qs_pg:id":127725,
+        "wd:id":"Q15633787"
+    },
+    "wof:country":"RO",
+    "wof:created":1497291997,
+    "wof:geomhash":"f675f66464ffbd83cda8080c73c49bf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125819825,
+            "region_id":85687715
+        }
+    ],
+    "wof:id":1125819825,
+    "wof:lastmodified":1514499921,
+    "wof:name":"D\u0103miene\u015fti",
+    "wof:parent_id":85687715,
+    "wof:placetype":"locality",
+    "wof:population":1896,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.98333,
+    46.73333,
+    26.98333,
+    46.73333
+],
+  "geometry": {"coordinates":[26.98333,46.73333],"type":"Point"}
+}

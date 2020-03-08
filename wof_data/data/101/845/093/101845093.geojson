@@ -1,0 +1,95 @@
+{
+  "id": 101845093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000105,
+    "geom:area_square_m":928121.028574,
+    "geom:bbox":"25.9347135162,44.4537971433,25.9558863456,44.4660244437",
+    "geom:latitude":44.459249,
+    "geom:longitude":25.945214,
+    "gn:population":2208,
+    "iso:country":"RO",
+    "lbl:latitude":44.457679,
+    "lbl:longitude":25.94786,
+    "mps:latitude":44.457679,
+    "mps:longitude":25.94786,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Dragomire\u0219ti-Deal"
+    ],
+    "name:eng_x_preferred":[
+        "Dragomire\u0219ti-Deal"
+    ],
+    "name:fre_x_preferred":[
+        "Dragomire\u0219ti-Deal"
+    ],
+    "name:rum_x_preferred":[
+        "Dragomire\u0219ti-Deal"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0440\u0430\u0433\u043e\u043c\u0456\u0440\u0435\u0448\u0442\u044c-\u0414\u044f\u043b"
+    ],
+    "name:unk_x_variant":[
+        "Dragomire\u015ftii-din Deal"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Ilfov",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Dragomire\u015fti-Vale",
+    "qs:la_lc":"*RO36102605",
+    "qs:level":"locality",
+    "qs:loc":"Dragomire\u015fti-Deal",
+    "qs:loc_alt":"Dragomiresti-Deal",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":678915,
+        "gp:id":871635,
+        "qs:id":1091824,
+        "wd:id":"Q12102288"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"3daa5b3085640930c2a72eb800994b50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101845093,
+            "region_id":85687611
+        }
+    ],
+    "wof:id":101845093,
+    "wof:lastmodified":1514499913,
+    "wof:name":"Dragomire\u015fti-Deal",
+    "wof:parent_id":85687611,
+    "wof:placetype":"locality",
+    "wof:population":2208,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.93471351619479,
+    44.45379714326276,
+    25.95588634557805,
+    44.46602444371189
+],
+  "geometry": {"coordinates":[[[25.94432051772583,44.46098094149124],[25.94801759580929,44.46040704548318],[25.94826999286352,44.46128544810921],[25.94950235534577,44.46109411688633],[25.94924994033971,44.46021571770768],[25.95171460715187,44.45983301849941],[25.95146216656326,44.45895462472851],[25.95392676780813,44.45857187420677],[25.95367430164123,44.457693485844],[25.95490657318913,44.45750209220347],[25.95465409939476,44.45662370580078],[25.95588634557805,44.45643230105736],[25.95512893227601,44.45379714326276],[25.9452711858965,44.4553278910285],[25.94552350310289,44.45620630602644],[25.94182667204456,44.45678010667933],[25.94207894571548,44.45765853052836],[25.93961431871594,44.45804099842712],[25.93986656679613,44.45891942768054],[25.93863422422697,44.45911064324611],[25.93888646466689,44.45998907445829],[25.93765409673318,44.46018027891608],[25.93790632953085,44.46105871208692],[25.93667393623105,44.46124990543643],[25.9369261613856,44.46212834056621],[25.93569374271931,44.46231952280692],[25.93594596022911,44.46319795989547],[25.93471351619479,44.46338913102704],[25.93547017672404,44.46602444371189],[25.93793516512943,44.46564206622241],[25.93768289872327,44.46476363703789],[25.94138027185733,44.46418997197952],[25.94112796189472,44.46331155164643],[25.94482521443354,44.46273776593893],[25.94432051772583,44.46098094149124]]],"type":"Polygon"}
+}

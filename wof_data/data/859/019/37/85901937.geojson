@@ -1,0 +1,116 @@
+{
+  "id": 85901937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":14436300.342445,
+    "geom:bbox":"26.911537,46.569099,26.911537,46.569099",
+    "geom:latitude":46.569099,
+    "geom:longitude":26.911537,
+    "gn:latitude":46.56667,
+    "gn:longitude":26.91667,
+    "iso:country":"RO",
+    "lbl:latitude":46.569099,
+    "lbl:longitude":26.911537,
+    "mps:latitude":46.566756,
+    "mps:longitude":26.91323,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":1,
+    "name:ron_x_preferred":[
+        "Vasile Roait\u0103"
+    ],
+    "name:rum_x_colloquial":[
+        "Vasile Roaita",
+        "Vasile Roaitae"
+    ],
+    "name:rum_x_preferred":[
+        "Vasile Roait\u0103"
+    ],
+    "name:unk_x_variant":[
+        "Vasile Roait\u0103"
+    ],
+    "qs:gn_adm0_cc":"RO",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":685948,
+    "qs:gn_nam_loc":"Bac\u0103u, Bacau, RO",
+    "qs:gn_namadm1":"00",
+    "qs:gn_name":"Vasile Roait\u0103",
+    "qs:local_max":559,
+    "qs:local_sum":1083,
+    "qs:localhoods":4,
+    "qs:name":"Vasile Roait\u0103",
+    "qs:name_adm0":"Rom\u00e2nia",
+    "qs:name_adm1":"Bacau",
+    "qs:name_local":"Bac\u0103u",
+    "qs:photo_max":124,
+    "qs:photo_sum":559,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":46,
+    "qs:woe_adm0":23424933,
+    "qs:woe_adm1":2346618,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":866528,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":77,
+    "wof:belongsto":[
+        102191581,
+        101752009,
+        85633745,
+        85687715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":663120,
+        "gp:id":883372,
+        "qs:id":222573,
+        "qs_pg:id":222573,
+        "wd:id":"Q7916638"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"d64a223ac685badbf4651703ae47c071",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101752009,
+            "neighbourhood_id":85901937,
+            "region_id":85687715
+        }
+    ],
+    "wof:id":85901937,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1531932604,
+    "wof:name":"Vasile Roait\u0103",
+    "wof:parent_id":101752009,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.911537,
+    46.569099,
+    26.911537,
+    46.569099
+],
+  "geometry": {"coordinates":[26.911537,46.569099],"type":"Point"}
+}

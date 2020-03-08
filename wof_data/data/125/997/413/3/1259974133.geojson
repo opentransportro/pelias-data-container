@@ -1,0 +1,73 @@
+{
+  "id": 1259974133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.99359,45.59668,25.99359,45.59668",
+    "geom:latitude":45.59668,
+    "geom:longitude":25.99359,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"42183.0",
+    "gn:asciiname":"Vama Buzaului",
+    "gn:country_code":"RO",
+    "gn:dem":767,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":663222,
+    "gn:latitude":45.59668,
+    "gn:longitude":25.99359,
+    "gn:modification_date":"2013-04-20",
+    "gn:name":"Vama Buz\u0103ului",
+    "gn:population":812,
+    "gn:timezone":"Europe/Bucharest",
+    "iso:country":"RO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vama Buz\u0103ului"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":663222,
+        "wk:page":"Vama_Buz%C4%83ului"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"9c697feb99fe5d8762f269af99bad3b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1259974133,
+            "region_id":85687683
+        }
+    ],
+    "wof:id":1259974133,
+    "wof:lastmodified":1537683286,
+    "wof:name":"Vama Buzaului",
+    "wof:parent_id":85687683,
+    "wof:placetype":"locality",
+    "wof:population":812,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.99359,
+    45.59668,
+    25.99359,
+    45.59668
+],
+  "geometry": {"coordinates":[25.99359,45.59668],"type":"Point"}
+}

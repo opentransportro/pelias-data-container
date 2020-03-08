@@ -1,0 +1,96 @@
+{
+  "id": 101791787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000086,
+    "geom:area_square_m":748369.042978,
+    "geom:bbox":"26.2170182066,45.0488512607,26.2301695242,45.0694139927",
+    "geom:latitude":45.05779,
+    "geom:longitude":26.224739,
+    "gn:population":1030,
+    "iso:country":"RO",
+    "lbl:latitude":45.051557,
+    "lbl:longitude":26.222098,
+    "mps:latitude":45.051557,
+    "mps:longitude":26.222098,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Valea Cucului"
+    ],
+    "name:eng_x_preferred":[
+        "Valea Cucului"
+    ],
+    "name:fre_x_preferred":[
+        "Valea Cucului"
+    ],
+    "name:ita_x_preferred":[
+        "Valea Cucului"
+    ],
+    "name:rum_x_preferred":[
+        "Valea Cucului"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0430\u043b\u044f-\u041a\u0443\u043a\u0443\u043b\u0443\u0439"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Prahova",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:id":0,
+    "qs:la":"Iord\u0103cheanu",
+    "qs:la_lc":"*RO42133722",
+    "qs:level":"locality",
+    "qs:loc":"Valea Cucului",
+    "qs:loc_alt":"Valea Cucului",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":663805,
+        "gp:id":882775,
+        "qs:id":1279762,
+        "wd:id":"Q12087472"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"bde4bd0b45aced31c962bd0341e0e8f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101791787,
+            "region_id":85687661
+        }
+    ],
+    "wof:id":101791787,
+    "wof:lastmodified":1514500231,
+    "wof:name":"Valea Cucului",
+    "wof:parent_id":85687661,
+    "wof:placetype":"locality",
+    "wof:population":1030,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.21701820658467,
+    45.04885126068962,
+    26.23016952416629,
+    45.0694139926706
+],
+  "geometry": {"coordinates":[[[26.22970892517731,45.06902405153699],[26.2289249248762,45.06639286296542],[26.23016952416629,45.06619788104558],[26.22964687449678,45.06444375496721],[26.22840231197745,45.06463872974808],[26.22657350675394,45.05849921621905],[26.22781794059841,45.05830426641944],[26.22755670748683,45.05742719062403],[26.22631229202176,45.0576221368554],[26.22552871254578,45.0549908897616],[26.22801742542549,45.05460100400165],[26.22723383276434,45.05196976480801],[26.22598953534225,45.05216470433709],[26.22546723090858,45.05041053023581],[26.22422296245463,45.05060544792707],[26.22370073789932,45.04885126068962],[26.21872373329194,45.04963075588955],[26.21950686580328,45.05226207729015],[26.21701820658467,45.05265175806295],[26.21727923556017,45.0535288693282],[26.21976793153374,45.05313918142366],[26.22002900804512,45.05401628405741],[26.22127336274224,45.053821414482],[26.22153446841304,45.05469851204919],[26.22277883370879,45.05450362420254],[26.22539066738648,45.0632744816935],[26.22414611827861,45.06346940521576],[26.22440734259442,45.06434648628169],[26.22316276731675,45.0645413986648],[26.22342398403612,45.06541848179893],[26.22466857769996,45.06522356584748],[26.22519108028195,45.06697772047863],[26.22643570293383,45.0667827826822],[26.2272195929088,45.0694139926706],[26.22970892517731,45.06902405153699]]],"type":"Polygon"}
+}

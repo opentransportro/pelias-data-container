@@ -1,0 +1,95 @@
+{
+  "id": 101796099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000079,
+    "geom:area_square_m":708676.522065,
+    "geom:bbox":"24.6287699935,43.7829255779,24.6408166126,43.7919275075",
+    "geom:latitude":43.787348,
+    "geom:longitude":24.635115,
+    "gn:population":1102,
+    "iso:country":"RO",
+    "lbl:latitude":43.787361,
+    "lbl:longitude":24.635115,
+    "mps:latitude":43.787361,
+    "mps:longitude":24.635115,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Ursa"
+    ],
+    "name:eng_x_preferred":[
+        "Ursa"
+    ],
+    "name:fre_x_preferred":[
+        "Ursa"
+    ],
+    "name:ita_x_preferred":[
+        "Ursa"
+    ],
+    "name:rum_x_preferred":[
+        "Ursa"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0423\u0440\u0441\u0430"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Olt",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"G\u00e2rcov",
+    "qs:la_lc":"*RO41125588",
+    "qs:level":"locality",
+    "qs:loc":"Ursa",
+    "qs:loc_alt":"Ursa",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":664122,
+        "gp:id":882510,
+        "qs:id":413341,
+        "wd:id":"Q4302748"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"3a27fa65e993920af6c4acc1f059e0ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101796099,
+            "region_id":85687607
+        }
+    ],
+    "wof:id":101796099,
+    "wof:lastmodified":1514500228,
+    "wof:name":"Ursa",
+    "wof:parent_id":85687607,
+    "wof:placetype":"locality",
+    "wof:population":1102,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.62876999346145,
+    43.78292557789337,
+    24.6408166125712,
+    43.79192750753612
+],
+  "geometry": {"coordinates":[[[24.6408166125712,43.79157663491202],[24.63922455483254,43.7853981207403],[24.64044612692686,43.78522268455396],[24.63999130086472,43.78345738865926],[24.6375482209088,43.78380823412823],[24.63732085712161,43.78292557789337],[24.62876999346145,43.78415306012317],[24.62990628474688,43.78856643651181],[24.63112794503661,43.78839110969278],[24.63203721481074,43.79192177365309],[24.63814577157234,43.79104486054524],[24.63837320063402,43.79192750753612],[24.6408166125712,43.79157663491202]]],"type":"Polygon"}
+}

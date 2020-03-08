@@ -1,0 +1,117 @@
+{
+  "id": 101790959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000102,
+    "geom:area_square_m":877955.243977,
+    "geom:bbox":"24.0405017804,45.7226184234,24.0595994592,45.7321583499",
+    "geom:latitude":45.727493,
+    "geom:longitude":24.050171,
+    "gn:population":1742,
+    "iso:country":"RO",
+    "lbl:latitude":45.727015,
+    "lbl:longitude":24.050171,
+    "mps:latitude":45.727015,
+    "mps:longitude":24.050171,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Poplaca"
+    ],
+    "name:eng_x_preferred":[
+        "Poplaca"
+    ],
+    "name:epo_x_preferred":[
+        "Poplaca"
+    ],
+    "name:fre_x_preferred":[
+        "Poplaca"
+    ],
+    "name:ger_x_preferred":[
+        "Poplaca"
+    ],
+    "name:hun_x_preferred":[
+        "Popl\u00e1ka"
+    ],
+    "name:ita_x_preferred":[
+        "Poplaca"
+    ],
+    "name:por_x_preferred":[
+        "Poplaca"
+    ],
+    "name:rum_x_preferred":[
+        "Poplaca"
+    ],
+    "name:vie_x_preferred":[
+        "Poplaca"
+    ],
+    "name:vol_x_preferred":[
+        "Poplaca"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Sibiu",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Poplaca",
+    "qs:la_lc":"*RO45143502",
+    "qs:level":"locality",
+    "qs:loc":"Poplaca",
+    "qs:loc_alt":"Poplaca",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a347d8-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":669855,
+        "gp:id":878375,
+        "qs:id":941232,
+        "qs_pg:id":941232,
+        "wd:id":"Q250997"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"520e0d6e189e66fccfc3b492f3db2336",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101790959,
+            "region_id":85687687
+        }
+    ],
+    "wof:id":101790959,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514500093,
+    "wof:name":"Poplaca",
+    "wof:parent_id":85687687,
+    "wof:placetype":"locality",
+    "wof:population":1742,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.04050178040404,
+    45.72261842337281,
+    24.05959945921433,
+    45.73215834992857
+],
+  "geometry": {"coordinates":[[[24.05649690358541,45.73165026214122],[24.05626588920177,45.73076762114022],[24.05753112512741,45.73059823160833],[24.05730010096511,45.72971559254285],[24.05856531033618,45.72954619113227],[24.05833427639647,45.72866355400231],[24.05959945921433,45.72849414071356],[24.05913738151025,45.72672886908248],[24.05534192892725,45.7272370447202],[24.05488000713825,45.72547174906089],[24.05361488118655,45.72564110447752],[24.05292212992771,45.72299314214865],[24.04912688531152,45.72350108949075],[24.0488960461671,45.72261842337281],[24.04763097004252,45.72278770587013],[24.0478617896859,45.72367037516267],[24.04280133676559,45.72434736730304],[24.04303208811621,45.72523004805072],[24.04050178040404,45.7255684601372],[24.04096323423158,45.72733383060546],[24.04349361996435,45.72699540582499],[24.04441680026207,45.73052610648892],[24.04694731388025,45.73018759608965],[24.04717817226691,45.73107026180514],[24.05097394838077,45.73056237375494],[24.05120487501216,45.73144502870332],[24.05247013913123,45.73127569939737],[24.05270109499423,45.73215834992857],[24.05649690358541,45.73165026214122]]],"type":"Polygon"}
+}

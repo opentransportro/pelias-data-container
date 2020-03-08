@@ -1,0 +1,113 @@
+{
+  "id": 85901925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":20255144.045391,
+    "geom:bbox":"28.798463,45.180585,28.798463,45.180585",
+    "geom:latitude":45.180585,
+    "geom:longitude":28.798463,
+    "gn:latitude":45.18675,
+    "gn:longitude":28.79954,
+    "gn:population":242,
+    "iso:country":"RO",
+    "lbl:latitude":45.180585,
+    "lbl:longitude":28.798463,
+    "mps:latitude":45.17967,
+    "mps:longitude":28.795398,
+    "mz:hierarchy_label":0,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":1,
+    "name:rum_x_preferred":[
+        "Tudor Vladimirescu"
+    ],
+    "name:unk_x_variant":[
+        "Tudor Vladimirescu"
+    ],
+    "qs:gn_adm0_cc":"RO",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":664518,
+    "qs:gn_nam_loc":"Tulcea, Tulcea, RO",
+    "qs:gn_namadm1":"00",
+    "qs:gn_name":"Tudor Vladimirescu",
+    "qs:local_max":644,
+    "qs:local_sum":644,
+    "qs:localhoods":1,
+    "qs:name":"Tudor Vladimirescu",
+    "qs:name_adm0":"Rom\u00e2nia",
+    "qs:name_adm1":"Tulcea",
+    "qs:name_local":"Tulcea",
+    "qs:photo_max":99,
+    "qs:photo_sum":644,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":38,
+    "qs:woe_adm0":23424933,
+    "qs:woe_adm1":2346650,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":882235,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":664560,
+        "gp:id":882189,
+        "qs:id":1167610,
+        "wd:id":"Q12162761"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"484ec9ec01dfab46b3b7191f2b3f10fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":-1,
+            "neighbourhood_id":85901925,
+            "region_id":85687679
+        }
+    ],
+    "wof:id":85901925,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1534379452,
+    "wof:name":"Tudor Vladimirescu",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":242,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[
+        1126064895
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.798463,
+    45.180585,
+    28.798463,
+    45.180585
+],
+  "geometry": {"coordinates":[28.798463,45.180585],"type":"Point"}
+}

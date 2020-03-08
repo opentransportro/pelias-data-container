@@ -1,0 +1,98 @@
+{
+  "id": 101795927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00011,
+    "geom:area_square_m":978080.799171,
+    "geom:bbox":"24.1536248897,44.117930631,24.1820278109,44.1289090168",
+    "geom:latitude":44.122387,
+    "geom:longitude":24.163541,
+    "gn:population":1159,
+    "iso:country":"RO",
+    "lbl:latitude":44.123203,
+    "lbl:longitude":24.160205,
+    "mps:latitude":44.123203,
+    "mps:longitude":24.160205,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Radomir"
+    ],
+    "name:eng_x_preferred":[
+        "Radomir"
+    ],
+    "name:fre_x_preferred":[
+        "Radomir"
+    ],
+    "name:ita_x_preferred":[
+        "Radomir"
+    ],
+    "name:rum_x_preferred":[
+        "Radomir"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u0434\u043e\u043c\u0456\u0440"
+    ],
+    "name:unk_x_variant":[
+        "Radomirul"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Dolj",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Dio\u015fti",
+    "qs:la_lc":"*RO28072052",
+    "qs:level":"locality",
+    "qs:loc":"Radomir",
+    "qs:loc_alt":"Radomir",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":669248,
+        "gp:id":878818,
+        "qs:id":412429,
+        "wd:id":"Q12146630"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"43707cadb78f3a41c9843f78469313c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101795927,
+            "region_id":85687581
+        }
+    ],
+    "wof:id":101795927,
+    "wof:lastmodified":1514500107,
+    "wof:name":"Radomir",
+    "wof:parent_id":85687581,
+    "wof:placetype":"locality",
+    "wof:population":1159,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.15362488969942,
+    44.1179306309819,
+    24.18202781092384,
+    44.12890901680402
+],
+  "geometry": {"coordinates":[[[24.15775876966967,44.12856933581151],[24.15731450894634,44.12680208193478],[24.16592339269482,44.12561278202895],[24.16570114932779,44.12472917445427],[24.16693094573242,44.12455921922128],[24.16648645006228,44.12279200622771],[24.16771620378478,44.12262204251869],[24.1674939514827,44.12173843709979],[24.17856127915695,44.12020813541568],[24.1783388732016,44.11932455612737],[24.18202781092384,44.1188142024331],[24.18180535981759,44.1179306309819],[24.17196820689173,44.11929125834592],[24.17174590949878,44.11840766117984],[24.16559756765321,44.11925756447692],[24.1658197746404,44.12014117688523],[24.16213063716435,44.12065095314659],[24.16190848442534,44.11976733159588],[24.15698961567426,44.12044681707852],[24.15654548208283,44.11867954566577],[24.15408608100449,44.11901918878937],[24.15586254371118,44.12608829167107],[24.15463268871912,44.12625811574054],[24.15485476928961,44.12714175074075],[24.15362488969942,44.12731156328203],[24.15384696125153,44.12819520001597],[24.155076858933,44.12802538442855],[24.15529895764928,44.12890901680402],[24.15775876966967,44.12856933581151]]],"type":"Polygon"}
+}

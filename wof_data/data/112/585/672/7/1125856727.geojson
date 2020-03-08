@@ -1,0 +1,98 @@
+{
+  "id": 1125856727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.0,45.2,25.0,45.2",
+    "geom:latitude":45.2,
+    "geom:longitude":25.0,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":4945,
+    "gn:population":4945,
+    "iso:country":"RO",
+    "lbl:latitude":45.2,
+    "lbl:longitude":25.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Schitu Gole\u0219ti"
+    ],
+    "name:eng_x_preferred":[
+        "Schitu Gole\u0219ti"
+    ],
+    "name:fre_x_preferred":[
+        "Schitu Gole\u0219ti"
+    ],
+    "name:ita_x_preferred":[
+        "Schitu Gole\u0219ti"
+    ],
+    "name:rum_x_preferred":[
+        "Schitu Gole\u0219ti"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043a\u0456\u0442\u0443-\u0413\u043e\u043b\u0435\u0448\u0442\u044c"
+    ],
+    "name:unk_x_variant":[
+        "Schitul-Gole\u015fu"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":667646,
+    "qs_pg:gn_pop":4945,
+    "qs_pg:name":"Schitu-Gole\u015fti",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":275218,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":667646,
+        "qs_pg:id":275218,
+        "wd:id":"Q12153494"
+    },
+    "wof:country":"RO",
+    "wof:created":1497293652,
+    "wof:geomhash":"67f23bc60515fdf3a5fdac4907d63d13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125856727,
+            "region_id":85687645
+        }
+    ],
+    "wof:id":1125856727,
+    "wof:lastmodified":1514500137,
+    "wof:name":"Schitu-Gole\u015fti",
+    "wof:parent_id":85687645,
+    "wof:placetype":"locality",
+    "wof:population":4945,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.0,
+    45.2,
+    25.0,
+    45.2
+],
+  "geometry": {"coordinates":[25.0,45.2],"type":"Point"}
+}

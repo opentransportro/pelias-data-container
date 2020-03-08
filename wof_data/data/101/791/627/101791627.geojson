@@ -1,0 +1,80 @@
+{
+  "id": 101791627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000132,
+    "geom:area_square_m":1137379.249474,
+    "geom:bbox":"21.3065948112,45.7151481335,21.3325781336,45.724379731",
+    "geom:latitude":45.719505,
+    "geom:longitude":21.321564,
+    "gn:population":4268,
+    "iso:country":"RO",
+    "lbl:latitude":45.719501,
+    "lbl:longitude":21.323533,
+    "mps:latitude":45.719501,
+    "mps:longitude":21.323533,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Mosnica"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Timis",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Mo\u015fni\u0163a Noua",
+    "qs:la_lc":"*RO48157834",
+    "qs:level":"locality",
+    "qs:loc":"Mo\u015fni\u0163a Noua",
+    "qs:loc_alt":"Mosnita Noua",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":672809,
+        "gp:id":876137,
+        "qs:id":275250,
+        "wd:id":"Q1195057"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"41c4271a110b359f165baa3d11072b4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101791627,
+            "region_id":85687655
+        }
+    ],
+    "wof:id":101791627,
+    "wof:lastmodified":1505337960,
+    "wof:name":"Mo\u015fni\u0163a Noua",
+    "wof:parent_id":85687655,
+    "wof:placetype":"locality",
+    "wof:population":4268,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.30659481116862,
+    45.71514813345243,
+    21.33257813364463,
+    45.72437973103996
+],
+  "geometry": {"coordinates":[[[21.32659466951173,45.72294413235204],[21.32640834100908,45.72205505896756],[21.33022208635066,45.72164501997099],[21.33003570552768,45.72075595333382],[21.33257813364463,45.72048252309412],[21.33145977376773,45.71514813345243],[21.31620630666873,45.71678761650702],[21.31639243940481,45.7176767148465],[21.31003648465526,45.71835919913605],[21.31040857306442,45.72013741860246],[21.30659481116862,45.72054674206009],[21.30696681066684,45.72232497302326],[21.31078069302004,45.72191563412025],[21.31096676482957,45.7228047403986],[21.31223806758987,45.72266826109359],[21.31205197570364,45.72177915739024],[21.31713704925056,45.72123309832699],[21.3173232214404,45.72212219172786],[21.31986576404285,45.72184906575927],[21.32005198427584,45.72273815301946],[21.32132326706937,45.72260156463722],[21.32169577137074,45.72437973103996],[21.32550970586516,45.72396985914264],[21.32532338953888,45.72308078416847],[21.32659466951173,45.72294413235204]]],"type":"Polygon"}
+}

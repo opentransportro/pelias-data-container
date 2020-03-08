@@ -1,0 +1,138 @@
+{
+  "id": 85901869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":9289931.960537,
+    "geom:bbox":"24.454138,47.719002,24.454138,47.719002",
+    "geom:latitude":47.719002,
+    "geom:longitude":24.454138,
+    "gn:latitude":47.71667,
+    "gn:longitude":24.43333,
+    "iso:country":"RO",
+    "lbl:latitude":47.719002,
+    "lbl:longitude":24.454138,
+    "mps:latitude":47.719538,
+    "mps:longitude":24.451905,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:deu_x_preferred":[
+        "Vi\u0219eu de Sus"
+    ],
+    "name:epo_x_preferred":[
+        "Vi\u0219eu de Sus"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0634\u0626\u0648 \u062f\u0647 \u0633\u0648\u0633"
+    ],
+    "name:fra_x_preferred":[
+        "Vi\u0219eu de Sus"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05d9\u05e9\u05d0\u05d5 \u05d3\u05d4 \u05e1\u05d5\u05e1"
+    ],
+    "name:hun_x_preferred":[
+        "Fels\u0151vis\u00f3"
+    ],
+    "name:ind_x_preferred":[
+        "Vi\u015feu de Sus"
+    ],
+    "name:ita_x_preferred":[
+        "Vi\u0219eu de Sus"
+    ],
+    "name:min_x_preferred":[
+        "Vi\u0219eu de Sus"
+    ],
+    "name:rum_x_colloquial":[
+        "Radeasa",
+        "Raedeasa"
+    ],
+    "name:rum_x_preferred":[
+        "R\u0103deasa"
+    ],
+    "name:spa_x_preferred":[
+        "Vi\u0219eu de Sus"
+    ],
+    "name:unk_x_variant":[
+        "R\u0103deasa"
+    ],
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":0,
+    "qs:gn_namadm1":"00",
+    "qs:gn_name":"R\u0103deasa",
+    "qs:local_max":25,
+    "qs:local_sum":25,
+    "qs:localhoods":1,
+    "qs:name":"R\u0103deasa",
+    "qs:name_adm0":"Rom\u00e2nia",
+    "qs:name_adm1":"Maramures",
+    "qs:name_local":"Vi\u0219eu de Sus",
+    "qs:photo_max":6,
+    "qs:photo_sum":25,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":7,
+    "qs:woe_adm0":23424933,
+    "qs:woe_adm1":2346638,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":883678,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":669286,
+        "gp:id":878791,
+        "qs:id":1321994,
+        "qs_pg:id":1321994
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"56679c79d62491eb197b25f2d5052715",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":-1,
+            "neighbourhood_id":85901869,
+            "region_id":85687761
+        }
+    ],
+    "wof:id":85901869,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1531932585,
+    "wof:name":"R\u0103deasa",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.454138,
+    47.719002,
+    24.454138,
+    47.719002
+],
+  "geometry": {"coordinates":[24.454138,47.719002],"type":"Point"}
+}

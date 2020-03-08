@@ -1,0 +1,89 @@
+{
+  "id": 1125808165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.15,46.68333,24.15,46.68333",
+    "geom:latitude":46.68333,
+    "geom:longitude":24.15,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2498,
+    "gn:population":93,
+    "iso:country":"RO",
+    "lbl:latitude":46.68333,
+    "lbl:longitude":24.15,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:hun_x_preferred":[
+        "Csorg\u00f3"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":681373,
+    "qs_pg:gn_pop":2498,
+    "qs_pg:name":"Ciurg\u0103u",
+    "qs_pg:name_adm0":"Rom\u00e2nia",
+    "qs_pg:name_adm1":"Mures",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":497491,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424933,
+    "qs_pg:woe_id":15001649,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424933,
+    "woe:name_adm0":"Rom\u00e2nia",
+    "woe:name_adm1":"Mures",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":681373,
+        "gp:id":15001649,
+        "qs_pg:id":497491
+    },
+    "wof:country":"RO",
+    "wof:created":1497291548,
+    "wof:geomhash":"3f8835b3670f72ae38ff85239fd6ad88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125808165,
+            "region_id":85687719
+        }
+    ],
+    "wof:id":1125808165,
+    "wof:lastmodified":1509393401,
+    "wof:name":"Ciurg\u0103u",
+    "wof:parent_id":85687719,
+    "wof:placetype":"locality",
+    "wof:population":93,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.15,
+    46.68333,
+    24.15,
+    46.68333
+],
+  "geometry": {"coordinates":[24.15,46.68333],"type":"Point"}
+}

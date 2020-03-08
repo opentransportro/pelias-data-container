@@ -1,0 +1,102 @@
+{
+  "id": 101791457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000337,
+    "geom:area_square_m":2963789.828567,
+    "geom:bbox":"27.6957535676,44.6660370243,27.7276447482,44.6850258776",
+    "geom:latitude":44.677461,
+    "geom:longitude":27.709049,
+    "gn:population":6181,
+    "iso:country":"RO",
+    "lbl:latitude":44.679282,
+    "lbl:longitude":27.710136,
+    "mps:latitude":44.679282,
+    "mps:longitude":27.710136,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rum_x_colloquial":[
+        "Cogaelniceanu",
+        "Cogalniceanu",
+        "Mihail Kogaelniceanu",
+        "Mihail Kogalniceanu",
+        "Mihail-Cogaelniceanu",
+        "Mihail-Cogalniceanu"
+    ],
+    "name:rum_x_preferred":[
+        "Mihail Kog\u0103lniceanu"
+    ],
+    "name:rum_x_variant":[
+        "Cog\u0103lniceanu",
+        "Mihail-Cog\u0103lniceanu"
+    ],
+    "name:unk_x_variant":[
+        "Cog\u0103lniceanu"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Ialomita",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Mihail Kog\u0103lniceanu",
+    "qs:la_lc":"*RO34093995",
+    "qs:level":"locality",
+    "qs:loc":"Mihail Kog\u0103lniceanu",
+    "qs:loc_alt":"Mihail Kogalniceanu",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a1f432-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":673381,
+        "gp:id":875722,
+        "qs:id":127425,
+        "qs_pg:id":127425,
+        "wd:id":"Q2291778"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"96cf35c2a728bbe7c71560d19193fc79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101791457,
+            "region_id":85687621
+        }
+    ],
+    "wof:id":101791457,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1505337959,
+    "wof:name":"Mihail Kog\u0103lniceanu",
+    "wof:parent_id":85687621,
+    "wof:placetype":"locality",
+    "wof:population":6181,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.69575356760708,
+    44.66603702433918,
+    27.72764474817257,
+    44.68502587760264
+],
+  "geometry": {"coordinates":[[[27.70888315995234,44.68502587760264],[27.71873914012724,44.68332664557096],[27.71902107640904,44.68419937314525],[27.72764474817257,44.68271175775527],[27.72679860275855,44.68009365044799],[27.72556672749755,44.68030619889043],[27.7250027234262,44.67856077790316],[27.72377087522125,44.67877330419537],[27.72264307579906,44.67528242661422],[27.72141128998226,44.67549492309439],[27.72112938654794,44.67462219564334],[27.71989761012077,44.67483467380839],[27.71961573585213,44.67396194083699],[27.71468861806551,44.67481169333519],[27.71440682595835,44.67393894335288],[27.71194325276258,44.67436372503789],[27.71166150748445,44.67349096570786],[27.70796613866162,44.67412801811599],[27.70768445787888,44.6732552456109],[27.70645266940005,44.67346756361638],[27.70476293200522,44.66823087017571],[27.70722628870624,44.66780626561604],[27.70666306416138,44.66606070294387],[27.70173645900678,44.66690982351452],[27.70145493461649,44.66603702433918],[27.69775994697727,44.6666737012182],[27.69832290125407,44.6684193208381],[27.6970911868525,44.66863152514946],[27.69765415172969,44.67037714567437],[27.69642239373081,44.67058934315355],[27.69698536920754,44.67233496458385],[27.69575356760708,44.67254715523023],[27.69969543510081,44.68476636992261],[27.70339155741055,44.68412959377969],[27.70367325858865,44.68500237069458],[27.70860137656905,44.68415311769263],[27.70888315995234,44.68502587760264]]],"type":"Polygon"}
+}

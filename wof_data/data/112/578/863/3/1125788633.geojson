@@ -1,0 +1,115 @@
+{
+  "id": 1125788633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.31667,45.83333,21.31667,45.83333",
+    "geom:latitude":45.83333,
+    "geom:longitude":21.31667,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":1371,
+    "iso:country":"RO",
+    "lbl:latitude":45.83333,
+    "lbl:longitude":21.31667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Giarmata-Vii"
+    ],
+    "name:eng_x_preferred":[
+        "Giarmata-Vii"
+    ],
+    "name:epo_x_preferred":[
+        "Giarmata Vii"
+    ],
+    "name:fre_x_preferred":[
+        "Giarmata-Vii"
+    ],
+    "name:ger_x_preferred":[
+        "Giarmata-Vii"
+    ],
+    "name:hun_x_preferred":[
+        "Kisgyarmatapuszta"
+    ],
+    "name:rum_x_preferred":[
+        "Giarmata-Vii"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0436\u0430\u0440\u043c\u0430\u0442\u0430-\u0412\u0456\u0439"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":677292,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Giarmata Vii",
+    "qs_pg:name_adm0":"Rom\u00e2nia",
+    "qs_pg:name_adm1":"Timis",
+    "qs_pg:photos":17,
+    "qs_pg:photos_1k":3,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":17,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":43092,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424933,
+    "qs_pg:woe_id":872849,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424933,
+    "woe:name_adm0":"Rom\u00e2nia",
+    "woe:name_adm1":"Timis",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":677292,
+        "gp:id":872849,
+        "qs_pg:id":43092,
+        "wd:id":"Q754605"
+    },
+    "wof:country":"RO",
+    "wof:created":1497290775,
+    "wof:geomhash":"aa3b1719394aaa34381cb6a9061a3d74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125788633,
+            "region_id":85687655
+        }
+    ],
+    "wof:id":1125788633,
+    "wof:lastmodified":1514499945,
+    "wof:name":"Giarmata Vii",
+    "wof:parent_id":85687655,
+    "wof:placetype":"locality",
+    "wof:population":1371,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.31667,
+    45.83333,
+    21.31667,
+    45.83333
+],
+  "geometry": {"coordinates":[21.31667,45.83333],"type":"Point"}
+}

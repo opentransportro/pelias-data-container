@@ -1,0 +1,113 @@
+{
+  "id": 101796127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000332,
+    "geom:area_square_m":2954306.898382,
+    "geom:bbox":"24.2350975289,43.9322871195,24.2640689697,43.9544298152",
+    "geom:latitude":43.944924,
+    "geom:longitude":24.250921,
+    "gn:population":2306,
+    "iso:country":"RO",
+    "lbl:latitude":43.94645,
+    "lbl:longitude":24.250702,
+    "mps:latitude":43.94645,
+    "mps:longitude":24.250702,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Bucini\u0219u"
+    ],
+    "name:eng_x_preferred":[
+        "Bucini\u0219u"
+    ],
+    "name:fre_x_preferred":[
+        "Bucini\u0219u"
+    ],
+    "name:ita_x_preferred":[
+        "Bucini\u0219u"
+    ],
+    "name:may_x_preferred":[
+        "Bucini\u0219u"
+    ],
+    "name:por_x_preferred":[
+        "Bucini\u0219u"
+    ],
+    "name:rum_x_preferred":[
+        "Bucini\u0219u"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0443\u0447\u0438\u043d\u0456\u0448\u0443"
+    ],
+    "name:unk_x_variant":[
+        "Bucini\u015ful"
+    ],
+    "name:vie_x_preferred":[
+        "Bucinisu"
+    ],
+    "name:vol_x_preferred":[
+        "Bucini\u0219u"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Olt",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Bucini\u015fu",
+    "qs:la_lc":"*RO41126077",
+    "qs:level":"locality",
+    "qs:loc":"Bucini\u015fu",
+    "qs:loc_alt":"Bucinisu",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":683582,
+        "gp:id":868218,
+        "qs:id":127902,
+        "qs_pg:id":127902,
+        "wd:id":"Q2719586"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"c77cc6b832946788ae0cdd563ff88177",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101796127,
+            "region_id":85687607
+        }
+    ],
+    "wof:id":101796127,
+    "wof:lastmodified":1514499808,
+    "wof:name":"Bucini\u015fu",
+    "wof:parent_id":85687607,
+    "wof:placetype":"locality",
+    "wof:population":2306,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.23509752887765,
+    43.93228711948706,
+    24.26406896965312,
+    43.95442981516658
+],
+  "geometry": {"coordinates":[[[24.24445369699367,43.9528631403175],[24.26406896965312,43.95012835602921],[24.26184283544711,43.94129329745829],[24.25448837812593,43.9423190940563],[24.2542659220386,43.94143556258166],[24.25304017436224,43.94160647482568],[24.25237291417739,43.9389558632771],[24.26340392600241,43.93741721287552],[24.26251372763585,43.9338831553315],[24.26128815725019,43.93405416234236],[24.2608431482268,43.93228711948706],[24.25839205963268,43.93262907776813],[24.25861452379814,43.93351260596097],[24.25003538407401,43.93470902411605],[24.25092482972536,43.93824320896766],[24.24602203490281,43.93892660594156],[24.24624434727627,43.93981016102504],[24.24501861444622,43.93998097702729],[24.245907882761,43.94351519626758],[24.23610121332541,43.9448812992004],[24.23632340964684,43.94576487506777],[24.23509752887765,43.94593557565105],[24.23620855654912,43.9503534503113],[24.23743452695129,43.95018273449506],[24.237656777555,43.95106630239849],[24.23888275940294,43.95089556901553],[24.2397719240297,43.95442981516658],[24.24467607344604,43.95374668767084],[24.24445369699367,43.9528631403175]]],"type":"Polygon"}
+}

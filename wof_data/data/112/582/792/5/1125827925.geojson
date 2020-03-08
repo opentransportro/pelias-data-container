@@ -1,0 +1,111 @@
+{
+  "id": 1125827925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.9,46.23333,22.9,46.23333",
+    "geom:latitude":46.23333,
+    "geom:longitude":22.9,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":1516,
+    "gn:population":1516,
+    "iso:country":"RO",
+    "lbl:latitude":46.23333,
+    "lbl:longitude":22.9,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Bl\u0103jeni"
+    ],
+    "name:eng_x_preferred":[
+        "Bl\u0103jeni"
+    ],
+    "name:fre_x_preferred":[
+        "Bl\u0103jeni"
+    ],
+    "name:hun_x_preferred":[
+        "Blezseny"
+    ],
+    "name:ita_x_preferred":[
+        "Bl\u0103jeni"
+    ],
+    "name:rum_x_preferred":[
+        "Bl\u0103jeni"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043b\u0435\u0436\u0435\u043d\u044c"
+    ],
+    "name:unk_x_variant":[
+        "Bl\u0103ieni"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":684606,
+    "qs_pg:gn_pop":1516,
+    "qs_pg:name":"Bl\u0103jeni",
+    "qs_pg:name_adm0":"Rom\u00e2nia",
+    "qs_pg:name_adm1":"Hunedoara",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1277922,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424933,
+    "qs_pg:woe_id":867468,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424933,
+    "woe:name_adm0":"Rom\u00e2nia",
+    "woe:name_adm1":"Hunedoara",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":684606,
+        "gp:id":867468,
+        "qs_pg:id":1277922,
+        "wd:id":"Q5065634"
+    },
+    "wof:country":"RO",
+    "wof:created":1497292362,
+    "wof:geomhash":"fd754992384ea05f87d45f0414060e18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125827925,
+            "region_id":85687671
+        }
+    ],
+    "wof:id":1125827925,
+    "wof:lastmodified":1514499777,
+    "wof:name":"Bl\u0103jeni",
+    "wof:parent_id":85687671,
+    "wof:placetype":"locality",
+    "wof:population":1516,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.9,
+    46.23333,
+    22.9,
+    46.23333
+],
+  "geometry": {"coordinates":[22.9,46.23333],"type":"Point"}
+}

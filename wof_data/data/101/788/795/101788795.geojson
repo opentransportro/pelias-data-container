@@ -1,0 +1,123 @@
+{
+  "id": 101788795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000099,
+    "geom:area_square_m":837848.829869,
+    "geom:bbox":"22.3410623206,46.7309298611,22.365134604,46.7440729957",
+    "geom:latitude":46.738702,
+    "geom:longitude":22.349832,
+    "gn:population":3084,
+    "iso:country":"RO",
+    "lbl:latitude":46.739343,
+    "lbl:longitude":22.348647,
+    "mps:latitude":46.739343,
+    "mps:longitude":22.348647,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Remetea"
+    ],
+    "name:dut_x_preferred":[
+        "Remetea"
+    ],
+    "name:eng_x_preferred":[
+        "Remetea"
+    ],
+    "name:epo_x_preferred":[
+        "Remetea"
+    ],
+    "name:fre_x_preferred":[
+        "Remetea"
+    ],
+    "name:hun_x_preferred":[
+        "Magyarremete"
+    ],
+    "name:ita_x_preferred":[
+        "Remetea"
+    ],
+    "name:may_x_preferred":[
+        "Remetea"
+    ],
+    "name:por_x_preferred":[
+        "Remetea"
+    ],
+    "name:rum_x_preferred":[
+        "Remetea"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0435\u043c\u0435\u0442\u044f"
+    ],
+    "name:vie_x_preferred":[
+        "Remetea"
+    ],
+    "name:vol_x_preferred":[
+        "Remetea"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Bihor",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Remetea",
+    "qs:la_lc":"*RO15030719",
+    "qs:level":"locality",
+    "qs:loc":"Remetea",
+    "qs:loc_alt":"Remetea",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a39f30-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":668987,
+        "gp:id":879005,
+        "qs:id":1279296,
+        "qs_pg:id":1279296,
+        "wd:id":"Q1187377"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"c117c182e3d7d67df0e8d544c67356af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101788795,
+            "region_id":85687737
+        }
+    ],
+    "wof:id":101788795,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514500110,
+    "wof:name":"Remetea",
+    "wof:parent_id":85687737,
+    "wof:placetype":"locality",
+    "wof:population":3084,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.3410623206164,
+    46.73092986109589,
+    22.36513460395906,
+    46.74407299573022
+],
+  "geometry": {"coordinates":[[[22.35283267735707,46.74377421725148],[22.3524140374459,46.74200191463837],[22.36146516367819,46.74095574271274],[22.36125571125922,46.74006961012356],[22.36513460395906,46.73962102715279],[22.36492509800979,46.73873490221882],[22.35716737844564,46.73963191142741],[22.35674864391962,46.73785962369874],[22.35545570931401,46.73800906524997],[22.35566505120471,46.73889521252659],[22.35178614530793,46.73934345296215],[22.3507398389869,46.73491266281667],[22.34556828941788,46.73551004208451],[22.34494086418573,46.73285152087158],[22.34623369888675,46.73270220795649],[22.34581541880254,46.73092986109589],[22.34452262580527,46.73107916822681],[22.34473174048497,46.7319653450661],[22.34214609305479,46.73226391866518],[22.34235517504987,46.73315010025414],[22.3410623206164,46.73329936672155],[22.34127139077651,46.73418555016804],[22.34256426606441,46.73403628080939],[22.34319159323172,46.73669481627365],[22.34189865537553,46.73684409430751],[22.34210776161666,46.7377302736204],[22.34469367246516,46.73743169628472],[22.3453211704753,46.740090210669],[22.34144210659917,46.7405380794761],[22.34165122806809,46.74142425754764],[22.34423731895515,46.74112568804327],[22.3444464911712,46.74201185929678],[22.34573954760543,46.7418625484238],[22.34594874970907,46.74274871575085],[22.34982794210265,46.74230068153935],[22.35024649856717,46.74407299573022],[22.35283267735707,46.74377421725148]]],"type":"Polygon"}
+}

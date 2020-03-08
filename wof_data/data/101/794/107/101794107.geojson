@@ -1,0 +1,128 @@
+{
+  "id": 101794107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000113,
+    "geom:area_square_m":987808.958259,
+    "geom:bbox":"21.2626277082,45.2517060429,21.2766983694,45.2636770881",
+    "geom:latitude":45.25783,
+    "geom:longitude":21.269232,
+    "gn:population":2368,
+    "iso:country":"RO",
+    "lbl:latitude":45.257705,
+    "lbl:longitude":21.269366,
+    "mps:latitude":45.257705,
+    "mps:longitude":21.269366,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Morawitz"
+    ],
+    "name:dut_x_preferred":[
+        "Moravi\u021ba"
+    ],
+    "name:eng_x_preferred":[
+        "Moravi\u021ba"
+    ],
+    "name:epo_x_preferred":[
+        "Moravi\u021ba"
+    ],
+    "name:fre_x_preferred":[
+        "Moravi\u021ba"
+    ],
+    "name:ger_x_preferred":[
+        "Moravi\u021ba"
+    ],
+    "name:hun_x_preferred":[
+        "Temesm\u00f3ra"
+    ],
+    "name:ita_x_preferred":[
+        "Moravi\u021ba"
+    ],
+    "name:may_x_preferred":[
+        "Moravi\u021ba"
+    ],
+    "name:por_x_preferred":[
+        "Moravi\u021ba"
+    ],
+    "name:ron_x_preferred":[
+        "Moravi\u021ba"
+    ],
+    "name:rum_x_preferred":[
+        "Moravi\u021ba"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u043e\u0440\u0430\u0432\u0438\u0446\u0430 "
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u043e\u0440\u0430\u0432\u0456\u0446\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Moravica"
+    ],
+    "name:vie_x_preferred":[
+        "Moravita"
+    ],
+    "name:vol_x_preferred":[
+        "Moravi\u021ba"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Timis",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Moravi\u0163a",
+    "qs:la_lc":"*RO48157781",
+    "qs:level":"locality",
+    "qs:loc":"Moravita",
+    "qs:loc_alt":"Moravita",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":672868,
+        "gp:id":876095,
+        "qs:id":127412,
+        "wd:id":"Q1079937"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"d9c1485360e74e021b4b420185c59b9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101794107,
+            "region_id":85687655
+        }
+    ],
+    "wof:id":101794107,
+    "wof:lastmodified":1514500030,
+    "wof:name":"Moravita",
+    "wof:parent_id":85687655,
+    "wof:placetype":"locality",
+    "wof:population":2368,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.26262770816828,
+    45.25170604285256,
+    21.27669836943676,
+    45.26367708809653
+],
+  "geometry": {"coordinates":[[[21.27509173658939,45.26299794453024],[21.27417674687518,45.25855044981637],[21.27669836943676,45.25827871218542],[21.27651535526195,45.25738921528722],[21.2752545664103,45.2575250891079],[21.27470562896883,45.25485658478669],[21.27344489350543,45.25499243594516],[21.27326194938161,45.25410292996338],[21.27200122800951,45.2542387635213],[21.2716354021137,45.25245974348138],[21.2703747144796,45.25259555691014],[21.270191832705,45.25170604285256],[21.26262770816828,45.2525205917774],[21.26317602289043,45.25518917644314],[21.26443678313706,45.25505344838183],[21.26516805556417,45.25861153708996],[21.26390721671311,45.2587472752632],[21.26445569274051,45.26141583882884],[21.26319478937427,45.26155156951404],[21.26337761042714,45.26244109122155],[21.26463853344967,45.26230535800789],[21.26482138184213,45.26319487618235],[21.26860417655018,45.26278757851389],[21.26878709159718,45.26367708809653],[21.27509173658939,45.26299794453024]]],"type":"Polygon"}
+}

@@ -1,0 +1,123 @@
+{
+  "id": 101792543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00009,
+    "geom:area_square_m":788267.090713,
+    "geom:bbox":"23.512473922,45.1674780032,23.5293162709,45.1834189212",
+    "geom:latitude":45.174896,
+    "geom:longitude":23.521891,
+    "geonames:id":"680307,680319",
+    "iso:country":"RO",
+    "lbl:latitude":45.172989,
+    "lbl:longitude":23.52272,
+    "mps:latitude":45.172989,
+    "mps:longitude":23.52272,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Crasna"
+    ],
+    "name:dut_x_preferred":[
+        "Crasna "
+    ],
+    "name:eng_x_preferred":[
+        "Crasna"
+    ],
+    "name:epo_x_preferred":[
+        "Crasna"
+    ],
+    "name:fra_x_preferred":[
+        "Crasna"
+    ],
+    "name:ita_x_preferred":[
+        "Crasna"
+    ],
+    "name:may_x_preferred":[
+        "Crasna"
+    ],
+    "name:nld_x_preferred":[
+        "Crasna"
+    ],
+    "name:por_x_preferred":[
+        "Crasna"
+    ],
+    "name:ron_x_preferred":[
+        "Crasna"
+    ],
+    "name:rum_x_preferred":[
+        "Crasna"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Crasna Ungureni"
+    ],
+    "name:vie_x_preferred":[
+        "Crasna"
+    ],
+    "name:vol_x_preferred":[
+        "Crasna"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Gorj",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Crasna",
+    "qs:la_lc":"*RO31079834",
+    "qs:level":"locality",
+    "qs:loc":"Crasna",
+    "qs:loc_alt":"Crasna",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":59,
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":680319,
+        "gp:id":870619,
+        "qs:id":7,
+        "qs_pg:id":127753,
+        "wd:id":"Q2606413"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"b65ab0739125e9f899c7c106c3663a10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101792543,
+            "region_id":85687619
+        }
+    ],
+    "wof:id":101792543,
+    "wof:lastmodified":1527714636,
+    "wof:name":"Crasna",
+    "wof:parent_id":85687619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.51247392197303,
+    45.16747800322162,
+    23.52931627091147,
+    45.18341892123601
+],
+  "geometry": {"coordinates":[[[23.52109253414028,45.18309348853103],[23.52087378274871,45.18220907679273],[23.52212799394687,45.18204634106593],[23.52147173714792,45.17939310762517],[23.52272588436443,45.17923036600627],[23.52228838721283,45.1774615436849],[23.52354248958198,45.17729879316414],[23.52332373557044,45.17641438319896],[23.52457781222137,45.17625162076752],[23.52435904821215,45.17536721260251],[23.52812118123376,45.17487884481716],[23.52702721125695,45.17045683099434],[23.52828114680557,45.17029402694533],[23.52806236107364,45.16940962356011],[23.52931627091147,45.16924680760297],[23.52887868859392,45.16747800322162],[23.52762481699057,45.16764081315836],[23.527843584469,45.16852521896436],[23.52533578325483,45.16885080010434],[23.52555452162289,45.16973521071952],[23.52053876363578,45.17038620601608],[23.51988280533124,45.16773293443146],[23.51737500152342,45.16805832451701],[23.5182494778773,45.17159604161031],[23.51950345955726,45.17143334199403],[23.52081556249288,45.17673986329976],[23.51956146606705,45.176902580969],[23.51978016269908,45.17778699996285],[23.51852604055568,45.17794970571998],[23.51874472718447,45.17883412651366],[23.51247392197303,45.17964744651857],[23.51269252207709,45.18053188114561],[23.51645508236442,45.18004392488359],[23.51711110959752,45.18269719443731],[23.51836534057367,45.18253450347834],[23.51858405370126,45.18341892123601],[23.52109253414028,45.18309348853103]]],"type":"Polygon"}
+}

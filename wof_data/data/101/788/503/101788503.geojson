@@ -1,0 +1,91 @@
+{
+  "id": 101788503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000058,
+    "geom:area_square_m":498760.298378,
+    "geom:bbox":"26.9331591088,46.3396671012,26.956322255,46.3467477278",
+    "geom:latitude":46.342913,
+    "geom:longitude":26.943535,
+    "iso:country":"RO",
+    "lbl:latitude":46.342454,
+    "lbl:longitude":26.943534,
+    "mps:latitude":46.342454,
+    "mps:longitude":26.943534,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "G\u00e2\u0219teni"
+    ],
+    "name:eng_x_preferred":[
+        "G\u00e2\u0219teni"
+    ],
+    "name:fre_x_preferred":[
+        "G\u00e2\u0219teni"
+    ],
+    "name:rum_x_preferred":[
+        "G\u00e2\u0219teni"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0438\u0448\u0442\u0435\u043d\u044c"
+    ],
+    "name:unk_x_variant":[
+        "G\u00ee\u015fteni"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Bacau",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"R\u0103c\u0103ciuni",
+    "qs:la_lc":"*RO14024766",
+    "qs:level":"locality",
+    "qs:loc":"G\u00e2\u015fteni",
+    "qs:loc_alt":"Gasteni",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":677155,
+        "gp:id":872939,
+        "qs:id":7,
+        "wd:id":"Q12095994"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"8cc5641e8c184afa66749615053b6606",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101788503,
+            "region_id":85687715
+        }
+    ],
+    "wof:id":101788503,
+    "wof:lastmodified":1514499961,
+    "wof:name":"G\u00e2\u015fteni",
+    "wof:parent_id":85687715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.93315910876714,
+    46.33966710119626,
+    26.95632225504835,
+    46.34674772780716
+],
+  "geometry": {"coordinates":[[[26.93937571140617,46.34633949583002],[26.93909270977338,46.34546562115145],[26.94290629323859,46.34485317199182],[26.94262324560793,46.34397930735622],[26.95406335276357,46.34214118265186],[26.95378014327571,46.34126735125869],[26.95632225504835,46.34085872143623],[26.95603901890161,46.33998489622479],[26.94968377080068,46.34100633867786],[26.94940064315529,46.34013249257964],[26.94685852167822,46.34054095657825],[26.94657544460676,46.33966710119626],[26.94530439014096,46.33987130677633],[26.94558744790186,46.34074516602334],[26.94050306588758,46.34156185343954],[26.94078605835011,46.3424357265942],[26.93315910876714,46.34366032978852],[26.93372489774526,46.34540811780965],[26.93499611636491,46.34520404714544],[26.93527904809326,46.34607793496679],[26.93655027734292,46.34587384540021],[26.93683324033924,46.34674772780716],[26.93937571140617,46.34633949583002]]],"type":"Polygon"}
+}

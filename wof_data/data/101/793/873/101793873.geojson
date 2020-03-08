@@ -1,0 +1,101 @@
+{
+  "id": 101793873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000054,
+    "geom:area_square_m":468996.228787,
+    "geom:bbox":"22.3786348373,44.9408931068,22.3933410266,44.9516896979",
+    "geom:latitude":44.945363,
+    "geom:longitude":22.387244,
+    "gn:population":1018,
+    "iso:country":"RO",
+    "lbl:latitude":44.943916,
+    "lbl:longitude":22.387133,
+    "mps:latitude":44.943916,
+    "mps:longitude":22.387133,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Valea Bolva\u0219ni\u021ba"
+    ],
+    "name:eng_x_preferred":[
+        "Valea Bolva\u0219ni\u021ba"
+    ],
+    "name:epo_x_preferred":[
+        "Valea Bolva\u0219ni\u021ba"
+    ],
+    "name:fre_x_preferred":[
+        "Valea Bolva\u0219ni\u021ba"
+    ],
+    "name:hun_x_preferred":[
+        "Bolv\u00e1sv\u00f6lgy"
+    ],
+    "name:rum_x_preferred":[
+        "Valea Bolva\u0219ni\u021ba"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0430\u043b\u044f-\u0411\u043e\u043b\u0432\u0430\u0448\u043d\u0456\u0446\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Valea Bolva\u0161nica"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Caras-Severin",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Mehadia",
+    "qs:la_lc":"*RO23053274",
+    "qs:level":"locality",
+    "qs:loc":"Valea Bolva\u015fni\u0163a",
+    "qs:loc_alt":"Valea Bolvasnita",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":663894,
+        "gp:id":882693,
+        "qs:id":916559,
+        "wd:id":"Q633314"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"bbf97b5d4bc736f0855571573836a5dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101793873,
+            "region_id":85687627
+        }
+    ],
+    "wof:id":101793873,
+    "wof:lastmodified":1514500231,
+    "wof:name":"Valea Bolva\u015fni\u0163a",
+    "wof:parent_id":85687627,
+    "wof:placetype":"locality",
+    "wof:population":1018,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.37863483731911,
+    44.9408931068084,
+    22.39334102662451,
+    44.95168969790649
+],
+  "geometry": {"coordinates":[[[22.39334102662451,44.95139144365322],[22.39234478842025,44.94695503046313],[22.39109322650216,44.94710415131181],[22.39069482764035,44.94532957274026],[22.38944329804747,44.94547867317766],[22.38864667652405,44.94192949167535],[22.38989812950194,44.94178040222386],[22.38969897571178,44.9408931068084],[22.38219028301057,44.94178740330352],[22.38238932188432,44.94267471519203],[22.37863483731911,44.94312167030461],[22.37903282501077,44.94489630720761],[22.38529046093259,44.94415127998906],[22.38568867335738,44.94592588498801],[22.38694022090567,44.94577682930179],[22.38733850482902,44.94755142435264],[22.3885900847061,44.94740234825679],[22.38918763030182,44.95006422423796],[22.39043926166784,44.94991512498359],[22.39083770521785,44.95168969790649],[22.39334102662451,44.95139144365322]]],"type":"Polygon"}
+}

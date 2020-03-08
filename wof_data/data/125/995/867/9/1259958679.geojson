@@ -1,0 +1,76 @@
+{
+  "id": 1259958679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.33094,44.54589,28.33094,44.54589",
+    "geom:latitude":44.54589,
+    "geom:longitude":28.33094,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"62609.0",
+    "gn:asciiname":"Pantelimon",
+    "gn:cc2":"RO",
+    "gn:country_code":"RO",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":671381,
+    "gn:latitude":44.54589,
+    "gn:longitude":28.33094,
+    "gn:modification_date":"2013-04-21",
+    "gn:name":"Pantelimon",
+    "gn:population":712,
+    "gn:timezone":"Europe/Bucharest",
+    "iso:country":"RO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pantelimonul de Sus",
+        "Pantelimon de Sus",
+        "Pantelimon"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":671381,
+        "wk:page":"Pantelimon%2C_Constan%C8%9Ba"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"f93b63ccab616a5be9079df2f99f120a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1259958679,
+            "region_id":85687633
+        }
+    ],
+    "wof:id":1259958679,
+    "wof:lastmodified":1537683427,
+    "wof:name":"Pantelimon",
+    "wof:parent_id":85687633,
+    "wof:placetype":"locality",
+    "wof:population":712,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.33094,
+    44.54589,
+    28.33094,
+    44.54589
+],
+  "geometry": {"coordinates":[28.33094,44.54589],"type":"Point"}
+}

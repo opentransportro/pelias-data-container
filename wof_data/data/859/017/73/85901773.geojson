@@ -1,0 +1,110 @@
+{
+  "id": 85901773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":6450487.367098,
+    "geom:bbox":"27.854854,44.381224,27.854854,44.381224",
+    "geom:latitude":44.381224,
+    "geom:longitude":27.854854,
+    "iso:country":"RO",
+    "lbl:latitude":44.381224,
+    "lbl:longitude":27.854854,
+    "mps:latitude":44.380576,
+    "mps:longitude":27.85357,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Fetesti Oras"
+    ],
+    "name:rum_x_colloquial":[
+        "Fetesti Noui",
+        "Fetesti-Satu Nou",
+        "Fetestii Noi"
+    ],
+    "name:rum_x_preferred":[
+        "Fete\u0219tii Noi"
+    ],
+    "name:rum_x_variant":[
+        "Fete\u0219ti Noui",
+        "Fete\u0219ti-Satu Nou"
+    ],
+    "name:unk_x_variant":[
+        "Fete\u0219tii Noi"
+    ],
+    "qs:gn_id":0,
+    "qs:gn_local":0,
+    "qs:id":0,
+    "qs:local_max":28,
+    "qs:local_sum":28,
+    "qs:localhoods":1,
+    "qs:name":"Fete\u0219tii Noi",
+    "qs:name_adm0":"Rom\u00e2nia",
+    "qs:name_adm1":"Ialomita",
+    "qs:name_local":"Fete\u0219ti",
+    "qs:photo_max":21,
+    "qs:photo_sum":28,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":3,
+    "qs:woe_adm0":23424933,
+    "qs:woe_adm1":2346636,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":872097,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        101835677,
+        85633745,
+        85687621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":872100
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"4d0b355d5b3de5df397e79ab31a8aa16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101835677,
+            "neighbourhood_id":85901773,
+            "region_id":85687621
+        }
+    ],
+    "wof:id":85901773,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1531932563,
+    "wof:name":"Fete\u0219tii Noi",
+    "wof:parent_id":101835677,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.854854,
+    44.381224,
+    27.854854,
+    44.381224
+],
+  "geometry": {"coordinates":[27.854854,44.381224],"type":"Point"}
+}

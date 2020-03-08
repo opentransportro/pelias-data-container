@@ -1,0 +1,90 @@
+{
+  "id": 101786213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000101,
+    "geom:bbox":"27.7350046643,46.6908493488,27.7549761162,46.7006441318",
+    "geom:latitude":46.696229,
+    "geom:longitude":27.746429,
+    "geonames:id":"667816,667818",
+    "iso:country":"RO",
+    "lbl:latitude":46.695521,
+    "lbl:longitude":27.747261,
+    "mps:latitude":46.695521,
+    "mps:longitude":27.747261,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Satu Nou"
+    ],
+    "name:epo_x_preferred":[
+        "Satu Nou"
+    ],
+    "name:hbs_x_preferred":[
+        "Satu Nou"
+    ],
+    "name:hun_x_preferred":[
+        "Satu Nou"
+    ],
+    "name:ron_x_preferred":[
+        "Satu Nou"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u0442\u0443-\u041d\u043e\u0443"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Vaslui",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Muntenii de Sus",
+    "qs:la_lc":"*RO50167302",
+    "qs:level":"locality",
+    "qs:loc":"Satu Nou",
+    "qs:loc_alt":"Satu Nou",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":450,
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "qs:id":8,
+        "wd:id":"Q440629"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"f7f9d2517de6e995577e97e76ffd92f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101786213,
+            "region_id":85687743
+        }
+    ],
+    "wof:id":101786213,
+    "wof:lastmodified":1527715651,
+    "wof:name":"Satu Nou",
+    "wof:parent_id":85687743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.73500466428629,
+    46.69084934875912,
+    27.75497611624587,
+    46.70064413183815
+],
+  "geometry": {"coordinates":[[[27.75497611624587,46.70021605554052],[27.75228033428448,46.69237730963198],[27.75100367292919,46.69259131858706],[27.75040478874462,46.69084934875912],[27.749128156925,46.69106333447394],[27.74942757327659,46.69193432429233],[27.74432087593448,46.69279013267703],[27.74462022740073,46.69366113716711],[27.73823655066417,46.69473057873756],[27.73853581783152,46.69560160197511],[27.73598224361149,46.69602928119212],[27.73628148466673,46.69690031093967],[27.73500466428629,46.69711413200326],[27.73560314565935,46.69885619471654],[27.74071052692022,46.6980007873421],[27.74100986425503,46.69887179991474],[27.7448403612953,46.69823007378278],[27.74513976952971,46.69910107246932],[27.74769342677143,46.69867317147805],[27.74799288650507,46.6995441603562],[27.74926972064787,46.69933018315686],[27.74956921248116,46.7002011663065],[27.75212289180638,46.69977315849985],[27.7524224351414,46.70064413183815],[27.75497611624587,46.70021605554052]]],"type":"Polygon"}
+}

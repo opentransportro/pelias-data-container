@@ -1,0 +1,101 @@
+{
+  "id": 1125862535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.81667,45.9,22.81667,45.9",
+    "geom:latitude":45.9,
+    "geom:longitude":22.81667,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":2722,
+    "gn:population":2722,
+    "iso:country":"RO",
+    "lbl:latitude":45.9,
+    "lbl:longitude":22.81667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Ve\u021bel"
+    ],
+    "name:eng_x_preferred":[
+        "Ve\u021bel"
+    ],
+    "name:fre_x_preferred":[
+        "Ve\u021bel"
+    ],
+    "name:hun_x_preferred":[
+        "Vecel"
+    ],
+    "name:ita_x_preferred":[
+        "Ve\u021bel"
+    ],
+    "name:rum_x_preferred":[
+        "Ve\u021bel"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u0446\u0435\u043b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u0446\u0435\u043b "
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":663018,
+    "qs_pg:gn_pop":2722,
+    "qs_pg:name":"Ve\u0163el",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":126668,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":663018,
+        "qs_pg:id":126668,
+        "wd:id":"Q12089032"
+    },
+    "wof:country":"RO",
+    "wof:created":1497293889,
+    "wof:geomhash":"547108d1c6ce6a6396dac574653b3dc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125862535,
+            "region_id":85687671
+        }
+    ],
+    "wof:id":1125862535,
+    "wof:lastmodified":1514500240,
+    "wof:name":"Ve\u0163el",
+    "wof:parent_id":85687671,
+    "wof:placetype":"locality",
+    "wof:population":2722,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.81667,
+    45.9,
+    22.81667,
+    45.9
+],
+  "geometry": {"coordinates":[22.81667,45.9],"type":"Point"}
+}

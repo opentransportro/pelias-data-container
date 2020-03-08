@@ -1,0 +1,101 @@
+{
+  "id": 1125863557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.03333,45.31667,26.03333,45.31667",
+    "geom:latitude":45.31667,
+    "geom:longitude":26.03333,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":5105,
+    "gn:population":5105,
+    "iso:country":"RO",
+    "lbl:latitude":45.31667,
+    "lbl:longitude":26.03333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Cera\u0219u"
+    ],
+    "name:eng_x_preferred":[
+        "Cera\u0219u"
+    ],
+    "name:fre_x_preferred":[
+        "Cera\u0219u"
+    ],
+    "name:hun_x_preferred":[
+        "Cera\u0219u"
+    ],
+    "name:ita_x_preferred":[
+        "Cera\u0219u"
+    ],
+    "name:rum_x_preferred":[
+        "Cera\u0219u"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0435\u0440\u0430\u0448\u0443"
+    ],
+    "name:unk_x_variant":[
+        "Cera\u015ful"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":682399,
+    "qs_pg:gn_pop":5105,
+    "qs_pg:name":"Cera\u015fu",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":127867,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":682399,
+        "qs_pg:id":127867,
+        "wd:id":"Q12169566"
+    },
+    "wof:country":"RO",
+    "wof:created":1497293934,
+    "wof:geomhash":"cd3b888ac13b01c6c99986771aa085ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125863557,
+            "region_id":85687661
+        }
+    ],
+    "wof:id":1125863557,
+    "wof:lastmodified":1514499836,
+    "wof:name":"Cera\u015fu",
+    "wof:parent_id":85687661,
+    "wof:placetype":"locality",
+    "wof:population":5105,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.03333,
+    45.31667,
+    26.03333,
+    45.31667
+],
+  "geometry": {"coordinates":[26.03333,45.31667],"type":"Point"}
+}

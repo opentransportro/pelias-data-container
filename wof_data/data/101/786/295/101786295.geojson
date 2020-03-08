@@ -1,0 +1,129 @@
+{
+  "id": 101786295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000114,
+    "geom:area_square_m":957418.549191,
+    "geom:bbox":"22.9131548807,47.4101721966,22.9552374892,47.4206397822",
+    "geom:latitude":47.414816,
+    "geom:longitude":22.933749,
+    "gn:population":3179,
+    "iso:country":"RO",
+    "lbl:latitude":47.415215,
+    "lbl:longitude":22.935183,
+    "mps:latitude":47.415215,
+    "mps:longitude":22.935183,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0411\u043e\u0433\u0434\u0430\u043d\u0434"
+    ],
+    "name:dut_x_preferred":[
+        "Bogdand"
+    ],
+    "name:eng_x_preferred":[
+        "Bogdan"
+    ],
+    "name:epo_x_preferred":[
+        "Bogdand"
+    ],
+    "name:fre_x_preferred":[
+        "Bogdand"
+    ],
+    "name:ger_x_preferred":[
+        "Bogdand"
+    ],
+    "name:hun_x_preferred":[
+        "Bogd\u00e1nd"
+    ],
+    "name:ita_x_preferred":[
+        "Bogdand"
+    ],
+    "name:may_x_preferred":[
+        "Bogdand"
+    ],
+    "name:por_x_preferred":[
+        "Bogdand"
+    ],
+    "name:rum_x_preferred":[
+        "Bogdand"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u0433\u0434\u0430\u043d\u0434"
+    ],
+    "name:unk_x_variant":[
+        "Bogdan"
+    ],
+    "name:vie_x_preferred":[
+        "Bogdand"
+    ],
+    "name:vol_x_preferred":[
+        "Bogdand"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Satu Mare",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Bogdand",
+    "qs:la_lc":"*RO44137130",
+    "qs:level":"locality",
+    "qs:loc":"Bogdand",
+    "qs:loc_alt":"Bogdand",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"039dce2a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":684406,
+        "gp:id":867621,
+        "qs:id":409450,
+        "qs_pg:id":409450,
+        "wd:id":"Q833343"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"5f391835e06fec0267791c1bd64b73ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101786295,
+            "region_id":85687757
+        }
+    ],
+    "wof:id":101786295,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514499779,
+    "wof:name":"Bogdand",
+    "wof:parent_id":85687757,
+    "wof:placetype":"locality",
+    "wof:population":3179,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.91315488071342,
+    47.41017219657476,
+    22.95523748920681,
+    47.42063978221051
+],
+  "geometry": {"coordinates":[[[22.93520298709973,47.41840099139591],[22.93497940112638,47.417516629445],[22.93628756821926,47.41735991733304],[22.9360639705917,47.4164755574098],[22.93868024049482,47.41616209234508],[22.93845660979741,47.41527773754109],[22.94107280827018,47.41496421596349],[22.94084914450855,47.41407986627917],[22.94477332434707,47.41360947563862],[22.94454960611199,47.41272513416743],[22.95108965574667,47.4119408517775],[22.95131348104059,47.41282517778086],[22.95523748920681,47.41235441099798],[22.95501359968284,47.41147009427874],[22.95370562552574,47.41162702911663],[22.95348176718733,47.41074270823685],[22.95086584022675,47.41105652470901],[22.95064203448021,47.41017219657476],[22.94017821182757,47.41142681084148],[22.9404018462875,47.41231116371824],[22.93386161772526,47.41309480373832],[22.93408515487846,47.41397917100664],[22.93016086774054,47.41444917620817],[22.92993739483728,47.41356479966993],[22.91423986053286,47.41544337271034],[22.91446307639427,47.41632778630265],[22.91315488071342,47.41648423525442],[22.91360129883725,47.41825306542722],[22.91490953736735,47.41809661030317],[22.9146863020058,47.41721219883357],[22.92384362187119,47.41611659564569],[22.92406700719476,47.41700098550336],[22.92799153000567,47.41653119688385],[22.92821498935092,47.41741557641217],[22.92952317075503,47.41725894576598],[22.92974666128225,47.41814332114194],[22.93105485696293,47.41798667173043],[22.93172545138577,47.42063978221051],[22.93434194984081,47.42032641781799],[22.93389479143877,47.41855769092376],[22.93520298709973,47.41840099139591]]],"type":"Polygon"}
+}

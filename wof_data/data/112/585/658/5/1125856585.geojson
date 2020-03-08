@@ -1,0 +1,95 @@
+{
+  "id": 1125856585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.41667,44.58333,25.41667,44.58333",
+    "geom:latitude":44.58333,
+    "geom:longitude":25.41667,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":4494,
+    "gn:population":4494,
+    "iso:country":"RO",
+    "lbl:latitude":44.58333,
+    "lbl:longitude":25.41667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Ulie\u0219ti"
+    ],
+    "name:eng_x_preferred":[
+        "Ulie\u0219ti"
+    ],
+    "name:fre_x_preferred":[
+        "Ulie\u0219ti"
+    ],
+    "name:ita_x_preferred":[
+        "Ulie\u0219ti"
+    ],
+    "name:rum_x_preferred":[
+        "Ulie\u0219ti"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0423\u043b\u0456\u0454\u0448\u0442\u044c"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":664329,
+    "qs_pg:gn_pop":4494,
+    "qs_pg:name":"Ulie\u015fti",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":275189,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":664329,
+        "qs_pg:id":275189,
+        "wd:id":"Q12164508"
+    },
+    "wof:country":"RO",
+    "wof:created":1497293647,
+    "wof:geomhash":"b37a47e2bea077c08f21fc4ffd01492e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125856585,
+            "region_id":85687637
+        }
+    ],
+    "wof:id":1125856585,
+    "wof:lastmodified":1514500224,
+    "wof:name":"Ulie\u015fti",
+    "wof:parent_id":85687637,
+    "wof:placetype":"locality",
+    "wof:population":4494,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.41667,
+    44.58333,
+    25.41667,
+    44.58333
+],
+  "geometry": {"coordinates":[25.41667,44.58333],"type":"Point"}
+}

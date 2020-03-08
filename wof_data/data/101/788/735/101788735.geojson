@@ -1,0 +1,131 @@
+{
+  "id": 101788735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000112,
+    "geom:area_square_m":957644.65294,
+    "geom:bbox":"25.8610186685,46.2786803063,25.876661885,46.2900837956",
+    "geom:latitude":46.284553,
+    "geom:longitude":25.869041,
+    "gn:population":2086,
+    "iso:country":"RO",
+    "lbl:latitude":46.284787,
+    "lbl:longitude":25.868893,
+    "mps:latitude":46.284787,
+    "mps:longitude":25.868893,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "S\u00e2ntimbru"
+    ],
+    "name:eng_x_preferred":[
+        "Csikszentimre"
+    ],
+    "name:eng_x_variant":[
+        "Csik-Szent-Karg",
+        "S\u00e2ntimbru"
+    ],
+    "name:epo_x_preferred":[
+        "S\u00e2ntimbru "
+    ],
+    "name:fre_x_preferred":[
+        "S\u00e2ntimbru "
+    ],
+    "name:hun_x_preferred":[
+        "Cs\u00edkszentimre"
+    ],
+    "name:ita_x_preferred":[
+        "S\u00e2ntimbru"
+    ],
+    "name:may_x_preferred":[
+        "S\u00e2ntimbru"
+    ],
+    "name:por_x_preferred":[
+        "S\u00e2ntimbru "
+    ],
+    "name:rum_x_colloquial":[
+        "Santimbru",
+        "Sintimbru",
+        "Szentimrei Fuerdo",
+        "Szentimrei Furdo"
+    ],
+    "name:rum_x_preferred":[
+        "S\u00eentimbru"
+    ],
+    "name:rum_x_variant":[
+        "Szentimrei F\u00fcrdo",
+        "S\u00e2ntimbru"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0438\u043d\u0442\u0456\u043c\u0431\u0440\u0443 "
+    ],
+    "name:unk_x_variant":[
+        "Csikszentimre"
+    ],
+    "name:vol_x_preferred":[
+        "S\u00e2ntimbru "
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Harghita",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"S\u00e2ntimbru",
+    "qs:la_lc":"*RO32086519",
+    "qs:level":"locality",
+    "qs:loc":"S\u00e2ntimbru",
+    "qs:loc_alt":"Santimbru",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a46ef6-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":666907,
+        "gp:id":880483,
+        "qs:id":6,
+        "wd:id":"Q876033"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"4b9a0fb1c0df7842e9136fbd322c2996",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101788735,
+            "region_id":85687733
+        }
+    ],
+    "wof:id":101788735,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514500180,
+    "wof:name":"S\u00e2ntimbru",
+    "wof:parent_id":85687733,
+    "wof:placetype":"locality",
+    "wof:population":2086,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.86101866851118,
+    46.27868030631771,
+    25.87666188495302,
+    46.29008379564988
+],
+  "geometry": {"coordinates":[[[25.87565373801323,46.28950963891884],[25.87538878292958,46.28863246685478],[25.87666188495302,46.28844105470091],[25.87586702831152,46.28580954085606],[25.87459398497055,46.28600094212283],[25.87379928793632,46.28336940458149],[25.87507227260085,46.2831780142003],[25.87427761780395,46.28054647473414],[25.87045881536949,46.28112056792469],[25.86992921888958,46.27936617939923],[25.86865630755949,46.27955750634123],[25.86839154568571,46.27868030631771],[25.86202696462408,46.27963669639132],[25.86229162871507,46.28051391454437],[25.86101866851118,46.28070515088262],[25.8615479911827,46.28245959017386],[25.8640939816824,46.28207708789444],[25.86488816708106,46.28470871441203],[25.86361511722197,46.28489998398055],[25.86440934479168,46.28753160857826],[25.86313622809593,46.28772287392297],[25.86366573005034,46.28947729046479],[25.86875830445717,46.28871210945204],[25.86902315050889,46.28958930108121],[25.87156942793604,46.28920661269962],[25.8718343243292,46.29008379564988],[25.87565373801323,46.28950963891884]]],"type":"Polygon"}
+}

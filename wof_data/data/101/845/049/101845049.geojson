@@ -1,0 +1,95 @@
+{
+  "id": 101845049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000103,
+    "geom:area_square_m":918200.304806,
+    "geom:bbox":"23.8746235923,44.1419261558,23.8947540899,44.1518201578",
+    "geom:latitude":44.14641,
+    "geom:longitude":23.886098,
+    "gn:population":1036,
+    "iso:country":"RO",
+    "lbl:latitude":44.146957,
+    "lbl:longitude":23.886251,
+    "mps:latitude":44.146957,
+    "mps:longitude":23.886251,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "B\u0103do\u0219i"
+    ],
+    "name:eng_x_preferred":[
+        "B\u0103do\u0219i"
+    ],
+    "name:fre_x_preferred":[
+        "B\u0103do\u0219i"
+    ],
+    "name:ita_x_preferred":[
+        "B\u0103do\u0219i"
+    ],
+    "name:rum_x_preferred":[
+        "B\u0103do\u0219i"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u0434\u043e\u0448\u0456"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Dolj",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Teasc",
+    "qs:la_lc":"*RO28074322",
+    "qs:level":"locality",
+    "qs:loc":"B\u0103do\u015fi",
+    "qs:loc_alt":"Badosi",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":685880,
+        "gp:id":866585,
+        "qs:id":409219,
+        "wd:id":"Q12081473"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"f0a19b365f89a243db53c48bbc935346",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101845049,
+            "region_id":85687581
+        }
+    ],
+    "wof:id":101845049,
+    "wof:lastmodified":1514499820,
+    "wof:name":"B\u0103do\u015fi",
+    "wof:parent_id":85687581,
+    "wof:placetype":"locality",
+    "wof:population":1036,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.8746235923291,
+    44.14192615580754,
+    23.89475408987232,
+    44.151820157825
+],
+  "geometry": {"coordinates":[[[23.88867709897534,44.1516535059892],[23.88845901493369,44.15076920785566],[23.88969001531513,44.15060254441596],[23.88947192202647,44.14971824799022],[23.89193386725867,44.1493848833066],[23.89149763478099,44.14761629857213],[23.89395948175667,44.14728288747784],[23.89352321230854,44.14551430957437],[23.89475408987232,44.14534758812152],[23.89409969812033,44.14269472060067],[23.88794551872741,44.14352813700714],[23.88772749678151,44.14264383029484],[23.88649665987282,44.14281046679798],[23.88627866500269,44.14192615580754],[23.88258617038809,44.14242596876994],[23.88280411077523,44.14331028873596],[23.88034237940553,44.14364343038358],[23.88056029238049,44.14452775504685],[23.8780984991119,44.14486084429279],[23.87831638467003,44.14574517365293],[23.8746235923291,44.14624470702017],[23.87505928118281,44.14801337982959],[23.88244502631528,44.1470141458347],[23.8835349494226,44.1514357156392],[23.88722800815327,44.15093585669791],[23.88744607402759,44.151820157825],[23.88867709897534,44.1516535059892]]],"type":"Polygon"}
+}

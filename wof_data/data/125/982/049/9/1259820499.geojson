@@ -1,0 +1,66 @@
+{
+  "id": 1259820499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.91667,44.68333,23.91667,44.68333",
+    "geom:latitude":44.68333,
+    "geom:longitude":23.91667,
+    "gn:admin1_code":"39",
+    "gn:admin2_code":"168452.0",
+    "gn:asciiname":"Vasilati",
+    "gn:country_code":"RO",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":663127,
+    "gn:latitude":44.68333,
+    "gn:longitude":23.91667,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Vasila\u0163i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bucharest",
+    "iso:country":"RO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":663127
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"c92ca7cb0d609b92edfc5b2824e53a08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1259820499,
+            "region_id":85687643
+        }
+    ],
+    "wof:id":1259820499,
+    "wof:lastmodified":1536868795,
+    "wof:name":"Vasilati",
+    "wof:parent_id":85687643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.91667,
+    44.68333,
+    23.91667,
+    44.68333
+],
+  "geometry": {"coordinates":[23.91667,44.68333],"type":"Point"}
+}

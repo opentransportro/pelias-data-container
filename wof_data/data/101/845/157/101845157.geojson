@@ -1,0 +1,77 @@
+{
+  "id": 101845157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000088,
+    "geom:area_square_m":768355.615865,
+    "geom:bbox":"25.8478992366,44.9187409108,25.8653244423,44.9269522293",
+    "geom:latitude":44.92312,
+    "geom:longitude":25.857108,
+    "gn:population":1351,
+    "iso:country":"RO",
+    "lbl:latitude":44.922703,
+    "lbl:longitude":25.856402,
+    "mps:latitude":44.922703,
+    "mps:longitude":25.856402,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Prahova",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Arice\u015ftii Rahtivani",
+    "qs:la_lc":"*RO42132075",
+    "qs:level":"locality",
+    "qs:loc":"Stoene\u015fti",
+    "qs:loc_alt":"Stoenesti",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":666070,
+        "gp:id":15002356,
+        "qs:id":1,
+        "wd:id":"Q12158082"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"64f51b2d4e9867505739255ba0793ac1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101845157,
+            "region_id":85687661
+        }
+    ],
+    "wof:id":101845157,
+    "wof:lastmodified":1505338291,
+    "wof:name":"Stoene\u015fti",
+    "wof:parent_id":85687661,
+    "wof:placetype":"locality",
+    "wof:population":1351,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.84789923657888,
+    44.91874091077671,
+    25.86532444226344,
+    44.92695222927603
+],
+  "geometry": {"coordinates":[[[25.86532444226344,44.92638057123992],[25.86405215978567,44.92198927171341],[25.86280967260393,44.92217982169223],[25.86255526594624,44.92130155391817],[25.86131278955799,44.92149208572749],[25.8608040444289,44.91973553883378],[25.85831914238992,44.9201165444685],[25.85806482227207,44.91923826187252],[25.85557992670243,44.91961920178835],[25.85532565378395,44.91874091077671],[25.85159830880463,44.91931220003687],[25.85210675498365,44.92106880145337],[25.84962174710705,44.92144960140354],[25.85038438485338,44.92408451341566],[25.84789923657888,44.92446527544769],[25.8481534334062,44.92534358347899],[25.85063861840604,44.9249628144957],[25.85089286244448,44.92584111411401],[25.85462063833245,44.92526984001097],[25.85487494794614,44.92614812773792],[25.85736013078809,44.92576719791583],[25.85761448761542,44.92664547722632],[25.86134226023881,44.92607396186202],[25.86159668264281,44.92695222927603],[25.86532444226344,44.92638057123992]]],"type":"Polygon"}
+}

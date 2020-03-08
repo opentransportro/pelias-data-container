@@ -1,0 +1,116 @@
+{
+  "id": 1125791691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.58333,45.71667,24.58333,45.71667",
+    "geom:latitude":45.71667,
+    "geom:longitude":24.58333,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":1133,
+    "gn:population":1133,
+    "iso:country":"RO",
+    "lbl:latitude":45.71667,
+    "lbl:longitude":24.58333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "C\u00e2r\u021bi\u0219oara"
+    ],
+    "name:dut_x_preferred":[
+        "C\u00e2r\u021bi\u0219oara"
+    ],
+    "name:eng_x_preferred":[
+        "C\u00e2r\u021bi\u0219oara"
+    ],
+    "name:epo_x_preferred":[
+        "C\u00e2r\u021bi\u0219oara"
+    ],
+    "name:fre_x_preferred":[
+        "C\u00e2r\u021bi\u0219oara"
+    ],
+    "name:ger_x_preferred":[
+        "C\u00e2r\u021bi\u0219oara"
+    ],
+    "name:hun_x_preferred":[
+        "Kercis\u00f3ra"
+    ],
+    "name:ita_x_preferred":[
+        "C\u00e2r\u021bi\u0219oara"
+    ],
+    "name:may_x_preferred":[
+        "C\u00e2r\u021bi\u0219oara"
+    ],
+    "name:por_x_preferred":[
+        "C\u00e2r\u021bi\u0219oara"
+    ],
+    "name:rum_x_preferred":[
+        "C\u00e2r\u021bi\u0219oara"
+    ],
+    "name:unk_x_variant":[
+        "Streza-C\u00eer\u0163i\u015foara"
+    ],
+    "name:vol_x_preferred":[
+        "C\u00e2r\u021bi\u0219oara"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":681517,
+    "qs_pg:gn_pop":1133,
+    "qs_pg:name":"C\u00e2r\u0163i\u015foara",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":127823,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":681517,
+        "qs_pg:id":127823,
+        "wd:id":"Q1077860"
+    },
+    "wof:country":"RO",
+    "wof:created":1497290888,
+    "wof:geomhash":"6009c2963cffbdac1bb79b27b1bfad83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125791691,
+            "region_id":85687687
+        }
+    ],
+    "wof:id":1125791691,
+    "wof:lastmodified":1514499891,
+    "wof:name":"C\u00e2r\u0163i\u015foara",
+    "wof:parent_id":85687687,
+    "wof:placetype":"locality",
+    "wof:population":1133,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.58333,
+    45.71667,
+    24.58333,
+    45.71667
+],
+  "geometry": {"coordinates":[24.58333,45.71667],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 101794871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000054,
+    "geom:area_square_m":479084.025854,
+    "geom:bbox":"25.9458887554,43.9419192772,25.9559105298,43.9513575579",
+    "geom:latitude":43.947181,
+    "geom:longitude":25.95145,
+    "gn:population":1039,
+    "iso:country":"RO",
+    "lbl:latitude":43.947228,
+    "lbl:longitude":25.952209,
+    "mps:latitude":43.947228,
+    "mps:longitude":25.952209,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Turbatu"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Giurgiu",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Fr\u0103\u0163e\u015fti",
+    "qs:la_lc":"*RO30102909",
+    "qs:level":"locality",
+    "qs:loc":"Cetatea",
+    "qs:loc_alt":"Cetatea",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":682264,
+        "gp:id":869177,
+        "qs:id":262273,
+        "wd:id":"Q12170133"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"468cbca0b5c6d98dc55ee4288366b390",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101794871,
+            "region_id":85687591
+        }
+    ],
+    "wof:id":101794871,
+    "wof:lastmodified":1505337983,
+    "wof:name":"Cetatea",
+    "wof:parent_id":85687591,
+    "wof:placetype":"locality",
+    "wof:population":1039,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.94588875544042,
+    43.94191927721215,
+    25.95591052983957,
+    43.95135755788812
+],
+  "geometry": {"coordinates":[[[25.95591052983957,43.94894992276022],[25.95392004355801,43.94191927721215],[25.95147710027265,43.94230150534719],[25.95172584072293,43.94318034809845],[25.94928283350936,43.9435625253945],[25.94978027449127,43.94532021996253],[25.94855872499062,43.94551129378823],[25.94905617119412,43.9472689891283],[25.94783457940304,43.94746005533506],[25.94808330007749,43.94833890414338],[25.94686168353212,43.94852995933599],[25.9471103967411,43.94940881003487],[25.94588875544042,43.94959985421303],[25.94638617699968,43.95135755788812],[25.9549377601179,43.9500198985146],[25.95468892152019,43.94914107119723],[25.95591052983957,43.94894992276022]]],"type":"Polygon"}
+}

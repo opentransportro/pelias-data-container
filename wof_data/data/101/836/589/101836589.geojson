@@ -1,0 +1,95 @@
+{
+  "id": 101836589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000171,
+    "geom:area_square_m":1511752.308386,
+    "geom:bbox":"24.5268438082,44.2530655614,24.5536557433,44.2631221571",
+    "geom:latitude":44.257835,
+    "geom:longitude":24.540822,
+    "gn:population":2659,
+    "iso:country":"RO",
+    "lbl:latitude":44.258748,
+    "lbl:longitude":24.538141,
+    "mps:latitude":44.258748,
+    "mps:longitude":24.538141,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Alim\u0103ne\u0219ti"
+    ],
+    "name:eng_x_preferred":[
+        "Alim\u0103ne\u0219ti"
+    ],
+    "name:fre_x_preferred":[
+        "Alim\u0103ne\u0219ti"
+    ],
+    "name:ita_x_preferred":[
+        "Alim\u0103ne\u0219ti"
+    ],
+    "name:rum_x_preferred":[
+        "Alim\u0103ne\u0219ti"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043b\u0456\u043c\u0435\u043d\u0435\u0448\u0442\u044c"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Olt",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Izvoarele",
+    "qs:la_lc":"*RO41127386",
+    "qs:level":"locality",
+    "qs:loc":"Alim\u0103ne\u015fti",
+    "qs:loc_alt":"Alimanesti",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":686474,
+        "gp:id":15001321,
+        "qs:id":497347,
+        "wd:id":"Q12077925"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"f9f33c4c4195242fe7b72f46c246e995",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101836589,
+            "region_id":85687607
+        }
+    ],
+    "wof:id":101836589,
+    "wof:lastmodified":1514499736,
+    "wof:name":"Alim\u0103ne\u015fti",
+    "wof:parent_id":85687607,
+    "wof:placetype":"locality",
+    "wof:population":2659,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.52684380818391,
+    44.25306556138605,
+    24.55365574325822,
+    44.26312215709709
+],
+  "geometry": {"coordinates":[[[24.52684380818391,44.25348521653825],[24.53312377846214,44.26174551963027],[24.53463534993813,44.26153153039172],[24.53486423575259,44.26241405388419],[24.53609604580834,44.26223963808718],[24.53632495910591,44.26312215709709],[24.54125220457212,44.2624243354623],[24.54102321880168,44.26154182900433],[24.54595028420215,44.26084378649699],[24.54617934243907,44.2617262803991],[24.55356984742428,44.26067876014383],[24.55242410653705,44.25626637137037],[24.55365574325822,44.25609174930622],[24.55319747628931,44.25432679064892],[24.54580777238147,44.25537426655319],[24.54557876161027,44.25449176636698],[24.54311550939576,44.25484080203029],[24.54288654421174,44.25395829422109],[24.53796003155685,44.2546561779518],[24.53773114818131,44.2537736562461],[24.53649952132656,44.25394808757397],[24.53627066542344,44.25306556138605],[24.52764921610259,44.2542861502825],[24.52742049634548,44.25340360079866],[24.52684380818391,44.25348521653825]]],"type":"Polygon"}
+}

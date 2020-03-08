@@ -1,0 +1,107 @@
+{
+  "id": 85901739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":8630593.321871,
+    "geom:bbox":"26.300964,47.458841,26.300964,47.458841",
+    "geom:latitude":47.458841,
+    "geom:longitude":26.300964,
+    "gn:latitude":47.45,
+    "gn:longitude":26.3,
+    "iso:country":"RO",
+    "lbl:latitude":47.458841,
+    "lbl:longitude":26.300964,
+    "mps:latitude":47.458446,
+    "mps:longitude":26.299856,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:rum_x_preferred":[
+        "Cotu Iazului"
+    ],
+    "name:unk_x_variant":[
+        "Cotu Iazului"
+    ],
+    "qs:gn_adm0_cc":"RO",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":678459,
+    "qs:gn_nam_loc":"F\u0103lticeni, Suceava, RO",
+    "qs:gn_namadm1":"00",
+    "qs:gn_name":"Cotu Iazului",
+    "qs:local_max":9,
+    "qs:local_sum":9,
+    "qs:localhoods":1,
+    "qs:name":"Cotu Iazului",
+    "qs:name_adm0":"Rom\u00e2nia",
+    "qs:name_adm1":"Suceava",
+    "qs:name_local":"F\u0103lticeni",
+    "qs:photo_max":2,
+    "qs:photo_sum":9,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":8,
+    "qs:woe_adm0":23424933,
+    "qs:woe_adm1":2346647,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":871983,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        101783929,
+        85633745,
+        85687773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":680453,
+        "gp:id":870523,
+        "qs:id":911379,
+        "qs_pg:id":911379
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"5e9fe9fc91e2ccb0afc1730503669aa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101783929,
+            "neighbourhood_id":85901739,
+            "region_id":85687773
+        }
+    ],
+    "wof:id":85901739,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1531932555,
+    "wof:name":"Cotu Iazului",
+    "wof:parent_id":101783929,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.300964,
+    47.458841,
+    26.300964,
+    47.458841
+],
+  "geometry": {"coordinates":[26.300964,47.458841],"type":"Point"}
+}

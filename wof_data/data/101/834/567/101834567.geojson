@@ -1,0 +1,98 @@
+{
+  "id": 101834567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000106,
+    "geom:area_square_m":923857.397054,
+    "geom:bbox":"26.2007074285,44.9239066651,26.2178887651,44.9362847538",
+    "geom:latitude":44.929613,
+    "geom:longitude":26.208535,
+    "gn:population":2187,
+    "iso:country":"RO",
+    "lbl:latitude":44.929155,
+    "lbl:longitude":26.208405,
+    "mps:latitude":44.929155,
+    "mps:longitude":26.208405,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Vadu P\u0103rului"
+    ],
+    "name:eng_x_preferred":[
+        "Vadu P\u0103rului"
+    ],
+    "name:fre_x_preferred":[
+        "Vadu P\u0103rului"
+    ],
+    "name:ita_x_preferred":[
+        "Vadu P\u0103rului"
+    ],
+    "name:rum_x_preferred":[
+        "Vadu P\u0103rului"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0430\u0434\u0443-\u041f\u0435\u0440\u0443\u043b\u0443\u0439"
+    ],
+    "name:unk_x_variant":[
+        "V\u0103dul"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Prahova",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Albe\u015fti-Paleologu",
+    "qs:la_lc":"*RO42131933",
+    "qs:level":"locality",
+    "qs:loc":"Vadu P\u0103rului",
+    "qs:loc_alt":"Vadu Parului",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":663997,
+        "gp:id":882604,
+        "qs:id":1279738,
+        "wd:id":"Q12087216"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"93c79b529b715ae6c52bf3bbfab3fc67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101834567,
+            "region_id":85687661
+        }
+    ],
+    "wof:id":101834567,
+    "wof:lastmodified":1514500230,
+    "wof:name":"Vadu P\u0103rului",
+    "wof:parent_id":85687661,
+    "wof:placetype":"locality",
+    "wof:population":2187,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.20070742854466,
+    44.92390666513165,
+    26.2178887651225,
+    44.93628475380802
+],
+  "geometry": {"coordinates":[[[26.2016133629067,44.93572732805217],[26.20847604931464,44.93628475380802],[26.20775354786412,44.93384708582431],[26.20899532535952,44.93365242517524],[26.20873532996757,44.93277519050656],[26.21370228960086,44.93199641541287],[26.21344223181273,44.93111919344722],[26.21468393413431,44.93092446655112],[26.2141638141515,44.92917002521438],[26.2178887651225,44.92858577782454],[26.21762866638346,44.92770856555728],[26.21638704205674,44.92790332580375],[26.2161269723054,44.92702610848096],[26.21488535852689,44.92722085050724],[26.21462531776143,44.92634362812964],[26.21338371453157,44.92653835193647],[26.21260371132234,44.92390666513165],[26.20639585343207,44.9248800108864],[26.20665575243248,44.92575725907551],[26.20293089025205,44.9263411011608],[26.2031907451381,44.92721835849585],[26.20070742854466,44.92760752030688],[26.20096725758509,44.92848478323816],[26.20220893801678,44.92829020611822],[26.20246879603934,44.92916746399897],[26.20371048702958,44.92897286866054],[26.20475009930794,44.9324818709681],[26.20226656338241,44.93287107537139],[26.20304627535955,44.93550283263272],[26.2016133629067,44.93572732805217]]],"type":"Polygon"}
+}

@@ -1,0 +1,95 @@
+{
+  "id": 101790881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000051,
+    "geom:area_square_m":438999.682784,
+    "geom:bbox":"25.3936061517,45.5219680456,25.402406698,45.5374691579",
+    "geom:latitude":45.530797,
+    "geom:longitude":25.399155,
+    "gn:population":1825,
+    "iso:country":"RO",
+    "lbl:latitude":45.527955,
+    "lbl:longitude":25.399822,
+    "mps:latitude":45.527955,
+    "mps:longitude":25.399822,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Sohodol"
+    ],
+    "name:eng_x_preferred":[
+        "Sohodol"
+    ],
+    "name:epo_x_preferred":[
+        "Sohodol"
+    ],
+    "name:rum_x_preferred":[
+        "Sohodol"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043e\u0445\u043e\u0434\u043e\u043b"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Brasov",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Bran",
+    "qs:la_lc":"*RO19040633",
+    "qs:level":"locality",
+    "qs:loc":"Sohodol",
+    "qs:loc_alt":"Sohodol",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":666559,
+        "gp:id":880742,
+        "qs:id":1167605,
+        "qs_pg:id":1167605,
+        "wd:id":"Q3888915"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"0cc60234a0c9acc9c5bde49756439524",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101790881,
+            "region_id":85687683
+        }
+    ],
+    "wof:id":101790881,
+    "wof:lastmodified":1514500160,
+    "wof:name":"Sohodol",
+    "wof:parent_id":85687683,
+    "wof:placetype":"locality",
+    "wof:population":1825,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.39360615165572,
+    45.52196804563636,
+    25.40240669802631,
+    45.53746915794119
+],
+  "geometry": {"coordinates":[[[25.40089842225393,45.53709848488148],[25.400646919937,45.53621937020034],[25.40190421901269,45.53603401475664],[25.40089823880817,45.53251755589139],[25.40215545426844,45.53233219932469],[25.40114956616674,45.52881573196368],[25.40240669802631,45.52863037427375],[25.40165233526062,45.52599301946702],[25.40039526039118,45.52617836682225],[25.39938966639306,45.52266186047285],[25.39813265990074,45.52284717914881],[25.39788130664681,45.52196804563636],[25.39662431154892,45.52215334596627],[25.39712699057003,45.5239116184855],[25.39838402365456,45.52372631126849],[25.39913817792035,45.52636369927438],[25.39662399017811,45.52673431946886],[25.39737812497572,45.52937171560978],[25.3986352796407,45.52918640263186],[25.39989247603216,45.5335820178031],[25.39360615165572,45.53450851975418],[25.3938575274305,45.53538765583545],[25.39511482651488,45.53520238181261],[25.3953662317985,45.53608151305815],[25.39662354228608,45.53589622068466],[25.39687497708013,45.53677534709368],[25.39813229896993,45.53659003636903],[25.39838376327617,45.53746915794119],[25.40089842225393,45.53709848488148]]],"type":"Polygon"}
+}

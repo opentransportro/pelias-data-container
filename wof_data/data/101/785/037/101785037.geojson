@@ -1,0 +1,104 @@
+{
+  "id": 101785037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000112,
+    "geom:area_square_m":937452.575487,
+    "geom:bbox":"23.9616932467,47.440633882,23.9998120876,47.4495160876",
+    "geom:latitude":47.445819,
+    "geom:longitude":23.980258,
+    "gn:population":1478,
+    "iso:country":"RO",
+    "lbl:latitude":47.446622,
+    "lbl:longitude":23.981557,
+    "mps:latitude":47.446622,
+    "mps:longitude":23.981557,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Suciu de Jos"
+    ],
+    "name:eng_x_preferred":[
+        "Suciu de Jos"
+    ],
+    "name:epo_x_preferred":[
+        "Suciu de Jos"
+    ],
+    "name:fre_x_preferred":[
+        "Suciu de Jos"
+    ],
+    "name:hun_x_preferred":[
+        "Als\u00f3sz\u0151cs"
+    ],
+    "name:ita_x_preferred":[
+        "Suciu de Jos"
+    ],
+    "name:rum_x_preferred":[
+        "Suciu de Jos"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0443\u0447\u0443-\u0434\u0435-\u0416\u043e\u0441"
+    ],
+    "name:unk_x_variant":[
+        "Suciul-de-Jos"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Maramures",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Suciu de Sus",
+    "qs:la_lc":"*RO37109041",
+    "qs:level":"locality",
+    "qs:loc":"Suciu de Jos",
+    "qs:loc_alt":"Suciu de Jos",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":665840,
+        "gp:id":881264,
+        "qs:id":8,
+        "wd:id":"Q281261"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"0eb855010565f631a2432fdf1a13746c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101785037,
+            "region_id":85687761
+        }
+    ],
+    "wof:id":101785037,
+    "wof:lastmodified":1514500171,
+    "wof:name":"Suciu de Jos",
+    "wof:parent_id":85687761,
+    "wof:placetype":"locality",
+    "wof:population":1478,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.9616932467174,
+    47.44063388203114,
+    23.99981208758896,
+    47.44951608757162
+],
+  "geometry": {"coordinates":[[[23.98689652269792,47.44866943076795],[23.98665466753749,47.44778775048837],[23.98926704665109,47.44744898513181],[23.98878328318284,47.44568563439742],[23.99008941878486,47.44551623496886],[23.98984753167201,47.44463456117853],[23.99376582861419,47.44412627921929],[23.99352388847996,47.44324461426402],[23.99744205240927,47.44273620179791],[23.99720005926235,47.44185454567969],[23.99981208758896,47.44151553264851],[23.99957006262036,47.44063388203114],[23.99434605982731,47.44131183229752],[23.99458800006283,47.44219349626269],[23.98936378906603,47.44287121007983],[23.98960565509918,47.44375288621563],[23.98307511183924,47.44459969386878],[23.98283335174818,47.44371800105989],[23.97369041563991,47.44490285265488],[23.97344881441768,47.44402113534397],[23.9616932467174,47.44554336172695],[23.9619346571875,47.44642510901321],[23.96324088338582,47.4462560318799],[23.96348232557455,47.44713777466694],[23.97001344700067,47.44629213811311],[23.97049657491931,47.44805558687113],[23.97180281848131,47.44788640605071],[23.97204441942927,47.44876812534238],[23.97726940137898,47.44809123257335],[23.97751109764323,47.44897293736415],[23.98012358474824,47.44863439061919],[23.98036533393798,47.44951608757162],[23.98689652269792,47.44866943076795]]],"type":"Polygon"}
+}

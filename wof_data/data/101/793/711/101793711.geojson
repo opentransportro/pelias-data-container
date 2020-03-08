@@ -1,0 +1,101 @@
+{
+  "id": 101793711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000055,
+    "geom:area_square_m":489003.89787,
+    "geom:bbox":"25.9244610849,44.4703388727,25.9439039389,44.4823729225",
+    "geom:latitude":44.476197,
+    "geom:longitude":25.934778,
+    "gn:population":4330,
+    "iso:country":"RO",
+    "lbl:latitude":44.475663,
+    "lbl:longitude":25.935441,
+    "mps:latitude":44.475663,
+    "mps:longitude":25.935441,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Dragomire\u0219ti-Vale"
+    ],
+    "name:eng_x_preferred":[
+        "Dragomire\u0219ti-Vale"
+    ],
+    "name:fre_x_preferred":[
+        "Dragomire\u0219ti-Vale"
+    ],
+    "name:hun_x_preferred":[
+        "Dragomire\u0219ti-Vale"
+    ],
+    "name:rum_x_preferred":[
+        "Dragomire\u0219ti-Vale"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0440\u0430\u0433\u043e\u043c\u0456\u0440\u0435\u0448\u0442\u044c-\u0412\u0430\u043b\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Dragomire\u015ftii din Vale"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Ilfov",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Dragomire\u015fti-Vale",
+    "qs:la_lc":"*RO36102605",
+    "qs:level":"locality",
+    "qs:loc":"Dragomire\u015fti-Vale",
+    "qs:loc_alt":"Dragomiresti-Vale",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":678914,
+        "gp:id":871636,
+        "qs:id":275305,
+        "qs_pg:id":275305,
+        "wd:id":"Q1654023"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"c695c0cd83329104c30f0a3eb885eacd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101793711,
+            "region_id":85687611
+        }
+    ],
+    "wof:id":101793711,
+    "wof:lastmodified":1514499913,
+    "wof:name":"Dragomire\u015fti-Vale",
+    "wof:parent_id":85687611,
+    "wof:placetype":"locality",
+    "wof:population":4330,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.92446108491328,
+    44.47033887268208,
+    25.94390393894901,
+    44.48237292253663
+],
+  "geometry": {"coordinates":[[[25.94390393894901,44.47297409353945],[25.9431467304716,44.47033887268208],[25.94191415446073,44.47053013305015],[25.94216652900423,44.47140854493648],[25.94093392761403,44.47159979419575],[25.94118629451452,44.47247820804267],[25.93255775138067,44.47381656938938],[25.93306226462255,44.47557344087573],[25.93182955000771,44.47576458401528],[25.93208180413444,44.47664302097616],[25.92961631672307,44.47702527047113],[25.92986854522604,44.47790371283781],[25.92863577242821,44.47809481919234],[25.92888799327562,44.47897326351944],[25.92642238949441,44.47935543944106],[25.9266745847122,44.48023388917358],[25.92544175372734,44.48042495873943],[25.925693941286,44.48130341043253],[25.92446108491328,44.48149446888317],[25.92471326481137,44.48237292253663],[25.92841186560997,44.48179969316851],[25.92815963178845,44.48092124985021],[25.92939246591709,44.48073014771916],[25.9291402244387,44.47985170636196],[25.93037303317931,44.47966059311619],[25.93012078404468,44.47878215371941],[25.93875011177653,44.47744397746749],[25.93799304892497,44.47480872273712],[25.9429237145556,44.47404377167663],[25.94267130905075,44.47316536424984],[25.94390393894901,44.47297409353945]]],"type":"Polygon"}
+}

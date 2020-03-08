@@ -24,9 +24,7 @@ node scripts/create_index
 # Download data
 #==============
 
-$SCRIPTS/oa-loader.sh
 $SCRIPTS/osm-loader.sh
-$SCRIPTS/nlsfi-loader.sh
 $SCRIPTS/gtfs-loader.sh
 
 cd $TOOLS
@@ -38,9 +36,6 @@ rm -rf tpdc
 #=================
 # Index everything
 #=================
-
-node $TOOLS/pelias-nlsfi-places-importer/lib/index -d $DATA/nls-places
-echo '###### nlsfi places done'
 
 node $TOOLS/polylines/bin/cli.js --config --db
 echo '###### polylines done'
@@ -73,21 +68,9 @@ import_router router-finland
 import_router router-waltti
 echo '###### gtfs done'
 
-#import openaddresses data
-cd  $TOOLS/openaddresses
-
-# first import swedish OA docs
-node import.js --language=sv
-echo '###### openaddresses/sv done'
-
-# then import and merge fi data with sv docs
-node import.js --language=fi --merge --merge-fields=name
-echo '###### openaddresses/fi done'
 
 #cleanup
-rm -rf $DATA/openaddresses
 rm -rf $DATA/openstreetmap
-rm -rf $DATA/nls-places
 rm -rf $DATA/router-waltti
 rm -rf $DATA/router-finland
 rm -rf $DATA/wof_data

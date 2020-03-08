@@ -1,0 +1,89 @@
+{
+  "id": 1125850655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.03333,45.41667,28.03333,45.41667",
+    "geom:latitude":45.41667,
+    "geom:longitude":28.03333,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"RO",
+    "lbl:latitude":45.41667,
+    "lbl:longitude":28.03333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Zeglina"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":665118,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"\u0162iglina",
+    "qs_pg:name_adm0":"Rom\u00e2nia",
+    "qs_pg:name_adm1":"Galati",
+    "qs_pg:photos":17,
+    "qs_pg:photos_1k":3,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":17,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1096419,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424933,
+    "qs_pg:woe_id":881783,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424933,
+    "woe:name_adm0":"Rom\u00e2nia",
+    "woe:name_adm1":"Galati",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":665118,
+        "gp:id":881783,
+        "qs_pg:id":1096419
+    },
+    "wof:country":"RO",
+    "wof:created":1497293387,
+    "wof:geomhash":"75725a108fbb581e5bcf6431a62870b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125850655,
+            "region_id":85687709
+        }
+    ],
+    "wof:id":1125850655,
+    "wof:lastmodified":1509395906,
+    "wof:name":"\u0162iglina",
+    "wof:parent_id":85687709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.03333,
+    45.41667,
+    28.03333,
+    45.41667
+],
+  "geometry": {"coordinates":[28.03333,45.41667],"type":"Point"}
+}

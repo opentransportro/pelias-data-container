@@ -1,0 +1,111 @@
+{
+  "id": 101794731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000098,
+    "geom:area_square_m":868282.512385,
+    "geom:bbox":"23.9094701968,44.2097301751,23.9311566979,44.2165185531",
+    "geom:latitude":44.21276,
+    "geom:longitude":23.921007,
+    "gn:population":1929,
+    "iso:country":"RO",
+    "lbl:latitude":44.213205,
+    "lbl:longitude":23.923382,
+    "mps:latitude":44.213205,
+    "mps:longitude":23.923382,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0413\u0445\u0438\u043d\u0434\u0435\u043d\u0438"
+    ],
+    "name:dut_x_preferred":[
+        "Ghindeni"
+    ],
+    "name:eng_x_preferred":[
+        "Ghindeni"
+    ],
+    "name:fre_x_preferred":[
+        "Ghindeni"
+    ],
+    "name:ita_x_preferred":[
+        "Ghindeni"
+    ],
+    "name:may_x_preferred":[
+        "Ghindeni"
+    ],
+    "name:por_x_preferred":[
+        "Ghindeni"
+    ],
+    "name:rum_x_preferred":[
+        "Ghindeni"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0456\u043d\u0434\u0435\u043d\u044c"
+    ],
+    "name:vol_x_preferred":[
+        "Ghindeni"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Dolj",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Ghindeni",
+    "qs:la_lc":"*RO28074915",
+    "qs:level":"locality",
+    "qs:loc":"Ghindeni",
+    "qs:loc_alt":"Ghindeni",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a06dce-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":677355,
+        "gp:id":872801,
+        "qs:id":9,
+        "wd:id":"Q2608690"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"1a0a03a1f67e0e87a7b46f722f0e5723",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101794731,
+            "region_id":85687581
+        }
+    ],
+    "wof:id":101794731,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514499944,
+    "wof:name":"Ghindeni",
+    "wof:parent_id":85687581,
+    "wof:placetype":"locality",
+    "wof:population":1929,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.90947019675582,
+    44.20973017513239,
+    23.93115669787659,
+    44.21651855314587
+],
+  "geometry": {"coordinates":[[[23.92253065477826,44.21651855314587],[23.93115669787659,44.21534855382316],[23.93006105804739,44.21092785419],[23.92882887654179,44.21109502575314],[23.92860979369641,44.21021087895775],[23.92491326518234,44.21071229695337],[23.92469424592929,44.20982813985046],[23.91853332741334,44.21066352923231],[23.91831440817094,44.20977935581516],[23.91215341988823,44.21061436485684],[23.91193460065915,44.20973017513239],[23.90947019675582,44.21006407045138],[23.91034538172687,44.21360084566453],[23.91280993133131,44.21326692631692],[23.91324765042816,44.21503529419624],[23.92064136343305,44.21403314936674],[23.92107933694899,44.2158014760422],[23.92231163635637,44.21563439474352],[23.92253065477826,44.21651855314587]]],"type":"Polygon"}
+}

@@ -1,0 +1,123 @@
+{
+  "id": 101835073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000142,
+    "geom:area_square_m":1208040.16613,
+    "geom:bbox":"24.3069165908,46.4425063397,24.3354548934,46.4521849248",
+    "geom:latitude":46.446971,
+    "geom:longitude":24.320822,
+    "gn:population":2403,
+    "iso:country":"RO",
+    "lbl:latitude":46.446737,
+    "lbl:longitude":24.320823,
+    "mps:latitude":46.446737,
+    "mps:longitude":24.320823,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041e\u0433\u0440\u0430"
+    ],
+    "name:dut_x_preferred":[
+        "Ogra"
+    ],
+    "name:eng_x_preferred":[
+        "Ogra"
+    ],
+    "name:epo_x_preferred":[
+        "Ogra"
+    ],
+    "name:fre_x_preferred":[
+        "Ogra"
+    ],
+    "name:hun_x_preferred":[
+        "Marosugra"
+    ],
+    "name:ita_x_preferred":[
+        "Ogra"
+    ],
+    "name:may_x_preferred":[
+        "Ogra"
+    ],
+    "name:por_x_preferred":[
+        "Ogra"
+    ],
+    "name:rum_x_preferred":[
+        "Ogra"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0433\u0440\u0430"
+    ],
+    "name:vie_x_preferred":[
+        "Ogra"
+    ],
+    "name:vol_x_preferred":[
+        "Ogra"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Mures",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Ogra",
+    "qs:la_lc":"*RO39118575",
+    "qs:level":"locality",
+    "qs:loc":"Ogra",
+    "qs:loc_alt":"Ogra",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a2814a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":671948,
+        "gp:id":876761,
+        "qs:id":180672,
+        "qs_pg:id":180672,
+        "wd:id":"Q1090733"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"7c4710a68f397b117e91d6af488ec9e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101835073,
+            "region_id":85687719
+        }
+    ],
+    "wof:id":101835073,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514500052,
+    "wof:name":"Ogra",
+    "wof:parent_id":85687719,
+    "wof:placetype":"locality",
+    "wof:population":2403,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.30691659084096,
+    46.44250633974946,
+    24.33545489340776,
+    46.4521849247792
+],
+  "geometry": {"coordinates":[[[24.33481687349655,46.44895971391799],[24.33545489340776,46.44521792970841],[24.33430071841042,46.44537384795547],[24.33381965973911,46.44361103606821],[24.3312576045123,46.44395709458377],[24.33101713078281,46.44307568015557],[24.32333090656891,46.44411346956872],[24.32309056374788,46.44323203405105],[24.31796634544577,46.44392357518973],[24.3177260933179,46.44304212520456],[24.31516397962514,46.44338779758789],[24.31492377796781,46.44250633974946],[24.31364273004442,46.44267914974262],[24.31460351771375,46.44620498685822],[24.30691659084096,46.44724160559144],[24.3073968047695,46.44900455634502],[24.30995922402815,46.44865906460848],[24.31091993579696,46.4521849247792],[24.31604500670414,46.45149370524962],[24.31580473291058,46.45061225529111],[24.32092960394709,46.44992080474304],[24.32116995821144,46.45080224147625],[24.32373238917859,46.45045641800078],[24.32349199468172,46.44957498788187],[24.3247731788515,46.44940205655519],[24.32453277449713,46.44852062850003],[24.32581393108632,46.44834768521685],[24.32557351687547,46.44746625922562],[24.32941688150731,46.44694734771952],[24.32965735605569,46.44782876378679],[24.33350071381523,46.44730970498836],[24.3339818143661,46.44907251353584],[24.33481687349655,46.44895971391799]]],"type":"Polygon"}
+}

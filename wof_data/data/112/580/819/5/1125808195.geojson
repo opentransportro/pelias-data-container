@@ -1,0 +1,105 @@
+{
+  "id": 1125808195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.11667,44.51667,23.11667,44.51667",
+    "geom:latitude":44.51667,
+    "geom:longitude":23.11667,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1861,
+    "gn:population":1861,
+    "iso:country":"RO",
+    "lbl:latitude":44.51667,
+    "lbl:longitude":23.11667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Dumbrava de Sus"
+    ],
+    "name:eng_x_preferred":[
+        "Dumbrava de Sus"
+    ],
+    "name:rum_x_preferred":[
+        "Dumbrava de Sus"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u0443\u043c\u0431\u0440\u0430\u0432\u0430 \u0434\u0435 \u0421\u0443\u0441"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0443\u043c\u0431\u0440\u0430\u0432\u0430-\u0434\u0435-\u0421\u0443\u0441 "
+    ],
+    "name:unk_x_variant":[
+        "B\u0103l\u0163a\u0163ii de Sus"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":678719,
+    "qs_pg:gn_pop":1861,
+    "qs_pg:name":"Dumbrava de Sus",
+    "qs_pg:name_adm0":"Rom\u00e2nia",
+    "qs_pg:name_adm1":"Mehedinti",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":497544,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424933,
+    "qs_pg:woe_id":15001824,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424933,
+    "woe:name_adm0":"Rom\u00e2nia",
+    "woe:name_adm1":"Mehedinti",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":678719,
+        "gp:id":15001824,
+        "qs_pg:id":497544,
+        "wd:id":"Q12102832"
+    },
+    "wof:country":"RO",
+    "wof:created":1497291548,
+    "wof:geomhash":"38188f1b346f0257ff0005a4a7b4044f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125808195,
+            "region_id":85687599
+        }
+    ],
+    "wof:id":1125808195,
+    "wof:lastmodified":1514499919,
+    "wof:name":"Dumbrava de Sus",
+    "wof:parent_id":85687599,
+    "wof:placetype":"locality",
+    "wof:population":1861,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.11667,
+    44.51667,
+    23.11667,
+    44.51667
+],
+  "geometry": {"coordinates":[23.11667,44.51667],"type":"Point"}
+}

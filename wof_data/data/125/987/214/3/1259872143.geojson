@@ -1,0 +1,69 @@
+{
+  "id": 1259872143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.62314,47.10301,24.62314,47.10301",
+    "geom:latitude":47.10301,
+    "geom:longitude":24.62314,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"32884.0",
+    "gn:asciiname":"Petris",
+    "gn:country_code":"RO",
+    "gn:dem":409,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":670957,
+    "gn:latitude":47.10301,
+    "gn:longitude":24.62314,
+    "gn:modification_date":"2013-04-21",
+    "gn:name":"Petri\u0219",
+    "gn:population":1090,
+    "gn:timezone":"Europe/Bucharest",
+    "iso:country":"RO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":670957
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"19c6f8bd6edb2ed5947a6a5dee4684db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1259872143,
+            "region_id":85687753
+        }
+    ],
+    "wof:id":1259872143,
+    "wof:lastmodified":1536795795,
+    "wof:name":"Petris",
+    "wof:parent_id":85687753,
+    "wof:placetype":"locality",
+    "wof:population":1090,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.62314,
+    47.10301,
+    24.62314,
+    47.10301
+],
+  "geometry": {"coordinates":[24.62314,47.10301],"type":"Point"}
+}

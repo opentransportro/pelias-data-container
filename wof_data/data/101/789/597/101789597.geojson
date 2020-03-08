@@ -1,0 +1,120 @@
+{
+  "id": 101789597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000123,
+    "geom:area_square_m":1057462.448656,
+    "geom:bbox":"25.269092501,46.0345550445,25.2883758289,46.0475987881",
+    "geom:latitude":46.040896,
+    "geom:longitude":25.278582,
+    "gn:population":2344,
+    "iso:country":"RO",
+    "lbl:latitude":46.04106,
+    "lbl:longitude":25.280847,
+    "mps:latitude":46.04106,
+    "mps:longitude":25.280847,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Homorod"
+    ],
+    "name:eng_x_preferred":[
+        "Homorod"
+    ],
+    "name:epo_x_preferred":[
+        "Homorod"
+    ],
+    "name:fre_x_preferred":[
+        "Homorod"
+    ],
+    "name:ger_x_preferred":[
+        "Homorod"
+    ],
+    "name:hun_x_preferred":[
+        "Homor\u00f3d"
+    ],
+    "name:ita_x_preferred":[
+        "Homorod"
+    ],
+    "name:may_x_preferred":[
+        "Homorod"
+    ],
+    "name:por_x_preferred":[
+        "Homorod"
+    ],
+    "name:rum_x_preferred":[
+        "Homorod"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u043e\u043c\u043e\u0440\u043e\u0434"
+    ],
+    "name:vol_x_preferred":[
+        "Homorod"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Brasov",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Homorod",
+    "qs:la_lc":"*RO19041248",
+    "qs:level":"locality",
+    "qs:loc":"Homorod",
+    "qs:loc_alt":"Homorod",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a0e9c0-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":676056,
+        "gp:id":873745,
+        "qs:id":1092057,
+        "qs_pg:id":1092057,
+        "wd:id":"Q1070950"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"280ae8162bb5e82545d025d3b3378e76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101789597,
+            "region_id":85687683
+        }
+    ],
+    "wof:id":101789597,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514499969,
+    "wof:name":"Homorod",
+    "wof:parent_id":85687683,
+    "wof:placetype":"locality",
+    "wof:population":2344,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.26909250095537,
+    46.03455504452228,
+    25.28837582894892,
+    46.04759878809142
+],
+  "geometry": {"coordinates":[[[25.27492138874288,46.047414689128],[25.27441498198141,46.04565650502104],[25.27568418869515,46.04547239793169],[25.27517778569245,46.04371421532346],[25.27898524230392,46.04316182447144],[25.27923849694412,46.0440409060372],[25.28177680153641,46.04367256317295],[25.28203010585366,46.04455163642888],[25.28329926599991,46.04436743891779],[25.28380594569933,46.04612557439339],[25.28634432067571,46.04575712026269],[25.28583756300287,46.04399899868639],[25.28837582894892,46.04363049817698],[25.28685557869755,46.0383561424353],[25.28558656654138,46.03854037937515],[25.28533324841118,46.03766131183926],[25.28406424798061,46.03784553023746],[25.28381096002749,46.03696645786454],[25.28127297485878,46.03733484251052],[25.28152622383811,46.03821392183062],[25.27645008244201,46.03895052419938],[25.27518433415696,46.03455504452228],[25.27010845842142,46.03529133636329],[25.27036150876137,46.03617044890763],[25.26909250095537,46.03635448766892],[25.26934554248567,46.03723360232237],[25.2718835893229,46.03686550278985],[25.27264289493951,46.03950281775587],[25.2701047311574,46.03987093811514],[25.27086401596364,46.04250826165622],[25.27213316021198,46.04232419859682],[25.27289259965596,46.04496149947073],[25.2716233969212,46.04514557294573],[25.27212970431884,46.04690377366569],[25.27339894604813,46.04671969324596],[25.27365213527469,46.04759878809142],[25.27492138874288,46.047414689128]]],"type":"Polygon"}
+}

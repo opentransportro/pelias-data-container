@@ -1,0 +1,98 @@
+{
+  "id": 101835467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000061,
+    "geom:area_square_m":548534.032778,
+    "geom:bbox":"25.0739023032,43.7395943173,25.1117059019,43.7476007524",
+    "geom:latitude":43.742522,
+    "geom:longitude":25.092028,
+    "gn:population":1241,
+    "iso:country":"RO",
+    "lbl:latitude":43.741342,
+    "lbl:longitude":25.091742,
+    "mps:latitude":43.741342,
+    "mps:longitude":25.091742,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "N\u0103vodari"
+    ],
+    "name:eng_x_preferred":[
+        "N\u0103vodari"
+    ],
+    "name:fre_x_preferred":[
+        "N\u0103vodari"
+    ],
+    "name:ita_x_preferred":[
+        "N\u0103vodari"
+    ],
+    "name:rum_x_preferred":[
+        "N\u0103vodari"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0435\u0432\u043e\u0434\u0430\u0440\u0456 "
+    ],
+    "name:unk_x_variant":[
+        "Cioara"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Teleorman",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Lisa",
+    "qs:la_lc":"*RO47153124",
+    "qs:level":"locality",
+    "qs:loc":"N\u0103vodari",
+    "qs:loc_alt":"Navodari",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":672487,
+        "gp:id":876370,
+        "qs:id":1,
+        "wd:id":"Q12133081"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"49fd21fdf967f52af00846187896bc34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101835467,
+            "region_id":85687585
+        }
+    ],
+    "wof:id":101835467,
+    "wof:lastmodified":1514500049,
+    "wof:name":"N\u0103vodari",
+    "wof:parent_id":85687585,
+    "wof:placetype":"locality",
+    "wof:population":1241,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.07390230321221,
+    43.73959431733823,
+    25.11170590194075,
+    43.74760075243591
+],
+  "geometry": {"coordinates":[[[25.07390230321221,43.74673381637376],[25.07423392268134,43.74760075243591],[25.08145035214847,43.74653230182417],[25.08121639167223,43.74565081755156],[25.08487535652762,43.74510875640271],[25.0846413527841,43.74422728031078],[25.0883002039468,43.74368509907964],[25.08806615694334,43.74280363116964],[25.0990421863936,43.74117633823596],[25.09927639156069,43.74205777732834],[25.10415452094259,43.7413341486137],[25.10438880587213,43.74221557347039],[25.11170590194075,43.74112967896008],[25.11147151159344,43.74024827333159],[25.10781304678608,43.74079127580285],[25.10757871862671,43.73990985913679],[25.10270074088606,43.74063364792073],[25.10246649248353,43.73975221701625],[25.09758847655314,43.74047576247642],[25.09735430790795,43.73959431733823],[25.08637853379065,43.74122142297261],[25.08661254428017,43.74210289692371],[25.08417337370213,43.74246432386735],[25.08440735850894,43.74334580279884],[25.08074849912015,43.74388784474809],[25.08098244066275,43.74476933185952],[25.07732346759491,43.74531125372278],[25.07755736586614,43.74619274901289],[25.07390230321221,43.74673381637376]]],"type":"Polygon"}
+}

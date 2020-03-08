@@ -1,0 +1,92 @@
+{
+  "id": 1125857035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.65,45.3,24.65,45.3",
+    "geom:latitude":45.3,
+    "geom:longitude":24.65,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":5613,
+    "gn:population":5613,
+    "iso:country":"RO",
+    "lbl:latitude":45.3,
+    "lbl:longitude":24.65,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Corbeni"
+    ],
+    "name:eng_x_preferred":[
+        "Corbeni"
+    ],
+    "name:ita_x_preferred":[
+        "Corbeni"
+    ],
+    "name:rum_x_preferred":[
+        "Corbeni"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0440\u0431\u0435\u043d\u044c "
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":680888,
+    "qs_pg:gn_pop":5613,
+    "qs_pg:name":"Corbeni",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":275325,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":680888,
+        "qs_pg:id":275325,
+        "wd:id":"Q12112749"
+    },
+    "wof:country":"RO",
+    "wof:created":1497293663,
+    "wof:geomhash":"ee9ab7f5f9952c16eea102c1609d39a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125857035,
+            "region_id":85687645
+        }
+    ],
+    "wof:id":1125857035,
+    "wof:lastmodified":1514499869,
+    "wof:name":"Corbeni",
+    "wof:parent_id":85687645,
+    "wof:placetype":"locality",
+    "wof:population":5613,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.65,
+    45.3,
+    24.65,
+    45.3
+],
+  "geometry": {"coordinates":[24.65,45.3],"type":"Point"}
+}

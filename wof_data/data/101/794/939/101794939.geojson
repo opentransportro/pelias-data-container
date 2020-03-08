@@ -1,0 +1,114 @@
+{
+  "id": 101794939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000072,
+    "geom:area_square_m":628687.431663,
+    "geom:bbox":"23.0299297424,44.694315351,23.0523370383,44.700101549",
+    "geom:latitude":44.697075,
+    "geom:longitude":23.041899,
+    "gn:population":5946,
+    "iso:country":"RO",
+    "lbl:latitude":44.696961,
+    "lbl:longitude":23.044871,
+    "mps:latitude":44.696961,
+    "mps:longitude":23.044871,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Corcova"
+    ],
+    "name:eng_x_preferred":[
+        "Corcova"
+    ],
+    "name:fre_x_preferred":[
+        "Corcova"
+    ],
+    "name:ita_x_preferred":[
+        "Corcova"
+    ],
+    "name:may_x_preferred":[
+        "Corcova"
+    ],
+    "name:por_x_preferred":[
+        "Corcova"
+    ],
+    "name:rum_x_preferred":[
+        "Corcova"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0440\u043a\u043e\u0432\u0430"
+    ],
+    "name:vie_x_preferred":[
+        "Corcova"
+    ],
+    "name:vol_x_preferred":[
+        "Corcova"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Mehedinti",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Corcova",
+    "qs:la_lc":"*RO38111275",
+    "qs:level":"locality",
+    "qs:loc":"Corcova",
+    "qs:loc_alt":"Corcova",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"039f20e0-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":680841,
+        "gp:id":870240,
+        "qs:id":630121,
+        "qs_pg:id":630121,
+        "wd:id":"Q2353798"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"a77a1cc5ddb69107f796f137113ff047",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101794939,
+            "region_id":85687599
+        }
+    ],
+    "wof:id":101794939,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514499869,
+    "wof:name":"Corcova",
+    "wof:parent_id":85687599,
+    "wof:placetype":"locality",
+    "wof:population":5946,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.02992974241539,
+    44.694315351017,
+    23.05233703826013,
+    44.70010154904736
+],
+  "geometry": {"coordinates":[[[23.04901954327119,44.69963098224105],[23.04860309646654,44.69785910990367],[23.05233703826013,44.69738842703941],[23.05212877137586,44.69650249769319],[23.05088414912439,44.69665940392025],[23.05046767882936,44.69488753594095],[23.04797849091455,44.69520129251543],[23.04777030630345,44.694315351017],[23.04279193121226,44.69494267504365],[23.043000040609,44.69582862800212],[23.03677683812555,44.69661246423522],[23.03636081599785,44.69484052849555],[23.03262693291782,44.69531063538551],[23.03241899118854,44.69442465715269],[23.02992974241539,44.69473798199215],[23.03034555925626,44.69650994872336],[23.03159022435631,44.69635328798245],[23.03200611324922,44.69812524425856],[23.03698486210828,44.69749843032997],[23.03719289470445,44.69838439524159],[23.03843758522186,44.69822765187945],[23.03885371387372,44.69999957242504],[23.04507726147455,44.69921560487353],[23.04528543276666,44.70010154904736],[23.04901954327119,44.69963098224105]]],"type":"Polygon"}
+}

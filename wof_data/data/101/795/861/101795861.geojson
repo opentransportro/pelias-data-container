@@ -1,0 +1,102 @@
+{
+  "id": 101795861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000178,
+    "geom:area_square_m":1586985.113452,
+    "geom:bbox":"22.8793996623,43.9383198752,22.9031305982,43.9512832453",
+    "geom:latitude":43.944965,
+    "geom:longitude":22.892286,
+    "gn:population":2577,
+    "iso:country":"RO",
+    "lbl:latitude":43.944656,
+    "lbl:longitude":22.894264,
+    "mps:latitude":43.944656,
+    "mps:longitude":22.894264,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Ciupercenii Vechi"
+    ],
+    "name:eng_x_preferred":[
+        "Ciuperceni"
+    ],
+    "name:fre_x_preferred":[
+        "Ciupercenii Vechi"
+    ],
+    "name:ita_x_preferred":[
+        "Ciupercenii Vechi"
+    ],
+    "name:rum_x_preferred":[
+        "Ciupercenii Vechi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0443\u043f\u0435\u0440\u0447\u0435\u043d\u0456\u0439-\u0412\u0435\u043a\u0456"
+    ],
+    "name:unk_x_variant":[
+        "Ciuperceni"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Dolj",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Calafat",
+    "qs:la_lc":"*RO28070352",
+    "qs:level":"locality",
+    "qs:loc":"Ciupercenii Vechi",
+    "qs:loc_alt":"Ciupercenii Vechi",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"039eedaa-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":681395,
+        "gp:id":869821,
+        "qs:id":7,
+        "wd:id":"Q12170821"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"8b77345bedca0483526630c8338e2f0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101795861,
+            "region_id":85687581
+        }
+    ],
+    "wof:id":101795861,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514499852,
+    "wof:name":"Ciupercenii Vechi",
+    "wof:parent_id":85687581,
+    "wof:placetype":"locality",
+    "wof:population":2577,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.87939966234774,
+    43.93831987515307,
+    22.90313059822722,
+    43.95128324534409
+],
+  "geometry": {"coordinates":[[[22.89718731576352,43.94884956036896],[22.89698588315855,43.94796266562389],[22.90313059822722,43.94718875022528],[22.90111581495563,43.93831987515307],[22.89742954946951,43.93878418506199],[22.89763093618342,43.93967108629357],[22.8914869515246,43.94044465810941],[22.89168825549348,43.94133157198456],[22.87939966234774,43.94287764867897],[22.8796007925626,43.94376458902752],[22.88082969657921,43.94361004427168],[22.88143319113271,43.94627084981045],[22.88266214386272,43.94611628215767],[22.88326576700069,43.94877706858426],[22.88449476844687,43.94862247803218],[22.88509852019342,43.95128324534409],[22.89247273278227,43.95035534565454],[22.89227136475444,43.94946844103157],[22.89718731576352,43.94884956036896]]],"type":"Polygon"}
+}

@@ -1,0 +1,104 @@
+{
+  "id": 101788737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000124,
+    "geom:area_square_m":1057396.128786,
+    "geom:bbox":"24.9280834096,46.2857465572,24.9459454018,46.2986052576",
+    "geom:latitude":46.291934,
+    "geom:longitude":24.935898,
+    "gn:population":1104,
+    "iso:country":"RO",
+    "lbl:latitude":46.29299,
+    "lbl:longitude":24.935018,
+    "mps:latitude":46.29299,
+    "mps:longitude":24.935018,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0415\u043b\u0438\u0441\u0435\u043d\u0438"
+    ],
+    "name:dut_x_preferred":[
+        "Eliseni"
+    ],
+    "name:eng_x_preferred":[
+        "Eliseni"
+    ],
+    "name:epo_x_preferred":[
+        "Eliseni"
+    ],
+    "name:fre_x_preferred":[
+        "Eliseni"
+    ],
+    "name:hun_x_preferred":[
+        "Sz\u00e9kelyszenterzs\u00e9bet"
+    ],
+    "name:rum_x_preferred":[
+        "Eliseni"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u043b\u0456\u0441\u0435\u043d\u044c"
+    ],
+    "name:unk_x_variant":[
+        "Sz\u00e8kelyszenterzs\u00e8bet"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Harghita",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Secuieni",
+    "qs:la_lc":"*RO32085582",
+    "qs:level":"locality",
+    "qs:loc":"Eliseni",
+    "qs:loc_alt":"Eliseni",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":678578,
+        "gp:id":871893,
+        "qs:id":4,
+        "wd:id":"Q714072"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"849c7a84ed09d105f16e4c7c63c6a9e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101788737,
+            "region_id":85687733
+        }
+    ],
+    "wof:id":101788737,
+    "wof:lastmodified":1514499923,
+    "wof:name":"Eliseni",
+    "wof:parent_id":85687733,
+    "wof:placetype":"locality",
+    "wof:population":1104,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.92808340958425,
+    46.28574655718461,
+    24.9459454018496,
+    46.29860525762507
+],
+  "geometry": {"coordinates":[[[24.93595950716036,46.29824492616513],[24.93571004045418,46.29736506125602],[24.9369860076755,46.29718487619141],[24.93673653174562,46.29630501339284],[24.9405643277417,46.29576437743901],[24.94006528877424,46.29400466845198],[24.94261703499814,46.29364418232694],[24.94236749178168,46.29276433271241],[24.94364333352627,46.29258407031915],[24.94339378109424,46.29170422281516],[24.9459454018496,46.2913436593692],[24.9449471396029,46.28782428360239],[24.94367141230805,46.2880045592027],[24.94342189303899,46.28712470854208],[24.94214617784775,46.28730496554607],[24.9423956773104,46.2881848196331],[24.94111993461104,46.28836506489358],[24.94136942485903,46.28924492109019],[24.93754209112944,46.28978557612652],[24.93729266030681,46.28890570965245],[24.93474110560436,46.28926606363871],[24.9337436466663,46.28574655718461],[24.92864076183037,46.28646702832054],[24.93013653832134,46.29174636228623],[24.92886067900696,46.29192646268518],[24.9293593162252,46.293686237001],[24.92808340958425,46.29386632907523],[24.92833272425679,46.29474621768463],[24.92960865071393,46.29456612218632],[24.92985799579026,46.29544600605681],[24.93113393436511,46.29526589196109],[24.93188209257733,46.29790552540851],[24.93315808290458,46.29772538586474],[24.9334075099747,46.29860525762507],[24.93595950716036,46.29824492616513]]],"type":"Polygon"}
+}

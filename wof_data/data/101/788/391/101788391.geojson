@@ -1,0 +1,98 @@
+{
+  "id": 101788391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000116,
+    "geom:area_square_m":997611.858941,
+    "geom:bbox":"27.2002695991,45.9808338509,27.2214787439,45.9929708706",
+    "geom:latitude":45.987834,
+    "geom:longitude":27.213283,
+    "gn:population":1077,
+    "iso:country":"RO",
+    "lbl:latitude":45.989059,
+    "lbl:longitude":27.214327,
+    "mps:latitude":45.989059,
+    "mps:longitude":27.214327,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Ciorani"
+    ],
+    "name:eng_x_preferred":[
+        "Ciorani"
+    ],
+    "name:fre_x_preferred":[
+        "Ciorani"
+    ],
+    "name:ita_x_preferred":[
+        "Ciorani"
+    ],
+    "name:rum_x_preferred":[
+        "Ciorani"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u043e\u0440\u0430\u043d\u044c "
+    ],
+    "name:unk_x_variant":[
+        "Cioranii"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Vrancea",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Pufe\u015fti",
+    "qs:la_lc":"*RO52177352",
+    "qs:level":"locality",
+    "qs:loc":"Ciorani",
+    "qs:loc_alt":"Ciorani",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":681673,
+        "gp:id":869617,
+        "qs:id":507715,
+        "wd:id":"Q12170457"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"afe8aaf70c17a11d27079a723aefaef1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101788391,
+            "region_id":85687705
+        }
+    ],
+    "wof:id":101788391,
+    "wof:lastmodified":1514499848,
+    "wof:name":"Ciorani",
+    "wof:parent_id":85687705,
+    "wof:placetype":"locality",
+    "wof:population":1077,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.2002695990866,
+    45.98083385091775,
+    27.2214787439334,
+    45.99297087059256
+],
+  "geometry": {"coordinates":[[[27.21264300027383,45.99297087059256],[27.2214787439334,45.99152019600268],[27.22005542971897,45.98715393524867],[27.2213175496172,45.9869466558003],[27.22103290363714,45.98607340274555],[27.21850869301653,45.98648793897308],[27.21765494009628,45.98386814695124],[27.22017903724088,45.98345363401006],[27.2193252781471,45.98083385091775],[27.21680129446617,45.98124834057529],[27.21708583108961,45.98212161096211],[27.21582380736601,45.98232883731396],[27.21610833699788,45.98320210998605],[27.21232215720204,45.98382371124899],[27.21289113874428,45.98557027508923],[27.20910476763254,45.98619176547459],[27.2088203276486,45.98531847271363],[27.20755820556712,45.98552560248299],[27.20784262663409,45.98639889912295],[27.20405615176264,45.98702021062473],[27.20377178744849,45.98614690234962],[27.20124746548032,45.98656102772469],[27.20153179195614,45.98743434375518],[27.2002695990866,45.98764138795883],[27.20083824993532,45.98938802299688],[27.20462491613318,45.98876682239552],[27.2049093161919,45.98964012589119],[27.20743375493453,45.98922590985887],[27.20771820475079,45.99009920400357],[27.21024264674293,45.98968492058088],[27.21109618123046,45.99230477017579],[27.21235844601404,45.99209759446239],[27.21264300027383,45.99297087059256]]],"type":"Polygon"}
+}

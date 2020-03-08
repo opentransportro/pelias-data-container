@@ -1,0 +1,87 @@
+{
+  "id": 101786201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000029,
+    "geom:area_square_m":249365.43279,
+    "geom:bbox":"27.4587268529,46.6402651384,27.4711974887,46.6494059074",
+    "geom:latitude":46.644899,
+    "geom:longitude":27.46355,
+    "gn:population":1308,
+    "iso:country":"RO",
+    "lbl:latitude":46.644355,
+    "lbl:longitude":27.463456,
+    "mps:latitude":46.644355,
+    "mps:longitude":27.463456,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rum_x_preferred":[
+        "Balica"
+    ],
+    "name:unk_x_variant":[
+        "Valea C\u00eenepei"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Vaslui",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Iv\u0103ne\u015fti",
+    "qs:la_lc":"*RO50164393",
+    "qs:level":"locality",
+    "qs:loc":"Iv\u0103ne\u015fti",
+    "qs:loc_alt":"Ivanesti",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a6590a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":675427,
+        "gp:id":15001385,
+        "qs:id":8,
+        "wd:id":"Q2724536"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"5cf1f6338622abcde874f5f119be34f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101786201,
+            "region_id":85687743
+        }
+    ],
+    "wof:id":101786201,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1505337929,
+    "wof:name":"Iv\u0103ne\u015fti",
+    "wof:parent_id":85687743,
+    "wof:placetype":"locality",
+    "wof:population":1308,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.4587268528665,
+    46.64026513841281,
+    27.47119748867584,
+    46.64940590735887
+],
+  "geometry": {"coordinates":[[[27.46079125558197,46.64047565943781],[27.46226221881085,46.64483553050445],[27.46098571533196,46.64504605650342],[27.46127992596416,46.64591802989628],[27.4587268528665,46.64633904465211],[27.45902103709477,46.64721102445941],[27.46029759762729,46.64700052061374],[27.46088604239202,46.64874446737093],[27.46216263271771,46.64853394040972],[27.46245689325741,46.64940590735887],[27.46373349393446,46.64919536129418],[27.46285069142783,46.64657946765396],[27.46412722469518,46.64636891853968],[27.46383296270989,46.64549695478388],[27.46638596310038,46.64507581931605],[27.46609167471883,46.64420386197577],[27.47119748867584,46.64336142603645],[27.47090313503503,46.64248948314059],[27.4645209420371,46.64354247027541],[27.46422669804582,46.64267050569862],[27.4629502516151,46.6428810538489],[27.4620676527955,46.64026513841281],[27.46079125558197,46.64047565943781]]],"type":"Polygon"}
+}

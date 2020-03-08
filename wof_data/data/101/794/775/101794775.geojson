@@ -1,0 +1,95 @@
+{
+  "id": 101794775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0001,
+    "geom:area_square_m":878190.935677,
+    "geom:bbox":"23.5373853453,44.5309924632,23.5603507336,44.5386517317",
+    "geom:latitude":44.535021,
+    "geom:longitude":23.549796,
+    "gn:population":1187,
+    "iso:country":"RO",
+    "lbl:latitude":44.535373,
+    "lbl:longitude":23.549013,
+    "mps:latitude":44.535373,
+    "mps:longitude":23.549013,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "R\u0103carii de Sus"
+    ],
+    "name:eng_x_preferred":[
+        "R\u0103carii de Sus"
+    ],
+    "name:fre_x_preferred":[
+        "R\u0103carii de Sus"
+    ],
+    "name:ita_x_preferred":[
+        "R\u0103carii de Sus"
+    ],
+    "name:rum_x_preferred":[
+        "R\u0103carii de Sus"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0435\u043a\u0430\u0440\u0456\u0439-\u0434\u0435-\u0421\u0443\u0441"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Dolj",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Filia\u015fi",
+    "qs:la_lc":"*RO28070414",
+    "qs:level":"locality",
+    "qs:loc":"R\u0103carii de Sus",
+    "qs:loc_alt":"Racarii de Sus",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":669400,
+        "gp:id":878713,
+        "qs:id":412392,
+        "wd:id":"Q12147457"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"83f52cf1efe39a38ebc1f25b89b3ff0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101794775,
+            "region_id":85687581
+        }
+    ],
+    "wof:id":101794775,
+    "wof:lastmodified":1514500125,
+    "wof:name":"R\u0103carii de Sus",
+    "wof:parent_id":85687581,
+    "wof:placetype":"locality",
+    "wof:population":1187,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.53738534532863,
+    44.53099246320198,
+    23.56035073360664,
+    44.53865173168703
+],
+  "geometry": {"coordinates":[[[23.54838101683583,44.53865173168703],[23.55830136880098,44.5373490863393],[23.55808607180882,44.53646426906937],[23.55932606851803,44.53630137507952],[23.5591107618414,44.53541655953018],[23.56035073360664,44.53525365377141],[23.55948952141921,44.53171439102294],[23.55824962388579,44.5318772849451],[23.55803436158232,44.53099246320198],[23.55679447622276,44.53115533943838],[23.55722497258932,44.53292498760345],[23.55102526449451,44.53373917745643],[23.55059495370892,44.53196949971198],[23.54687516364561,44.53245781914484],[23.54666007723273,44.53157296954521],[23.54294028544916,44.5320611475579],[23.54315531618266,44.53294600602544],[23.54067538599168,44.53327139030409],[23.54089038846689,44.53415625344559],[23.53965039524604,44.5343189264471],[23.53986538802201,44.53520379130669],[23.53738534532863,44.53552909903249],[23.5378152832136,44.53729883686134],[23.5464955809486,44.53615996068112],[23.54692581419567,44.53792965217968],[23.54816586834443,44.53776689075102],[23.54838101683583,44.53865173168703]]],"type":"Polygon"}
+}

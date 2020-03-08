@@ -1,0 +1,104 @@
+{
+  "id": 101789789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000084,
+    "geom:area_square_m":718263.317403,
+    "geom:bbox":"23.9110380256,46.0933921929,23.9373255515,46.1020084315",
+    "geom:latitude":46.098019,
+    "geom:longitude":23.923317,
+    "gn:population":1037,
+    "iso:country":"RO",
+    "lbl:latitude":46.097522,
+    "lbl:longitude":23.920927,
+    "mps:latitude":46.097522,
+    "mps:longitude":23.920927,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Cerg\u0103u Mare"
+    ],
+    "name:eng_x_preferred":[
+        "Cerg\u0103u Mare"
+    ],
+    "name:epo_x_preferred":[
+        "Cerg\u0103u Mare"
+    ],
+    "name:fre_x_preferred":[
+        "Cerg\u0103u Mare"
+    ],
+    "name:hun_x_preferred":[
+        "Magyarcserged"
+    ],
+    "name:ita_x_preferred":[
+        "Cerg\u0103u Mare"
+    ],
+    "name:rum_x_preferred":[
+        "Cerg\u0103u Mare"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0435\u0440\u0433\u0435\u0443-\u041c\u0430\u0440\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Cerg\u0103ul-Mare"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Alba",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Cerg\u0103u",
+    "qs:la_lc":"*RO11003805",
+    "qs:level":"locality",
+    "qs:loc":"Cerg\u0103u Mare",
+    "qs:loc_alt":"Cergau Mare",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":682360,
+        "gp:id":869109,
+        "qs:id":409844,
+        "wd:id":"Q741543"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"7eb2512352f52eba6e8d0fddcd42874b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101789789,
+            "region_id":85687697
+        }
+    ],
+    "wof:id":101789789,
+    "wof:lastmodified":1514499837,
+    "wof:name":"Cerg\u0103u Mare",
+    "wof:parent_id":85687697,
+    "wof:placetype":"locality",
+    "wof:population":1037,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.91103802556057,
+    46.09339219293628,
+    23.93732555151286,
+    46.10200843152518
+],
+  "geometry": {"coordinates":[[[23.92180569316434,46.10028614863819],[23.92562786690291,46.09978224314312],[23.92585923644526,46.10066496167371],[23.92713329997957,46.1004969596309],[23.92736469921783,46.10137967376198],[23.93373500931614,46.10053941992288],[23.93350351068375,46.09965672172086],[23.93732555151286,46.09915239682346],[23.93709400307267,46.09826970696628],[23.9332720218722,46.09877402230347],[23.93304054288046,46.09789132167106],[23.93049255950189,46.09822744962963],[23.93026113008102,46.09734474141021],[23.92771315793129,46.0976808022823],[23.92748177807914,46.09679808647786],[23.92493381716486,46.09713408026499],[23.92470248687965,46.09625135687656],[23.92342851560682,46.09641932781767],[23.92296592422576,46.09465387103],[23.91914408690661,46.09515767367975],[23.91868165401928,46.09339219293628],[23.91103802556057,46.0943993502238],[23.91126911784079,46.09528211029345],[23.91254309359857,46.0951142855111],[23.91277421556049,46.09599704118659],[23.91659615973765,46.09549346621947],[23.91682735113983,46.09637621113558],[23.91810133816347,46.09620831927282],[23.91902628137154,46.09973927406963],[23.91775221482982,46.09990717866373],[23.91798345527599,46.10078991751175],[23.91543526105272,46.10112568752481],[23.91566647154383,46.10200843152518],[23.9220370030659,46.10116887672189],[23.92180569316434,46.10028614863819]]],"type":"Polygon"}
+}

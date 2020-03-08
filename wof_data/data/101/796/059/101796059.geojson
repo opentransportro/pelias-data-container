@@ -1,0 +1,112 @@
+{
+  "id": 101796059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000115,
+    "geom:area_square_m":1018036.744562,
+    "geom:bbox":"22.9693858551,44.1681639984,22.9977470812,44.1762406942",
+    "geom:latitude":44.17203,
+    "geom:longitude":22.985071,
+    "iso:country":"RO",
+    "lbl:latitude":44.171762,
+    "lbl:longitude":22.98507,
+    "mps:latitude":44.171762,
+    "mps:longitude":22.98507,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Ob\u00e2r\u0219ia de C\u00e2mp"
+    ],
+    "name:eng_x_preferred":[
+        "Ob\u00e2r\u0219ia de C\u00e2mp"
+    ],
+    "name:fra_x_preferred":[
+        "Ob\u00e2r\u0219ia de C\u00e2mp"
+    ],
+    "name:fre_x_preferred":[
+        "Ob\u00e2r\u0219ia de C\u00e2mp"
+    ],
+    "name:hbs_x_preferred":[
+        "Op\u0161tina Ob\u00e2r\u015fia De C\u00e2mp"
+    ],
+    "name:ita_x_preferred":[
+        "Ob\u00e2r\u0219ia de C\u00e2mp"
+    ],
+    "name:msa_x_preferred":[
+        "Ob\u00e2r\u015fia de C\u00e2mp"
+    ],
+    "name:nld_x_preferred":[
+        "Ob\u00e2r\u0219ia de C\u00e2mp"
+    ],
+    "name:por_x_preferred":[
+        "Ob\u00e2r\u015fia de C\u00e2mp"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Ob\u00e2r\u0219ia de C\u00e2mp"
+    ],
+    "name:rum_x_preferred":[
+        "Ob\u00e2r\u0219ia de C\u00e2mp"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0431\u0438\u0440\u0448\u0456\u044f-\u0434\u0435-\u041a\u0438\u043c\u043f"
+    ],
+    "name:vol_x_preferred":[
+        "Ob\u00e2r\u015fia de C\u00e2mp"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Mehedinti",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Ob\u00e2r\u015fia de C\u00e2mp",
+    "qs:la_lc":"*RO38112744",
+    "qs:level":"locality",
+    "qs:loc":"Ob\u00e2r\u015fia de C\u00e2mp",
+    "qs:loc_alt":"Obarsia de Camp",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":50,
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":876664,
+        "qs:id":8,
+        "wd:id":"Q12134899"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"5f6617eed18d5fb7612c47e6a62f133c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101796059,
+            "region_id":85687599
+        }
+    ],
+    "wof:id":101796059,
+    "wof:lastmodified":1527642037,
+    "wof:name":"Ob\u00e2r\u015fia de C\u00e2mp",
+    "wof:parent_id":85687599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.96938585506848,
+    44.16816399836443,
+    22.99774708119128,
+    44.17624069422305
+],
+  "geometry": {"coordinates":[[[22.98458665949238,44.17592894983028],[22.98417844564352,44.1741559424911],[22.98911257907156,44.17353230028726],[22.98931675529468,44.174418793325],[22.99671788536153,44.17348287348398],[22.99651359892312,44.17259639730156],[22.99774708119128,44.17244036217613],[22.99754278476365,44.17155388760239],[22.99630932086268,44.17170991991782],[22.99549229239329,44.16816399836443],[22.97822419537272,44.17034675469802],[22.97842818278366,44.17123327619686],[22.97226062818561,44.17201214992485],[22.97205673262846,44.17112561439916],[22.97082322207467,44.17128134237083],[22.97061935325098,44.17039480284086],[22.96938585506848,44.17055051335188],[22.9697935643332,44.17232359682072],[22.97102709925986,44.17216788070107],[22.97123098480705,44.17305441783208],[22.97246453210568,44.17289868425098],[22.97287236503632,44.17467174930454],[22.97657308115669,44.17420444378831],[22.97677706529026,44.17509096609899],[22.98171134288322,44.17446767565445],[22.98211948324149,44.17624069422305],[22.98458665949238,44.17592894983028]]],"type":"Polygon"}
+}

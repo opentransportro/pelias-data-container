@@ -1,0 +1,113 @@
+{
+  "id": 1125855753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.16667,45.21667,26.16667,45.21667",
+    "geom:latitude":45.21667,
+    "geom:longitude":26.16667,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":1376,
+    "gn:population":982,
+    "iso:country":"RO",
+    "lbl:latitude":45.21667,
+    "lbl:longitude":26.16667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Aricestii Zeletin"
+    ],
+    "name:eng_x_preferred":[
+        "Arice\u0219tii Zeletin"
+    ],
+    "name:fre_x_preferred":[
+        "Arice\u0219tii Zeletin"
+    ],
+    "name:hun_x_preferred":[
+        "Arice\u0219tii Zeletin"
+    ],
+    "name:ita_x_preferred":[
+        "Arice\u0219tii Zeletin"
+    ],
+    "name:may_x_preferred":[
+        "Arice\u0219tii Zeletin"
+    ],
+    "name:por_x_preferred":[
+        "Arice\u0219tii Zeletin"
+    ],
+    "name:rum_x_preferred":[
+        "Arice\u0219tii Zeletin"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0440\u0456\u0447\u0435\u0448\u0442\u0456\u0439-\u0417\u0435\u043b\u0435\u0442\u0456\u043d"
+    ],
+    "name:unk_x_variant":[
+        "Arice\u0219ti"
+    ],
+    "name:vie_x_preferred":[
+        "Aricestii-Zeletin"
+    ],
+    "name:vol_x_preferred":[
+        "Arice\u0219tii Zeletin"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":686173,
+    "qs_pg:gn_pop":1376,
+    "qs_pg:name":"Arice\u015fti-Zeletin",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":128115,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":686173,
+        "qs_pg:id":128115,
+        "wd:id":"Q628631"
+    },
+    "wof:country":"RO",
+    "wof:created":1497293610,
+    "wof:geomhash":"fbbe78f7808515228a4142566dbc3464",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125855753,
+            "region_id":85687661
+        }
+    ],
+    "wof:id":1125855753,
+    "wof:lastmodified":1514499745,
+    "wof:name":"Arice\u015fti-Zeletin",
+    "wof:parent_id":85687661,
+    "wof:placetype":"locality",
+    "wof:population":982,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.16667,
+    45.21667,
+    26.16667,
+    45.21667
+],
+  "geometry": {"coordinates":[26.16667,45.21667],"type":"Point"}
+}

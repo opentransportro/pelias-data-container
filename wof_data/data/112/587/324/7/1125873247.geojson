@@ -1,0 +1,108 @@
+{
+  "id": 1125873247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.51667,45.36667,27.51667,45.36667",
+    "geom:latitude":45.36667,
+    "geom:longitude":27.51667,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":3017,
+    "gn:population":3017,
+    "iso:country":"RO",
+    "lbl:latitude":45.36667,
+    "lbl:longitude":27.51667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Salcia Tudor"
+    ],
+    "name:eng_x_preferred":[
+        "Salcia Tudor"
+    ],
+    "name:fre_x_preferred":[
+        "Salcia Tudor"
+    ],
+    "name:ita_x_preferred":[
+        "Salcia Tudor"
+    ],
+    "name:rum_x_preferred":[
+        "Salcia Tudor"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043b\u0447\u0430-\u0422\u0443\u0434\u043e\u0440"
+    ],
+    "name:unk_x_variant":[
+        "Domni\u0163a Ileana"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":668198,
+    "qs_pg:gn_pop":3017,
+    "qs_pg:name":"Salcia Tudor",
+    "qs_pg:name_adm0":"Rom\u00e2nia",
+    "qs_pg:name_adm1":"Braila",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":127091,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424933,
+    "qs_pg:woe_id":879550,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424933,
+    "woe:name_adm0":"Rom\u00e2nia",
+    "woe:name_adm1":"Braila",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":668198,
+        "gp:id":879550,
+        "qs_pg:id":127091,
+        "wd:id":"Q12150289"
+    },
+    "wof:country":"RO",
+    "wof:created":1497294406,
+    "wof:geomhash":"4b69b90ec2e22d61ec50d962b7783556",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125873247,
+            "region_id":85687663
+        }
+    ],
+    "wof:id":1125873247,
+    "wof:lastmodified":1514500130,
+    "wof:name":"Salcia Tudor",
+    "wof:parent_id":85687663,
+    "wof:placetype":"locality",
+    "wof:population":3017,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.51667,
+    45.36667,
+    27.51667,
+    45.36667
+],
+  "geometry": {"coordinates":[27.51667,45.36667],"type":"Point"}
+}

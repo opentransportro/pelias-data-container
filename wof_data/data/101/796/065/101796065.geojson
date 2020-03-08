@@ -1,0 +1,108 @@
+{
+  "id": 101796065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000132,
+    "geom:area_square_m":1167701.603884,
+    "geom:bbox":"22.8323838479,44.1843500369,22.8609962183,44.1995804293",
+    "geom:latitude":44.190649,
+    "geom:longitude":22.849511,
+    "gn:population":1928,
+    "iso:country":"RO",
+    "lbl:latitude":44.188679,
+    "lbl:longitude":22.850487,
+    "mps:latitude":44.188679,
+    "mps:longitude":22.850487,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Vrata"
+    ],
+    "name:eng_x_preferred":[
+        "Vrata"
+    ],
+    "name:fre_x_preferred":[
+        "Vrata"
+    ],
+    "name:ita_x_preferred":[
+        "Vrata"
+    ],
+    "name:may_x_preferred":[
+        "Vrata"
+    ],
+    "name:por_x_preferred":[
+        "Vrata"
+    ],
+    "name:rum_x_preferred":[
+        "Vrata"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0440\u0430\u0442\u0430"
+    ],
+    "name:vol_x_preferred":[
+        "Vrata"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Mehedinti",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Vatra",
+    "qs:la_lc":"*RO38114079",
+    "qs:level":"locality",
+    "qs:loc":"Vrata",
+    "qs:loc_alt":"Vrata",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a62520-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":662441,
+        "gp:id":883861,
+        "qs:id":8,
+        "wd:id":"Q2357474"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"31bf6fa8cf1f3f006f0b27618f373810",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101796065,
+            "region_id":85687599
+        }
+    ],
+    "wof:id":101796065,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514500250,
+    "wof:name":"Vrata",
+    "wof:parent_id":85687599,
+    "wof:placetype":"locality",
+    "wof:population":1928,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.83238384793077,
+    44.18435003691479,
+    22.8609962182511,
+    44.19958042925822
+],
+  "geometry": {"coordinates":[[[22.8609962182511,44.19055754850189],[22.85958054679332,44.18435003691479],[22.84723991735075,44.18589328677763],[22.84744194716421,44.18678010552566],[22.84620783307668,44.18693435262202],[22.84661188075768,44.1887079921147],[22.84537772389922,44.18886223010259],[22.84578176792303,44.19063587040478],[22.84454756828973,44.19079009928373],[22.84474958432577,44.19167692043357],[22.84351536032813,44.19183113742298],[22.84371736624144,44.19271796016528],[22.84248311787871,44.19287216526482],[22.8426851136677,44.19375898959953],[22.84021656225997,44.19406736134755],[22.84041852950702,44.19495419005403],[22.83794991746583,44.1952625086787],[22.83815185616641,44.19614934175644],[22.83568318349108,44.19645760725507],[22.83608701208101,44.19823128096556],[22.83238384793077,44.19869358584742],[22.83258571939268,44.19958042925822],[22.83875772200514,44.19880983387014],[22.83855575843575,44.19792300435211],[22.84102448098974,44.19761466905254],[22.84082248887125,44.19672784390644],[22.84575978888722,44.19611100837284],[22.84555773138936,44.19522419315945],[22.8467920230957,44.19506995037983],[22.84638789614746,44.19329632195206],[22.84885638804064,44.19298780350482],[22.84865430017828,44.19210099307099],[22.8609962182511,44.19055754850189]]],"type":"Polygon"}
+}

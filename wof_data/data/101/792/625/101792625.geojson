@@ -1,0 +1,108 @@
+{
+  "id": 101792625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000332,
+    "geom:area_square_m":2923973.099734,
+    "geom:bbox":"27.1687586547,44.6035338016,27.2002312059,44.6224161624",
+    "geom:latitude":44.613114,
+    "geom:longitude":27.182558,
+    "iso:country":"RO",
+    "lbl:latitude":44.612846,
+    "lbl:longitude":27.18232,
+    "mps:latitude":44.612846,
+    "mps:longitude":27.18232,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Ji\u0159\u00ed D\u00f3\u017ea"
+    ],
+    "name:deu_x_preferred":[
+        "Gy\u00f6rgy D\u00f3zsa"
+    ],
+    "name:epo_x_preferred":[
+        "Gy\u00f6rgy D\u00f3zsa"
+    ],
+    "name:fin_x_preferred":[
+        "Gy\u00f6rgy D\u00f3zsa"
+    ],
+    "name:fra_x_preferred":[
+        "Gy\u00f6rgy D\u00f3zsa"
+    ],
+    "name:hun_x_preferred":[
+        "D\u00f3zsa Gy\u00f6rgy"
+    ],
+    "name:hye_x_preferred":[
+        "\u0534\u0575\u0578\u0580\u0564 \u0534\u0578\u056a\u0561"
+    ],
+    "name:ita_x_preferred":[
+        "Gy\u00f6rgy D\u00f3zsa"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c9\u30fc\u30b8\u30e3\u30fb\u30b8\u30a7\u30eb\u30b8"
+    ],
+    "name:pol_x_preferred":[
+        "Gy\u00f6rgy D\u00f3zsa"
+    ],
+    "name:unk_x_variant":[
+        "D\u00f2zsa Gy\u00f6rgy"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Ialomita",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Gheorghe Doja",
+    "qs:la_lc":"*RO34093600",
+    "qs:level":"locality",
+    "qs:loc":"Gheorghe Doja",
+    "qs:loc_alt":"Gheorghe Doja",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":677466,
+        "gp:id":872721,
+        "qs:id":9,
+        "qs_pg:id":1278544
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"9e81c7c53b2c7da8028bb10de73b4935",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101792625,
+            "region_id":85687621
+        }
+    ],
+    "wof:id":101792625,
+    "wof:lastmodified":1504310356,
+    "wof:name":"Gheorghe Doja",
+    "wof:parent_id":85687621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.16875865467887,
+    44.60353380157017,
+    27.20023120590037,
+    44.6224161623756
+],
+  "geometry": {"coordinates":[[[27.18229462529916,44.62159201769578],[27.18202163330017,44.62071751134937],[27.18695056174352,44.61989314938171],[27.18667750982911,44.61901865627567],[27.19160623889189,44.61819407703609],[27.19187936186108,44.61906855527258],[27.19434371378861,44.61865617116831],[27.19407055529473,44.61778170036786],[27.20023120590037,44.61675050481506],[27.19968474477548,44.61500159551997],[27.198452666219,44.61520785620672],[27.19763311146176,44.61258446890184],[27.19393698747621,44.61320313045832],[27.19366387813272,44.61232865361484],[27.19119979088828,44.61274101468598],[27.1901076070551,44.60924306130818],[27.19133958366064,44.60903690289308],[27.19052050955736,44.60641343193026],[27.18805665485627,44.60682571195747],[27.18723778757175,44.6042022040603],[27.1860059014586,44.60440831117035],[27.18573298573301,44.60353380157017],[27.18450110935913,44.60373989046082],[27.18477400733201,44.60461440377577],[27.16875865467887,44.60729228766621],[27.17148593847679,44.61603781421996],[27.17271811436149,44.61583187305951],[27.17380941078557,44.61933002335127],[27.17504164972416,44.61912405282567],[27.17586029233138,44.62174763734578],[27.17709257655963,44.62154164116635],[27.17736549748514,44.6224161623756],[27.18229462529916,44.62159201769578]]],"type":"Polygon"}
+}

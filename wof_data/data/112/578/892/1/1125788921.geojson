@@ -1,0 +1,122 @@
+{
+  "id": 1125788921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.81667,44.88333,28.81667,44.88333",
+    "geom:latitude":44.88333,
+    "geom:longitude":28.81667,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":1258,
+    "iso:country":"RO",
+    "lbl:latitude":44.88333,
+    "lbl:longitude":28.81667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041d\u043e\u0432\u043e \u0441\u0435\u043b\u043e"
+    ],
+    "name:dut_x_preferred":[
+        "Enisala"
+    ],
+    "name:eng_x_preferred":[
+        "Enisala"
+    ],
+    "name:fre_x_preferred":[
+        "Enisala"
+    ],
+    "name:ger_x_preferred":[
+        "Enisala"
+    ],
+    "name:hun_x_preferred":[
+        "Enisala"
+    ],
+    "name:rum_x_preferred":[
+        "Enisala"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u043d\u0456\u0441\u0430\u043b\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Yeni sala"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":678568,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Enisala",
+    "qs_pg:name_adm0":"Rom\u00e2nia",
+    "qs_pg:name_adm1":"Tulcea",
+    "qs_pg:photos":91,
+    "qs_pg:photos_1k":18,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":91,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":478411,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424933,
+    "qs_pg:woe_id":871902,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424933,
+    "woe:name_adm0":"Rom\u00e2nia",
+    "woe:name_adm1":"Tulcea",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":678568,
+        "gp:id":871902,
+        "qs_pg:id":478411,
+        "wd:id":"Q989764"
+    },
+    "wof:country":"RO",
+    "wof:created":1497290785,
+    "wof:geomhash":"0c9cca80e86c3ea14ee1fc6ff92f6bbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125788921,
+            "region_id":85687679
+        }
+    ],
+    "wof:id":1125788921,
+    "wof:lastmodified":1534379452,
+    "wof:name":"Enisala",
+    "wof:parent_id":85687679,
+    "wof:placetype":"locality",
+    "wof:population":1258,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[
+        101790781
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.81667,
+    44.88333,
+    28.81667,
+    44.88333
+],
+  "geometry": {"coordinates":[28.81667,44.88333],"type":"Point"}
+}

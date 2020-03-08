@@ -1,0 +1,95 @@
+{
+  "id": 101834785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00021,
+    "geom:area_square_m":1826140.861547,
+    "geom:bbox":"26.7478415486,45.2502297936,26.7680267062,45.2704195339",
+    "geom:latitude":45.260591,
+    "geom:longitude":26.75793,
+    "gn:population":3982,
+    "iso:country":"RO",
+    "lbl:latitude":45.262016,
+    "lbl:longitude":26.757777,
+    "mps:latitude":45.262016,
+    "mps:longitude":26.757777,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Cern\u0103te\u0219ti"
+    ],
+    "name:eng_x_preferred":[
+        "Cern\u0103te\u0219ti"
+    ],
+    "name:ita_x_preferred":[
+        "Cern\u0103te\u0219ti"
+    ],
+    "name:rum_x_preferred":[
+        "Cern\u0103te\u0219ti"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0435\u0440\u043d\u0435\u0442\u0435\u0448\u0442\u044c"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Buzau",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Vintil\u0103 Voda",
+    "qs:la_lc":"*RO21050228",
+    "qs:level":"locality",
+    "qs:loc":"Cern\u0103te\u015fti",
+    "qs:loc_alt":"Cernatesti",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":682329,
+        "gp:id":869132,
+        "qs:id":941099,
+        "qs_pg:id":275340,
+        "wd:id":"Q4685349"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"5948b168c3348fb8f1b6f14d9c26220c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101834785,
+            "region_id":85687667
+        }
+    ],
+    "wof:id":101834785,
+    "wof:lastmodified":1514499838,
+    "wof:name":"Cern\u0103te\u015fti",
+    "wof:parent_id":85687667,
+    "wof:placetype":"locality",
+    "wof:population":3982,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.74784154862158,
+    45.25022979355055,
+    26.76802670624335,
+    45.27041953389607
+],
+  "geometry": {"coordinates":[[[26.76544102046302,45.25022979355055],[26.7524633608208,45.25483592635567],[26.75306029969516,45.2567629473445],[26.75181304645315,45.25696425132884],[26.75289772479726,45.26046550252977],[26.75165038980197,45.26066680658624],[26.75192156902949,45.26154211919493],[26.74942683789135,45.26194469052837],[26.74969799151182,45.26282000897947],[26.74845059536756,45.26302127625559],[26.74926406831116,45.26564723337066],[26.7480166088078,45.26584849701726],[26.74828777048225,45.26672381664332],[26.74784154862158,45.26679580407693],[26.76253241256182,45.27041953389607],[26.761033541855,45.26558576150728],[26.76477576321764,45.26498146236679],[26.76396155997008,45.26235564782462],[26.76271421620169,45.26255708449094],[26.76190016926307,45.25993124482272],[26.76314745779842,45.25972981926208],[26.76260477916253,45.25797925909819],[26.76509925826491,45.25757637860943],[26.76482789897346,45.25670110359408],[26.76607510795168,45.25649964496529],[26.76553238624092,45.25474909766388],[26.76802670624335,45.25434615104382],[26.76775532542172,45.25347088245945],[26.76650818787971,45.25367235942929],[26.76544102046302,45.25022979355055]]],"type":"Polygon"}
+}

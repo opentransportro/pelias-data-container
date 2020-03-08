@@ -1,0 +1,98 @@
+{
+  "id": 101789707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000143,
+    "geom:area_square_m":1216954.115897,
+    "geom:bbox":"21.6907976263,46.460822784,21.7118873229,46.4739591861",
+    "geom:latitude":46.467138,
+    "geom:longitude":21.702932,
+    "gn:population":1032,
+    "iso:country":"RO",
+    "lbl:latitude":46.46694,
+    "lbl:longitude":21.704849,
+    "mps:latitude":46.46694,
+    "mps:longitude":21.704849,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Cherelu\u0219"
+    ],
+    "name:eng_x_preferred":[
+        "Cherelu\u0219"
+    ],
+    "name:epo_x_preferred":[
+        "Cherelu\u0219"
+    ],
+    "name:fre_x_preferred":[
+        "Cherelu\u0219"
+    ],
+    "name:hun_x_preferred":[
+        "Ker\u00fcl\u0151s"
+    ],
+    "name:rum_x_preferred":[
+        "Cherelu\u0219"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0435\u0440\u0435\u043b\u0443\u0448"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Arad",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"\u015eicula",
+    "qs:la_lc":"*RO12012242",
+    "qs:level":"locality",
+    "qs:loc":"Cherelu\u015f",
+    "qs:loc_alt":"Cherelus",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":682193,
+        "gp:id":869230,
+        "qs:id":409869,
+        "wd:id":"Q747171"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"666352a48960ceb12c82ad89e6d26804",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101789707,
+            "region_id":85687691
+        }
+    ],
+    "wof:id":101789707,
+    "wof:lastmodified":1514499841,
+    "wof:name":"Cherelu\u015f",
+    "wof:parent_id":85687691,
+    "wof:placetype":"locality",
+    "wof:population":1032,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.69079762628905,
+    46.46082278398916,
+    21.71188732290091,
+    46.47395918607367
+],
+  "geometry": {"coordinates":[[[21.70950822659074,46.4723638218955],[21.70931133693682,46.47147605567335],[21.71188732290091,46.47119291896001],[21.7110996831114,46.46764186600149],[21.70981177610406,46.46778343117262],[21.70882752034822,46.46334457912667],[21.70753971078096,46.46348611524161],[21.70694932098081,46.46082278398916],[21.70308604179309,46.46124727523454],[21.70328276778662,46.46213506147711],[21.69813155983718,46.46270084466698],[21.69832821140898,46.4635886408131],[21.69446467868289,46.46401282434283],[21.69466127654215,46.4649006276681],[21.69079762628905,46.46532468047377],[21.69119072301368,46.46710030049258],[21.69247865402991,46.46695895954758],[21.69287182599601,46.46873457018],[21.69931159604369,46.46802760674376],[21.69950829832925,46.46891539696981],[21.70079625460102,46.46877395526042],[21.70158323119585,46.47232509540578],[21.70287126421653,46.47218362736845],[21.70326484471116,46.47395918607367],[21.70712903119022,46.47353467301059],[21.70693217452873,46.47264690232515],[21.70950822659074,46.4723638218955]]],"type":"Polygon"}
+}

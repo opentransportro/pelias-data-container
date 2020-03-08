@@ -1,0 +1,129 @@
+{
+  "id": 101788679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000174,
+    "geom:area_square_m":1476210.077268,
+    "geom:bbox":"23.9462654961,46.6558813932,23.9845338587,46.6706869322",
+    "geom:latitude":46.661807,
+    "geom:longitude":23.958552,
+    "gn:population":4247,
+    "iso:country":"RO",
+    "lbl:latitude":46.662294,
+    "lbl:longitude":23.956957,
+    "mps:latitude":46.662294,
+    "mps:longitude":23.956957,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Ceanu Mare"
+    ],
+    "name:eng_x_preferred":[
+        "Ceanul-Mare"
+    ],
+    "name:epo_x_preferred":[
+        "Ceanu Mare"
+    ],
+    "name:fre_x_preferred":[
+        "Ceanu Mare"
+    ],
+    "name:ger_x_preferred":[
+        "Ceanu Mare"
+    ],
+    "name:hun_x_preferred":[
+        "Mez\u0151cs\u00e1n"
+    ],
+    "name:ita_x_preferred":[
+        "Ceanu Mare"
+    ],
+    "name:may_x_preferred":[
+        "Ceanu Mare"
+    ],
+    "name:por_x_preferred":[
+        "Ceanu Mare"
+    ],
+    "name:rum_x_preferred":[
+        "Ceanu Mare"
+    ],
+    "name:spa_x_preferred":[
+        "Ceanu Mare"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0430\u043d\u0443-\u041c\u0430\u0440\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Ceanul-Mare"
+    ],
+    "name:vie_x_preferred":[
+        "Ceanu Mare"
+    ],
+    "name:vol_x_preferred":[
+        "Ceanu Mare"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Cluj",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Ceanu Mare",
+    "qs:la_lc":"*RO24056844",
+    "qs:level":"locality",
+    "qs:loc":"Ceanu Mare",
+    "qs:loc_alt":"Ceanu Mare",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"039e83d8-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":682473,
+        "gp:id":869024,
+        "qs:id":1278126,
+        "qs_pg:id":1278126,
+        "wd:id":"Q663597"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"7c946817e060b36128dc9c45e8082260",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101788679,
+            "region_id":85687727
+        }
+    ],
+    "wof:id":101788679,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514499834,
+    "wof:name":"Ceanu Mare",
+    "wof:parent_id":85687727,
+    "wof:placetype":"locality",
+    "wof:population":4247,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.9462654961431,
+    46.65588139324575,
+    23.9845338587204,
+    46.6706869321709
+],
+  "geometry": {"coordinates":[[[23.95213907787877,46.6706869321709],[23.95342647604815,46.67051834576455],[23.95319072313055,46.66963608508934],[23.95447809350918,46.66946748657057],[23.95400657717795,46.66770296812598],[23.95658121415005,46.66736573800108],[23.95634543032185,46.66648348347957],[23.9602072692453,46.66597753284583],[23.95997143428895,46.66509528687226],[23.96254591588166,46.66475791615619],[23.96231005021656,46.66387567548315],[23.96488446149198,46.66353824983503],[23.96417680273851,46.66089154012479],[23.9680381806665,46.66038531572195],[23.96780225342911,46.65950308650463],[23.9845338587204,46.65730789273175],[23.98429767637208,46.65642570458539],[23.9817237052153,46.65676358909792],[23.98148757379352,46.65588139324575],[23.97505261876512,46.65672581957352],[23.9752886481848,46.65760803168507],[23.9714275254367,46.6581145129843],[23.97119155722442,46.65723229112035],[23.96475630716662,46.65807610326959],[23.96499217335702,46.65895834138234],[23.96113087363528,46.65946445415415],[23.96065927380516,46.65769995723986],[23.95293672026378,46.65871172919765],[23.95270105795936,46.65782945946108],[23.9462654961431,46.65867216423192],[23.9476790092591,46.66396586208037],[23.94896625882507,46.66379733236647],[23.94967321306757,46.66644415540628],[23.94838590225356,46.66661269485854],[23.94862155346851,46.66749497005918],[23.94990888469999,46.66732642736065],[23.95014456644276,46.6682086981188],[23.95143191072407,46.66804013681394],[23.95213907787877,46.6706869321709]]],"type":"Polygon"}
+}

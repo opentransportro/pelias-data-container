@@ -1,0 +1,120 @@
+{
+  "id": 101790789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000186,
+    "geom:area_square_m":1626519.491431,
+    "geom:bbox":"28.5398870832,44.8973781687,28.5715806475,44.9109503492",
+    "geom:latitude":44.901804,
+    "geom:longitude":28.554106,
+    "iso:country":"RO",
+    "lbl:latitude":44.901218,
+    "lbl:longitude":28.554106,
+    "mps:latitude":44.901218,
+    "mps:longitude":28.554106,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0633\u0644\u0627\u0641\u0627 \u062a\u0634\u064a\u0631\u0643\u064a\u0627\u0632\u0627"
+    ],
+    "name:dut_x_preferred":[
+        "Slava Cerchez\u0103"
+    ],
+    "name:eng_x_preferred":[
+        "Slava Cerchez\u0103"
+    ],
+    "name:fre_x_preferred":[
+        "Slava Cerchez\u0103"
+    ],
+    "name:hbs_x_preferred":[
+        "Op\u0161tina Slava Cerchez\u0103"
+    ],
+    "name:hun_x_preferred":[
+        "Slava Cerchez\u0103"
+    ],
+    "name:ita_x_preferred":[
+        "Slava Cerchez\u0103"
+    ],
+    "name:may_x_preferred":[
+        "Slava Cerchez\u0103"
+    ],
+    "name:msa_x_preferred":[
+        "Slava Cerchez\u0103"
+    ],
+    "name:nld_x_preferred":[
+        "Slava Cerchez\u0103"
+    ],
+    "name:por_x_preferred":[
+        "Slava Cerchez\u0103"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Slava Cerchez\u0103"
+    ],
+    "name:rum_x_preferred":[
+        "Slava Cerchez\u0103"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043b\u0430\u0432\u0430-\u0427\u0435\u0440\u043a\u0435\u0437\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043b\u0430\u0432\u0430-\u0427\u0435\u0440\u043a\u0435\u0437\u0435"
+    ],
+    "name:vie_x_preferred":[
+        "Slava Cercheza"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Tulcea",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Slava Cerchez\u0103",
+    "qs:la_lc":"*RO49161259",
+    "qs:level":"locality",
+    "qs:loc":"Slava Cercheza",
+    "qs:loc_alt":"Slava Cercheza",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":152,
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "qs:id":8,
+        "wd:id":"Q3916986"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"4c166ae709c9758fffa7ea649ee7284d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101790789,
+            "region_id":85687679
+        }
+    ],
+    "wof:id":101790789,
+    "wof:lastmodified":1527641604,
+    "wof:name":"Slava Cercheza",
+    "wof:parent_id":85687679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.53988708317439,
+    44.8973781687173,
+    28.57158064749956,
+    44.91095034922796
+],
+  "geometry": {"coordinates":[[[28.55119667050968,44.90635920312644],[28.55060285214842,44.90461970235458],[28.55800706838374,44.9032847701061],[28.55830407718781,44.9041544972286],[28.5681760168967,44.90237374436805],[28.56847317872376,44.90324343747528],[28.56970714945044,44.9030207741738],[28.56940997001396,44.90215108509568],[28.57064391438661,44.90192841134285],[28.5703467294797,44.90105872450169],[28.57158064749956,44.90083604029786],[28.57098627888371,44.89909666929736],[28.56975239607715,44.89931934544296],[28.5694552475797,44.89844965322516],[28.56575359951728,44.89911758269818],[28.56515944456129,44.8973781687173],[28.55899003236738,44.89849105463122],[28.55869306112191,44.89762132481826],[28.55252351850595,44.89873382859429],[28.55222664743332,44.89786407686177],[28.54852486985999,44.89853139328272],[28.54822806374324,44.89766162768615],[28.54329230848288,44.89855116408108],[28.54358904415056,44.89942094577361],[28.53988708317439,44.90008795808285],[28.54077720436146,44.90269732863891],[28.54201125293326,44.9024749936147],[28.54290153605655,44.90508433600473],[28.5441356287468,44.90486197442578],[28.54443243165173,44.90573174762096],[28.54566653322468,44.90550936753414],[28.5471508177248,44.90985818655355],[28.54591662805274,44.91008058676556],[28.54621350371315,44.91095034922796],[28.5486819095612,44.91050552626814],[28.54838499865787,44.90963577185693],[28.54961917085166,44.90941334267609],[28.54902535019147,44.90767383653781],[28.5502594784071,44.90745140092463],[28.54996256865144,44.90658164919705],[28.55119667050968,44.90635920312644]]],"type":"Polygon"}
+}

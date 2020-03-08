@@ -1,0 +1,107 @@
+{
+  "id": 1125856903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.28333,44.45,23.28333,44.45",
+    "geom:latitude":44.45,
+    "geom:longitude":23.28333,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":2014,
+    "gn:population":2014,
+    "iso:country":"RO",
+    "lbl:latitude":44.45,
+    "lbl:longitude":23.28333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Grece\u0219ti"
+    ],
+    "name:eng_x_preferred":[
+        "Grece\u0219ti"
+    ],
+    "name:fre_x_preferred":[
+        "Grece\u0219ti"
+    ],
+    "name:ita_x_preferred":[
+        "Grece\u0219ti"
+    ],
+    "name:may_x_preferred":[
+        "Grece\u0219ti"
+    ],
+    "name:por_x_preferred":[
+        "Grece\u0219ti"
+    ],
+    "name:rum_x_preferred":[
+        "Grece\u0219ti"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0440\u0435\u0447\u0435\u0448\u0442\u044c"
+    ],
+    "name:vie_x_preferred":[
+        "Grecesti"
+    ],
+    "name:vol_x_preferred":[
+        "Grece\u0219ti"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":676762,
+    "qs_pg:gn_pop":2014,
+    "qs_pg:name":"Grece\u015fti",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":275285,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":676762,
+        "qs_pg:id":275285,
+        "wd:id":"Q1499136"
+    },
+    "wof:country":"RO",
+    "wof:created":1497293658,
+    "wof:geomhash":"cb1c7f00ad7f14e2e884af6ec89b501f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125856903,
+            "region_id":85687581
+        }
+    ],
+    "wof:id":1125856903,
+    "wof:lastmodified":1514499954,
+    "wof:name":"Grece\u015fti",
+    "wof:parent_id":85687581,
+    "wof:placetype":"locality",
+    "wof:population":2014,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.28333,
+    44.45,
+    23.28333,
+    44.45
+],
+  "geometry": {"coordinates":[23.28333,44.45],"type":"Point"}
+}

@@ -1,0 +1,104 @@
+{
+  "id": 101791855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000153,
+    "geom:area_square_m":1337135.099093,
+    "geom:bbox":"27.8266712322,44.8909162713,27.8478769287,44.902698774",
+    "geom:latitude":44.896733,
+    "geom:longitude":27.837351,
+    "gn:population":3852,
+    "iso:country":"RO",
+    "lbl:latitude":44.897658,
+    "lbl:longitude":27.838209,
+    "mps:latitude":44.897658,
+    "mps:longitude":27.838209,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "St\u0103ncu\u021ba"
+    ],
+    "name:eng_x_preferred":[
+        "St\u0103ncu\u021ba"
+    ],
+    "name:fre_x_preferred":[
+        "St\u0103ncu\u021ba"
+    ],
+    "name:ita_x_preferred":[
+        "St\u0103ncu\u021ba"
+    ],
+    "name:por_x_preferred":[
+        "St\u0103ncu\u021ba"
+    ],
+    "name:rum_x_preferred":[
+        "St\u0103ncu\u021ba"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0442\u0435\u043d\u043a\u0443\u0446\u0430"
+    ],
+    "name:unk_x_variant":[
+        "St\u0103ncu\u0163a"
+    ],
+    "name:vol_x_preferred":[
+        "St\u0103ncu\u021ba"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Braila",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"St\u0103ncu\u0163a",
+    "qs:la_lc":"*RO18044060",
+    "qs:level":"locality",
+    "qs:loc":"St\u00e2ncu\u0163a",
+    "qs:loc_alt":"Stancuta",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":666309,
+        "gp:id":880916,
+        "qs:id":1027398,
+        "wd:id":"Q2780047"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"4216e411a47f764b11b15bfd0e4c95bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101791855,
+            "region_id":85687663
+        }
+    ],
+    "wof:id":101791855,
+    "wof:lastmodified":1514500166,
+    "wof:name":"St\u00e2ncu\u0163a",
+    "wof:parent_id":85687663,
+    "wof:placetype":"locality",
+    "wof:population":3852,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.82667123221398,
+    44.89091627134917,
+    27.84787692870503,
+    44.90269877404307
+],
+  "geometry": {"coordinates":[[[27.8468331960014,44.90077243233412],[27.84597606554945,44.89815607014589],[27.84721221786685,44.8979419711352],[27.84664082043776,44.89619772894309],[27.84787692870503,44.89598362316042],[27.84730554244993,44.89423938193374],[27.8460694698,44.89445347995127],[27.84578381202613,44.89358135290604],[27.84454774875661,44.89379543250561],[27.84426212048623,44.8929232998787],[27.83931785437807,44.89377945738977],[27.8390323090353,44.8929073075393],[27.83656016105107,44.89333529131557],[27.83627466301834,44.89246313200579],[27.83380251696127,44.8928910498762],[27.83351706623756,44.89201888110892],[27.83104492211385,44.89244673307417],[27.83075951869756,44.89157455485031],[27.82952345181565,44.89178845514937],[27.82923807789541,44.89091627134917],[27.82676595449539,44.89134402058062],[27.8279073777926,44.89483277662146],[27.82667123221398,44.89504664494416],[27.82752736893906,44.89766320578701],[27.82876356796277,44.89744932582846],[27.82904898806061,44.89832150550251],[27.83028519647803,44.89810760712652],[27.8305706460801,44.89897978122377],[27.83180686389073,44.89876586442978],[27.83209234299898,44.89963803294961],[27.83456478897955,44.8992101479862],[27.8357069648664,44.90269877404307],[27.8468331960014,44.90077243233412]]],"type":"Polygon"}
+}

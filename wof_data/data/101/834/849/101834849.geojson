@@ -1,0 +1,98 @@
+{
+  "id": 101834849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00009,
+    "geom:area_square_m":778364.973992,
+    "geom:bbox":"25.7763152472,45.6399070726,25.7983073356,45.6497579249",
+    "geom:latitude":45.645395,
+    "geom:longitude":25.78842,
+    "gn:population":1484,
+    "iso:country":"RO",
+    "lbl:latitude":45.643638,
+    "lbl:longitude":25.792835,
+    "mps:latitude":45.643638,
+    "mps:longitude":25.792835,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Purc\u0103reni"
+    ],
+    "name:eng_x_preferred":[
+        "Purc\u0103reni"
+    ],
+    "name:epo_x_preferred":[
+        "Purc\u0103reni"
+    ],
+    "name:fre_x_preferred":[
+        "Purc\u0103reni"
+    ],
+    "name:hun_x_preferred":[
+        "P\u00fcrkerec"
+    ],
+    "name:rum_x_preferred":[
+        "Purc\u0103reni"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0443\u0440\u043a\u0435\u0440\u0435\u043d\u044c"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Brasov",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"T\u0103rlungeni",
+    "qs:la_lc":"*RO19042003",
+    "qs:level":"locality",
+    "qs:loc":"Purc\u0103reni",
+    "qs:loc_alt":"Purcareni",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":669476,
+        "gp:id":878660,
+        "qs:id":1279249,
+        "wd:id":"Q740551"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"525002a66ec675db245e2b0178101547",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101834849,
+            "region_id":85687683
+        }
+    ],
+    "wof:id":101834849,
+    "wof:lastmodified":1514500101,
+    "wof:name":"Purc\u0103reni",
+    "wof:parent_id":85687683,
+    "wof:placetype":"locality",
+    "wof:population":1484,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.7763152471544,
+    45.63990707255107,
+    25.7983073355997,
+    45.64975792490446
+],
+  "geometry": {"coordinates":[[[25.78201508834991,45.64339632508654],[25.7763152471544,45.64975792490446],[25.78246155968213,45.64883058322033],[25.78272008986056,45.64970850778502],[25.78775516778069,45.64894853426995],[25.7874965615772,45.64807062386262],[25.79253143815458,45.64731042590671],[25.79227276675135,45.64643252822771],[25.79604878491972,45.6458622338094],[25.79579006732996,45.64498434532021],[25.7983073355997,45.64460408156856],[25.79727242143571,45.64109254160735],[25.79475530515123,45.64147277702983],[25.79449664164838,45.64059488137411],[25.79323809075373,45.64078497318042],[25.79297945706293,45.63990707255107],[25.79046236977285,45.64028720435408],[25.79072096546935,45.64116511206328],[25.78946239108046,45.64135515913949],[25.79023818605486,45.64398888428912],[25.78772089978639,45.64436895494759],[25.78797948173656,45.64524686754481],[25.78420343659508,45.64581687231532],[25.78394491165318,45.64493894910083],[25.78268623328279,45.64512891732863],[25.78216925383668,45.64337305952688],[25.78201508834991,45.64339632508654]]],"type":"Polygon"}
+}

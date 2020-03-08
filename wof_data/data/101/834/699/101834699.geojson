@@ -1,0 +1,107 @@
+{
+  "id": 101834699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000304,
+    "geom:area_square_m":2648409.432417,
+    "geom:bbox":"25.9837846813,45.2728625439,26.0234298931,45.2883769834",
+    "geom:latitude":45.281556,
+    "geom:longitude":26.006547,
+    "iso:country":"RO",
+    "lbl:latitude":45.282028,
+    "lbl:longitude":26.007899,
+    "mps:latitude":45.282028,
+    "mps:longitude":26.007899,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Izvoarele"
+    ],
+    "name:epo_x_preferred":[
+        "Izvoarele"
+    ],
+    "name:fra_x_preferred":[
+        "Izvoarele"
+    ],
+    "name:hun_x_preferred":[
+        "Izvoarele"
+    ],
+    "name:ita_x_preferred":[
+        "Izvoarele"
+    ],
+    "name:nld_x_preferred":[
+        "Izvoarele"
+    ],
+    "name:ron_x_preferred":[
+        "Izvoarele"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406\u0437\u0432\u043e\u0430\u0440\u0435\u043b\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Isvoarele"
+    ],
+    "name:vol_x_preferred":[
+        "Izvoarele"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Prahova",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"M\u0103neciu",
+    "qs:la_lc":"*RO42134096",
+    "qs:level":"locality",
+    "qs:loc":"Izvoarele",
+    "qs:loc_alt":"Izvoarele",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":154,
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":675385,
+        "gp:id":874222,
+        "qs:id":6,
+        "qs_pg:id":1278714,
+        "wd:id":"Q353414"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"e23f7939193f8d625277af0692099ffb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101834699,
+            "region_id":85687661
+        }
+    ],
+    "wof:id":101834699,
+    "wof:lastmodified":1527642936,
+    "wof:name":"Izvoarele",
+    "wof:parent_id":85687661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.98378468125452,
+    45.27286254390827,
+    26.02342989305919,
+    45.28837698340726
+],
+  "geometry": {"coordinates":[[[26.02062390132136,45.27889442683869],[26.00451656831547,45.27286254390827],[25.99322065211732,45.27460105135299],[25.99373889889472,45.27635624528079],[25.99873833442325,45.27558698932637],[25.99899754844483,45.27646456991465],[26.00274709936156,45.27588746206425],[26.00352497360052,45.27852016311891],[25.98977566359531,45.28063569158883],[25.99003477161409,45.28151329465567],[25.98378468125452,45.2824743247121],[25.98404370686063,45.28335194402428],[25.99654387964375,45.28142947877859],[25.99758083493907,45.2849397996348],[25.99508071349743,45.28532443934404],[25.99533994195428,45.28620202297896],[25.99283975214712,45.28658661062104],[25.99322354063554,45.28788596086235],[26.01423610443118,45.28822753280747],[26.01361893210048,45.28614084631647],[26.01486896233075,45.28594831263416],[26.01383086605551,45.2824381996852],[26.01883061110851,45.28166797386075],[26.01909019352433,45.28254549010802],[26.02034012895467,45.2823528931371],[26.0211189967207,45.28498542241044],[26.01736899944052,45.28556320090655],[26.01814779652938,45.28819574889576],[26.01758775767058,45.28828201595985],[26.02342989305919,45.28837698340726],[26.02062390132136,45.27889442683869]]],"type":"Polygon"}
+}

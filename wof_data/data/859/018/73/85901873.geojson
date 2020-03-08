@@ -1,0 +1,145 @@
+{
+  "id": 85901873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":16679941.614705,
+    "geom:bbox":"27.951501,45.252349,27.951501,45.252349",
+    "geom:latitude":45.252349,
+    "geom:longitude":27.951501,
+    "gn:latitude":45.2416,
+    "gn:longitude":27.93531,
+    "iso:country":"RO",
+    "lbl:latitude":45.252349,
+    "lbl:longitude":27.951501,
+    "mps:latitude":45.247672,
+    "mps:longitude":27.94645,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "name:bel_x_preferred":[
+        "\u0420\u0430\u0434\u0443 \u041d\u0435\u0433\u0440\u0443"
+    ],
+    "name:bul_x_preferred":[
+        "\u0420\u0430\u0434\u0443 \u041d\u0435\u0433\u0440\u0443"
+    ],
+    "name:ces_x_preferred":[
+        "Radu Negru"
+    ],
+    "name:fra_x_preferred":[
+        "Rodolphe Bessaraba"
+    ],
+    "name:hun_x_preferred":[
+        "Radu Negru"
+    ],
+    "name:nld_x_preferred":[
+        "Radu Negru"
+    ],
+    "name:ron_x_preferred":[
+        "Negru Vod\u0103"
+    ],
+    "name:rum_x_preferred":[
+        "Radu Negru"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0434\u0443 \u041d\u0435\u0433\u0440\u0443"
+    ],
+    "name:slk_x_preferred":[
+        "Radul \u010cierny"
+    ],
+    "name:spa_x_preferred":[
+        "Radu Negru"
+    ],
+    "name:tgk_x_preferred":[
+        "\u041d\u0435\u0433\u0440\u0443-\u0412\u043e\u0434\u044d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u0434\u0443 \u041d\u0435\u0433\u0440\u0443"
+    ],
+    "name:unk_x_variant":[
+        "Radu Negru"
+    ],
+    "qs:gn_adm0_cc":"RO",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":683902,
+    "qs:gn_nam_loc":"Braila, Br\u0103ila, RO",
+    "qs:gn_namadm1":"00",
+    "qs:gn_name":"Radu Negru",
+    "qs:local_max":321,
+    "qs:local_sum":530,
+    "qs:localhoods":3,
+    "qs:name":"Radu Negru",
+    "qs:name_adm0":"Rom\u00e2nia",
+    "qs:name_adm1":"Braila",
+    "qs:name_local":"Br\u0103ila",
+    "qs:photo_max":23,
+    "qs:photo_sum":129,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":26,
+    "qs:woe_adm0":23424933,
+    "qs:woe_adm1":2346622,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":867987,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":250,
+    "wof:belongsto":[
+        102191581,
+        101751979,
+        85633745,
+        85687663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":669227,
+        "gp:id":878824,
+        "qs:id":1167593,
+        "qs_pg:id":1167593,
+        "wd:id":"Q1093958"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"805f6808a9a23cdfb6b77d4fc12c87e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101751979,
+            "neighbourhood_id":85901873,
+            "region_id":85687663
+        }
+    ],
+    "wof:id":85901873,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1531932587,
+    "wof:name":"Radu Negru",
+    "wof:parent_id":101751979,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.951501,
+    45.252349,
+    27.951501,
+    45.252349
+],
+  "geometry": {"coordinates":[27.951501,45.252349],"type":"Point"}
+}

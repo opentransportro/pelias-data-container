@@ -1,0 +1,125 @@
+{
+  "id": 1125862563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.15,46.01667,22.15,46.01667",
+    "geom:latitude":46.01667,
+    "geom:longitude":22.15,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":2082,
+    "gn:population":2082,
+    "iso:country":"RO",
+    "lbl:latitude":46.01667,
+    "lbl:longitude":22.15,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:alb_x_preferred":[
+        "V\u0103r\u0103dia de Mure\u0219"
+    ],
+    "name:ara_x_preferred":[
+        "\u0641\u0627\u0631\u0627\u062f\u064a\u0627 \u062f\u064a \u0645\u0648\u0631\u064a\u0634"
+    ],
+    "name:dut_x_preferred":[
+        "V\u0103r\u0103dia de Mure\u0219"
+    ],
+    "name:eng_x_preferred":[
+        "V\u0103r\u0103dia de Mure\u0219"
+    ],
+    "name:epo_x_preferred":[
+        "V\u0103r\u0103dia de Mure\u0219"
+    ],
+    "name:fre_x_preferred":[
+        "V\u0103r\u0103dia de Mure\u0219"
+    ],
+    "name:hun_x_preferred":[
+        "T\u00f3tv\u00e1rad"
+    ],
+    "name:ita_x_preferred":[
+        "V\u0103r\u0103dia de Mure\u0219"
+    ],
+    "name:may_x_preferred":[
+        "V\u0103r\u0103dia de Mure\u0219"
+    ],
+    "name:por_x_preferred":[
+        "V\u0103r\u0103dia de Mure\u0219"
+    ],
+    "name:ron_x_preferred":[
+        "V\u0103r\u0103dia de Mure\u0219"
+    ],
+    "name:rum_x_preferred":[
+        "V\u0103r\u0103dia de Mure\u0219"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u0440\u0435\u0434\u0456\u044f-\u0434\u0435-\u041c\u0443\u0440\u0435\u0448"
+    ],
+    "name:unk_x_variant":[
+        "T\u00f3tv\u00e1radja"
+    ],
+    "name:vie_x_preferred":[
+        "Varadia de Mures"
+    ],
+    "name:vol_x_preferred":[
+        "V\u0103r\u0103dia de Mure\u0219"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":663205,
+    "qs_pg:gn_pop":2082,
+    "qs_pg:name":"V\u0103r\u0103dia de Mure\u015f",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":126688,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":663205,
+        "qs_pg:id":126688,
+        "wd:id":"Q1092976"
+    },
+    "wof:country":"RO",
+    "wof:created":1497293891,
+    "wof:geomhash":"9bead44897ca617e3f90cca9d337d88d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125862563,
+            "region_id":85687691
+        }
+    ],
+    "wof:id":1125862563,
+    "wof:lastmodified":1514500255,
+    "wof:name":"V\u0103r\u0103dia de Mure\u015f",
+    "wof:parent_id":85687691,
+    "wof:placetype":"locality",
+    "wof:population":2082,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.15,
+    46.01667,
+    22.15,
+    46.01667
+],
+  "geometry": {"coordinates":[22.15,46.01667],"type":"Point"}
+}

@@ -1,0 +1,105 @@
+{
+  "id": 85901777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":11828380.385695,
+    "geom:bbox":"21.215928,45.726473,21.215928,45.726473",
+    "geom:latitude":45.726473,
+    "geom:longitude":21.215928,
+    "gn:latitude":45.71667,
+    "gn:longitude":21.21667,
+    "iso:country":"RO",
+    "lbl:latitude":45.726473,
+    "lbl:longitude":21.215928,
+    "mps:latitude":45.716752,
+    "mps:longitude":21.223854,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":2,
+    "name:rum_x_preferred":[
+        "Fratelia"
+    ],
+    "name:unk_x_variant":[
+        "Fratelia"
+    ],
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":0,
+    "qs:gn_namadm1":"00",
+    "qs:gn_name":"Fratelia",
+    "qs:local_max":5226,
+    "qs:local_sum":9148,
+    "qs:localhoods":5,
+    "qs:name":"Fratelia",
+    "qs:name_adm0":"Rom\u00e2nia",
+    "qs:name_adm1":"Timis",
+    "qs:name_local":"Timi\u0219oara",
+    "qs:photo_max":56,
+    "qs:photo_sum":179,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":17,
+    "qs:woe_adm0":23424933,
+    "qs:woe_adm1":2346649,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":881802,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        101751973,
+        85633745,
+        85687655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":677919,
+        "gp:id":872383,
+        "qs:id":1167563,
+        "qs_pg:id":1167563
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"bec76136e7ed85a25932c288b1134d6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101751973,
+            "neighbourhood_id":85901777,
+            "region_id":85687655
+        }
+    ],
+    "wof:id":85901777,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1531932563,
+    "wof:name":"Fratelia",
+    "wof:parent_id":101751973,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.215928,
+    45.726473,
+    21.215928,
+    45.726473
+],
+  "geometry": {"coordinates":[21.215928,45.726473],"type":"Point"}
+}

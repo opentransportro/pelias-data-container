@@ -1,0 +1,101 @@
+{
+  "id": 101790953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000141,
+    "geom:area_square_m":1217168.759523,
+    "geom:bbox":"24.3162235763,45.7146326511,24.3349533096,45.7290509291",
+    "geom:latitude":45.721795,
+    "geom:longitude":24.326458,
+    "gn:population":1108,
+    "iso:country":"RO",
+    "lbl:latitude":45.720538,
+    "lbl:longitude":24.328161,
+    "mps:latitude":45.720538,
+    "mps:longitude":24.328161,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Bradu"
+    ],
+    "name:eng_x_preferred":[
+        "Bradu"
+    ],
+    "name:epo_x_preferred":[
+        "Bradu"
+    ],
+    "name:ger_x_preferred":[
+        "Bradu"
+    ],
+    "name:hun_x_preferred":[
+        "Feny\u0151falva"
+    ],
+    "name:rum_x_preferred":[
+        "Bradu"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0440\u0430\u0434\u0443"
+    ],
+    "name:unk_x_variant":[
+        "Gierelsau"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Sibiu",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Avrig",
+    "qs:la_lc":"*RO45144054",
+    "qs:level":"locality",
+    "qs:loc":"Bradu",
+    "qs:loc_alt":"Bradu",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":683932,
+        "gp:id":867967,
+        "qs:id":35477,
+        "wd:id":"Q541227"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"c7ed21131c4d17933eb96e794689b6c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101790953,
+            "region_id":85687687
+        }
+    ],
+    "wof:id":101790953,
+    "wof:lastmodified":1514499790,
+    "wof:name":"Bradu",
+    "wof:parent_id":85687687,
+    "wof:placetype":"locality",
+    "wof:population":1108,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.31622357625923,
+    45.71463265111936,
+    24.33495330959613,
+    45.72905092906694
+],
+  "geometry": {"coordinates":[[[24.32142846640812,45.72782390365302],[24.32648639616741,45.72713357543961],[24.32672179480915,45.72801550756765],[24.32798627874826,45.72784288468506],[24.32775086066709,45.72696095579232],[24.32901531798962,45.72678832110762],[24.32854447266317,45.72502446598344],[24.33360207467979,45.72433380276226],[24.3326601919137,45.72080612904341],[24.33392449673971,45.72063343859236],[24.33368903137819,45.71975152022219],[24.33495330959613,45.71957881797215],[24.33448236972589,45.71781498389163],[24.33321813036736,45.71798767966965],[24.33251185312145,45.71534190931072],[24.33124766487134,45.71551458034872],[24.33101227835289,45.71463265111936],[24.323427114781,45.71566834223285],[24.3241329543157,45.71831418432635],[24.32286867699486,45.71848675659345],[24.32380985720437,45.72201454121074],[24.31622357625923,45.72304973666417],[24.31645877943635,45.72393169904427],[24.31772319695989,45.72375920082754],[24.31913474047701,45.72905092906694],[24.32166378728863,45.72870584871987],[24.32142846640812,45.72782390365302]]],"type":"Polygon"}
+}

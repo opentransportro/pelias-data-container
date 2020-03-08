@@ -1,0 +1,104 @@
+{
+  "id": 101792569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000247,
+    "geom:area_square_m":2165444.710834,
+    "geom:bbox":"26.8173175401,44.7358309041,26.8478901528,44.7511170331",
+    "geom:latitude":44.743513,
+    "geom:longitude":26.830797,
+    "gn:population":1512,
+    "iso:country":"RO",
+    "lbl:latitude":44.744253,
+    "lbl:longitude":26.829755,
+    "mps:latitude":44.744253,
+    "mps:longitude":26.829755,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Valea M\u0103cri\u0219ului"
+    ],
+    "name:eng_x_preferred":[
+        "Valea M\u0103cri\u0219ului"
+    ],
+    "name:fre_x_preferred":[
+        "Valea M\u0103cri\u0219ului"
+    ],
+    "name:ita_x_preferred":[
+        "Valea M\u0103cri\u0219ului"
+    ],
+    "name:por_x_preferred":[
+        "Valea M\u0103cri\u0219ului"
+    ],
+    "name:rum_x_preferred":[
+        "Valea M\u0103cri\u0219ului"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0430\u043b\u044f-\u041c\u0435\u043a\u0440\u0456\u0448\u0443\u043b\u0443\u0439"
+    ],
+    "name:unk_x_variant":[
+        "Valea M\u0103cri\u015fului"
+    ],
+    "name:vol_x_preferred":[
+        "Valea M\u0103cri\u0219ului"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Ialomita",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Valea M\u0103cri\u015fului",
+    "qs:la_lc":"*RO34105794",
+    "qs:level":"locality",
+    "qs:loc":"Valea Macrisului",
+    "qs:loc_alt":"Valea Macrisului",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":663649,
+        "gp:id":882913,
+        "qs:id":2,
+        "wd:id":"Q2291419"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"b8ab612cda5e1bc59142b264d50c27ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101792569,
+            "region_id":85687621
+        }
+    ],
+    "wof:id":101792569,
+    "wof:lastmodified":1514500233,
+    "wof:name":"Valea Macrisului",
+    "wof:parent_id":85687621,
+    "wof:placetype":"locality",
+    "wof:population":1512,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.81731754013907,
+    44.73583090408999,
+    26.84789015275322,
+    44.75111703305083
+],
+  "geometry": {"coordinates":[[[26.83015667256706,44.74970371155433],[26.82988823448801,44.7488282133711],[26.83483222218638,44.74802029513137],[26.83456372325446,44.74714481000433],[26.83579968241366,44.74694279767499],[26.83526268163331,44.74519182999796],[26.84144217899723,44.7441815863894],[26.84171076368239,44.74505705271849],[26.84294665734552,44.74485495662611],[26.8432152709949,44.74573041771305],[26.84445117469181,44.74552830338956],[26.84418254308451,44.74465284596386],[26.84789015275322,44.74404642655867],[26.84735281482227,44.7422955289295],[26.84611698876904,44.74249767597757],[26.84531111828937,44.73987130668468],[26.84407533817472,44.74007342818129],[26.8435381821194,44.73832250008866],[26.83735934226081,44.73933285244334],[26.83628552122747,44.73583090408999],[26.83381407347792,44.73623491378322],[26.83408247633287,44.73711041055981],[26.83037519147439,44.73771632681172],[26.83064355146109,44.73859183298134],[26.82817195273168,44.7389957116203],[26.82844028779994,44.73987122352435],[26.82473277647,44.74047694318313],[26.82446449527561,44.73960142030813],[26.82322866029546,44.73980329406481],[26.82296040805159,44.73892776595414],[26.82172458311692,44.73912962148484],[26.82199281740219,44.74000515325156],[26.81828524124751,44.74061064339065],[26.81855343264226,44.74148618454564],[26.81731754013907,44.74168798910642],[26.81973159561034,44.74956782136053],[26.82096764979559,44.74936598389536],[26.82150426342571,44.75111703305083],[26.83015667256706,44.74970371155433]]],"type":"Polygon"}
+}

@@ -1,0 +1,108 @@
+{
+  "id": 101793793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000128,
+    "geom:area_square_m":1127719.943318,
+    "geom:bbox":"26.7374935982,44.4423248079,26.7567363548,44.4529651201",
+    "geom:latitude":44.448364,
+    "geom:longitude":26.748012,
+    "gn:population":1692,
+    "iso:country":"RO",
+    "lbl:latitude":44.448259,
+    "lbl:longitude":26.748013,
+    "mps:latitude":44.448259,
+    "mps:longitude":26.748013,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Carol I"
+    ],
+    "name:eng_x_variant":[
+        "Podul Lupi"
+    ],
+    "name:rum_x_colloquial":[
+        "Baelcescu Nicolae",
+        "Balcescu Nicolae",
+        "Nicolae Baelcescu",
+        "Nicolae Baelceseu",
+        "Nicolae Balcescu",
+        "Nicolae Balceseu"
+    ],
+    "name:rum_x_preferred":[
+        "Nicolae B\u0103lcescu"
+    ],
+    "name:rum_x_variant":[
+        "B\u0103lcescu Nicolae",
+        "Nicolae B\u0103lceseu"
+    ],
+    "name:unk_x_variant":[
+        "Presna-Gar\u0103"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Calarasi",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Nicolae B\u0103lcescu",
+    "qs:la_lc":"*RO22104341",
+    "qs:level":"locality",
+    "qs:loc":"Nicolae B\u0103lcescu",
+    "qs:loc_alt":"Nicolae Balcescu",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a26188-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":672279,
+        "gp:id":876518,
+        "qs:id":127385,
+        "qs_pg:id":127385,
+        "wd:id":"Q12134618"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"d39c6a6d7f33230c4ee5a39fd783cb8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101793793,
+            "region_id":85687615
+        }
+    ],
+    "wof:id":101793793,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1505337976,
+    "wof:name":"Nicolae B\u0103lcescu",
+    "wof:parent_id":85687615,
+    "wof:placetype":"locality",
+    "wof:population":1692,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.73749359816094,
+    44.44232480786451,
+    26.75673635476687,
+    44.4529651201052
+],
+  "geometry": {"coordinates":[[[26.7501517981139,44.4529651201052],[26.75630145645289,44.4519607110355],[26.75550649960837,44.4493327563992],[26.75673635476687,44.44913184193831],[26.75620640206756,44.44737987150381],[26.7549765823868,44.44758077874349],[26.75338708991029,44.44232480786451],[26.75092764011362,44.442726535551],[26.7511924930601,44.44360254186523],[26.74012442541317,44.44540963160904],[26.74118330653266,44.44891377097724],[26.73749359816094,44.44951591665097],[26.73828771261748,44.45214403707661],[26.7444374539603,44.45114033436903],[26.74496709501949,44.45289237068289],[26.74988689040993,44.45208911875375],[26.7501517981139,44.4529651201052]]],"type":"Polygon"}
+}

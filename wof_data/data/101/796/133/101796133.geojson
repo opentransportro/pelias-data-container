@@ -1,0 +1,95 @@
+{
+  "id": 101796133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000145,
+    "geom:area_square_m":1287527.80698,
+    "geom:bbox":"24.4142501918,43.9706769309,24.4335426741,43.9817744005",
+    "geom:latitude":43.976465,
+    "geom:longitude":24.424798,
+    "gn:population":1391,
+    "iso:country":"RO",
+    "lbl:latitude":43.976489,
+    "lbl:longitude":24.424982,
+    "mps:latitude":43.976489,
+    "mps:longitude":24.424982,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Studini\u021ba"
+    ],
+    "name:eng_x_preferred":[
+        "Studini\u021ba"
+    ],
+    "name:fre_x_preferred":[
+        "Studini\u021ba"
+    ],
+    "name:ita_x_preferred":[
+        "Studini\u021ba"
+    ],
+    "name:rum_x_preferred":[
+        "Studini\u021ba"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0442\u0443\u0434\u0456\u043d\u0456\u0446\u0430"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Olt",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Gr\u0103dinile",
+    "qs:la_lc":"*RO41130320",
+    "qs:level":"locality",
+    "qs:loc":"Studini\u0163a",
+    "qs:loc_alt":"Studinita",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":665903,
+        "gp:id":881214,
+        "qs:id":412992,
+        "wd:id":"Q12158408"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"38599bf8e32c48e00ca208a7b4f1ea2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101796133,
+            "region_id":85687607
+        }
+    ],
+    "wof:id":101796133,
+    "wof:lastmodified":1514500165,
+    "wof:name":"Studini\u0163a",
+    "wof:parent_id":85687607,
+    "wof:placetype":"locality",
+    "wof:population":1391,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.4142501917774,
+    43.97067693086416,
+    24.43354267411883,
+    43.98177440051086
+],
+  "geometry": {"coordinates":[[[24.42318372962217,43.98177440051086],[24.43176684422502,43.98056340269983],[24.43154139440674,43.97968036869338],[24.43276750942073,43.97950731403051],[24.4323166015003,43.97774124816061],[24.43354267411883,43.97756818516166],[24.43264089678178,43.97403604963466],[24.43141489579074,43.97420910027603],[24.43051333689635,43.97067693086416],[24.423157622632,43.97171485579452],[24.42293236326827,43.97083179155146],[24.42048044175675,43.97117764424303],[24.42093089803046,43.97294378373209],[24.41970489160803,43.97311669447981],[24.41993011559043,43.9739997652942],[24.41625200318362,43.97451841970712],[24.41647718260788,43.97540149843633],[24.41525111409186,43.97557435729618],[24.41547628477286,43.97645743776735],[24.4142501917774,43.97663028519725],[24.41447535371429,43.97751336741061],[24.41692756895884,43.97716765186306],[24.41805369529271,43.98158301191165],[24.4229584051875,43.98089134488276],[24.42318372962217,43.98177440051086]]],"type":"Polygon"}
+}

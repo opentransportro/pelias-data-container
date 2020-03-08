@@ -1,0 +1,107 @@
+{
+  "id": 101791879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000133,
+    "geom:area_square_m":1167527.689964,
+    "geom:bbox":"26.8162087218,44.8154302145,26.8421973804,44.8259352556",
+    "geom:latitude":44.82047,
+    "geom:longitude":26.827004,
+    "gn:population":4585,
+    "iso:country":"RO",
+    "lbl:latitude":44.820739,
+    "lbl:longitude":26.825036,
+    "mps:latitude":44.820739,
+    "mps:longitude":26.825036,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Glodeanu-Sili\u0219tea"
+    ],
+    "name:eng_x_preferred":[
+        "Glodeanu-Sili\u0219tea"
+    ],
+    "name:ita_x_preferred":[
+        "Glodeanu-Sili\u0219tea"
+    ],
+    "name:may_x_preferred":[
+        "Glodeanu-Sili\u0219tea"
+    ],
+    "name:por_x_preferred":[
+        "Glodeanu-Sili\u0219tea"
+    ],
+    "name:rum_x_preferred":[
+        "Glodeanu-Sili\u0219tea"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043b\u043e\u0434\u044f\u043d\u0443-\u0421\u0456\u043b\u0456\u0448\u0442\u044f "
+    ],
+    "name:unk_x_variant":[
+        "Glodeanul Sili\u015ftea"
+    ],
+    "name:vie_x_preferred":[
+        "Glodeanu-Silistea"
+    ],
+    "name:vol_x_preferred":[
+        "Glodeanu-Sili\u0219tea"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Buzau",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Glodeanu-Sili\u015ftea",
+    "qs:la_lc":"*RO21046910",
+    "qs:level":"locality",
+    "qs:loc":"Glodeanu-Sili\u015ftea",
+    "qs:loc_alt":"Glodeanu-Silistea",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":677047,
+        "gp:id":873018,
+        "qs:id":127596,
+        "wd:id":"Q2292265"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"cce8e71c0905f82b53f46984fa357790",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101791879,
+            "region_id":85687667
+        }
+    ],
+    "wof:id":101791879,
+    "wof:lastmodified":1514499949,
+    "wof:name":"Glodeanu-Sili\u015ftea",
+    "wof:parent_id":85687667,
+    "wof:placetype":"locality",
+    "wof:population":4585,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.81620872182248,
+    44.81543021448454,
+    26.84219738044544,
+    44.82593525557206
+],
+  "geometry": {"coordinates":[[[26.82992968941073,44.82512740457264],[26.82912266913752,44.82250109588085],[26.83531054576747,44.82149100878212],[26.83504147096698,44.82061558773142],[26.83999155702588,44.81980727006083],[26.83972242118199,44.81893186210368],[26.84219738044544,44.81852762305562],[26.84192821960659,44.81765222085653],[26.84069076197085,44.81785434400746],[26.84015250945788,44.81610352753415],[26.83891507990421,44.8163056287579],[26.83864598822765,44.81543021448454],[26.83740856873919,44.81563229744984],[26.83767764239798,44.81650771539086],[26.83644019693935,44.81670978743313],[26.83697834134006,44.81846062591393],[26.83079081457157,44.81947080392803],[26.82998388483486,44.81684448883425],[26.82874640969311,44.81704646966244],[26.82847747320687,44.81617102447603],[26.82352756524477,44.81697878720934],[26.82325871187766,44.81610332578424],[26.81954625153674,44.81670898362563],[26.81981505083581,44.81758445604407],[26.81857753014225,44.81778631647097],[26.8191151257812,44.81953726390583],[26.81787756109242,44.81973911706825],[26.81814635743103,44.82061459208467],[26.81690876677089,44.82081643431775],[26.81744635648408,44.82256738695003],[26.81620872182248,44.82276922191727],[26.8167463196005,44.82452017557273],[26.82169695479951,44.82371271882346],[26.82196584235442,44.82458817862749],[26.82320349931285,44.82438627428928],[26.82347241593214,44.8252617288511],[26.82471008296994,44.82505980625297],[26.82497902865418,44.82593525557206],[26.82992968941073,44.82512740457264]]],"type":"Polygon"}
+}

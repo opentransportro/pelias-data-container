@@ -1,0 +1,120 @@
+{
+  "id": 85901813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":2585099.15937,
+    "geom:bbox":"26.3974,47.951305,26.3974,47.951305",
+    "geom:latitude":47.951305,
+    "geom:longitude":26.3974,
+    "gn:latitude":47.98893,
+    "gn:longitude":26.38582,
+    "gn:population":329,
+    "iso:country":"RO",
+    "lbl:latitude":47.951305,
+    "lbl:longitude":26.3974,
+    "mps:latitude":47.951305,
+    "mps:longitude":26.3974,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Enescu"
+    ],
+    "name:eng_x_variant":[
+        "Enescu"
+    ],
+    "name:rum_x_preferred":[
+        "Loturi Enescu"
+    ],
+    "name:unk_x_variant":[
+        "Enescu",
+        "Loturi Enescu"
+    ],
+    "qs:gn_adm0_cc":"RO",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":679065,
+    "qs:gn_nam_loc":"Dorohoi, Botosani, RO",
+    "qs:gn_namadm1":"00",
+    "qs:gn_name":"Loturi Enescu",
+    "qs:local_max":23,
+    "qs:local_sum":23,
+    "qs:localhoods":1,
+    "qs:name":"Loturi Enescu",
+    "qs:name_adm0":"Rom\u00e2nia",
+    "qs:name_adm1":"Botosani",
+    "qs:name_en":"Enescu",
+    "qs:name_local":"Dorohoi",
+    "qs:photo_max":23,
+    "qs:photo_sum":23,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":1,
+    "qs:woe_adm0":23424933,
+    "qs:woe_adm1":2346621,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":871526,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        101832659,
+        85633745,
+        85687777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":674592,
+        "gp:id":874807,
+        "qs:id":1096406,
+        "qs_pg:id":1096406,
+        "wd:id":"Q12118496"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"ecf73caa29c575e56f85b1ba7ffc8773",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101832659,
+            "neighbourhood_id":85901813,
+            "region_id":85687777
+        }
+    ],
+    "wof:id":85901813,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1531932572,
+    "wof:name":"Loturi Enescu",
+    "wof:parent_id":101832659,
+    "wof:placetype":"neighbourhood",
+    "wof:population":329,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.3974,
+    47.951305,
+    26.3974,
+    47.951305
+],
+  "geometry": {"coordinates":[26.3974,47.951305],"type":"Point"}
+}

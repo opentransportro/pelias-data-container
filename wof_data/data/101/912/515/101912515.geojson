@@ -1,0 +1,110 @@
+{
+  "id": 101912515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000013,
+    "geom:area_square_m":110485.882261,
+    "geom:bbox":"23.8565794267,45.0991168217,23.861909383,45.1037016469",
+    "geom:latitude":45.101356,
+    "geom:longitude":23.859754,
+    "gn:population":3232,
+    "iso:country":"RO",
+    "lbl:latitude":45.101408,
+    "lbl:longitude":23.86038,
+    "mps:latitude":45.101408,
+    "mps:longitude":23.86038,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Matee\u0219ti"
+    ],
+    "name:eng_x_preferred":[
+        "Matee\u0219ti"
+    ],
+    "name:fre_x_preferred":[
+        "Matee\u0219ti"
+    ],
+    "name:ita_x_preferred":[
+        "Matee\u0219ti"
+    ],
+    "name:may_x_preferred":[
+        "Matee\u0219ti"
+    ],
+    "name:por_x_preferred":[
+        "Matee\u0219ti"
+    ],
+    "name:rum_x_preferred":[
+        "Matee\u0219ti"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0442\u0435\u0454\u0448\u0442\u044c"
+    ],
+    "name:unk_x_variant":[
+        "Matee\u015fti"
+    ],
+    "name:vie_x_preferred":[
+        "Mateesti"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*V\u00e2lcea",
+    "qs:a1r":"9",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:id":0,
+    "qs:la":"Matee\u015fti",
+    "qs:la_lc":"*RO51171067",
+    "qs:level":"locality",
+    "qs:loc":"Matee\u0219ti",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet many local_admin match geoplanet",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":673683,
+        "gp:id":875499,
+        "qs:id":987362,
+        "qs_pg:id":987362,
+        "wd:id":"Q2721425"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"9d64ab981c7a620033e6976cb221ced3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101912515,
+            "region_id":85687643
+        }
+    ],
+    "wof:id":101912515,
+    "wof:lastmodified":1514500014,
+    "wof:name":"Matee\u0219ti",
+    "wof:parent_id":85687643,
+    "wof:placetype":"locality",
+    "wof:population":3232,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.85657942672617,
+    45.09911682171298,
+    23.86190938297301,
+    45.1037016469233
+],
+  "geometry": {"coordinates":[[[23.8611596867961,45.10368108029013],[23.86190938297301,45.10084093664841],[23.86158585916456,45.10088404937233],[23.86113848746243,45.09911682171298],[23.85863536062044,45.09945030689715],[23.85908265638744,45.10121754685508],[23.85657942672617,45.10155098482835],[23.85680305060259,45.10243460908777],[23.85805468777943,45.10226789446557],[23.85827833995177,45.10315151440562],[23.86078163211499,45.10281803437857],[23.86100533157128,45.1037016469233],[23.8611596867961,45.10368108029013]]],"type":"Polygon"}
+}

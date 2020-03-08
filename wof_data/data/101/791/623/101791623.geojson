@@ -1,0 +1,111 @@
+{
+  "id": 101791623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000167,
+    "geom:area_square_m":1446648.383505,
+    "geom:bbox":"21.5415823298,45.6528317318,21.5613833426,45.6693845643",
+    "geom:latitude":45.663508,
+    "geom:longitude":21.551649,
+    "gn:population":1424,
+    "iso:country":"RO",
+    "lbl:latitude":45.664378,
+    "lbl:longitude":21.551499,
+    "mps:latitude":45.664378,
+    "mps:longitude":21.551499,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Bacova"
+    ],
+    "name:eng_x_preferred":[
+        "Bacova"
+    ],
+    "name:epo_x_preferred":[
+        "Bacova"
+    ],
+    "name:fre_x_preferred":[
+        "Bacova"
+    ],
+    "name:ger_x_preferred":[
+        "Bacova"
+    ],
+    "name:hun_x_preferred":[
+        "Bak\u00f3v\u00e1r"
+    ],
+    "name:rum_x_preferred":[
+        "Bacova"
+    ],
+    "name:spa_x_preferred":[
+        "Bacova"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u043a\u043e\u0432\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Bakuwa"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Timis",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Buzia\u015f",
+    "qs:la_lc":"*RO48155403",
+    "qs:level":"locality",
+    "qs:loc":"Bacova",
+    "qs:loc_alt":"Bacova",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"039d3e56-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":685920,
+        "gp:id":868597,
+        "qs:id":424726,
+        "wd:id":"Q789123"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"aa8b732adde29db0f76a757e0794e7be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101791623,
+            "region_id":85687655
+        }
+    ],
+    "wof:id":101791623,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514499750,
+    "wof:name":"Bacova",
+    "wof:parent_id":85687655,
+    "wof:placetype":"locality",
+    "wof:population":1424,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.54158232980757,
+    45.65283173175567,
+    21.56138334258634,
+    45.66938456426794
+],
+  "geometry": {"coordinates":[[[21.55179645490244,45.66938456426794],[21.56068341192855,45.66840879460892],[21.56011386051472,45.66574295080721],[21.56138334258634,45.66560350228019],[21.56100364186551,45.6638262732771],[21.55973419974396,45.66396571655361],[21.55916476883658,45.66129985759318],[21.56043415103875,45.66116042219215],[21.5602443368291,45.66027180314217],[21.55389746748716,45.66096881520235],[21.55370776116666,45.66008018202052],[21.55243838981727,45.66021953626228],[21.55167972469013,45.6566649829395],[21.5542183018095,45.65638628026005],[21.55345960534487,45.65283173175567],[21.54838274732805,45.65338903442915],[21.5487619197753,45.65516633168181],[21.55003118293331,45.6550270235399],[21.55060006168151,45.65769295397615],[21.54933073861514,45.65783226998536],[21.54952036094238,45.65872091406652],[21.54825101209093,45.65886021751601],[21.54863024087371,45.66063750789328],[21.54482203960026,45.6610553428805],[21.54501160610516,45.66194399442077],[21.54374217407917,45.66208324500553],[21.54412129120408,45.66386055030063],[21.54158232980757,45.66413901640556],[21.5423405004986,45.66769363585752],[21.54361006402121,45.66755439991118],[21.54379964673177,45.66844304962979],[21.54506922442135,45.6683037958764],[21.54525883513833,45.66919244196379],[21.55160673625187,45.66849593230512],[21.55179645490244,45.66938456426794]]],"type":"Polygon"}
+}

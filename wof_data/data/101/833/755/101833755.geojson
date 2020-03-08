@@ -1,0 +1,83 @@
+{
+  "id": 101833755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000111,
+    "geom:area_square_m":929579.097117,
+    "geom:bbox":"27.5097796934,47.2020189053,27.5233845877,47.2215640444",
+    "geom:latitude":47.212694,
+    "geom:longitude":27.51573,
+    "gn:population":6548,
+    "iso:country":"RO",
+    "lbl:latitude":47.212747,
+    "lbl:longitude":27.515832,
+    "mps:latitude":47.212747,
+    "mps:longitude":27.515832,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Capu Rediului"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Iasi",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Valea Lupului",
+    "qs:la_lc":"*RO35100353",
+    "qs:level":"locality",
+    "qs:loc":"Rediu",
+    "qs:loc_alt":"Rediu",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":669013,
+        "gp:id":878985,
+        "qs:id":1279289,
+        "qs_pg:id":1279289,
+        "wd:id":"Q2607423"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"25d9cf075745ff2bec179a0af9b40315",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101833755,
+            "region_id":85687769
+        }
+    ],
+    "wof:id":101833755,
+    "wof:lastmodified":1505338224,
+    "wof:name":"Rediu",
+    "wof:parent_id":85687769,
+    "wof:placetype":"locality",
+    "wof:population":6548,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.50977969340045,
+    47.20201890526874,
+    27.52338458766565,
+    47.22156404436333
+],
+  "geometry": {"coordinates":[[[[27.50978621725392,47.22153450500213],[27.50977969340045,47.22156404436333],[27.50979549814002,47.22156145403096],[27.50978621725392,47.22153450500213]]],[[[27.51404579920791,47.20224754047712],[27.50999064335946,47.22060888387625],[27.51078540175899,47.22047861636361],[27.51048529756736,47.21960722303436],[27.51822498453657,47.21833827592536],[27.51792477344947,47.21746690556819],[27.52179443003786,47.21683223821714],[27.52209470099939,47.21770359628215],[27.52338458766565,47.21749200587078],[27.52278401870524,47.21574929632931],[27.52149417195244,47.21596087854505],[27.51879242849151,47.20811856918885],[27.5175027519071,47.208330099271],[27.51690254594433,47.20658733799314],[27.51561289985591,47.20679884462209],[27.514712747251,47.20418467837169],[27.51729191034053,47.20376167442191],[27.51669179313905,47.20201890526874],[27.51411270983249,47.20244189284028],[27.51404579920791,47.20224754047712]]]],"type":"MultiPolygon"}
+}

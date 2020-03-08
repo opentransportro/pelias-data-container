@@ -1,0 +1,107 @@
+{
+  "id": 85901897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":28160501.415737,
+    "geom:bbox":"25.543803,45.355655,25.543803,45.355655",
+    "geom:latitude":45.355655,
+    "geom:longitude":25.543803,
+    "gn:latitude":45.35,
+    "gn:longitude":25.55,
+    "iso:country":"RO",
+    "lbl:latitude":45.355655,
+    "lbl:longitude":25.543803,
+    "mps:latitude":45.351435,
+    "mps:longitude":25.527486,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "name:rum_x_preferred":[
+        "Sinaia Izvor"
+    ],
+    "name:unk_x_variant":[
+        "Sinaia Izvor"
+    ],
+    "qs:gn_adm0_cc":"RO",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":667091,
+    "qs:gn_nam_loc":"Sinaia, Prahova, RO",
+    "qs:gn_namadm1":"00",
+    "qs:gn_name":"Sinaia Izvor",
+    "qs:local_max":1646,
+    "qs:local_sum":3089,
+    "qs:localhoods":3,
+    "qs:name":"Sinaia Izvor",
+    "qs:name_adm0":"Rom\u00e2nia",
+    "qs:name_adm1":"Prahova",
+    "qs:name_local":"Sinaia",
+    "qs:photo_max":90,
+    "qs:photo_sum":1646,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":92,
+    "qs:woe_adm0":23424933,
+    "qs:woe_adm1":2346643,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":880361,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        101791833,
+        85633745,
+        85687661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":667090,
+        "gp:id":880362,
+        "qs:id":1167602,
+        "qs_pg:id":1167602
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"714008174c56bc35c841a90c6db62e91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101791833,
+            "neighbourhood_id":85901897,
+            "region_id":85687661
+        }
+    ],
+    "wof:id":85901897,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1531932592,
+    "wof:name":"Sinaia Izvor",
+    "wof:parent_id":101791833,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.543803,
+    45.355655,
+    25.543803,
+    45.355655
+],
+  "geometry": {"coordinates":[25.543803,45.355655],"type":"Point"}
+}

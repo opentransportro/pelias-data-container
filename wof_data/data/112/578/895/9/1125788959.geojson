@@ -1,0 +1,112 @@
+{
+  "id": 1125788959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.01667,44.6,26.01667,44.6",
+    "geom:latitude":44.6,
+    "geom:longitude":26.01667,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":321,
+    "iso:country":"RO",
+    "lbl:latitude":44.6,
+    "lbl:longitude":26.01667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041e\u0441\u0442\u0440\u0430\u0442\u0443"
+    ],
+    "name:dut_x_preferred":[
+        "Ostratu"
+    ],
+    "name:eng_x_preferred":[
+        "Ostratu"
+    ],
+    "name:fre_x_preferred":[
+        "Ostratu"
+    ],
+    "name:rum_x_preferred":[
+        "Ostratu"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0441\u0442\u0440\u0430\u0442\u0443"
+    ],
+    "name:unk_x_variant":[
+        "Ostratul"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":671638,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Ostratu",
+    "qs_pg:name_adm0":"Rom\u00e2nia",
+    "qs_pg:name_adm1":"Ilfov",
+    "qs_pg:photos":47,
+    "qs_pg:photos_1k":10,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":47,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":478430,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424933,
+    "qs_pg:woe_id":876986,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424933,
+    "woe:name_adm0":"Rom\u00e2nia",
+    "woe:name_adm1":"Ilfov",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":671638,
+        "gp:id":876986,
+        "qs_pg:id":478430,
+        "wd:id":"Q12136748"
+    },
+    "wof:country":"RO",
+    "wof:created":1497290786,
+    "wof:geomhash":"c8c9d8cd86b5f6d2735e0dca917d948a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125788959,
+            "region_id":85687611
+        }
+    ],
+    "wof:id":1125788959,
+    "wof:lastmodified":1514500062,
+    "wof:name":"Ostratu",
+    "wof:parent_id":85687611,
+    "wof:placetype":"locality",
+    "wof:population":321,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.01667,
+    44.6,
+    26.01667,
+    44.6
+],
+  "geometry": {"coordinates":[26.01667,44.6],"type":"Point"}
+}

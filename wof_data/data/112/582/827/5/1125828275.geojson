@@ -1,0 +1,112 @@
+{
+  "id": 1125828275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.98333,46.56667,25.98333,46.56667",
+    "geom:latitude":46.56667,
+    "geom:longitude":25.98333,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":253,
+    "iso:country":"RO",
+    "lbl:latitude":46.56667,
+    "lbl:longitude":25.98333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Valea lui Antaloc"
+    ],
+    "name:eng_x_preferred":[
+        "Valea lui Antaloc"
+    ],
+    "name:fre_x_preferred":[
+        "Valea lui Antaloc"
+    ],
+    "name:hun_x_preferred":[
+        "Antalokpataka"
+    ],
+    "name:rum_x_preferred":[
+        "Valea lui Antaloc"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0430\u043b\u044f-\u043b\u0443\u0439-\u0410\u043d\u0442\u0430\u043b\u043e\u043a"
+    ],
+    "name:unk_x_variant":[
+        "Antal\u00f2k-Pataka"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":663705,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Valea lui Antaloc",
+    "qs_pg:name_adm0":"Rom\u00e2nia",
+    "qs_pg:name_adm1":"Harghita",
+    "qs_pg:photos":5,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":5,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":500528,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424933,
+    "qs_pg:woe_id":15002440,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424933,
+    "woe:name_adm0":"Rom\u00e2nia",
+    "woe:name_adm1":"Harghita",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":663705,
+        "gp:id":15002440,
+        "qs_pg:id":500528,
+        "wd:id":"Q595826"
+    },
+    "wof:country":"RO",
+    "wof:created":1497292375,
+    "wof:geomhash":"79aa522af8a8682c7f12f757c733348e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125828275,
+            "region_id":85687733
+        }
+    ],
+    "wof:id":1125828275,
+    "wof:lastmodified":1514500235,
+    "wof:name":"Valea lui Antaloc",
+    "wof:parent_id":85687733,
+    "wof:placetype":"locality",
+    "wof:population":253,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.98333,
+    46.56667,
+    25.98333,
+    46.56667
+],
+  "geometry": {"coordinates":[25.98333,46.56667],"type":"Point"}
+}

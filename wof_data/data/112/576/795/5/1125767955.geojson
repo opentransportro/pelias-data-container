@@ -1,0 +1,101 @@
+{
+  "id": 1125767955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.63333,47.05,23.63333,47.05",
+    "geom:latitude":47.05,
+    "geom:longitude":23.63333,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":502,
+    "gn:population":502,
+    "iso:country":"RO",
+    "lbl:latitude":47.05,
+    "lbl:longitude":23.63333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Cuble\u0219u Some\u0219an"
+    ],
+    "name:eng_x_preferred":[
+        "Cuble\u0219u Some\u0219an"
+    ],
+    "name:epo_x_preferred":[
+        "Cuble\u0219u Some\u0219an"
+    ],
+    "name:fre_x_preferred":[
+        "Cuble\u0219u Some\u0219an"
+    ],
+    "name:hun_x_preferred":[
+        "Magyark\u00f6bl\u00f6s"
+    ],
+    "name:rum_x_preferred":[
+        "Cuble\u0219u Some\u0219an"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0443\u0431\u043b\u0435\u0448\u0443-\u0421\u043e\u043c\u0435\u0448\u0430\u043d"
+    ],
+    "name:unk_x_variant":[
+        "Cuble\u015fu-Some\u015f"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":680058,
+    "qs_pg:gn_pop":502,
+    "qs_pg:name":"Cuble\u015fu Some\u015fan",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":82314,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":680058,
+        "qs_pg:id":82314,
+        "wd:id":"Q724073"
+    },
+    "wof:country":"RO",
+    "wof:created":1497289964,
+    "wof:geomhash":"f1f0d96a2a9b7dbffbed62bf1dc4206a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125767955,
+            "region_id":85687727
+        }
+    ],
+    "wof:id":1125767955,
+    "wof:lastmodified":1514499884,
+    "wof:name":"Cuble\u015fu Some\u015fan",
+    "wof:parent_id":85687727,
+    "wof:placetype":"locality",
+    "wof:population":502,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.63333,
+    47.05,
+    23.63333,
+    47.05
+],
+  "geometry": {"coordinates":[23.63333,47.05],"type":"Point"}
+}

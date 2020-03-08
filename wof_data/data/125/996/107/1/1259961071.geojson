@@ -1,0 +1,74 @@
+{
+  "id": 1259961071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.35799,45.25733,26.35799,45.25733",
+    "geom:latitude":45.25733,
+    "geom:longitude":26.35799,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"46313.0",
+    "gn:asciiname":"Gura Bascei",
+    "gn:cc2":"RO",
+    "gn:country_code":"RO",
+    "gn:dem":258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":676562,
+    "gn:latitude":45.25733,
+    "gn:longitude":26.35799,
+    "gn:modification_date":"2013-04-21",
+    "gn:name":"Gura B\u00e2scei",
+    "gn:population":370,
+    "gn:timezone":"Europe/Bucharest",
+    "iso:country":"RO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gura B\u00e2scei",
+        "Gura B\u00eescei"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":676562
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"24895422e9b42a3c0122094d95315aac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1259961071,
+            "region_id":85687667
+        }
+    ],
+    "wof:id":1259961071,
+    "wof:lastmodified":1537683516,
+    "wof:name":"Gura Bascei",
+    "wof:parent_id":85687667,
+    "wof:placetype":"locality",
+    "wof:population":370,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.35799,
+    45.25733,
+    26.35799,
+    45.25733
+],
+  "geometry": {"coordinates":[26.35799,45.25733],"type":"Point"}
+}

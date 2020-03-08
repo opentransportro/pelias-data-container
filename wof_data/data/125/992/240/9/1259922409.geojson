@@ -1,0 +1,74 @@
+{
+  "id": 1259922409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.45193,46.15509,27.45193,46.15509",
+    "geom:latitude":46.15509,
+    "geom:longitude":27.45193,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"175260.0",
+    "gn:asciiname":"Plesesti",
+    "gn:cc2":"RO",
+    "gn:country_code":"RO",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":670508,
+    "gn:latitude":46.15509,
+    "gn:longitude":27.45193,
+    "gn:modification_date":"2013-04-21",
+    "gn:name":"Ple\u0219e\u0219ti",
+    "gn:population":107,
+    "gn:timezone":"Europe/Bucharest",
+    "iso:country":"RO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ple\u015fe\u015ftii",
+        "Ple\u015fe\u015fti"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":670508
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"b76e6df8e08a9a066a3dae1bb82afd71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1259922409,
+            "region_id":85687705
+        }
+    ],
+    "wof:id":1259922409,
+    "wof:lastmodified":1537683411,
+    "wof:name":"Plesesti",
+    "wof:parent_id":85687705,
+    "wof:placetype":"locality",
+    "wof:population":107,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.45193,
+    46.15509,
+    27.45193,
+    46.15509
+],
+  "geometry": {"coordinates":[27.45193,46.15509],"type":"Point"}
+}

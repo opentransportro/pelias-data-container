@@ -1,0 +1,105 @@
+{
+  "id": 1125856889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.23333,45.18333,28.23333,45.18333",
+    "geom:latitude":45.18333,
+    "geom:longitude":28.23333,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":5384,
+    "gn:population":5384,
+    "iso:country":"RO",
+    "lbl:latitude":45.18333,
+    "lbl:longitude":28.23333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0413\u0440\u0435\u0447\u0438"
+    ],
+    "name:dut_x_preferred":[
+        "Greci"
+    ],
+    "name:eng_x_preferred":[
+        "Greci"
+    ],
+    "name:hun_x_preferred":[
+        "Greci "
+    ],
+    "name:ita_x_preferred":[
+        "Greci"
+    ],
+    "name:may_x_preferred":[
+        "Greci"
+    ],
+    "name:por_x_preferred":[
+        "Greci "
+    ],
+    "name:rum_x_preferred":[
+        "Greci"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":676755,
+    "qs_pg:gn_pop":5384,
+    "qs_pg:name":"Greci",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":275284,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":676755,
+        "qs_pg:id":275284,
+        "wd:id":"Q1028082"
+    },
+    "wof:country":"RO",
+    "wof:created":1497293658,
+    "wof:geomhash":"c77d749f7a96ae2b414ff2a72d02dac9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125856889,
+            "region_id":85687679
+        }
+    ],
+    "wof:id":1125856889,
+    "wof:lastmodified":1534379452,
+    "wof:name":"Greci",
+    "wof:parent_id":85687679,
+    "wof:placetype":"locality",
+    "wof:population":5384,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[
+        101790847
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.23333,
+    45.18333,
+    28.23333,
+    45.18333
+],
+  "geometry": {"coordinates":[28.23333,45.18333],"type":"Point"}
+}

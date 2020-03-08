@@ -1,0 +1,132 @@
+{
+  "id": 85901819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":15856702.278937,
+    "geom:bbox":"26.368737,46.931886,26.368737,46.931886",
+    "geom:latitude":46.931886,
+    "geom:longitude":26.368737,
+    "iso:country":"RO",
+    "lbl:latitude":46.931886,
+    "lbl:longitude":26.368737,
+    "mps:latitude":46.931509,
+    "mps:longitude":26.372062,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":1,
+    "name:ace_x_preferred":[
+        "Piatra-Neam\u0163"
+    ],
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0627\u062a\u0631\u0627 \u0646\u064a\u0627\u0645\u062a\u0633"
+    ],
+    "name:bul_x_preferred":[
+        "\u041f\u044f\u0442\u0440\u0430 \u041d\u044f\u043c\u0446"
+    ],
+    "name:cat_x_preferred":[
+        "Piatra Neam\u021b"
+    ],
+    "name:ces_x_preferred":[
+        "Piatra Neam\u021b"
+    ],
+    "name:dan_x_preferred":[
+        "Piatra Neam\u021b"
+    ],
+    "name:deu_x_preferred":[
+        "Piatra Neam\u021b"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b9\u03ac\u03c4\u03c1\u03b1 \u039d\u03ad\u03b1\u03bc\u03c4\u03c2"
+    ],
+    "name:epo_x_preferred":[
+        "Piatra Neam\u021b"
+    ],
+    "name:rum_x_colloquial":[
+        "Maratei"
+    ],
+    "name:rum_x_preferred":[
+        "M\u0103r\u0103\u021bei"
+    ],
+    "name:spa_x_preferred":[
+        "Piatra Neam\u021b"
+    ],
+    "name:unk_x_variant":[
+        "M\u0103r\u0103\u021bei"
+    ],
+    "qs:gn_adm0_cc":"RO",
+    "qs:gn_id":0,
+    "qs:gn_local":670889,
+    "qs:id":0,
+    "qs:local_max":744,
+    "qs:local_sum":745,
+    "qs:localhoods":2,
+    "qs:name":"M\u0103r\u0103\u021bei",
+    "qs:name_adm0":"Rom\u00e2nia",
+    "qs:name_adm1":"Neamt",
+    "qs:name_local":"Piatra Neam\u021b",
+    "qs:photo_max":387,
+    "qs:photo_sum":744,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":28,
+    "qs:woe_adm0":23424933,
+    "qs:woe_adm1":2346641,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":877543,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        101752033,
+        85633745,
+        85687747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":875364
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"92c3714838c3dad8746b6a8ca51ac326",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101752033,
+            "neighbourhood_id":85901819,
+            "region_id":85687747
+        }
+    ],
+    "wof:id":85901819,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1531932573,
+    "wof:name":"M\u0103r\u0103\u021bei",
+    "wof:parent_id":101752033,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.368737,
+    46.931886,
+    26.368737,
+    46.931886
+],
+  "geometry": {"coordinates":[26.368737,46.931886],"type":"Point"}
+}

@@ -1,0 +1,111 @@
+{
+  "id": 1125873323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.3,44.86667,24.3,44.86667",
+    "geom:latitude":44.86667,
+    "geom:longitude":24.3,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3340,
+    "gn:population":524,
+    "iso:country":"RO",
+    "lbl:latitude":44.86667,
+    "lbl:longitude":24.3,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Olanu"
+    ],
+    "name:eng_x_preferred":[
+        "Olanu"
+    ],
+    "name:fre_x_preferred":[
+        "Olanu"
+    ],
+    "name:ita_x_preferred":[
+        "Olanu"
+    ],
+    "name:por_x_preferred":[
+        "Olanu"
+    ],
+    "name:rum_x_preferred":[
+        "Olanu"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u043b\u0430\u043d\u0443"
+    ],
+    "name:vie_x_preferred":[
+        "Olanu"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":671884,
+    "qs_pg:gn_pop":3340,
+    "qs_pg:name":"Olanu",
+    "qs_pg:name_adm0":"Rom\u00e2nia",
+    "qs_pg:name_adm1":"Valcea",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":127352,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424933,
+    "qs_pg:woe_id":876803,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424933,
+    "woe:name_adm0":"Rom\u00e2nia",
+    "woe:name_adm1":"Valcea",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":671884,
+        "gp:id":876803,
+        "qs_pg:id":127352,
+        "wd:id":"Q431328"
+    },
+    "wof:country":"RO",
+    "wof:created":1497294410,
+    "wof:geomhash":"7bb22fbcf74161dddc6f658b42b8f54c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125873323,
+            "region_id":85687643
+        }
+    ],
+    "wof:id":1125873323,
+    "wof:lastmodified":1514500053,
+    "wof:name":"Olanu",
+    "wof:parent_id":85687643,
+    "wof:placetype":"locality",
+    "wof:population":524,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.3,
+    44.86667,
+    24.3,
+    44.86667
+],
+  "geometry": {"coordinates":[24.3,44.86667],"type":"Point"}
+}

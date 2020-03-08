@@ -1,0 +1,110 @@
+{
+  "id": 101835121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000209,
+    "geom:area_square_m":1776490.122364,
+    "geom:bbox":"25.7504921299,46.534740575,25.7752455946,46.5536511231",
+    "geom:latitude":46.542802,
+    "geom:longitude":25.762464,
+    "gn:population":2773,
+    "iso:country":"RO",
+    "lbl:latitude":46.541824,
+    "lbl:longitude":25.761242,
+    "mps:latitude":46.541824,
+    "mps:longitude":25.761242,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Tome\u0219ti"
+    ],
+    "name:eng_x_preferred":[
+        "Tome\u0219ti"
+    ],
+    "name:epo_x_preferred":[
+        "Tome\u0219ti "
+    ],
+    "name:fre_x_preferred":[
+        "Tome\u0219ti"
+    ],
+    "name:hun_x_preferred":[
+        "Cs\u00edkszenttam\u00e1s"
+    ],
+    "name:ita_x_preferred":[
+        "Tome\u0219ti"
+    ],
+    "name:may_x_preferred":[
+        "Tome\u0219ti"
+    ],
+    "name:por_x_preferred":[
+        "Tome\u0219ti "
+    ],
+    "name:rum_x_preferred":[
+        "Tome\u0219ti"
+    ],
+    "name:unk_x_variant":[
+        "Csikszenttam\u00e1s"
+    ],
+    "name:vol_x_preferred":[
+        "Tome\u0219ti "
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Harghita",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"S\u00e2ndominic",
+    "qs:la_lc":"*RO32085760",
+    "qs:level":"locality",
+    "qs:loc":"Tome\u015fti",
+    "qs:loc_alt":"Tomesti",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":664820,
+        "gp:id":874059,
+        "qs:id":3,
+        "wd:id":"Q876103"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"49a10c23919d5b50eeb14b35787fb0f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101835121,
+            "region_id":85687733
+        }
+    ],
+    "wof:id":101835121,
+    "wof:lastmodified":1514500202,
+    "wof:name":"Tome\u015fti",
+    "wof:parent_id":85687733,
+    "wof:placetype":"locality",
+    "wof:population":2773,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.75049212986869,
+    46.53474057498676,
+    25.77524559458402,
+    46.55365112305026
+],
+  "geometry": {"coordinates":[[[25.76594059547568,46.55346719745461],[25.77153622739922,46.54529394566936],[25.771007861736,46.54354628395691],[25.76716974513261,46.54411709357072],[25.76637435166612,46.54148516102521],[25.77502473890019,46.54019845632263],[25.77524559458402,46.53987586378344],[25.77479894218521,46.53839855776459],[25.76840270011178,46.53935004410215],[25.76707718454691,46.53496348410249],[25.76835635027794,46.53477323538152],[25.76834648160104,46.53474057498676],[25.75677738965419,46.53626574135222],[25.75737341827215,46.53823961341482],[25.75609413899139,46.53842973270031],[25.75635906367006,46.53930707739198],[25.75252111708869,46.53987735500073],[25.75278599355238,46.54075470918349],[25.75150664177784,46.54094477496898],[25.75177150968341,46.5418221313812],[25.75049212986869,46.54201218560598],[25.75102185983349,46.54376690148774],[25.7535806905866,46.54338676332361],[25.75543537833363,46.54952817393286],[25.75671492024571,46.54933805664007],[25.75644991118054,46.54846072010406],[25.75772942504091,46.5482705912504],[25.75746440741921,46.54739325694527],[25.76130284020502,46.54682279012644],[25.76156791733365,46.54770011353287],[25.76284739833335,46.54750992390831],[25.76311250658017,46.54838724227881],[25.76439199919855,46.54819703382822],[25.76518745115811,46.55082896962233],[25.76390789903093,46.55101918897549],[25.76470339305996,46.55365112305026],[25.76594059547568,46.55346719745461]]],"type":"Polygon"}
+}

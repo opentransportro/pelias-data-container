@@ -1,0 +1,120 @@
+{
+  "id": 101781501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000093,
+    "geom:area_square_m":767791.88446,
+    "geom:bbox":"26.3173834871,47.9476599003,26.3559990277,47.9559909511",
+    "geom:latitude":47.951849,
+    "geom:longitude":26.336973,
+    "gn:population":4200,
+    "iso:country":"RO",
+    "lbl:latitude":47.951424,
+    "lbl:longitude":26.33829,
+    "mps:latitude":47.951424,
+    "mps:longitude":26.33829,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "\u0218endriceni"
+    ],
+    "name:eng_x_preferred":[
+        "Ghilia"
+    ],
+    "name:fre_x_preferred":[
+        "\u0218endriceni"
+    ],
+    "name:ita_x_preferred":[
+        "\u0218endriceni"
+    ],
+    "name:may_x_preferred":[
+        "\u0218endriceni"
+    ],
+    "name:por_x_preferred":[
+        "\u0218endriceni"
+    ],
+    "name:rum_x_colloquial":[
+        "Sendriceni"
+    ],
+    "name:rum_x_preferred":[
+        "\u015eendriceni"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0435\u043d\u0434\u0440\u0456\u0447\u0435\u043d\u044c"
+    ],
+    "name:unk_x_variant":[
+        "Ghilia"
+    ],
+    "name:vie_x_preferred":[
+        "Sendriceni"
+    ],
+    "name:vol_x_preferred":[
+        "\u0218endriceni"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Botosani",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"\u015eendriceni",
+    "qs:la_lc":"*RO17039122",
+    "qs:level":"locality",
+    "qs:loc":"\u015eendriceni",
+    "qs:loc_alt":"Sendriceni",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a43bb6-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":667395,
+        "gp:id":880142,
+        "qs:id":1279447,
+        "qs_pg:id":1279447,
+        "wd:id":"Q2716114"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"dbc5e0eaf595de3caa40309cbc61094b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101781501,
+            "region_id":85687777
+        }
+    ],
+    "wof:id":101781501,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514500265,
+    "wof:name":"\u015eendriceni",
+    "wof:parent_id":85687777,
+    "wof:placetype":"locality",
+    "wof:population":4200,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.31738348710337,
+    47.94765990030135,
+    26.35599902772395,
+    47.95599095109719
+],
+  "geometry": {"coordinates":[[[26.33295953289854,47.95452297912408],[26.33267317301699,47.95364832008556],[26.35103877122543,47.9508777724127],[26.35132542584739,47.95175237645589],[26.35394897772699,47.95135632637908],[26.35337559682262,47.94960713257717],[26.35599902772395,47.94921103580401],[26.35571231397876,47.94833644460795],[26.35440062417183,47.94853449686576],[26.35411394400319,47.94765990030135],[26.35280226604402,47.94785793302503],[26.35308892516787,47.94873253351966],[26.34915377298097,47.94932654985604],[26.3488671769951,47.94845193757192],[26.33574961598293,47.95043093841866],[26.33603600147018,47.95130558998284],[26.32816489747012,47.95249226496372],[26.32787863831135,47.95161758984472],[26.31738348710337,47.95319891773858],[26.31795568098744,47.95494832932627],[26.32451542996273,47.95396007721519],[26.32480165097587,47.95483476124048],[26.32873745333507,47.9542416108988],[26.32931005926719,47.95599095109719],[26.33193396581112,47.9555954237926],[26.33164761446778,47.95472076226241],[26.33295953289854,47.95452297912408]]],"type":"Polygon"}
+}

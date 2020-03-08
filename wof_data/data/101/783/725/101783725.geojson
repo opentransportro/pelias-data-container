@@ -1,0 +1,116 @@
+{
+  "id": 101783725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000125,
+    "geom:area_square_m":1037067.74438,
+    "geom:bbox":"22.8007917442,47.8372893984,22.8208315539,47.8495156331",
+    "geom:latitude":47.843634,
+    "geom:longitude":22.812287,
+    "gn:population":3426,
+    "iso:country":"RO",
+    "lbl:latitude":47.84329,
+    "lbl:longitude":22.813274,
+    "mps:latitude":47.84329,
+    "mps:longitude":22.813274,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Dorol\u021b"
+    ],
+    "name:eng_x_preferred":[
+        "Dorol\u021b"
+    ],
+    "name:epo_x_preferred":[
+        "Dorol\u021b"
+    ],
+    "name:fre_x_preferred":[
+        "Dorol\u021b"
+    ],
+    "name:hun_x_preferred":[
+        "Pusztadar\u00f3c"
+    ],
+    "name:ita_x_preferred":[
+        "Dorol\u021b"
+    ],
+    "name:may_x_preferred":[
+        "Dorol\u021b"
+    ],
+    "name:por_x_preferred":[
+        "Dorol\u021b"
+    ],
+    "name:rum_x_preferred":[
+        "Dorol\u021b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u0440\u043e\u043b\u0446"
+    ],
+    "name:unk_x_variant":[
+        "Pusztadar\u00f3c"
+    ],
+    "name:vie_x_preferred":[
+        "Dorolt"
+    ],
+    "name:vol_x_preferred":[
+        "Dorol\u021b"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Satu Mare",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Dorol\u0163",
+    "qs:la_lc":"*RO44137675",
+    "qs:level":"locality",
+    "qs:loc":"Dorolt",
+    "qs:loc_alt":"Dorolt",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":679061,
+        "gp:id":871528,
+        "qs:id":262306,
+        "wd:id":"Q1188950"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"cdbc3dcfce549c45e2dd7a0a937d8451",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101783725,
+            "region_id":85687757
+        }
+    ],
+    "wof:id":101783725,
+    "wof:lastmodified":1514499912,
+    "wof:name":"Dorolt",
+    "wof:parent_id":85687757,
+    "wof:placetype":"locality",
+    "wof:population":3426,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.80079174419524,
+    47.83728939841978,
+    22.82083155386027,
+    47.84951563305657
+],
+  "geometry": {"coordinates":[[[22.80124003146278,47.84607381126756],[22.80915553324445,47.84514180256218],[22.80960412290693,47.84691064698404],[22.81092339162859,47.8467552505864],[22.81137206465428,47.8485240846635],[22.81269136993137,47.84836866622624],[22.81291574318556,47.84925307860885],[22.81819297934032,47.84863123413072],[22.81841745011207,47.84951563305657],[22.81973676290761,47.84936012925385],[22.81951227023052,47.8484757334345],[22.82083155386027,47.84832021690755],[22.82060704917518,47.84743582315963],[22.81928778744935,47.84759133658008],[22.8186143984758,47.84493813980669],[22.81993359449524,47.84478263570503],[22.81926022886518,47.84212943893374],[22.81794109854354,47.84228493371791],[22.817267887637,47.83963171831391],[22.81594881575006,47.8397871879543],[22.81572445379049,47.83890277764465],[22.81440539654392,47.83905822835277],[22.81395674607819,47.83728939841978],[22.81263772536812,47.83744482709255],[22.81286202376288,47.83832924568037],[22.80626670195898,47.83910616715042],[22.80649090075542,47.83999060021978],[22.80517179274466,47.84014594013263],[22.80606859915446,47.84368367448076],[22.80079174419524,47.84430492547722],[22.80124003146278,47.84607381126756]]],"type":"Polygon"}
+}

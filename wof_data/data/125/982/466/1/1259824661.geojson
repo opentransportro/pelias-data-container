@@ -1,0 +1,66 @@
+{
+  "id": 1259824661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.28333,47.48333,25.28333,47.48333",
+    "geom:latitude":47.48333,
+    "geom:longitude":25.28333,
+    "gn:admin1_code":"34",
+    "gn:admin2_code":"151451",
+    "gn:asciiname":"Botus",
+    "gn:country_code":"RO",
+    "gn:dem":927,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":684029,
+    "gn:latitude":47.48333,
+    "gn:longitude":25.28333,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Botu\u015f",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bucharest",
+    "iso:country":"RO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":684029
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"ebb4215fea02e2ac71d513f366f2b15e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1259824661,
+            "region_id":85687773
+        }
+    ],
+    "wof:id":1259824661,
+    "wof:lastmodified":1536862600,
+    "wof:name":"Botus",
+    "wof:parent_id":85687773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.28333,
+    47.48333,
+    25.28333,
+    47.48333
+],
+  "geometry": {"coordinates":[25.28333,47.48333],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1259821955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.73801,45.62826,26.73801,45.62826",
+    "geom:latitude":45.62826,
+    "geom:longitude":26.73801,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"178475.0",
+    "gn:asciiname":"Dupa Magura",
+    "gn:country_code":"RO",
+    "gn:dem":679,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":678617,
+    "gn:latitude":45.62826,
+    "gn:longitude":26.73801,
+    "gn:modification_date":"2013-04-21",
+    "gn:name":"Dup\u0103 M\u0103gura",
+    "gn:population":113,
+    "gn:timezone":"Europe/Bucharest",
+    "iso:country":"RO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":678617
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"f9612c8524d1ce702a477e7b34d076a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1259821955,
+            "region_id":85687705
+        }
+    ],
+    "wof:id":1259821955,
+    "wof:lastmodified":1536866610,
+    "wof:name":"Dupa Magura",
+    "wof:parent_id":85687705,
+    "wof:placetype":"locality",
+    "wof:population":113,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.73801,
+    45.62826,
+    26.73801,
+    45.62826
+],
+  "geometry": {"coordinates":[26.73801,45.62826],"type":"Point"}
+}

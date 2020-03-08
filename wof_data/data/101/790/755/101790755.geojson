@@ -1,0 +1,101 @@
+{
+  "id": 101790755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000105,
+    "geom:area_square_m":907861.768333,
+    "geom:bbox":"23.2034431303,45.8081502438,23.2184560657,45.8219699021",
+    "geom:latitude":45.815326,
+    "geom:longitude":23.210111,
+    "gn:population":1202,
+    "iso:country":"RO",
+    "lbl:latitude":45.814305,
+    "lbl:longitude":23.210623,
+    "mps:latitude":45.814305,
+    "mps:longitude":23.210623,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "C\u0103st\u0103u"
+    ],
+    "name:eng_x_preferred":[
+        "C\u0103st\u0103u"
+    ],
+    "name:epo_x_preferred":[
+        "C\u0103st\u0103u"
+    ],
+    "name:fre_x_preferred":[
+        "C\u0103st\u0103u"
+    ],
+    "name:hun_x_preferred":[
+        "Kaszt\u00f3"
+    ],
+    "name:ita_x_preferred":[
+        "C\u0103st\u0103u"
+    ],
+    "name:rum_x_preferred":[
+        "C\u0103st\u0103u"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0435\u0441\u0442\u0435\u0443"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Hunedoara",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Beriu",
+    "qs:la_lc":"*RO33088261",
+    "qs:level":"locality",
+    "qs:loc":"Castau",
+    "qs:loc_alt":"Castau",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":682590,
+        "gp:id":868941,
+        "qs:id":2,
+        "wd:id":"Q755732"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"3b60b0e0827f000cc65784b921c1a6ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101790755,
+            "region_id":85687671
+        }
+    ],
+    "wof:id":101790755,
+    "wof:lastmodified":1514499833,
+    "wof:name":"Castau",
+    "wof:parent_id":85687671,
+    "wof:placetype":"locality",
+    "wof:population":1202,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.20344313025487,
+    45.8081502437845,
+    23.21845606567643,
+    45.82196990214902
+],
+  "geometry": {"coordinates":[[[23.21845606567643,45.81298043862131],[23.21823821929195,45.81209573461524],[23.21696906296631,45.81225511359867],[23.2167512455606,45.81137040543558],[23.2154821023301,45.81152976628277],[23.21504653467775,45.80976034048899],[23.21377742431304,45.80991968019896],[23.21334193301652,45.8081502437845],[23.21207285551725,45.80830956235866],[23.21229057679471,45.80919428414387],[23.21102147285313,45.8093535905852],[23.21123918356233,45.8102383142168],[23.2099700531777,45.81039760852468],[23.2101877533176,45.81128233400278],[23.20638026281409,45.81176013512004],[23.20659791283617,45.81264486844486],[23.20532871621833,45.81280410821398],[23.20576400431332,45.8145735774022],[23.20449476147269,45.81473280803516],[23.20471239954384,45.8156175438989],[23.20344313025487,45.81577676239544],[23.20496671592548,45.82196990214902],[23.21131368793016,45.82117355328444],[23.21044261672637,45.81763468321708],[23.21551975768966,45.81699737967966],[23.2150841191081,45.81522796173579],[23.21635334810588,45.81506860401549],[23.21613552285169,45.81418389631409],[23.21740472539886,45.8140245264608],[23.21718688957907,45.81313982060715],[23.21845606567643,45.81298043862131]]],"type":"Polygon"}
+}

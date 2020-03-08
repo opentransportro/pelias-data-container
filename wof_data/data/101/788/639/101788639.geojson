@@ -1,0 +1,143 @@
+{
+  "id": 101788639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000114,
+    "geom:area_square_m":967491.609552,
+    "geom:bbox":"22.9757333896,46.8230825238,22.9970658063,46.8384920938",
+    "geom:latitude":46.831792,
+    "geom:longitude":22.986452,
+    "gn:population":1826,
+    "iso:country":"RO",
+    "lbl:latitude":46.832592,
+    "lbl:longitude":22.987502,
+    "mps:latitude":46.832592,
+    "mps:longitude":22.987502,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "S\u00e2nncraiu"
+    ],
+    "name:eng_x_preferred":[
+        "S\u00e2ncraiu"
+    ],
+    "name:epo_x_preferred":[
+        "S\u00e2ncraiu"
+    ],
+    "name:fre_x_preferred":[
+        "S\u00e2ncraiu"
+    ],
+    "name:hun_x_preferred":[
+        "Kalotaszentkir\u00e1ly"
+    ],
+    "name:ita_x_preferred":[
+        "S\u00e2ncraiu"
+    ],
+    "name:may_x_preferred":[
+        "S\u00e2ncraiu"
+    ],
+    "name:por_x_preferred":[
+        "S\u00e2ncraiu"
+    ],
+    "name:rum_x_colloquial":[
+        "Kalotaszentkiraly",
+        "Sancrai",
+        "Sancraiu",
+        "Sancraiul",
+        "Sincraiu",
+        "Vamsancraiu",
+        "Zam Sancraiu"
+    ],
+    "name:rum_x_preferred":[
+        "S\u00eencraiu"
+    ],
+    "name:rum_x_variant":[
+        "Kalotaszentkir\u00e1ly",
+        "S\u00e2ncrai",
+        "S\u00e2ncraiu",
+        "S\u00e2ncraiul",
+        "Vams\u00e2ncraiu",
+        "Zam S\u00e2ncraiu"
+    ],
+    "name:spa_x_preferred":[
+        "S\u00e2nncraiu"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0438\u043d\u043a\u0440\u0430\u044e "
+    ],
+    "name:unk_x_variant":[
+        "Vams\u00e2ncraiu"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2ncraiu"
+    ],
+    "name:vol_x_preferred":[
+        "S\u00e2ncraiu"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Cluj",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"S\u00e2ncraiu",
+    "qs:la_lc":"*RO24059434",
+    "qs:level":"locality",
+    "qs:loc":"S\u00e2ncraiu",
+    "qs:loc_alt":"Sancraiu",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a45cd6-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":667064,
+        "gp:id":880378,
+        "qs:id":908950,
+        "qs_pg:id":908950,
+        "wd:id":"Q249942"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"a262a71346f11b6a1b847508375b06a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101788639,
+            "region_id":85687727
+        }
+    ],
+    "wof:id":101788639,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514500176,
+    "wof:name":"S\u00e2ncraiu",
+    "wof:parent_id":85687727,
+    "wof:placetype":"locality",
+    "wof:population":1826,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.97573338955812,
+    46.82308252380352,
+    22.99706580627299,
+    46.83849209377058
+],
+  "geometry": {"coordinates":[[[22.97939446782942,46.83625200124845],[22.98327591310715,46.83578100053359],[22.98349646748602,46.83666559835984],[22.98996550812058,46.83588027239148],[22.98974484967812,46.8349956897996],[22.99362612825911,46.83452431763931],[22.99318471508309,46.83275516746659],[22.99706580627299,46.83228367431241],[22.99662430635283,46.8305145380607],[22.99403700240043,46.83082887011176],[22.99381630833847,46.82994429425048],[22.9925226667462,46.83010143401583],[22.99230200301218,46.82921685401459],[22.98971474059897,46.82953108102612],[22.98905293134783,46.82687731618643],[22.98646576598395,46.82719146302014],[22.98602469061888,46.82542226881566],[22.98473113912985,46.82557931292973],[22.98451063652294,46.82469471114428],[22.98321709889569,46.8248517367395],[22.98277616382575,46.82308252380352],[22.98018915096031,46.82339651639438],[22.98040957213527,46.82428112949731],[22.98170310283933,46.82412413789399],[22.98280545541161,46.8285471718155],[22.98409908319678,46.82839014951333],[22.98476067133163,46.83104394763302],[22.98217328397533,46.83135799503555],[22.98239379076841,46.83224259831752],[22.98110006586734,46.8323996018504],[22.98132056136603,46.83328420708654],[22.98002680871184,46.83344119818844],[22.98024729291393,46.83432580537897],[22.97895351250583,46.83448278404921],[22.97917398541011,46.83536739319425],[22.97788017724639,46.83552435943233],[22.97810063885163,46.83640897053152],[22.97680680293178,46.83656592433687],[22.97702725323569,46.8374505373904],[22.97573338955812,46.83760747876266],[22.97595382855957,46.83849209377058],[22.97983546121651,46.83802121408456],[22.97939446782942,46.83625200124845]]],"type":"Polygon"}
+}

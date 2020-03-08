@@ -1,0 +1,123 @@
+{
+  "id": 101791595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000252,
+    "geom:area_square_m":2184982.579137,
+    "geom:bbox":"21.3019545198,45.5740519223,21.3329430874,45.5861573024",
+    "geom:latitude":45.580196,
+    "geom:longitude":21.31873,
+    "gn:population":3705,
+    "iso:country":"RO",
+    "lbl:latitude":45.580148,
+    "lbl:longitude":21.31873,
+    "mps:latitude":45.580148,
+    "mps:longitude":21.31873,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041b\u0438\u0435\u0431\u043b\u0438\u043d\u0433"
+    ],
+    "name:dut_x_preferred":[
+        "Liebling"
+    ],
+    "name:eng_x_preferred":[
+        "Lieblig"
+    ],
+    "name:epo_x_preferred":[
+        "Liebling"
+    ],
+    "name:fre_x_preferred":[
+        "Liebling"
+    ],
+    "name:ger_x_preferred":[
+        "Liebling"
+    ],
+    "name:hun_x_preferred":[
+        "Liebling"
+    ],
+    "name:ita_x_preferred":[
+        "Liebling"
+    ],
+    "name:por_x_preferred":[
+        "Liebling"
+    ],
+    "name:rum_x_preferred":[
+        "Liebling"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0456\u0431\u043b\u0456\u043d\u0433"
+    ],
+    "name:unk_x_variant":[
+        "Lieblig"
+    ],
+    "name:vol_x_preferred":[
+        "Liebling"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Timis",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Liebling",
+    "qs:la_lc":"*RO48157497",
+    "qs:level":"locality",
+    "qs:loc":"Liebling",
+    "qs:loc_alt":"Liebling",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a1690e-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":674799,
+        "gp:id":874651,
+        "qs:id":1083792,
+        "qs_pg:id":1083792,
+        "wd:id":"Q1093025"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"ad8aca9067546745008f8f40f5f7f8d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101791595,
+            "region_id":85687655
+        }
+    ],
+    "wof:id":101791595,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514499995,
+    "wof:name":"Liebling",
+    "wof:parent_id":85687655,
+    "wof:placetype":"locality",
+    "wof:population":3705,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.30195451976397,
+    45.57405192229606,
+    21.33294308736873,
+    45.58615730238267
+],
+  "geometry": {"coordinates":[[[21.31358152298782,45.58615730238267],[21.32245855286294,45.58520177455443],[21.32264407303177,45.58609094875931],[21.33025285391034,45.58527131783563],[21.32988158208445,45.58349299923873],[21.33114965245227,45.58335634612376],[21.3304071232069,45.57979970726103],[21.33294308736873,45.57952637606797],[21.33257179007717,45.57774806093676],[21.33003590566625,45.5780213818577],[21.32929356472926,45.57446471910743],[21.32295415300553,45.57514770462922],[21.32276868705486,45.5742585236211],[21.31642923306697,45.57494111712424],[21.31624387463398,45.57405192229606],[21.31244019395263,45.57446128869111],[21.31281079902976,45.57623969273646],[21.30773898586637,45.57678532274713],[21.30810946275483,45.57856374332255],[21.30303739932174,45.57910915112609],[21.30322256974063,45.57999837017258],[21.30195451976397,45.58013468676029],[21.30269519994533,45.58369156326472],[21.30649957221249,45.58328253724437],[21.30631433058409,45.58239332729465],[21.3101185919636,45.58198417242374],[21.31030389342914,45.58287337468386],[21.31157198915372,45.5827369568218],[21.31212800039771,45.58540454995006],[21.31339615028645,45.58526810922467],[21.31358152298782,45.58615730238267]]],"type":"Polygon"}
+}

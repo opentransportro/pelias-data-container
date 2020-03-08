@@ -1,0 +1,66 @@
+{
+  "id": 1259939031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.82139,45.65486,22.82139,45.65486",
+    "geom:latitude":45.65486,
+    "geom:longitude":22.82139,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"91535.0",
+    "gn:asciiname":"Curpenii Silvasului",
+    "gn:country_code":"RO",
+    "gn:dem":637,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":679917,
+    "gn:latitude":45.65486,
+    "gn:longitude":22.82139,
+    "gn:modification_date":"2013-04-21",
+    "gn:name":"Curpenii Silva\u0219ului",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bucharest",
+    "iso:country":"RO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":679917
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"699726fee739af740c52768ea36c41c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1259939031,
+            "region_id":85687671
+        }
+    ],
+    "wof:id":1259939031,
+    "wof:lastmodified":1536699609,
+    "wof:name":"Curpenii Silvasului",
+    "wof:parent_id":85687671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.82139,
+    45.65486,
+    22.82139,
+    45.65486
+],
+  "geometry": {"coordinates":[22.82139,45.65486],"type":"Point"}
+}

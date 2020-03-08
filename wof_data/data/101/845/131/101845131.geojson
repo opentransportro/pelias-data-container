@@ -1,0 +1,122 @@
+{
+  "id": 101845131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000123,
+    "geom:area_square_m":1087886.823767,
+    "geom:bbox":"27.5973339922,44.085809353,27.6112252725,44.1015041772",
+    "geom:latitude":44.093962,
+    "geom:longitude":27.604275,
+    "gn:population":3716,
+    "iso:country":"RO",
+    "lbl:latitude":44.093958,
+    "lbl:longitude":27.60438,
+    "mps:latitude":44.093958,
+    "mps:longitude":27.60438,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0644\u064a\u0628\u0646\u064a\u062a\u0633\u0627"
+    ],
+    "name:bul_x_preferred":[
+        "\u041b\u0438\u043f\u043d\u0438\u0446\u0430"
+    ],
+    "name:dut_x_preferred":[
+        "Lipni\u021ba"
+    ],
+    "name:eng_x_preferred":[
+        "Lipni\u021ba"
+    ],
+    "name:epo_x_preferred":[
+        "Lipni\u021ba"
+    ],
+    "name:fre_x_preferred":[
+        "Lipni\u021ba"
+    ],
+    "name:hun_x_preferred":[
+        "Lipni\u021ba"
+    ],
+    "name:ita_x_preferred":[
+        "Lipni\u021ba"
+    ],
+    "name:may_x_preferred":[
+        "Lipni\u021ba"
+    ],
+    "name:por_x_preferred":[
+        "Lipni\u021ba"
+    ],
+    "name:rum_x_preferred":[
+        "Lipni\u021ba"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0456\u043f\u043d\u0456\u0446\u0430"
+    ],
+    "name:vie_x_preferred":[
+        "Lipni\u021ba"
+    ],
+    "name:vol_x_preferred":[
+        "Lipni\u021ba"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Constanta",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Lipni\u0163a",
+    "qs:la_lc":"*RO25062057",
+    "qs:level":"locality",
+    "qs:loc":"Lipni\u0163a",
+    "qs:loc_alt":"Lipnita",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":674735,
+        "gp:id":874705,
+        "qs:id":127494,
+        "qs_pg:id":127494,
+        "wd:id":"Q1130294"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"f7e04142daed5667c4ab836a93166123",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101845131,
+            "region_id":85687633
+        }
+    ],
+    "wof:id":101845131,
+    "wof:lastmodified":1514499995,
+    "wof:name":"Lipni\u0163a",
+    "wof:parent_id":85687633,
+    "wof:placetype":"locality",
+    "wof:population":3716,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.59733399221824,
+    44.08580935296084,
+    27.61122527247761,
+    44.101504177224
+],
+  "geometry": {"coordinates":[[[27.60784062533605,44.10087176813909],[27.60756507686563,44.09999815535946],[27.61122527247761,44.09936562851095],[27.60902087161151,44.09237675526282],[27.60780095228239,44.09258758193198],[27.60642364952434,44.08821946249941],[27.60520380838938,44.08843025612822],[27.60437761190201,44.08580935296084],[27.60315781449117,44.08602012103637],[27.60343318496837,44.08689376085675],[27.59733399221824,44.08794740499775],[27.5992612937261,44.09406296735506],[27.60048126886568,44.09385224100242],[27.60130747374939,44.09647315973535],[27.60008744689299,44.09668389731206],[27.60063827128477,44.09843117550349],[27.60185833262238,44.09822043044352],[27.60268470437035,44.10084132383474],[27.60390480945841,44.1006305532153],[27.60418030620309,44.101504177224],[27.60784062533605,44.10087176813909]]],"type":"Polygon"}
+}

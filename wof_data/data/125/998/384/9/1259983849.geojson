@@ -1,0 +1,74 @@
+{
+  "id": 1259983849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.94068,46.48725,22.94068,46.48725",
+    "geom:latitude":46.48725,
+    "geom:longitude":22.94068,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"4767.0",
+    "gn:asciiname":"Fericet",
+    "gn:cc2":"RO",
+    "gn:country_code":"RO",
+    "gn:dem":978,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":678320,
+    "gn:latitude":46.48725,
+    "gn:longitude":22.94068,
+    "gn:modification_date":"2013-04-21",
+    "gn:name":"Fericet",
+    "gn:population":204,
+    "gn:timezone":"Europe/Bucharest",
+    "iso:country":"RO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fericat",
+        "Fericet"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":678320
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"8a46025103f4c03220ea896fb440839b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1259983849,
+            "region_id":85687697
+        }
+    ],
+    "wof:id":1259983849,
+    "wof:lastmodified":1537683548,
+    "wof:name":"Fericet",
+    "wof:parent_id":85687697,
+    "wof:placetype":"locality",
+    "wof:population":204,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.94068,
+    46.48725,
+    22.94068,
+    46.48725
+],
+  "geometry": {"coordinates":[22.94068,46.48725],"type":"Point"}
+}

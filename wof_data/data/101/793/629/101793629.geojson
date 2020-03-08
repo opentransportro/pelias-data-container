@@ -1,0 +1,102 @@
+{
+  "id": 101793629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000042,
+    "geom:area_square_m":369256.325959,
+    "geom:bbox":"25.6435435117,44.3911721978,25.6489571986,44.4090056672",
+    "geom:latitude":44.400001,
+    "geom:longitude":25.646454,
+    "gn:population":1172,
+    "iso:country":"RO",
+    "lbl:latitude":44.399965,
+    "lbl:longitude":25.646638,
+    "mps:latitude":44.399965,
+    "mps:longitude":25.646638,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Dealu"
+    ],
+    "name:eng_x_preferred":[
+        "Dealu"
+    ],
+    "name:rum_x_colloquial":[
+        "Golasei"
+    ],
+    "name:rum_x_preferred":[
+        "Dealu"
+    ],
+    "name:rum_x_variant":[
+        "Gol\u0103\u0219ei"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u044f\u043b\u0443 "
+    ],
+    "name:unk_x_variant":[
+        "Gol\u0103\u015fei"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Giurgiu",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Crevedia Mare",
+    "qs:la_lc":"*RO30102348",
+    "qs:level":"locality",
+    "qs:loc":"Dealu",
+    "qs:loc_alt":"Dealu",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"039f9070-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":679688,
+        "gp:id":871065,
+        "qs:id":255877,
+        "wd:id":"Q12103097"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"406ad8099724a278fc9fee9b15c59906",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101793629,
+            "region_id":85687591
+        }
+    ],
+    "wof:id":101793629,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514499901,
+    "wof:name":"Dealu",
+    "wof:parent_id":85687591,
+    "wof:placetype":"locality",
+    "wof:population":1172,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.6435435117063,
+    44.39117219777739,
+    25.64895719864802,
+    44.40900566720961
+],
+  "geometry": {"coordinates":[[[25.64845832849466,44.3927431501188],[25.64821112317429,44.39186381939697],[25.64697941693578,44.39205153333484],[25.64673223968663,44.39117219777739],[25.64550054415901,44.39135989378281],[25.64599487282163,44.393118570198],[25.64476313409853,44.39330625840608],[25.64624625471521,44.39858227296605],[25.64501440089964,44.39876996689156],[25.6460032781585,44.40228729431959],[25.64477134517796,44.40247498720555],[25.64551305529938,44.40511297762401],[25.64428106112069,44.40530066609108],[25.64477554910849,44.40705932584865],[25.6435435117063,44.40724700651663],[25.64403800415982,44.40900566720961],[25.64527007752724,44.40881797978204],[25.64502280826372,44.4079386535434],[25.64625485638555,44.40775095493706],[25.64600757924882,44.40687163062216],[25.64723960212598,44.40668392083774],[25.64699231711677,44.40580459844648],[25.64822431475045,44.40561687748396],[25.64698795142851,44.40122026058373],[25.64821985190969,44.40103254196373],[25.64772534137813,44.39927389176756],[25.64895719864802,44.39908616535075],[25.64722660428708,44.3929308674355],[25.64845832849466,44.3927431501188]]],"type":"Polygon"}
+}

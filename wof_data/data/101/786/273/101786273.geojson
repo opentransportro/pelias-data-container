@@ -1,0 +1,105 @@
+{
+  "id": 101786273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000075,
+    "geom:area_square_m":628321.542207,
+    "geom:bbox":"24.2222861326,47.1938082732,24.2383665388,47.2036734937",
+    "geom:latitude":47.19783,
+    "geom:longitude":24.230167,
+    "gn:population":1160,
+    "iso:country":"RO",
+    "lbl:latitude":47.19794,
+    "lbl:longitude":24.230289,
+    "mps:latitude":47.19794,
+    "mps:longitude":24.230289,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Cociu"
+    ],
+    "name:eng_x_preferred":[
+        "Cociu"
+    ],
+    "name:epo_x_preferred":[
+        "Cociu"
+    ],
+    "name:fre_x_preferred":[
+        "Cociu"
+    ],
+    "name:hun_x_preferred":[
+        "Szamosk\u00f3cs"
+    ],
+    "name:ita_x_preferred":[
+        "Cociu"
+    ],
+    "name:rum_x_preferred":[
+        "Cociu"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0447\u0443"
+    ],
+    "name:unk_x_variant":[
+        "Cociul"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Bistrita-Nasaud",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:id":0,
+    "qs:la":"\u015eintereag",
+    "qs:la_lc":"*RO16034903",
+    "qs:level":"locality",
+    "qs:loc":"Cociu",
+    "qs:loc_alt":"Cociu",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":681217,
+        "gp:id":869953,
+        "qs:id":287327,
+        "wd:id":"Q3892349"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"575debb3b75f6c5297ced2f4a884ab0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101786273,
+            "region_id":85687753
+        }
+    ],
+    "wof:id":101786273,
+    "wof:lastmodified":1514499858,
+    "wof:name":"Cociu",
+    "wof:parent_id":85687753,
+    "wof:placetype":"locality",
+    "wof:population":1160,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.22228613263121,
+    47.19380827318469,
+    24.23836653883586,
+    47.20367349367814
+],
+  "geometry": {"coordinates":[[[24.2351234666105,47.20332906082189],[24.2336577281622,47.19804200177032],[24.23495710788478,47.19786978226233],[24.23446857132319,47.19610742631301],[24.23836653883586,47.19559069490049],[24.23812222381554,47.19470952521004],[24.23552362828497,47.19505402160036],[24.23527936558867,47.19417284397088],[24.23138147689156,47.19468946211572],[24.23113728738826,47.19380827318469],[24.22723939170788,47.19432474162102],[24.22748351859565,47.1952059406434],[24.22228613263121,47.19589436149101],[24.22301832625391,47.19853799167049],[24.22431774696844,47.19836589964154],[24.22456185353678,47.1992471039253],[24.22716071352551,47.19890286659671],[24.22789322196644,47.20154645202604],[24.23179164184813,47.20102994939475],[24.23252443343125,47.20367349367814],[24.2351234666105,47.20332906082189]]],"type":"Polygon"}
+}

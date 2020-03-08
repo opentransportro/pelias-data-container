@@ -1,0 +1,89 @@
+{
+  "id": 1125806131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.66667,44.75,25.66667,44.75",
+    "geom:latitude":44.75,
+    "geom:longitude":25.66667,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":1751,
+    "gn:population":1751,
+    "iso:country":"RO",
+    "lbl:latitude":44.75,
+    "lbl:longitude":25.66667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Corna\u0163elul"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":680793,
+    "qs_pg:gn_pop":1751,
+    "qs_pg:name":"Corn\u0103\u021belu",
+    "qs_pg:name_adm0":"Rom\u00e2nia",
+    "qs_pg:name_adm1":"Dambovita",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1278271,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424933,
+    "qs_pg:woe_id":870272,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424933,
+    "woe:name_adm0":"Rom\u00e2nia",
+    "woe:name_adm1":"Dambovita",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":680793,
+        "gp:id":870272,
+        "qs_pg:id":1278271
+    },
+    "wof:country":"RO",
+    "wof:created":1497291470,
+    "wof:geomhash":"f103492770aed2cb8f439c5b690c6153",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125806131,
+            "region_id":85687637
+        }
+    ],
+    "wof:id":1125806131,
+    "wof:lastmodified":1509393308,
+    "wof:name":"Corn\u0103\u021belu",
+    "wof:parent_id":85687637,
+    "wof:placetype":"locality",
+    "wof:population":1751,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.66667,
+    44.75,
+    25.66667,
+    44.75
+],
+  "geometry": {"coordinates":[25.66667,44.75],"type":"Point"}
+}

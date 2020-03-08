@@ -1,0 +1,74 @@
+{
+  "id": 1259831001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.48857,46.83221,27.48857,46.83221",
+    "geom:latitude":46.83221,
+    "geom:longitude":27.48857,
+    "gn:admin1_code":"38",
+    "gn:admin2_code":"161856.0",
+    "gn:asciiname":"Parpanita",
+    "gn:cc2":"RO",
+    "gn:country_code":"RO",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":671324,
+    "gn:latitude":46.83221,
+    "gn:longitude":27.48857,
+    "gn:modification_date":"2013-04-21",
+    "gn:name":"Parpani\u021ba",
+    "gn:population":534,
+    "gn:timezone":"Europe/Bucharest",
+    "iso:country":"RO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rediu-Parpani\u0163a",
+        "Parpani\u0163a"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":671324
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"12ca749e7300e71f41dc2daf507efcf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1259831001,
+            "region_id":85687743
+        }
+    ],
+    "wof:id":1259831001,
+    "wof:lastmodified":1537683426,
+    "wof:name":"Parpanita",
+    "wof:parent_id":85687743,
+    "wof:placetype":"locality",
+    "wof:population":534,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.48857000000001,
+    46.83221,
+    27.48857000000001,
+    46.83221
+],
+  "geometry": {"coordinates":[27.48857000000001,46.83221],"type":"Point"}
+}

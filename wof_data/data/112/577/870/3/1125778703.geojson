@@ -1,0 +1,113 @@
+{
+  "id": 1125778703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.7,47.61667,22.7,47.61667",
+    "geom:latitude":47.61667,
+    "geom:longitude":22.7,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":2151,
+    "gn:population":2151,
+    "iso:country":"RO",
+    "lbl:latitude":47.61667,
+    "lbl:longitude":22.7,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Craidorol\u021b"
+    ],
+    "name:eng_x_preferred":[
+        "Craidorol\u021b"
+    ],
+    "name:epo_x_preferred":[
+        "Craidorol\u021b"
+    ],
+    "name:fre_x_preferred":[
+        "Craidorol\u021b"
+    ],
+    "name:hun_x_preferred":[
+        "Kir\u00e1lydar\u00f3c"
+    ],
+    "name:ita_x_preferred":[
+        "Craidorol\u021b"
+    ],
+    "name:may_x_preferred":[
+        "Craidorol\u021b"
+    ],
+    "name:por_x_preferred":[
+        "Craidorol\u021b"
+    ],
+    "name:rum_x_preferred":[
+        "Craidorol\u021b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0440\u0430\u0439\u0434\u043e\u0440\u043e\u043b\u0446"
+    ],
+    "name:vie_x_preferred":[
+        "Craidorolt"
+    ],
+    "name:vol_x_preferred":[
+        "Craidorol\u021b"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":680342,
+    "qs_pg:gn_pop":2151,
+    "qs_pg:name":"Craidorol\u0163",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":127755,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":680342,
+        "qs_pg:id":127755,
+        "wd:id":"Q1109345"
+    },
+    "wof:country":"RO",
+    "wof:created":1497290377,
+    "wof:geomhash":"8e15e696d2c9655598b948321c324808",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125778703,
+            "region_id":85687757
+        }
+    ],
+    "wof:id":1125778703,
+    "wof:lastmodified":1514499877,
+    "wof:name":"Craidorol\u0163",
+    "wof:parent_id":85687757,
+    "wof:placetype":"locality",
+    "wof:population":2151,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.7,
+    47.61667,
+    22.7,
+    47.61667
+],
+  "geometry": {"coordinates":[22.7,47.61667],"type":"Point"}
+}

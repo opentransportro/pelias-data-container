@@ -1,0 +1,98 @@
+{
+  "id": 101789663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000203,
+    "geom:area_square_m":1735736.390981,
+    "geom:bbox":"21.7029806183,46.2859726996,21.7200426504,46.3061106774",
+    "geom:latitude":46.2977,
+    "geom:longitude":21.711455,
+    "gn:population":1457,
+    "iso:country":"RO",
+    "lbl:latitude":46.297713,
+    "lbl:longitude":21.711455,
+    "mps:latitude":46.297713,
+    "mps:longitude":21.711455,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "M\u0103derat"
+    ],
+    "name:eng_x_preferred":[
+        "M\u0103derat"
+    ],
+    "name:epo_x_preferred":[
+        "M\u0103derat"
+    ],
+    "name:fre_x_preferred":[
+        "M\u0103derat"
+    ],
+    "name:hun_x_preferred":[
+        "Magyar\u00e1d"
+    ],
+    "name:rum_x_preferred":[
+        "M\u0103derat"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0435\u0434\u0435\u0440\u0430\u0442"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Arad",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"P\u00e2ncota",
+    "qs:la_lc":"*RO12009654",
+    "qs:level":"locality",
+    "qs:loc":"M\u0103derat",
+    "qs:loc_alt":"Maderat",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":674206,
+        "gp:id":875112,
+        "qs:id":411444,
+        "wd:id":"Q714202"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"4268b5f1428da9ec5b68c6808ef017d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101789663,
+            "region_id":85687691
+        }
+    ],
+    "wof:id":101789663,
+    "wof:lastmodified":1514500035,
+    "wof:name":"M\u0103derat",
+    "wof:parent_id":85687691,
+    "wof:placetype":"locality",
+    "wof:population":1457,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.70298061827606,
+    46.28597269956146,
+    21.72004265039175,
+    46.30611067743729
+],
+  "geometry": {"coordinates":[[[21.72004265039175,46.30568590073869],[21.71729803819966,46.29325592737894],[21.71601428096506,46.29339749701154],[21.71562236893175,46.29162176517406],[21.71433864668893,46.29176331400822],[21.71414272380656,46.29087544388449],[21.71157530210843,46.29115849000596],[21.711183563698,46.28938273592763],[21.70989988479027,46.28952423050544],[21.70911659079388,46.28597269956146],[21.70783298796431,46.28611416792592],[21.70802877834149,46.28700205486484],[21.70546151330234,46.28728495089217],[21.70683199307399,46.29350016952935],[21.70298061827606,46.29392445515447],[21.70356790756222,46.2965881297452],[21.70485176691864,46.29644670845153],[21.70622254599363,46.30266189538446],[21.70493854273826,46.30280333564718],[21.70552608363613,46.30546698040257],[21.71323038170141,46.30461805934556],[21.71342636881826,46.30550592267366],[21.71599446044706,46.30522282052965],[21.71619049708181,46.30611067743729],[21.72004265039175,46.30568590073869]]],"type":"Polygon"}
+}

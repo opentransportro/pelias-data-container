@@ -1,0 +1,80 @@
+{
+  "id": 1125839077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.0675,46.601985,25.0675,46.601985",
+    "geom:latitude":46.601985,
+    "geom:longitude":25.0675,
+    "gn:gn_country":null,
+    "iso:country":"RO",
+    "lbl:latitude":46.601985,
+    "lbl:longitude":25.0675,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Sovata B\u0103i",
+    "qs_pg:name_adm0":"Rom\u00e2nia",
+    "qs_pg:name_adm1":"Mures",
+    "qs_pg:photos":38,
+    "qs_pg:photos_1k":8,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":38,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1092887,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424933,
+    "qs_pg:woe_id":880852,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424933,
+    "woe:name_adm0":"Rom\u00e2nia",
+    "woe:name_adm1":"Mures",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":880852,
+        "qs_pg:id":1092887
+    },
+    "wof:country":"RO",
+    "wof:created":1497292850,
+    "wof:geomhash":"84ecd6591547ef5978108b2bf3e377ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125839077,
+            "region_id":85687719
+        }
+    ],
+    "wof:id":1125839077,
+    "wof:lastmodified":1509395165,
+    "wof:name":"Sovata B\u0103i",
+    "wof:parent_id":85687719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.0675,
+    46.601985,
+    25.0675,
+    46.601985
+],
+  "geometry": {"coordinates":[25.0675,46.601985],"type":"Point"}
+}

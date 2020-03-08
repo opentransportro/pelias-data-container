@@ -1,0 +1,89 @@
+{
+  "id": 1125828403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.0,45.03333,24.0,45.03333",
+    "geom:latitude":45.03333,
+    "geom:longitude":24.0,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1718,
+    "gn:population":1718,
+    "iso:country":"RO",
+    "lbl:latitude":45.03333,
+    "lbl:longitude":24.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "M\u0103dulari-Cerni\u015foara"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":674200,
+    "qs_pg:gn_pop":1718,
+    "qs_pg:name":"M\u0103dulari",
+    "qs_pg:name_adm0":"Rom\u00e2nia",
+    "qs_pg:name_adm1":"Valcea",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1278823,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424933,
+    "qs_pg:woe_id":875116,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424933,
+    "woe:name_adm0":"Rom\u00e2nia",
+    "woe:name_adm1":"Valcea",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":674200,
+        "gp:id":875116,
+        "qs_pg:id":1278823
+    },
+    "wof:country":"RO",
+    "wof:created":1497292382,
+    "wof:geomhash":"4fe7afbe51731c12ce65900970cf225a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125828403,
+            "region_id":85687643
+        }
+    ],
+    "wof:id":1125828403,
+    "wof:lastmodified":1509394519,
+    "wof:name":"M\u0103dulari",
+    "wof:parent_id":85687643,
+    "wof:placetype":"locality",
+    "wof:population":1718,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.0,
+    45.03333,
+    24.0,
+    45.03333
+],
+  "geometry": {"coordinates":[24.0,45.03333],"type":"Point"}
+}

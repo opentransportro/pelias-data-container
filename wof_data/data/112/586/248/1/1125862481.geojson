@@ -1,0 +1,101 @@
+{
+  "id": 1125862481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.73333,45.85,26.73333,45.85",
+    "geom:latitude":45.85,
+    "geom:longitude":26.73333,
+    "gn:gn_country":"RO",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":3018,
+    "gn:population":3018,
+    "iso:country":"RO",
+    "lbl:latitude":45.85,
+    "lbl:longitude":26.73333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Vr\u00e2ncioaia"
+    ],
+    "name:eng_x_preferred":[
+        "Vr\u00e2ncioaia"
+    ],
+    "name:fre_x_preferred":[
+        "Vr\u00e2ncioaia"
+    ],
+    "name:ita_x_preferred":[
+        "Vr\u00e2ncioaia"
+    ],
+    "name:may_x_preferred":[
+        "Vr\u00e2ncioaia"
+    ],
+    "name:rum_x_preferred":[
+        "Vr\u00e2ncioaia"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0440\u0438\u043d\u0447\u043e\u0430\u044f"
+    ],
+    "name:vie_x_preferred":[
+        "Vr\u00e2ncioaia"
+    ],
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":662437,
+    "qs_pg:gn_pop":3018,
+    "qs_pg:name":"Vr\u00e2ncioaia",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":126602,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":662437,
+        "qs_pg:id":126602,
+        "wd:id":"Q3916053"
+    },
+    "wof:country":"RO",
+    "wof:created":1497293888,
+    "wof:geomhash":"b352282c313816e95c64d517c7378118",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125862481,
+            "region_id":85687705
+        }
+    ],
+    "wof:id":1125862481,
+    "wof:lastmodified":1514500250,
+    "wof:name":"Vr\u00e2ncioaia",
+    "wof:parent_id":85687705,
+    "wof:placetype":"locality",
+    "wof:population":3018,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.73333,
+    45.85,
+    26.73333,
+    45.85
+],
+  "geometry": {"coordinates":[26.73333,45.85],"type":"Point"}
+}

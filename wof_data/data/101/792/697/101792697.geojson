@@ -1,0 +1,136 @@
+{
+  "id": 101792697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000138,
+    "geom:area_square_m":1197319.937559,
+    "geom:bbox":"21.9934261207,45.3333986342,22.0136037075,45.3464073332",
+    "geom:latitude":45.33915,
+    "geom:longitude":22.001788,
+    "gn:population":1844,
+    "iso:country":"RO",
+    "lbl:latitude":45.339514,
+    "lbl:longitude":22.000106,
+    "mps:latitude":45.339514,
+    "mps:longitude":22.000106,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "T\u00e2rnova "
+    ],
+    "name:eng_x_preferred":[
+        "T\u00e2rnova"
+    ],
+    "name:epo_x_preferred":[
+        "T\u00e2rnova"
+    ],
+    "name:fre_x_preferred":[
+        "T\u00e2rnova"
+    ],
+    "name:ger_x_preferred":[
+        "T\u00e2rnova"
+    ],
+    "name:hun_x_preferred":[
+        "Torn\u00f3"
+    ],
+    "name:ita_x_preferred":[
+        "T\u00e2rnova"
+    ],
+    "name:may_x_preferred":[
+        "T\u00e2rnova"
+    ],
+    "name:per_x_preferred":[
+        "\u062a\u0627\u0631\u0646\u0627\u0648\u0627\u060c \u06a9\u0627\u0631\u0627\u0634 \u0633\u0648\u0631\u06cc\u0646"
+    ],
+    "name:por_x_preferred":[
+        "T\u00e2rnova"
+    ],
+    "name:rum_x_colloquial":[
+        "Tarnova",
+        "Tirnova"
+    ],
+    "name:rum_x_preferred":[
+        "T\u00eernova"
+    ],
+    "name:rum_x_variant":[
+        "T\u00e2rnova"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0438\u0440\u043d\u043e\u0432\u0430"
+    ],
+    "name:unk_x_variant":[
+        "T\u00eernova"
+    ],
+    "name:vie_x_preferred":[
+        "T\u00e2rnova"
+    ],
+    "name:vol_x_preferred":[
+        "T\u00e2rnova"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Caras-Severin",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"T\u00e2rnova",
+    "qs:la_lc":"*RO23054350",
+    "qs:level":"locality",
+    "qs:loc":"T\u00e2rnova",
+    "qs:loc_alt":"Tarnova",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a52904-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":664958,
+        "gp:id":881902,
+        "qs:id":1027345,
+        "qs_pg:id":1027345,
+        "wd:id":"Q75498"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"7e89506a99d56700383c815b5baf9b97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101792697,
+            "region_id":85687627
+        }
+    ],
+    "wof:id":101792697,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514500220,
+    "wof:name":"T\u00e2rnova",
+    "wof:parent_id":85687627,
+    "wof:placetype":"locality",
+    "wof:population":1844,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.99342612074372,
+    45.33339863424919,
+    22.01360370750831,
+    45.34640733322766
+],
+  "geometry": {"coordinates":[[[22.00255449740717,45.34494108544027],[22.00235926823404,45.34405321095738],[22.00362051342734,45.34390858510756],[22.00342527286671,45.3430207122575],[22.00468649253673,45.34287607404445],[22.00449124058969,45.34198820282774],[22.00575243473776,45.34184355225193],[22.00555717140583,45.34095568266872],[22.0106018103146,45.34037694056701],[22.01040647683931,45.33948908070795],[22.01166760214517,45.33934436023452],[22.01108159220365,45.33668078236724],[22.01360370750831,45.3363913124341],[22.01340834810929,45.33550345641214],[22.00710311325929,45.33622700483204],[22.00690785997659,45.33533913426066],[22.00564681479261,45.33548379607799],[22.00545158929498,45.33459592174677],[22.00166847690963,45.33502980877029],[22.00147331836024,45.33414192528909],[22.00021228862323,45.33428652148825],[22.00001715785447,45.33339863424919],[21.99497305796842,45.33397685770052],[21.99575331688192,45.33752844338812],[21.99449219875498,45.33767297238364],[21.99468726438477,45.33856086884293],[21.99342612074372,45.3387053854741],[21.99362117498117,45.3395932835648],[21.99488233821052,45.33944876423993],[21.99605295330139,45.34477611431021],[21.99731422814847,45.34463156375961],[21.99770453795406,45.34640733322766],[22.00022714823172,45.34611817616491],[22.00003195004166,45.34523029735283],[22.00255449740717,45.34494108544027]]],"type":"Polygon"}
+}

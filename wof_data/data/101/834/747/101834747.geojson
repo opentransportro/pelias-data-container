@@ -1,0 +1,107 @@
+{
+  "id": 101834747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000134,
+    "geom:area_square_m":1167780.715255,
+    "geom:bbox":"26.8066312529,45.1701338774,26.8285490633,45.186622755",
+    "geom:latitude":45.177622,
+    "geom:longitude":26.816936,
+    "gn:population":7096,
+    "iso:country":"RO",
+    "lbl:latitude":45.176761,
+    "lbl:longitude":26.818596,
+    "mps:latitude":45.176761,
+    "mps:longitude":26.818596,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "M\u0103r\u0103cineni"
+    ],
+    "name:eng_x_preferred":[
+        "M\u0103r\u0103cineni"
+    ],
+    "name:fre_x_preferred":[
+        "M\u0103r\u0103cineni"
+    ],
+    "name:ita_x_preferred":[
+        "M\u0103r\u0103cineni"
+    ],
+    "name:rum_x_colloquial":[
+        "Maeraecineni",
+        "Maracineni"
+    ],
+    "name:rum_x_preferred":[
+        "M\u0103r\u0103cineni"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0435\u0440\u0435\u0447\u0438\u043d\u0435\u043d\u044c "
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Buzau",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:id":0,
+    "qs:la":"S\u0103poca",
+    "qs:la_lc":"*RO21049206",
+    "qs:level":"locality",
+    "qs:loc":"M\u0103r\u0103cineni",
+    "qs:loc_alt":"Maracineni",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03a1c0de-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":673893,
+        "gp:id":875348,
+        "qs:id":185379,
+        "qs_pg:id":185379,
+        "wd:id":"Q12122716"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"25b117bb4306fc7903322d89d925b204",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101834747,
+            "region_id":85687667
+        }
+    ],
+    "wof:id":101834747,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1514500041,
+    "wof:name":"M\u0103r\u0103cineni",
+    "wof:parent_id":85687667,
+    "wof:placetype":"locality",
+    "wof:population":7096,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.8066312529499,
+    45.17013387735858,
+    26.82854906334637,
+    45.18662275498309
+],
+  "geometry": {"coordinates":[[[26.8066312529499,45.17640336107371],[26.81163522176666,45.18662275498309],[26.81491750779395,45.18609051168676],[26.81301657757399,45.17996422488784],[26.81675271024227,45.17935821071313],[26.81702429303056,45.18023338812867],[26.82200576315688,45.17942514864961],[26.82173410706338,45.17854998605156],[26.82547006960925,45.17794366323915],[26.82574178067694,45.17881881472164],[26.82698710364315,45.17861667401905],[26.82508523359627,45.172490606662],[26.82757559872283,45.17208633304585],[26.82730391125313,45.17121118170598],[26.82854906334637,45.17100902656148],[26.82827736878141,45.17013387735858],[26.82329678507222,45.17094239495157],[26.82356840636709,45.17181755897349],[26.82232322187133,45.17201965534036],[26.82259483606629,45.17289482149943],[26.81387818958876,45.17430911052861],[26.81414968674795,45.17518430104531],[26.8066312529499,45.17640336107371]]],"type":"Polygon"}
+}

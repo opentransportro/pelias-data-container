@@ -1,0 +1,98 @@
+{
+  "id": 101790795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000202,
+    "geom:area_square_m":1766188.289612,
+    "geom:bbox":"28.7573832816,44.9370466466,28.7870050166,44.9510746588",
+    "geom:latitude":44.94449,
+    "geom:longitude":28.770699,
+    "gn:population":1853,
+    "iso:country":"RO",
+    "lbl:latitude":44.9446,
+    "lbl:longitude":28.770699,
+    "mps:latitude":44.9446,
+    "mps:longitude":28.770699,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0417\u0435\u0431\u0438\u043b"
+    ],
+    "name:dut_x_preferred":[
+        "Zebil"
+    ],
+    "name:eng_x_preferred":[
+        "Zebil"
+    ],
+    "name:fre_x_preferred":[
+        "Zebil"
+    ],
+    "name:rum_x_preferred":[
+        "Zebil"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0435\u0431\u0456\u043b"
+    ],
+    "name:unk_x_variant":[
+        "Zbil"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Tulcea",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la":"Babadag",
+    "qs:la_lc":"*RO49159650",
+    "qs:level":"locality",
+    "qs:loc":"Zebil",
+    "qs:loc_alt":"Zebil",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":662238,
+        "gp:id":884007,
+        "qs:id":3,
+        "wd:id":"Q3623720"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"774d976682e9cccbc56b57246f952b3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101790795,
+            "region_id":85687679
+        }
+    ],
+    "wof:id":101790795,
+    "wof:lastmodified":1514500258,
+    "wof:name":"Zebil",
+    "wof:parent_id":85687679,
+    "wof:placetype":"locality",
+    "wof:population":1853,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.7573832815753,
+    44.93704664660595,
+    28.78700501660956,
+    44.95107465878374
+],
+  "geometry": {"coordinates":[[[28.75798441254625,44.95107465878374],[28.76539053543263,44.94972483048025],[28.76569122488371,44.95059380206754],[28.77556570036938,44.94879318763947],[28.77466324677607,44.94618636522966],[28.78700501660956,44.94393441660776],[28.78640309070119,44.9421966074438],[28.78516898873067,44.94242185928852],[28.78486806178955,44.94155294789965],[28.77993163565446,44.9424537942275],[28.77842753680846,44.93810912846345],[28.77719349602694,44.9383342834804],[28.776892730687,44.937465340796],[28.77442465772288,44.93791559925853],[28.77412393981751,44.93704664660595],[28.77165586660738,44.93749683902456],[28.77195654935753,44.93836579982582],[28.77072248190041,44.93859087839832],[28.77102315935116,44.93945984145591],[28.76855496273129,44.93990996332582],[28.76885561730114,44.94077893271367],[28.76391904755189,44.94167901904751],[28.76421964407041,44.94254800291208],[28.75928286242134,44.94344787392481],[28.76048508989749,44.94692385638439],[28.75801650528911,44.9473737376112],[28.75861762233222,44.94911173423537],[28.7573832815753,44.9493366612773],[28.75798441254625,44.95107465878374]]],"type":"Polygon"}
+}
