@@ -14,9 +14,9 @@ language: C
 
 jobs:
   include:
-   - stage: build-base
+   - stage: build
      script: scripts/build-base.sh
-   - stage: build-base
+   - stage: build
      script: scripts/build-builder.sh
-   - stage: build-container
+   - stage: production
      script: scripts/build-data-container-now.sh
