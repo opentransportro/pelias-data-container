@@ -30,7 +30,7 @@ $SCRIPTS/gtfs-loader.sh
 cd $TOOLS
 git clone --single-branch https://github.com/opentransportro/pelias-data-container tpdc
 mv tpdc/wof_data $DATA/
-mv tpdc/finland.polylines $DATA/
+mv tpdc/romania.polylines $DATA/
 rm -rf tpdc
 
 #=================
@@ -74,4 +74,4 @@ rm -rf $DATA/openstreetmap
 rm -rf $DATA/router-waltti
 rm -rf $DATA/router-finland
 rm -rf $DATA/wof_data
-rm $DATA/finland.polylines
+rm $DATA/romania.polylines
