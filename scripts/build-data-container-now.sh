@@ -190,11 +190,13 @@ if [ $SUCCESS = 0 ]; then
         { echo -e "Geocoding data build failed:\n..."; tail -n 20 log.txt; } | jq -R -s '{"username":"Pelias data builder '$BUILDER_TYPE'",text: .}' | \
             curl -X POST -H 'Content-type: application/json' -d@- $SLACK_WEBHOOK_URL
     fi
+    exit 1
 else
     echo "Build finished successfully"
     if [ -v SLACK_WEBHOOK_URL ]; then
         curl -X POST -H 'Content-type: application/json' \
                 --data '{"username":"Pelias data builder '$BUILDER_TYPE'","text":"Geocoding data build finished\n"}' $SLACK_WEBHOOK_URL
     fi
+    exit 0
 fi
 
