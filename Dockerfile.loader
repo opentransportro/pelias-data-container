@@ -1,10 +1,5 @@
 ARG DOCKER_TAG=latest
-FROM hsldevcom/pelias-data-container-base:$DOCKER_TAG
-
-ARG MMLAPIKEY
-
-# Dockerfile which loads and indexes new data into empty data container image
-MAINTAINER Reittiopas version: 0.1
+FROM opentransport/pelias-data-container-base:$DOCKER_TAG
 
 RUN /bin/bash -c "source /mnt/tools/scripts/getdata.sh"
 
