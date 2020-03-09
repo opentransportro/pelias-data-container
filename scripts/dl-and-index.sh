@@ -28,7 +28,7 @@ $SCRIPTS/osm-loader.sh
 $SCRIPTS/gtfs-loader.sh
 
 cd $TOOLS
-git clone --single-branch https://github.com/opentrasportro/pelias-data-container tpdc
+git clone --single-branch https://github.com/opentransportro/pelias-data-container tpdc
 mv tpdc/wof_data $DATA/
 mv tpdc/finland.polylines $DATA/
 rm -rf tpdc
