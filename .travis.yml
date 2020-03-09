@@ -18,3 +18,5 @@ jobs:
      script: scripts/build-base.sh
    - stage: build
      script: scripts/build-builder.sh
+   - stage: build
+     script: scripts/build-data-container-now.sh
