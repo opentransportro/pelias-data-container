@@ -1,15 +1,16 @@
-'# pelias-data-container
+# pelias-data-container
 
-[![Build](https://api.travis-ci.org/HSLdevcom/pelias-data-container.svg?branch=master)](https://travis-ci.org/HSLdevcom/pelias-data-container)
+[![Build](https://api.travis-ci.org/opentransportro/pelias-data-container.svg?branch=master)](https://travis-ci.com/opentransportro/pelias-data-container)
 
 Geocoding data build tools
 
 ## Travis build
 
-Creates and pushes to dockerhub/hsldevcom two docker containers:
+Creates and pushes to dockerhub/opentransport two docker containers:
 
 - pelias-data-container-base
 - pelias-data-container-builder
+- pelias-data-container
 
 pelias-data-container-base is the base image for the running geocoding data service. It is based on Elasticsearch and also
 contains all tools for loading and adding address and POI data into the ES index.
@@ -25,7 +26,7 @@ Data builder obeys the following environment variables, which can pe passed to t
 
  * DOCKER_USER - dockerhub credentials for image deployment
  * DOCKER_AUTH
- * ORG - optional, default 'hsldevcom'
+ * ORG - optional, default 'opentransport'
  * BUILD_INTERVAL - optional, as days, defaults to 7
  * THRESHOLD - optional regression limit, as %, defaults to 2%
  * BUILDER_TYPE - optional, prod or dev, default dev. Controls slack messages and data image tagging (dev->latest, prod->prod)
@@ -34,7 +35,7 @@ Data builder needs an access to host environment's docker service. The following
 shows how to accomplish this:
 
 ```bash
-docker run -v /var/run/docker.sock:/var/run/docker.sock -e DOCKER_USER=hsldevcom -e DOCKER_AUTH=<secret> -e MMLAPIKEY=<secret> hsldevcom/pelias-data-container-builder
+docker run -v /var/run/docker.sock:/var/run/docker.sock -e DOCKER_USER=opentransport -e DOCKER_AUTH=<secret> opentransport/pelias-data-container-builder
 ```
 
 Note: the builder image does not include a tool or script for relaunching the data build immediately from within the container. If an immediate build is needed,
@@ -48,16 +49,16 @@ Builder app can be run locally to get the data-container image:
 ```bash
 #leave dockerhub credentials unset to skip deployment
 #runs immediately and once if BUILD_INTERVAL=0
-docker run -v /var/run/docker.sock:/var/run/docker.sock -e BUILD_INTERVAL=0 -e MMLAPIKEY=<secret> hsldevcom/pelias-data-container-builder
+docker run -v /var/run/docker.sock:/var/run/docker.sock -e BUILD_INTERVAL=0 -e opentransportro/pelias-data-container-builder
 ```
 
 Another alternative is to install required components locally:
 - Git projects for pelias dataloading (OSM, GTFS, etc.)
-- hsldevcom/pelias-schema git project
+- opentransportro/pelias-schema git project
 - WOF admin data is available as a part of this git project
 - Properly configured pelias.json config file
 - Install and start ElasticSearch
 - Export four env. vars, DATA for a data folder path, SCRIPTS for data container scripts of this project, 
-TOOLS path to the parent dir of dataloading and schema tools and MMLAPIKEY for accessing nlsfi data
+TOOLS path to the parent dir of dataloading and schema tools
 - Run the script scripts/dl-and-index.sh
 
