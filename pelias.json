@@ -37,7 +37,7 @@
     "defaultAdminLayers": ["localadmin", "locality", "neighbourhood", "region", "postalcode"],
     "defaultCountry": {
       "name": "Romania",
-      "abbr": "ROM"
+      "abbr": "ROU"
     },
     "adminLookup": {
       "enabled": true,
@@ -64,9 +64,9 @@
       "datapath": "/mnt/data/wof_data"
     },
     "wofPipNames": {
-      "localadmin": ["name:rom_x_preferred", "name:rom_x_preferred"],
-      "region": ["name:rom_x_preferred", "name:rom_x_preferred"],
-      "neighbourhood": ["name:rom_x_preferred", "name:rom_x_preferred"]
+      "localadmin": ["name:ron_x_preferred", "name:ron_x_preferred"],
+      "region": ["name:ron_x_preferred", "name:ron_x_preferred"],
+      "neighbourhood": ["name:ron_x_preferred", "name:ron_x_preferred"]
     }
   },
   "schema": {
