@@ -7,7 +7,7 @@
 #   DATA - data dir path.
 #   SCRIPTS - path to pelias-data-container scripts
 # Also, a valid pelias.json configuration must be present. It's data paths must match the DATA env variable.
-# Note: WOF admin data and street polylines must be preloaded and their paths defined in pelias.json
+# Note: WOF admin data  must be preloaded and its path defined in pelias.json
 
 # errors should break the execution
 
@@ -30,15 +30,11 @@ $SCRIPTS/gtfs-loader.sh
 cd $TOOLS
 git clone --single-branch https://github.com/opentransportro/pelias-data-container tpdc
 mv tpdc/wof_data $DATA/
-mv tpdc/romania.polylines $DATA/
 rm -rf tpdc
 
 #=================
 # Index everything
 #=================
-
-node $TOOLS/polylines/bin/cli.js --config --db
-echo '###### polylines done'
 
 node $TOOLS/openstreetmap/index
 echo '###### openstreetmap done'
@@ -74,4 +70,3 @@ rm -rf $DATA/openstreetmap
 rm -rf $DATA/router-waltti
 rm -rf $DATA/router-finland
 rm -rf $DATA/wof_data
-rm $DATA/romania.polylines

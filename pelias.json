@@ -59,22 +59,33 @@
       "datapath": "/mnt/data/openaddresses/",
       "adminLayers": ["localadmin", "locality", "neighbourhood", "region"]
     },
-    "polyline": {
-      "datapath": "/mnt/data/",
-      "files": [
-        "romania.polylines"
-      ]
-    },
+
     "whosonfirst": {
       "datapath": "/mnt/data/wof_data"
     },
     "wofPipNames": {
-      "localadmin": ["name:fin_x_preferred", "name:swe_x_preferred"],
-      "region": ["name:fin_x_preferred", "name:swe_x_preferred"],
-      "neighbourhood": ["name:fin_x_preferred", "name:swe_x_preferred"]
+      "localadmin": ["name:rom_x_preferred", "name:rom_x_preferred"],
+      "region": ["name:rom_x_preferred", "name:rom_x_preferred"],
+      "neighbourhood": ["name:rom_x_preferred", "name:rom_x_preferred"]
     }
   },
   "schema": {
     "indexName": "pelias"
+  },
+  "api" : {
+    "languages": [
+      "ro",
+      "default",
+      "en",
+      "local",
+      "alternative",
+      "international",
+      "national",
+      "official",
+      "old",
+      "regional",
+      "short",
+      "sorting"
+    ]
   }
 }
