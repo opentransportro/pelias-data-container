@@ -61,4 +61,3 @@ Another alternative is to install required components locally:
 - Export four env. vars, DATA for a data folder path, SCRIPTS for data container scripts of this project, 
 TOOLS path to the parent dir of dataloading and schema tools
 - Run the script scripts/dl-and-index.sh
-
