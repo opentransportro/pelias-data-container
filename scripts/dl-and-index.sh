@@ -39,7 +39,6 @@ rm -rf tpdc
 node $TOOLS/openstreetmap/index
 echo '###### openstreetmap done'
 
-
 # param1: zip name containing gtfs data
 # param2: import folder name
 function import_gtfs {
