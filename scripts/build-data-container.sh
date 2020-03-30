@@ -119,7 +119,7 @@ function test_container {
     done
 
     echo "Test reverse geocoding"
-    STATUS_CODE=$(curl -s -o /dev/null -w "%{http_code}" "http://$HOST:8080/v1/reverse?point.lat=60.212358&point.lon=24.981812")
+    STATUS_CODE=$(curl -s -o /dev/null -w "%{http_code}" "http://$HOST:8080/v1/reverse?point.lat=45.212358&point.lon=24.981812")
     if [ $STATUS_CODE = 200 ]; then
         echo "Reverse geocoding OK"
     else
@@ -128,7 +128,7 @@ function test_container {
     fi
 
     echo "Test autocomplete"
-    STATUS_CODE=$(curl -s -o /dev/null -w "%{http_code}" "http://$HOST:8080/v1/autocomplete?text=helsi")
+    STATUS_CODE=$(curl -s -o /dev/null -w "%{http_code}" "http://$HOST:8080/v1/autocomplete?text=timiso")
     if [ $STATUS_CODE = 200 ]; then
         echo "Autocomplete OK"
     else

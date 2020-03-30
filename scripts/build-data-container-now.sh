@@ -3,6 +3,7 @@
 # Set these environment variables
 #DOCKER_USER // dockerhub credentials. If unset, will not deploy
 #DOCKER_AUTH
+#ORG // optional
 
 set -e
 
@@ -24,7 +25,7 @@ DATA_CONTAINER_IMAGE=$ORG/$DOCKER_IMAGE:$DOCKER_TAG
 BASE_IMAGE=$ORG/pelias-data-container-base:$DOCKER_TAG
 
 #Threshold value for regression testing, as %
-THRESHOLD=${THRESHOLD:-20}
+THRESHOLD=${THRESHOLD:-2}
 
 # cd $WORKDIR
 # export PELIAS_CONFIG=$WORKDIR/pelias.json
@@ -111,22 +112,41 @@ function test_container {
         fi
     done
 
+    echo "Test reverse geocoding"
+    STATUS_CODE=$(curl -s -o /dev/null -w "%{http_code}" "http://$HOST:8080/v1/reverse?point.lat=45.212358&point.lon=24.981812")
+    if [ $STATUS_CODE = 200 ]; then
+        echo "Reverse geocoding OK"
+    else
+        TESTS_PASSED=1
+        echo "Reverse geocoding failed"
+    fi
+
+    echo "Test autocomplete"
+    STATUS_CODE=$(curl -s -o /dev/null -w "%{http_code}" "http://$HOST:8080/v1/autocomplete?text=timiso")
+    if [ $STATUS_CODE = 200 ]; then
+        echo "Autocomplete OK"
+    else
+        TESTS_PASSED=1
+        echo "Autocomplete failed"
+    fi
+
+    echo "Test place endpoint"
+    STATUS_CODE=$(curl -s -o /dev/null -w "%{http_code}" "http://$HOST:8080/v1/place?ids=openstreetmap%3Avenue%3Anode%3A5995720648")
+    if [ $STATUS_CODE = 200 ]; then
+        echo "Place endpoint OK"
+    else
+        TESTS_PASSED=1
+        echo "Place endpoint failed"
+    fi
+
     if [ $TESTS_PASSED = 0 ]; then
-        echo "Test reverse geocoding"
-        STATUS_CODE=$(curl -s -o /dev/null -w "%{http_code}" "http://$HOST:8080/v1/reverse?point.lat=60.212358&point.lon=24.981812")
-        if [ $STATUS_CODE = 200 ]; then
-            echo 0 >/tmp/tests_passed #success!
-            echo "Reverse geocoding OK"
-        else
-            TESTS_PASSED=1
-            echo "Reverse geocoding failed"
-        fi
+        echo 0 >/tmp/tests_passed #success!
     fi
 
     echo "Shutting down the test services..."
     docker stop $API
     docker stop $DATACONT
-    docker rmi $API_IMAGE
+    docker rmi $API_IMAGE > /dev/null 2>&1
     return $TESTS_PASSED
 }
 
@@ -154,8 +174,8 @@ read BUILD_OK </tmp/build_ok
 
 if [ $BUILD_OK = 0 ]; then
     echo "New container built. Testing next... "
-    # ( test_container $BUILD_IMAGE 2>&1 | tee -a log.txt )
-    # read TESTS_PASSED </tmp/tests_passed #get test return val
+    ( test_container $BUILD_IMAGE 2>&1 | tee -a log.txt )
+    read TESTS_PASSED </tmp/tests_passed #get test return val
 
     TESTS_PASSED=0
     if [ $TESTS_PASSED = 0 ]; then
@@ -190,13 +210,17 @@ if [ $SUCCESS = 0 ]; then
         { echo -e "Geocoding data build failed:\n..."; tail -n 20 log.txt; } | jq -R -s '{"username":"Pelias data builder '$BUILDER_TYPE'",text: .}' | \
             curl -X POST -H 'Content-type: application/json' -d@- $SLACK_WEBHOOK_URL
     fi
-    exit 1
 else
     echo "Build finished successfully"
     if [ -v SLACK_WEBHOOK_URL ]; then
         curl -X POST -H 'Content-type: application/json' \
                 --data '{"username":"Pelias data builder '$BUILDER_TYPE'","text":"Geocoding data build finished\n"}' $SLACK_WEBHOOK_URL
     fi
+fi
+
+if [ $SUCCESS = 1 ]; then
     exit 0
+else
+    exit 1
 fi
 
