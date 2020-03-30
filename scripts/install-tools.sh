@@ -45,16 +45,16 @@ cd $SCRIPTS
 npm install
 
 #install source repo deps
-install_node_project HSLdevcom dbclient
+install_node_project opentransportro dbclient
 
-install_node_project hsldevcom pelias-schema
+install_node_project opentransportro pelias-schema
 
-install_node_project HSLdevcom wof-admin-lookup
+install_node_project opentransportro wof-admin-lookup
 
-install_node_project HSLdevcom openstreetmap
+install_node_project opentransportro openstreetmap
 npm link pelias-dbclient
 npm link pelias-wof-admin-lookup
 
-install_node_project HSLdevcom pelias-gtfs
+install_node_project opentransportro pelias-gtfs
 npm link pelias-dbclient
 npm link pelias-wof-admin-lookup
