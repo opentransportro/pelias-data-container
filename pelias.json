@@ -59,7 +59,6 @@
       "datapath": "/mnt/data/openaddresses/",
       "adminLayers": ["localadmin", "locality", "neighbourhood", "region"]
     },
-
     "whosonfirst": {
       "datapath": "/mnt/data/wof_data"
     },
@@ -76,9 +75,9 @@
     "languages": [
       "ro",
       "default",
+      "alternative",
       "en",
       "local",
-      "alternative",
       "international",
       "national",
       "official",
