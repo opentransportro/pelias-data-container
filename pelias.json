@@ -63,9 +63,9 @@
       "datapath": "/mnt/data/wof_data"
     },
     "wofPipNames": {
-      "localadmin": ["name:ron_x_preferred", "name:ron_x_preferred"],
-      "region": ["name:ron_x_preferred", "name:ron_x_preferred"],
-      "neighbourhood": ["name:ron_x_preferred", "name:ron_x_preferred"]
+      "localadmin": ["name:rum_x_preferred", "name:rum_x_preferred"],
+      "region": ["name:rum_x_preferred", "name:rum_x_preferred"],
+      "neighbourhood": ["name:rum_x_preferred", "name:rum_x_preferred"]
     }
   },
   "schema": {
