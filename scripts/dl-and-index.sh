@@ -59,13 +59,11 @@ function import_router {
     done
 }
 
-import_router router-finland
-import_router router-waltti
+import_router router-romania
 echo '###### gtfs done'
 
 
 #cleanup
 rm -rf $DATA/openstreetmap
-rm -rf $DATA/router-waltti
-rm -rf $DATA/router-finland
+rm -rf $DATA/router-romania
 rm -rf $DATA/wof_data
